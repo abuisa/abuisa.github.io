@@ -4,9 +4,9 @@ description: This is the eigth test post.
 header: Test Post 8
 categories: Linux
 ---
-Daftar Postingan Kategori Programming : 
+Daftar Postingan Kategori Linux : 
 <ul>
-{% for post in site.categories[Linux x] %}
+{% for post in site.categories[Linux *] %}
     <li><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>

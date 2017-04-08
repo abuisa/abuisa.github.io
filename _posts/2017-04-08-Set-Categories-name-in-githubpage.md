@@ -16,3 +16,20 @@ Daftar Postingan Kategori Programming :
 </ul>
 Kategori :
 {{ page.categories }}
+
+---------------
+### Daftar Kategori yang ada
+
+{% for category in site.categories %}
+<ul>
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    {% for posts in category %}
+      {% for post in posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  </li>
+</ul>
+{% endfor %}
