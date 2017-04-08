@@ -6,7 +6,7 @@ categories: Linux
 ---
 Daftar Postingan Kategori Programming : 
 <ul>
-{% for post in site.categories[Linux *] %}
+{% for post in site.categories[Linux x] %}
     <li><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
