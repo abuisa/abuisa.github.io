@@ -1,0 +1,16 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+//Import
+@import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
+.rkanan {
+    float: right;
+    //alignt: right;
+    //margin: right;
+}
+.rkiri {
+    float: left;
+    //align: left;
+    //margin: left;
+}

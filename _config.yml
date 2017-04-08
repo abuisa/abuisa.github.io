@@ -1,0 +1,44 @@
+# Site settings
+title: IkhwanElyas Page
+description: "Webpagenya Ikhwan Elyas"
+url: "https://abuisa.github.io"
+author:
+  name: "Ikhwan Elyas"
+  email: "elyas.uii14@gmail.com"
+  url: "https://abuisa.github.io"
+
+# Build settings
+baseurl: / 
+# Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 4
+paginate_path: /page:num/
+#port: 9005
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+#-------------
+# custom_header: true
+# custom_nav_footer: true
+# reverse: true

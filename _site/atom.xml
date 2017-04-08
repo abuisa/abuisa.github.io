@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>IkhwanElyas Page</title>
+ <link href="https://abuisa.github.io/atom.xml" rel="self"/>
+ <id>https://abuisa.github.io</id>
+ <updated>2017-04-08T19:41:54+07:00</updated>
+ <author>
+   <name>Ikhwan Elyas</name>
+   <uri>https://abuisa.github.io</uri>
+   <email>elyas.uii14@gmail.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>Tag</title>
+   <link href="https://abuisa.github.io/Set-Categories-name-in-githubpage"/>
+   <id>https://abuisa.github.io/Set-Categories-name-in-githubpage</id>
+   <updated>2017-04-08T00:00:00+07:00</updated>
+   <content type="html">
+</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>This is the eigth test post.</title>
+   <link href="https://abuisa.github.io/All-Programming"/>
+   <id>https://abuisa.github.io/All-Programming</id>
+   <updated>2017-04-08T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;Daftar Postingan Kategori Programming :&lt;/p&gt;
+&lt;ul&gt;
+
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/All-Programming&quot;&gt;This is the eigth test post.&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/thereviewindex-introduction&quot;&gt;TheReviewIndex | Unbiased User Review Summaries | Monochrome&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/typography-example&quot;&gt;Typography Example | Monochrome&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/code-example&quot;&gt;Code Example&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/test-post-8&quot;&gt;This is the eigth test post.&lt;/a&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;p&gt;Kategori :
+Linux&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Enkripsi teks dengan HTML dan JS</title>
+   <link href="https://abuisa.github.io/enkripsi-teks-dengan-html-dan-js"/>
+   <id>https://abuisa.github.io/enkripsi-teks-dengan-html-dan-js</id>
+   <updated>2017-04-07T08:20:01+07:00</updated>
+   <content type="html">&lt;p&gt;Assalamualaikum…&lt;/p&gt; &lt;p&gt;Bagi anda yang hoby atau suka dengan web script, berikut saya sharing sebuah script yang bagus jika digunakan untuk meng-enkripsi teks-teks atau catatan penting yang sifatnya rahasia dan tidak ingin dibaca oleh orang lain, jika anda punya komputer dan sering digunakan bersama mungkin script ini dapat membantu anda untuk...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Paham Ifroth dan Tafrith | IkhwanElyas</title>
+   <link href="https://abuisa.github.io/ifroth-dan-tafrith"/>
+   <id>https://abuisa.github.io/ifroth-dan-tafrith</id>
+   <updated>2017-04-06T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;KIBLAT.NET – Syahdan, ada tiga orang sahabat dengan penuh semangat ibadah mencoba mengunjungi rumah-rumah para ibunda kaum mukminin (istri-istri Nabi SAW). Mereka ingin mengetahui bagaimana cara ibadah Nabi Muhammad SAW di rumah.&lt;/p&gt; &lt;p&gt;Tatkala diberitahukan tentang aktivitas ibadah Nabi SAW di rumah, ketiga orang tersebut tercengang dan merasa betapa kecil dan...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>TheReviewIndex | Unbiased User Review Summaries | Monochrome</title>
+   <link href="https://abuisa.github.io/thereviewindex-introduction"/>
+   <id>https://abuisa.github.io/thereviewindex-introduction</id>
+   <updated>2017-02-18T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;The internet is a source of a humongous amount of unstructured content for all sorts of products, in the form of blogs, videos, user and expert reviews, etc. It is almost impossible for anyone to scour all of this disparate data, with contradictory opinions, and thereafter make a correct, or...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Typography Example | Monochrome</title>
+   <link href="https://abuisa.github.io/typography-example"/>
+   <id>https://abuisa.github.io/typography-example</id>
+   <updated>2017-02-14T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/web/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Code Example</title>
+   <link href="https://abuisa.github.io/code-example"/>
+   <id>https://abuisa.github.io/code-example</id>
+   <updated>2017-02-12T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>This is the eigth test post.</title>
+   <link href="https://abuisa.github.io/test-post-8"/>
+   <id>https://abuisa.github.io/test-post-8</id>
+   <updated>2017-02-11T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;foto-cantik&quot;&gt;Foto Cantik&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;/web/img/cantik.png&quot; alt=&quot;image-title-here&quot; class=&quot;rkiri&quot; /&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;daftar-yang-dipost-&quot;&gt;Daftar yang dipost :&lt;/h3&gt; &lt;ul&gt; /test-post-8 &lt;br /&gt; /test-post-8 &lt;br /&gt; _posts/2017-02-11-test-post-8.md &lt;br /&gt; https://abuisa.github.io &lt;br /&gt; &lt;br /&gt; &lt;li&gt; &lt;a href=&quot;https://abuisa.github.io/Set-Categories-name-in-githubpage&quot;&gt;/Set-Categories-name-in-githubpage&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;https://abuisa.github.io/All-Programming&quot;&gt;/All-Programming&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;https://abuisa.github.io/enkripsi-teks-dengan-html-dan-js&quot;&gt;/enkripsi-teks-dengan-html-dan-js&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;https://abuisa.github.io/ifroth-dan-tafrith&quot;&gt;/ifroth-dan-tafrith&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a...</content>
+ </entry>
+
+ 
+
+</feed>
