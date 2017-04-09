@@ -1,5 +1,5 @@
 ---
-title: Membuat Server Repository Local di Ubuntu NEW
+title: Membuat Server Repository Local di Ubuntu
 description: Membuat Server Repository Local di Ubuntu
 header: Membuat Server Repository Local di Ubuntu
 categories: Linux
@@ -35,7 +35,7 @@ Bagian yang paling tricky adalah (1) membuat mengcopy mirror keyring, dan (2) me
 {% endhighlight %}
 di lanjutkan menggunakan perintah gpg untuk membuat mirrorkeyring. Untuk jelasnya saya attach pada gambar dibawah.
 
-
+<img height="24" src="https://img.ucweb.com/o/mediana/s/we_media/upload_img/17040106533b4c5d265cb39eccfb8f05d4e35c0287x1058x66x4.png;,70,png;3,640x,0" width="400" />
 
 Jika bermasalah, silahkan ulangi lagi perintah gpg paling bawah dari gambar di atas.
 
@@ -46,6 +46,8 @@ Saya biasanya membuat folder repository di /var/data/repository, untuk ubuntu 16
 Bagian yang paling menyedihkan adalah kita harus mendownload semua repository yang dibutuhkan dari Internet. Untuk sebuah versi Ubuntu maka dibutuhkan harddisk sebesar 120-150Gbyte. Bagi anda yang membutuhkan bisa copy repo yang ada di saya, dengan cara mengirim usb harddisk ke rumah saya dan diselipkan ongkos untuk kirim kembali pakai JNE.
 
 Bagi anda yang mempunyai banyak bandwidth dapat menggunakan shell script berikut untuk mendownload repository ubuntu 16.04 dari Internet ke /var/data/repository/repo-16.04.
+
+<img height="57" src="https://img.ucweb.com/o/mediana/s/we_media/upload_img/1704010702348b97b7677e80d974f15068b44c7bb9x766x110x8.png;,70,png;3,640x,0" width="400" />
 
 Script di atas akan mengambil repo ubuntu dari mesin kambing.ui.ac.id.
 

@@ -136,6 +136,7 @@ Artinya :<br />
 <ul>
 <li>Janganlah sekali-kali kamu terperdaya oleh kebebasan orang-orang kafir bergerak di dalam negeri, Q.S: Al-Hadid : 20.&nbsp;</li>
 </ul>
+
 </div>
 </div>
 <div>
@@ -171,9 +172,11 @@ Artinya :</div>
 <b>PENUTUP</b><br />
 Semoga Allah SWT senantiasa memberikan ke istiqomahan kepada kita untuk tetap di dalam agama Islam....aamiin.<br />
 <br />
-______________
-<b>Nb</b> : Materi Ringkasan Khutbah Jum'at-nya Syaikh Abdullah Azzam al-Blora pada Jum'at Maret 31 2017, diedit oleh admin.<br />
+
 <div>
 </div>
 </div>
+_______________
+<b>Nb</b> : Materi Ringkasan Khutbah Jum'at-nya Syaikh Abdullah Azzam al-Blora pada Jum'at Maret 31 2017, diedit oleh admin.<br />
+
 

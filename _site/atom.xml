@@ -4,7 +4,7 @@
  <title>IkhwanElyas Page</title>
  <link href="https://abuisa.github.io/atom.xml" rel="self"/>
  <id>https://abuisa.github.io</id>
- <updated>2017-04-09T15:04:10+07:00</updated>
+ <updated>2017-04-10T00:14:22+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -28,17 +28,17 @@
    <link href="https://abuisa.github.io/how-to-list-categories"/>
    <id>https://abuisa.github.io/how-to-list-categories</id>
    <updated>2017-04-09T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.&lt;/p&gt; &lt;p&gt;Daftar Postingan Kategori Linux :&lt;/p&gt; &lt;ul&gt; &lt;a href=&quot;https://abuisa.github.io/Teknik-Balajar-CL-di-Linux&quot;&gt;Teknik Belajar Command Line di Linux&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu&quot;&gt;Membuat Server Repository Local di Ubuntu&lt;/a&gt;&lt;br /&gt; &lt;a...</content>
+   <content type="html">&lt;p&gt;The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.&lt;/p&gt; &lt;p&gt;Daftar Postingan Kategori Linux :&lt;/p&gt; &lt;ul&gt; &lt;a href=&quot;https://abuisa.github.io/Teknik-Balajar-CLI-di-Linux&quot;&gt;Teknik Belajar Command Line Interpreter di Linux&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu-1&quot;&gt;Membuat Server Repository Local di Ubuntu&lt;/a&gt;&lt;br /&gt;...</content>
  </entry>
 
  
 
  <entry>
-   <title>Teknik Belajar Command Line di Linux</title>
-   <link href="https://abuisa.github.io/Teknik-Balajar-CL-di-Linux"/>
-   <id>https://abuisa.github.io/Teknik-Balajar-CL-di-Linux</id>
+   <title>Teknik Belajar Command Line Interpreter di Linux</title>
+   <link href="https://abuisa.github.io/Teknik-Balajar-CLI-di-Linux"/>
+   <id>https://abuisa.github.io/Teknik-Balajar-CLI-di-Linux</id>
    <updated>2017-04-09T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;div style=&quot;clear: left; float: left; margin-bottom: 1em; margin-right: 1em;&quot;&gt; Oleh :&amp;nbsp;&lt;a href=&quot;https://c.uctalks.ucweb.com/detail/9eb04f1b0e78476da7e3b0c5fef397c1?uc_param_str=dnvebichfrmintcpwidsudsvnwpflameefut&amp;amp;stat_entry=personal&amp;amp;comment_stat=1&quot;&gt;Onno W. Purbo&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; &lt;div style=&quot;text-align: justify;&quot;&gt; Salah satu kelebihan utama, tapi juga menjadi momok bagi sebagian besar pengguna barfu di linux adalah mempelajari perintah command line (CLI). Bagi mereka yang akan memegang server di...</content>
+   <content type="html">&lt;p&gt;Oleh : Onno W. Purbo&lt;/p&gt; &lt;p&gt;Salah satu kelebihan utama, tapi juga menjadi momok bagi sebagian besar pengguna barfu di linux adalah mempelajari perintah command line (CLI). Bagi mereka yang akan memegang server di Internet, mengembangkan sistem operasi, bahkan engkonfigurasi router yang effisien mau tidak mau harus menggunakan command line di...</content>
  </entry>
 
  
@@ -55,16 +55,6 @@
 
  <entry>
    <title>Membuat Server Repository Local di Ubuntu</title>
-   <link href="https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu"/>
-   <id>https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu</id>
-   <updated>2017-04-09T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Oleh : Onno W. Purbo*&lt;br /&gt; &lt;br /&gt;&lt;/p&gt; &lt;div style=&quot;text-align: justify;&quot;&gt; Kalau di Windows, anda mencari software biasanya membutuhkan effort yang luar biasa, harus mencari di google, di Glodok, di toko CD dll. Berbeda dengan Windows, di Linux biasanya semua software / apps yang ada sudah terkumpul menjadi satu dalam...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Membuat Server Repository Local di Ubuntu NEW</title>
    <link href="https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu-1"/>
    <id>https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu-1</id>
    <updated>2017-04-09T00:00:00+07:00</updated>
@@ -91,11 +81,9 @@
    <content type="html">&lt;p&gt;Daftar Postingan Kategori Linux :&lt;/p&gt;
 &lt;ul&gt;
 
-    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/Teknik-Balajar-CL-di-Linux&quot;&gt;Teknik Belajar Command Line di Linux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/Teknik-Balajar-CLI-di-Linux&quot;&gt;Teknik Belajar Command Line Interpreter di Linux&lt;/a&gt;&lt;/li&gt;
 
-    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu&quot;&gt;Membuat Server Repository Local di Ubuntu&lt;/a&gt;&lt;/li&gt;
-
-    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu-1&quot;&gt;Membuat Server Repository Local di Ubuntu NEW&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu-1&quot;&gt;Membuat Server Repository Local di Ubuntu&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 
@@ -129,6 +117,16 @@ Examples&lt;/p&gt;
    <id>https://abuisa.github.io/ifroth-dan-tafrith</id>
    <updated>2017-04-06T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;KIBLAT.NET – Syahdan, ada tiga orang sahabat dengan penuh semangat ibadah mencoba mengunjungi rumah-rumah para ibunda kaum mukminin (istri-istri Nabi SAW). Mereka ingin mengetahui bagaimana cara ibadah Nabi Muhammad SAW di rumah.&lt;/p&gt; &lt;p&gt;Tatkala diberitahukan tentang aktivitas ibadah Nabi SAW di rumah, ketiga orang tersebut tercengang dan merasa betapa kecil dan...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>TheReviewIndex | Unbiased User Review Summaries | Monochrome</title>
+   <link href="https://abuisa.github.io/thereviewindex-introduction"/>
+   <id>https://abuisa.github.io/thereviewindex-introduction</id>
+   <updated>2017-02-18T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;The internet is a source of a humongous amount of unstructured content for all sorts of products, in the form of blogs, videos, user and expert reviews, etc. It is almost impossible for anyone to scour all of this disparate data, with contradictory opinions, and thereafter make a correct, or...</content>
  </entry>
 
  
