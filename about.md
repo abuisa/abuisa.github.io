@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About IkhwanElyas
+title: About-me
 description: This page describes IkhwanELyas.
 ---
 ## Web page ini hanya ?
