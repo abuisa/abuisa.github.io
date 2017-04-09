@@ -2,7 +2,7 @@
 layout: default
 header: Variabel Jekyll
 title: Variabel Jekyll
-categories: Programming
+categories: Examples
 ---
 
 ## Templates

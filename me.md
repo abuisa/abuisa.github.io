@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About-me
+title: About
 description: This page describes IkhwanELyas.
 ---
 ## Web page ini hanya ?
@@ -13,9 +13,12 @@ Web page ini isinya artikel dan materi antah-berantah yang saya dapatkan dari du
 ## Original Theme is 
 Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi [dyutibarma-monochrome](https://github.com/dyutibarma/monochrome) atau [thereviewindex-blog](https://github.com/thereviewindex/blog).
 
-### About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
+## Me
+
+segera....
 
 
-____________
-post by : admin
+
+____
+
+

@@ -2,7 +2,7 @@
 title:  This is the eigth test post.
 description: This is the eigth test post.
 header: All Programming
-categories: Linux
+categories: Examples
 ---
 Daftar Postingan Kategori Linux : 
 <ul>

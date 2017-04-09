@@ -2,7 +2,7 @@
 title: Paham Ifroth dan Tafrith | IkhwanElyas
 description: Materi Paham Ifroth dan Tafrith COPAS dari kiblat.net
 header: Paham Ifroth dan Tafrith
-categories: Programming
+categories: Agama
 ---
 KIBLAT.NET – Syahdan, ada tiga orang sahabat dengan penuh semangat ibadah mencoba mengunjungi rumah-rumah para ibunda kaum mukminin (istri-istri Nabi SAW). Mereka ingin mengetahui bagaimana cara ibadah Nabi Muhammad SAW di rumah.
 

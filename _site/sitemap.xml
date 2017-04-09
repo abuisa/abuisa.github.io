@@ -44,10 +44,13 @@
 <loc>http://localhost:4000/abuisa.github.io/404</loc>
 </url>
 <url>
-<loc>http://localhost:4000/abuisa.github.io/about</loc>
+<loc>http://localhost:4000/abuisa.github.io/categories</loc>
 </url>
 <url>
 <loc>http://localhost:4000/abuisa.github.io/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/abuisa.github.io/me</loc>
 </url>
 <url>
 <loc>http://localhost:4000/abuisa.github.io/page2/</loc>

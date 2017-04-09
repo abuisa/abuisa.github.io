@@ -14,3 +14,22 @@
     //align: left;
     //margin: left;
 }
+
+// div untuk dua kolom
+.wrapper{
+    overflow:hidden;
+    padding-bottom:10px;
+	padding-top: 1cm
+}
+.first{
+    float:left;
+    height:100%;
+    width:50%;
+	border-right: 1px solid #808080;
+    
+}
+.second{
+    overflow:hidden;
+    height:100%;
+	padding-left: 0.6cm;
+}
