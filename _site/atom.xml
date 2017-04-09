@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IkhwanElyas Page</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <id>http://localhost:4000</id>
- <updated>2017-04-09T14:18:24+07:00</updated>
+ <link href="https://abuisa.github.io/atom.xml" rel="self"/>
+ <id>https://abuisa.github.io</id>
+ <updated>2017-04-09T15:04:10+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -15,8 +15,8 @@
 
  <entry>
    <title>Variabel Jekyll</title>
-   <link href="http://localhost:4000/ket-variabel"/>
-   <id>http://localhost:4000/ket-variabel</id>
+   <link href="https://abuisa.github.io/ket-variabel"/>
+   <id>https://abuisa.github.io/ket-variabel</id>
    <updated>2017-04-09T00:00:00+07:00</updated>
    <content type="html">&lt;h2 id=&quot;templates&quot;&gt;Templates&lt;/h2&gt; &lt;p&gt;There must be a two templates in the Jekyll includes path; pnefor individual comments and one for the comments section as a whole. Filenames can be set in &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yaml&lt;/code&gt;.&lt;/p&gt; &lt;p&gt;The following variables are available:&lt;/p&gt; &lt;p&gt;There must be a two templates in the Jekyll includes path; pnefor individual...</content>
  </entry>
@@ -25,38 +25,84 @@
 
  <entry>
    <title>How To List Categories</title>
-   <link href="http://localhost:4000/how-to-list-categories"/>
-   <id>http://localhost:4000/how-to-list-categories</id>
+   <link href="https://abuisa.github.io/how-to-list-categories"/>
+   <id>https://abuisa.github.io/how-to-list-categories</id>
    <updated>2017-04-09T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.&lt;/p&gt; &lt;p&gt;Daftar Postingan Kategori Linux :&lt;/p&gt; &lt;ul&gt; &lt;/ul&gt; &lt;h2 id=&quot;versi-markdown-&quot;&gt;Versi markdown :&lt;/h2&gt; &lt;p&gt;Kategori : Examples&lt;/p&gt; &lt;h3 id=&quot;daftar-kategori-ii&quot;&gt;Daftar Kategori II&lt;/h3&gt; &lt;h2&gt;Categories&lt;/h2&gt; &lt;ul&gt; &lt;a href=&quot;#&quot;&gt;Examples (8)&lt;/a&gt;...</content>
+   <content type="html">&lt;p&gt;The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.&lt;/p&gt; &lt;p&gt;Daftar Postingan Kategori Linux :&lt;/p&gt; &lt;ul&gt; &lt;a href=&quot;https://abuisa.github.io/Teknik-Balajar-CL-di-Linux&quot;&gt;Teknik Belajar Command Line di Linux&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu&quot;&gt;Membuat Server Repository Local di Ubuntu&lt;/a&gt;&lt;br /&gt; &lt;a...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Teknik Belajar Command Line di Linux</title>
+   <link href="https://abuisa.github.io/Teknik-Balajar-CL-di-Linux"/>
+   <id>https://abuisa.github.io/Teknik-Balajar-CL-di-Linux</id>
+   <updated>2017-04-09T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;div style=&quot;clear: left; float: left; margin-bottom: 1em; margin-right: 1em;&quot;&gt; Oleh :&amp;nbsp;&lt;a href=&quot;https://c.uctalks.ucweb.com/detail/9eb04f1b0e78476da7e3b0c5fef397c1?uc_param_str=dnvebichfrmintcpwidsudsvnwpflameefut&amp;amp;stat_entry=personal&amp;amp;comment_stat=1&quot;&gt;Onno W. Purbo&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; &lt;div style=&quot;text-align: justify;&quot;&gt; Salah satu kelebihan utama, tapi juga menjadi momok bagi sebagian besar pengguna barfu di linux adalah mempelajari perintah command line (CLI). Bagi mereka yang akan memegang server di...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Menjaga nikmat Dienul Islam</title>
+   <link href="https://abuisa.github.io/Menjaga-Nikmat-Dienul-Islam"/>
+   <id>https://abuisa.github.io/Menjaga-Nikmat-Dienul-Islam</id>
+   <updated>2017-04-09T00:00:00+07:00</updated>
+   <content type="html">&lt;ol&gt; &lt;li&gt;Apakah nikmat Allah yg paling besar ??&lt;br /&gt;&lt;/li&gt; &lt;/ol&gt; &lt;div&gt; Bagaimana jika kita tidak memiliki nikmat tersebut?? &lt;br /&gt; &lt;ul&gt; &lt;li&gt;&lt;b&gt;Nikmat agama yg di terima, &lt;/b&gt;Q.S: Ali-Imram :85 dan Q.S: Ali-Imram :19&lt;/li&gt; &lt;/ul&gt; &lt;div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;&gt; &lt;a href=&quot;https://4.bp.blogspot.com/-ZIuzj1gU67k/WN6AyZXR8bI/AAAAAAAAAgQ/UJpALorXLxYBBR7QNXJ_uWSPaOTAjrWEwCEw/s1600/DeepinScreenshot20170331220257.png&quot; imageanchor=&quot;1&quot; style=&quot;clear: right; float: right; margin-bottom: 1em; margin-left:...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Membuat Server Repository Local di Ubuntu</title>
+   <link href="https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu"/>
+   <id>https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu</id>
+   <updated>2017-04-09T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;Oleh : Onno W. Purbo*&lt;br /&gt; &lt;br /&gt;&lt;/p&gt; &lt;div style=&quot;text-align: justify;&quot;&gt; Kalau di Windows, anda mencari software biasanya membutuhkan effort yang luar biasa, harus mencari di google, di Glodok, di toko CD dll. Berbeda dengan Windows, di Linux biasanya semua software / apps yang ada sudah terkumpul menjadi satu dalam...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Membuat Server Repository Local di Ubuntu NEW</title>
+   <link href="https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu-1"/>
+   <id>https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu-1</id>
+   <updated>2017-04-09T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;Oleh : Onno W. Purbo*&lt;/p&gt; &lt;p&gt;Kalau di Windows, anda mencari software biasanya membutuhkan effort yang luar biasa, harus mencari di google, di Glodok, di toko CD dll. Berbeda dengan Windows, di Linux biasanya semua software / apps yang ada sudah terkumpul menjadi satu dalam sebuah server siap di instalasi.&lt;/p&gt; &lt;p&gt;Repository...</content>
  </entry>
 
  
 
  <entry>
    <title>Tag</title>
-   <link href="http://localhost:4000/Set-Categories-name-in-githubpage"/>
-   <id>http://localhost:4000/Set-Categories-name-in-githubpage</id>
+   <link href="https://abuisa.github.io/Set-Categories-name-in-githubpage"/>
+   <id>https://abuisa.github.io/Set-Categories-name-in-githubpage</id>
    <updated>2017-04-08T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.&lt;/p&gt; &lt;p&gt;Daftar Postingan Kategori Programming :&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;http://localhost:4000/enkripsi-teks-dengan-html-dan-js&quot;&gt;Enkripsi teks dengan HTML dan JS&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Kategori : Examples&lt;/p&gt; &lt;h3 id=&quot;daftar-kategori-ii&quot;&gt;Daftar Kategori II&lt;/h3&gt; &lt;h2&gt;Categories&lt;/h2&gt; &lt;ul&gt;...</content>
+   <content type="html">&lt;p&gt;The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.&lt;/p&gt; &lt;p&gt;Daftar Postingan Kategori Programming :&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/enkripsi-teks-dengan-html-dan-js&quot;&gt;Enkripsi teks dengan HTML dan JS&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Kategori : Examples&lt;/p&gt; &lt;h3 id=&quot;daftar-kategori-ii&quot;&gt;Daftar Kategori II&lt;/h3&gt; &lt;h2&gt;Categories&lt;/h2&gt; &lt;ul&gt;...</content>
  </entry>
 
  
 
  <entry>
    <title>This is the eigth test post.</title>
-   <link href="http://localhost:4000/All-Programming"/>
-   <id>http://localhost:4000/All-Programming</id>
+   <link href="https://abuisa.github.io/All-Programming"/>
+   <id>https://abuisa.github.io/All-Programming</id>
    <updated>2017-04-08T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Daftar Postingan Kategori Linux :&lt;/p&gt;
 &lt;ul&gt;
+
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/Teknik-Balajar-CL-di-Linux&quot;&gt;Teknik Belajar Command Line di Linux&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu&quot;&gt;Membuat Server Repository Local di Ubuntu&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu-1&quot;&gt;Membuat Server Repository Local di Ubuntu NEW&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 
 &lt;p&gt;Daftar Postingan Kategori Programming :&lt;/p&gt;
 &lt;ul&gt;	
 	
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/enkripsi-teks-dengan-html-dan-js&quot;&gt;Enkripsi teks dengan HTML dan JS&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://abuisa.github.io/enkripsi-teks-dengan-html-dan-js&quot;&gt;Enkripsi teks dengan HTML dan JS&lt;/a&gt;&lt;/li&gt;
 	
 &lt;/ul&gt;
 
@@ -69,8 +115,8 @@ Examples&lt;/p&gt;
 
  <entry>
    <title>Enkripsi teks dengan HTML dan JS</title>
-   <link href="http://localhost:4000/enkripsi-teks-dengan-html-dan-js"/>
-   <id>http://localhost:4000/enkripsi-teks-dengan-html-dan-js</id>
+   <link href="https://abuisa.github.io/enkripsi-teks-dengan-html-dan-js"/>
+   <id>https://abuisa.github.io/enkripsi-teks-dengan-html-dan-js</id>
    <updated>2017-04-07T08:20:01+07:00</updated>
    <content type="html">&lt;p&gt;Assalamualaikum…&lt;/p&gt; &lt;p&gt;Bagi anda yang hoby atau suka dengan web script, berikut saya sharing sebuah script yang bagus jika digunakan untuk meng-enkripsi teks-teks atau catatan penting yang sifatnya rahasia dan tidak ingin dibaca oleh orang lain, jika anda punya komputer dan sering digunakan bersama mungkin script ini dapat membantu anda untuk...</content>
  </entry>
@@ -78,51 +124,11 @@ Examples&lt;/p&gt;
  
 
  <entry>
-   <title>Paham Ifroth dan Tafrith | IkhwanElyas</title>
-   <link href="http://localhost:4000/ifroth-dan-tafrith"/>
-   <id>http://localhost:4000/ifroth-dan-tafrith</id>
+   <title>Paham Ifroth dan Tafrith</title>
+   <link href="https://abuisa.github.io/ifroth-dan-tafrith"/>
+   <id>https://abuisa.github.io/ifroth-dan-tafrith</id>
    <updated>2017-04-06T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;KIBLAT.NET – Syahdan, ada tiga orang sahabat dengan penuh semangat ibadah mencoba mengunjungi rumah-rumah para ibunda kaum mukminin (istri-istri Nabi SAW). Mereka ingin mengetahui bagaimana cara ibadah Nabi Muhammad SAW di rumah.&lt;/p&gt; &lt;p&gt;Tatkala diberitahukan tentang aktivitas ibadah Nabi SAW di rumah, ketiga orang tersebut tercengang dan merasa betapa kecil dan...</content>
- </entry>
-
- 
-
- <entry>
-   <title>TheReviewIndex | Unbiased User Review Summaries | Monochrome</title>
-   <link href="http://localhost:4000/thereviewindex-introduction"/>
-   <id>http://localhost:4000/thereviewindex-introduction</id>
-   <updated>2017-02-18T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;The internet is a source of a humongous amount of unstructured content for all sorts of products, in the form of blogs, videos, user and expert reviews, etc. It is almost impossible for anyone to scour all of this disparate data, with contradictory opinions, and thereafter make a correct, or...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Typography Example | Monochrome</title>
-   <link href="http://localhost:4000/typography-example"/>
-   <id>http://localhost:4000/typography-example</id>
-   <updated>2017-02-14T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/web/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Code Example</title>
-   <link href="http://localhost:4000/code-example"/>
-   <id>http://localhost:4000/code-example</id>
-   <updated>2017-02-12T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
- </entry>
-
- 
-
- <entry>
-   <title>This is the eigth test post.</title>
-   <link href="http://localhost:4000/test-post-8"/>
-   <id>http://localhost:4000/test-post-8</id>
-   <updated>2017-02-11T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;foto-cantik&quot;&gt;Foto Cantik&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;/web/img/cantik.png&quot; alt=&quot;image-title-here&quot; class=&quot;rkiri&quot; /&gt; &lt;br /&gt; &lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;daftar-yang-dipost-&quot;&gt;Daftar yang dipost :&lt;/h3&gt; &lt;h4 id=&quot;variabel-&quot;&gt;Variabel :&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;page.id : /test-post-8 &lt;br /&gt;&lt;/li&gt; &lt;li&gt;page.url : /test-post-8 &lt;br /&gt;&lt;/li&gt; &lt;li&gt;page.path : _posts/2017-02-11-test-post-8.md &lt;br /&gt;&lt;/li&gt; &lt;li&gt;site.url : http://localhost:4000 &lt;br /&gt;&lt;/li&gt; &lt;li&gt;post.url : &lt;br /&gt;&lt;/li&gt; &lt;/ol&gt; &lt;ul&gt; &lt;li&gt; &lt;a href=&quot;http://localhost:4000/ket-variabel&quot;&gt;/ket-variabel&lt;/a&gt;...</content>
  </entry>
 
  

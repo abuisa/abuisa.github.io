@@ -1,5 +1,5 @@
 ---
-title: Paham Ifroth dan Tafrith | IkhwanElyas
+title: Paham Ifroth dan Tafrith
 description: Materi Paham Ifroth dan Tafrith COPAS dari kiblat.net
 header: Paham Ifroth dan Tafrith
 categories: Agama
