@@ -728,15 +728,20 @@ footer {
 .wrapper {
   overflow: hidden;
   padding-bottom: 10px;
-  padding-top: 1cm; }
+  padding-top: 0.3cm; }
 
 .first {
   float: left;
   height: 100%;
-  width: 50%;
-  border-right: 1px solid #808080; }
+  width: 30%;
+  border-right: 0px solid grey; }
 
 .second {
-  overflow: hidden;
+  float: right;
   height: 100%;
+  width: 35%;
   padding-left: 0.6cm; }
+
+.tengah {
+  display: inline-block;
+  width: 26%; }
