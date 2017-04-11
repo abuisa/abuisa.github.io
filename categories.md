@@ -2,7 +2,7 @@
 layout: page
 title: All Post
 description: This page displays all posts.
-header: Tag test list
+header: All Post
 ---
 
 {% include modulku.html %}
@@ -11,7 +11,7 @@ header: Tag test list
 
 <div class="wrapper" markdown="0">
 
-	<div id="ktgoridiv1" class="kate1">
+	<div id="linkdiv1" class="kate1">
 
 	<h3> Agama : </h3>
 
@@ -39,7 +39,7 @@ header: Tag test list
 	</div>
 
 <!-- ================ -->
-	<div id="ktgoridiv1" class="kate2">
+	<div id="linkdiv2" class="kate2">
 
 	<h3> Linux : </h3>
 		<ul>
