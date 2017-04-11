@@ -11,7 +11,7 @@ header: Tag test list
 
 <div class="wrapper" markdown="0">
 
-	<div class="first">
+	<div id="pertama" class="kate1">
 
 	<h3> Agama : </h3>
 
@@ -39,7 +39,7 @@ header: Tag test list
 	</div>
 
 <!-- ================ -->
-	<div class="second">
+	<div id="kedua" class="kate2">
 
 	<h3> Linux : </h3>
 		<ul>
