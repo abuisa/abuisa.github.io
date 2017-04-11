@@ -8,7 +8,7 @@ header: Links Colections
 ## Link Collections
 <div class="wrapper" markdown="0">
 
-	<div id="pertama" class="first">
+	<div id="linkdiv" class="first">
 
 	<h3>Ormas dan Berita Islam</h3>
 		<ul>
@@ -39,8 +39,8 @@ header: Links Colections
 		</ul>
 	</div>
 
-<!-- ================ -->
-	<div id="tengah" class="tengah">
+<!-- ====== <div id="tengah" class="tengah"> ========== -->
+	<div id="linkdiv" class="tengah">
 
 	<h3> Digital Forensik </h3>
 		<ul>
@@ -95,8 +95,8 @@ header: Links Colections
 
 	</div>
 
-<!-- ================ -->
-	<div id="kedua" class="second">
+<!-- ======= <div id="kedua" class="second"> ========= -->
+	<div id="linkdiv" class="second">
 
 	<h3> Favorite Distro [<a href="https://distrowatch.com" target="_blank">DistroWatch</a>]</h3>
 		<ul>
