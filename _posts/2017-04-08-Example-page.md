@@ -132,31 +132,21 @@ The Command for download your github repo to local :
 
 ## Examples Six  ( Video )
 #### Manual Embed video from youtube : 
-> https://www.youtube.com/watch?v=nN6QuNqmAwk
+> https://www.youtube.com/watch?v=fuS-3HSnpq4
 
+- buat menjadi satu bari (menghindari error)..
 {% highlight html linenos %}
-<iframe 
-  width="560" 
-  height="315" 
-  src="http://www.youtube.com/embed/nN6QuNqmAwk" 
-  frameborder="0" 
-  allowfullscreen>
+<iframe allowfullscreen="" 
+	class="YOUTUBE-iframe-video" 
+	frameborder="0" height="400" 
+	src="https://www.youtube.com/embed/fuS-3HSnpq4?feature=player_embedded" 
+	width="600">
 </iframe>
 {% endhighlight %}
 
 #### Tampak videonya 1 : 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?feature=player_embedded" width="600"></iframe>
 
-
-#### Tampak videonya 2 :
-<iframe width="560" height="420" src="http://www.youtube.com/embed/fuS-3HSnpq4?color=white&theme=light"></iframe>
-
-
-#### Ref lain : 
-- Petunjuk lain untuk jekyll how to : 
-	- [Jekyll-how-to-use](https://mademistakes.com/articles/jekyll-style-guide/){:target="_blank"}
-	- [Jekyll-style](https://mademistakes.com/style-guide/){:target="_blank"}
- 
 ____
 Kategori : {{ page.categories }},
 Post by : admin
