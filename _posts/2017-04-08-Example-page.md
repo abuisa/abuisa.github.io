@@ -144,9 +144,12 @@ The Command for download your github repo to local :
 </iframe>
 {% endhighlight %}
 
-Tampak videonya  : 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/nN6QuNqmAwk" frameborder="0" allowfullscreen>
-</iframe>
+#### Tampak videonya 1 : 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/S5S9LIT-hdc" frameborder="0" allowfullscreen></iframe>
+
+#### Tampak videonya 2 :
+<iframe width="560" height="420" src="http://www.youtube.com/embed/fuS-3HSnpq4?color=white&theme=light"></iframe>
+
 
 #### Ref lain : 
 - Petunjuk lain untuk jekyll how to : 
