@@ -7,7 +7,7 @@ header: Links Colections
 
 {% include modulku.html %}
 
-## Link Collections X
+## Link Collections 
 <div class="wrapper" markdown="0">
 
 	<div id="linkdiv1" class="first">
