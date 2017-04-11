@@ -153,16 +153,22 @@
   <html>
 <body>
 <script>
+	
+//===============
 	window.onload = function(){ 
 	    //alert("TES PESAN-PESAN .........!");
 
 		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
 			//document.getElementById("jd").innerHTML = "<b>---Hello SmartPhone---</b>";
 			//zoom();
+			/*
 			var d1 = document.getElementById('linkdiv');
 			var d2 = document.getElementById('ktgoridiv');
 			d1.removeAttribute("class")
 			d2.removeAttribute("class")
+			*/
+			var contentToRemove = document.querySelectorAll("#linkdiv");
+			$(contentToRemove).remove(); 
 		}
 	};
 </script>
@@ -172,7 +178,7 @@
 <h2 id="link-collections">Link Collections</h2>
 <div class="wrapper">
 
-	<div id="linkdiv" class="first">
+	<div id="linkdiv1" class="first">
 
 	<h3>Ormas dan Berita Islam</h3>
 		<ul>
@@ -204,7 +210,7 @@
 	</div>
 
 <!-- ====== <div id="tengah" class="tengah"> ========== -->
-	<div id="linkdiv" class="tengah">
+	<div id="linkdiv2" class="tengah">
 
 	<h3> Digital Forensik </h3>
 		<ul>
@@ -260,7 +266,7 @@
 	</div>
 
 <!-- ======= <div id="kedua" class="second"> ========= -->
-	<div id="linkdiv" class="second">
+	<div id="linkdiv3" class="second">
 
 	<h3> Favorite Distro [<a href="https://distrowatch.com" target="_blank">DistroWatch</a>]</h3>
 		<ul>

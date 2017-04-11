@@ -153,16 +153,22 @@
   <html>
 <body>
 <script>
+	
+//===============
 	window.onload = function(){ 
 	    //alert("TES PESAN-PESAN .........!");
 
 		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
 			//document.getElementById("jd").innerHTML = "<b>---Hello SmartPhone---</b>";
 			//zoom();
+			/*
 			var d1 = document.getElementById('linkdiv');
 			var d2 = document.getElementById('ktgoridiv');
 			d1.removeAttribute("class")
 			d2.removeAttribute("class")
+			*/
+			var contentToRemove = document.querySelectorAll("#linkdiv");
+			$(contentToRemove).remove(); 
 		}
 	};
 </script>
@@ -173,7 +179,7 @@
 
 <div class="wrapper">
 
-	<div id="ktgoridiv" class="kate1">
+	<div id="ktgoridiv1" class="kate1">
 
 	<h3> Agama : </h3>
 
@@ -201,7 +207,7 @@
 	</div>
 
 <!-- ================ -->
-	<div id="ktgoridiv" class="kate2">
+	<div id="ktgoridiv1" class="kate2">
 
 	<h3> Linux : </h3>
 		<ul>
