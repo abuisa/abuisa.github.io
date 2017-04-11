@@ -145,7 +145,8 @@ The Command for download your github repo to local :
 {% endhighlight %}
 
 #### Tampak videonya 1 : 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/S5S9LIT-hdc" frameborder="0" allowfullscreen></iframe>
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?feature=player_embedded" width="600"></iframe>
+
 
 #### Tampak videonya 2 :
 <iframe width="560" height="420" src="http://www.youtube.com/embed/fuS-3HSnpq4?color=white&theme=light"></iframe>
