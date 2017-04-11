@@ -7,7 +7,7 @@ header: Tag test list
 
 {% include modulku.html %}
 
-## List Categories : 
+## Post Categories : 
 
 <div class="wrapper" markdown="0">
 
