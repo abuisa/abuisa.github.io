@@ -4,10 +4,11 @@ title: Links Colections
 description: Links Colections
 header: Links Colections
 ---
+{% include modulku.html %}
 ## Link Collections
 <div class="wrapper" markdown="0">
 
-	<div class="first">
+	<div id="pertama" class="first">
 
 	<h3>Ormas dan Berita Islam</h3>
 		<ul>
@@ -39,7 +40,7 @@ header: Links Colections
 	</div>
 
 <!-- ================ -->
-	<div class="tengah">
+	<div id="tengah" class="tengah">
 
 	<h3> Digital Forensik </h3>
 		<ul>
@@ -95,7 +96,7 @@ header: Links Colections
 	</div>
 
 <!-- ================ -->
-	<div class="second">
+	<div id="kedua" class="second">
 
 	<h3> Favorite Distro [<a href="https://distrowatch.com" target="_blank">DistroWatch</a>]</h3>
 		<ul>
