@@ -21,7 +21,8 @@ Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi [dyutibarma-monoc
 	<img src="img/me.jpg" class="rkiri" markdown="0" />
 	![image-title-here](img/me.jpg){:height="240px" width="140px"}
 	![image-title-here](img/me.jpg){:height="240px" width="140px"}
-![Fotoku](img/me.jpg){:.rkiri}
+	![Fotoku](img/me.jpg){:.rkiri}
+	![Fotoku](img/me.jpg){:.f-left}
 -->
 <pre>
 
@@ -46,6 +47,7 @@ Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi [dyutibarma-monoc
 
 
 </pre>
+
 <p>
 Info lain, segera....
 
