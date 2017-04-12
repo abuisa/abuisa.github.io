@@ -15,7 +15,7 @@ Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi [dyutibarma-monoc
 <pre>
 </pre>
 <span class="f-left">
-![Ini-Fotoku](img/me.jpg)
+![ini-adalah-Fotoku]({{site.url}}/img/me.jpg)
 </span>
 
 
