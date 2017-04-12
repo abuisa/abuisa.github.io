@@ -1,1 +1,1 @@
-Sitemap: https://abuisa.github.io/abuisa.github.io/sitemap.xml
+Sitemap: https://abuisa.github.io//sitemap.xml
