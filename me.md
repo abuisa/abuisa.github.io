@@ -14,13 +14,16 @@ Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi [dyutibarma-monoc
 ## Me
 <pre>
 </pre>
+<span class="f-left">
+![Ini-Fotoku](img/me.jpg)
+</span>
 
-![Fotoku](img/me.jpg){:.f-left}
 
 <!-- ![Fotoku]({{site.url}}/img/me.jpg){:.rkiri} : OK -->
 <!-- ![Fotoku](img/me.jpg){:.rkiri} : ERROR : hasil = //img/me.jpg -->
 
 <!--
+	![Fotoku](img/me.jpg){:.f-left}
 	<img src="img/me.jpg" class="rkiri" markdown="0" />
 	![image-title-here](img/me.jpg){:height="240px" width="140px"}
 	![image-title-here](img/me.jpg){:height="240px" width="140px"}
