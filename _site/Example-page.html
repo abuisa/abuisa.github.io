@@ -90,10 +90,19 @@
       
         <header id="header" class="parent justify-spaceBetween">
   <div class="inner w100 relative">
+<!--
     <span class="f-left">  
       <a href="//">
         <h1>
-          Ikhwan<span>Elyas</span>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+-->
+    <span class="f-left">  
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
+        <h1>
+          Ikhwan<span>Elyas</span> 
         </h1>
       </a>
     </span>
@@ -164,7 +173,7 @@
   </li>
 </ul>
 
-<h2 id="example-two--image-">Example Two ( Image )</h2>
+<h2 id="example-two--image-and-var-">Example Two ( Image and Var )</h2>
 
 <h4 id="foto-cantik-posisi-kiri">Foto Cantik posisi kiri</h4>
 <p><img src="img/cantik-icon.png" alt="image-title-here" class="rkiri" /></p>
@@ -181,15 +190,6 @@
 
 </pre>
 
-<h4 id="variabel-">Variabel :</h4>
-<ol>
-  <li>page.id 		: /Example-page <br /></li>
-  <li>page.url		: /Example-page <br /></li>
-  <li>page.path	: _posts/2017-04-08-Example-page.md <br /></li>
-  <li>site.url		: https://abuisa.github.io <br /></li>
-  <li>post.url		:  <br /></li>
-</ol>
-
 <h4 id="test-image-posisi-kanan">Test Image posisi kanan</h4>
 
 <p><img src="img/cantik-icon.png" alt="image-title-here" class="img-responsive rkanan" /></p>
@@ -204,6 +204,32 @@
 
 
 </pre>
+
+<h4 id="use-span-posisi-kiri">Use SPAN posisi kiri</h4>
+<p><span class="f-left">
+<img src="img/cantik-icon.png" alt="image-title-here" />
+</span></p>
+<pre>
+
+
+
+
+
+
+
+
+
+
+</pre>
+<h4 id="variabel-">Variabel :</h4>
+<ol>
+  <li>page.id 		: /Example-page <br /></li>
+  <li>page.url		: /Example-page <br /></li>
+  <li>page.path	: _posts/2017-04-08-Example-page.md <br /></li>
+  <li>site.url		: http://localhost:4000 <br /></li>
+  <li>site.baseurl	: /<br /></li>
+  <li>post.url		:  <br /></li>
+</ol>
 
 <h2 id="example-three--code-highlight-">Example three ( Code highlight )</h2>
 
@@ -283,9 +309,9 @@ ini juga bloknote</p>
 <h4 id="contoh-mengambil-semua-kategori-">Contoh Mengambil semua Kategori :</h4>
 <ul>
 
-	<a href="https://abuisa.github.io/Teknik-Balajar-CLI-di-Linux">Teknik Belajar Command Line Interpreter di Linux</a><br />
+	<a href="http://localhost:4000/Teknik-Balajar-CLI-di-Linux">Teknik Belajar Command Line Interpreter di Linux</a><br />
 
-	<a href="https://abuisa.github.io/Membuat-Server-Repository-Local-di-Ubuntu-1">Membuat Server Repository Local di Ubuntu</a><br />
+	<a href="http://localhost:4000/Membuat-Server-Repository-Local-di-Ubuntu-1">Membuat Server Repository Local di Ubuntu</a><br />
 
 </ul>
 
@@ -308,7 +334,7 @@ ini juga bloknote</p>
 </blockquote>
 
 <ul>
-  <li>buat menjadi satu bari (menghindari error)..</li>
+  <li>Scrip ini copy dan buat menjadi satu bari (menghindari error)..</li>
 </ul>
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1

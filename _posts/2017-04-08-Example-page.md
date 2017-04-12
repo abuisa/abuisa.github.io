@@ -10,7 +10,7 @@ categories: Examples
 	- [Jekyll-how-to-use](https://mademistakes.com/articles/jekyll-style-guide/){:target="_blank"}
 	- [Jekyll-style](https://mademistakes.com/style-guide/){:target="_blank"}
  
-## Example Two ( Image )
+## Example Two ( Image and Var )
 
 #### Foto Cantik posisi kiri
 ![image-title-here](img/cantik-icon.png){: .rkiri}
@@ -27,14 +27,6 @@ categories: Examples
 
 </pre>
 
-#### Variabel : 
-1. page.id 		: {{ page.id }} <br>
-2. page.url		: {{ page.url }} <br>
-3. page.path	: {{ page.path }} <br>
-4. site.url		: {{ site.url }} <br>
-5. post.url		: {{ post.url }} <br>
-
-
 #### Test Image posisi kanan
 
 ![image-title-here](img/cantik-icon.png){:class="img-responsive"}{: .rkanan}
@@ -50,7 +42,30 @@ categories: Examples
 
 </pre>
 
+#### Use SPAN posisi kiri
+<span class="f-left">
+![image-title-here](img/cantik-icon.png)
+</span>
+<pre>
 
+
+
+
+
+
+
+
+
+
+</pre>
+#### Variabel : 
+1. page.id 		: {{ page.id }} <br>
+2. page.url		: {{ page.url }} <br>
+3. page.path	: {{ page.path }} <br>
+4. site.url		: {{ site.url }} <br>
+5. site.baseurl	: {{ site.baseurl }}<br>
+6. post.url		: {{ post.url }} <br>
+ 
 ## Example three ( Code highlight )
 
 To insert highlight code inside of a post, it's enough to use some specific tags, has directly described into the [Jekyll documentation](http://jekyllrb.com/docs/templates/#code-snippet-highlighting). In this way the code will be included into a ``.highlight`` CSS class and will be highlight according to the [syntax.scss](https://github.com/mojombo/tpw/blob/master/css/syntax.css) file. This is the standard style adopted by **Github** to highlight the code. 
@@ -82,11 +97,9 @@ And this is a HTML example, with a linenumber:
 Last, a Ruby example:
 
 {% highlight ruby linenos %}
-
 def hello
   puts "Hello World!"
 end
-
 {% endhighlight %}
 
 ## Example Four ( Blok Note )
@@ -134,7 +147,7 @@ The Command for download your github repo to local :
 #### Manual Embed video from youtube : 
 > https://www.youtube.com/watch?v=fuS-3HSnpq4
 
-- buat menjadi satu bari (menghindari error)..
+- Scrip ini copy dan buat menjadi satu bari (menghindari error)..
 {% highlight html linenos %}
 <iframe allowfullscreen="" 
 	class="YOUTUBE-iframe-video" 
