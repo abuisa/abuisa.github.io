@@ -15,7 +15,10 @@ Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi [dyutibarma-monoc
 <pre>
 </pre>
 
-![Fotoku](img/me.jpg){:.rkiri}
+![Fotoku](img/me.jpg){:.f-left}
+
+<!-- ![Fotoku]({{site.url}}/img/me.jpg){:.rkiri} : OK -->
+<!-- ![Fotoku](img/me.jpg){:.rkiri} : ERROR : hasil = //img/me.jpg -->
 
 <!--
 	<img src="img/me.jpg" class="rkiri" markdown="0" />
