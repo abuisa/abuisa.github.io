@@ -1,6 +1,8 @@
 ## Jekyll Monochrome Theme 
 Web Page ini menggunakan monochrome, silahkan kunjungi [dyutibarma-monochrome](https://github.com/dyutibarma/monochrome) atau [thereviewindex-blog](https://github.com/thereviewindex/blog).
 
+
+___________
 ## About
 Monochrome is a minimal, responsive, ready to use Jekyll theme for blogging. [Demo](https://dyutibarma.github.io/monochrome/)
 (Built on top of Emerald Jekyll theme)
