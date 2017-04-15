@@ -1,11 +1,11 @@
 # _config.yml
 var-jekyll.md
 _plugins/*
-_layouts
+#_layouts
 _posts
-_includes
-_sass
-css
+#_includes
+#_sass
+#css
 img
 js
 .sass-cac*
