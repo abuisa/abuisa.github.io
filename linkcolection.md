@@ -28,6 +28,7 @@ header: Links Colections
 			<li><a href="https://www.voa-islam.com/" target="_blank"> www.voa-islam.com</a></li>
 			<li><a href="https://www.arrahmah.com/" target="_blank"> www.arrahmah.com</a></li>
 			<li><a href="https://www.kiblat.net/" target="_blank"> www.kiblat.net</a></li>
+			<li><a href="http://www.muqawamah.net/" target="_blank">www.muqawamah.net</a></li>
 		</ul>
 
 	<h3> Materi Agama</h3>
@@ -88,6 +89,7 @@ header: Links Colections
 	<h3> Programming Reference</h3>
 		<ul>
 			<li><a href="https://www.w3schools.com/" target="_blank">www.w3schools.com</a></li>
+			<li><a href="http://www.w3ii.com/ar/" target="_blank">www.w3ii.com</a></li>
 			<li><a href="https://www.tutorialspoint.com/" target="_blank">www.tutorialspoint.com</a></li>
 			<li><a href="https://www.learnpython.org/" target="_blank">www.learnpython.org</a></li>
 			<li><a href="https://www.learn-html.org/" target="_blank">www.learn-html.org</a></li>

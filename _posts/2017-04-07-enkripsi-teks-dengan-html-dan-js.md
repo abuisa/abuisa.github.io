@@ -10,7 +10,7 @@ Bagi anda yang hoby atau suka dengan web script, berikut saya sharing sebuah scr
 
 Script atau code untuk enkripsi teksnya ini merupakan perpaduan antara HTML dan JavaScript sehingga bagi yang berminat tinggal mengcopy dan paste kemudian tinggal jalankan di browser atau bisa juga di download filenya, jika anda ingin mencoba-coba bisa langsung kunjungi link berikut: [Enkripsiteks](https://abuisa.github.io/ikhwanelyas/), berikut tampilannya :
 
-![Enkripsi Dekripsi](/web/img/e-d-preview.png "Teeeeest")
+![Enkripsi Dekripsi](img/e-d-preview.png "Teeeeest")
 
 Berikut tampak JavaScript dan HTML yang digunakan sebagai mesin dan tapilan  untuk melakukan enkripsi dan dekripsi 
 * <b> JavaScript for Enc-Dec </b>
