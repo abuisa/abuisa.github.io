@@ -133,6 +133,7 @@ header: Links Colections
 		<ul>
 			<li><a href="http://wiz.echo.or.id/p/ezine-index.html" target="_blank">Echo-Magazine</a></li>
 			<li><a href="http://www.hak5.org/" target="_blank">www.hak5.org</a></li>
+			<li><a href="http://www.hackzhub.com/" target="_blank">www.hackzhub.com</a></li>
 			<li><a href="https://www.exploit-db.com/" target="_blank">www.exploit-db.com</a></li>
 			<li><a href="http://www.packetstormsecurity.org" target="_blank">www.packetstormsecurity.org</a></li>
 			<li><a href="http://www.phrack.org" target="_blank">www.phrack.org</a></li>
