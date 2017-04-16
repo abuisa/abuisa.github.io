@@ -40,6 +40,64 @@ header: Links Colections
 			<li><a href="http://www.kalemtayeb.com/" target="_blank"> www.kalemtayeb.com</a></li>
 			<li><a href="https://rumaysho.com/" target="_blank">rumaysho.com</a></li>
 		</ul>
+	<h3> Download Free E-Book </h3>
+		<ul>
+			<li><a href="http://freescience.info/index.php" target="_blank">freescience.info</a></li>
+			<li><a href="http://freecomputerbooks.pickatutorial.com/" target="_blank">freecomputerbooks.pickatutorial.com</a></li>
+			<li><a href="http://www.e-booksdirectory.com/" target="_blank">www.e-booksdirectory.com</a></li>
+		</ul>
+	<b> Alternative Free E-Book </b>
+		<ul>
+			<li><a href="http://bookzz.org/" target="_blank">bookzz.org </a></li>
+			<li><a href="http://en.bookfi.org/" target="_blank">en.bookfi.org </a></li>
+			<li><a href="http://libgen.io/" target="_blank">libgen.io</a></li>
+			<li><a href="http://bib.tiera.ru/" target="_blank">bib.tiera.ru</a></li>
+			<li><a href="http://booksee.org/" target="_blank">booksee.org</a></li>
+			<li><a href="http://mirknig.com/" target="_blank">mirknig.com</a></li>
+			<li><a href="http://it-ebooks.info/" target="_blank">it-ebooks.info</a></li>
+			<li><a href="http://ebook-dl.com/ " target="_blank">ebook-dl.com</a></li>
+			<li><a href="http://www.allitebooks.com/" target="_blank">www.allitebooks.com</a></li>
+			<li><a href="http://mirtitles.org/" target="_blank">mirtitles.org</a></li>
+			<li><a href="http://www.ebookl.com/" target="_blank">www.ebookl.com</a></li>
+			<li><a href="https://www.hadoop.so/" target="_blank">www.hadoop.so</a></li>
+			<li><a href="http://ebookee.org/" target="_blank">ebookee.org</a></li>
+			<li><a href="http://www.freebookspot.es/" target="_blank">www.freebookspot.es</a></li>
+			<li><a href="http://lib.org.by/" target="_blank">lib.org.by</a></li>
+			<li><a href="http://www.ebrowser.org/" target="_blank">www.ebrowser.org</a></li>
+			<li><a href="http://gen.lib.rus.ec/" target="_blank">gen.lib.rus.ec</a></li>
+			<li><a href="https://www.freeetextbooks.com/" target="_blank">www.freeetextbooks.com</a></li>
+			<li><a href="http://www.textbooknova.com/" target="_blank">www.textbooknova.com</a></li>
+		</ul>
+	<b>Technology E-Book Download</b>
+		<ul>
+			<li><a href="http://www.freecomputerbooks.com/" target="_blank">www.freecomputerbooks.com </a></li>
+			<li><a href="http://www.onlinecomputerbooks.com/" target="_blank">www.onlinecomputerbooks.com</a></li>
+			<li><a href="http://www.freetechbooks.com/" target="_blank">www.freetechbooks.com</a></li>
+		</ul>	
+	<b>Alternative E-Book Download</b>
+		<ul>
+			<li><a href="http://forum.mobilism.org/" target="_blank">forum.mobilism.org</a></li>
+			<li><a href="http://ebook3000.com/" target="_blank">ebook3000.com</a></li>
+			<li><a href="http://www.e-reading.club" target="_blank">www.e-reading.club</a></li>
+			<li><a href="http://avaxhome.ws/ebooks" target="_blank">avaxhome.ws/ebooks</a></li>
+			<li><a href="http://ebook.bike/" target="_blank">ebook.bike</a></li>
+			<li><a href="http://www.getfreeebooks.com/" target="_blank">www.getfreeebooks.com</a></li>
+			<li><a href="http://www.bookyards.com/" target="_blank">www.bookyards.com</a></li>
+			<li><a href="http://manybooks.net/" target="_blank">manybooks.net</a></li>
+			<li><a href="http://www.free-ebooks.net/" target="_blank">www.free-ebooks.net</a></li>
+		</ul>
+<!--
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+-->
+
 	</div>
 
 <!-- ====== <div id="tengah" class="tengah"> ========== -->
