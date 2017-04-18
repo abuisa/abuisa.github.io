@@ -32,13 +32,13 @@
 	float: right;
 	height:100%;
 	width: 35%;   
-	padding-left: 0.6cm;	
+	//padding-left: 0.6cm;	
 }
 
 .tengah{
 	display: inline-block;
 	width: 30%;
-	padding-left: 0.6cm;
+	padding-left: 1cm;
 }
 
 
@@ -54,7 +54,7 @@
 	width: 55%;
 	padding-left: 1.6cm;
 }
-
+//======untuk tulisan Arab=====
 .ar{
 	float: right;
 	alignt: right;
@@ -62,3 +62,22 @@
 	margin-left: 50px;
 	margin-right: 360px;
 }
+//=====Untuk TABEL STYLE======
+table, td, th {    
+    border: 0px solid #ddd;
+    text-align: left;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;	
+}
+th, td {
+    padding: 12px;
+}
+th{
+	border-bottom: 1px solid #ddd;
+}
+td{
+	border-bottom: 0.6px solid #ddd;
+}
+
