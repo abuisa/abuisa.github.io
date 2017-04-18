@@ -33,12 +33,15 @@ header: Links Colections
 
 	<h3> Materi Agama</h3>
 		<ul>
+			<li><a href="http://library.islamweb.net/mainpage/" target="_blank"> library.islamweb.net/mainpage</a></li>
 			<li><a href="https://www.tvquran.com/" target="_blank"> Downld-Tilawah-Quran</a></li>
 			<li><a href="https://islamqa.info/ar" target="_blank"> Tanya-Jawab-Islam</a></li>
 			<li><a href="http://www.ahlalhdeeth.com/vb/index.php" target="_blank"> www.ahlalhdeeth.com</a></li>
 			<li><a href="http://www.binbaz.org.sa/" target="_blank"> www.binbaz.org.sa</a></li>
 			<li><a href="http://www.kalemtayeb.com/" target="_blank"> www.kalemtayeb.com</a></li>
 			<li><a href="https://rumaysho.com/" target="_blank">rumaysho.com</a></li>
+			<li><a href="https://almanhaj.or.id/" target="_blank"> almanhaj.or.id</a></li>
+			<li><a href="http://www.suaraaliman.com/kategori/artikel" target="_blank"> www.suaraaliman.com</a></li>
 		</ul>
 	<h3> Download Free E-Book </h3>
 		<ul>

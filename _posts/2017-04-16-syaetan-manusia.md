@@ -4,14 +4,13 @@ description: Sifat-Sifat Setan dari Jenis Manusia
 header: Sifat-Sifat Setan dari Jenis Manusia
 categories: Agama
 ---
-Materi ini merupakan terjemahan materi tanya jawab yang terdapa di channel telegram milik [salafi-indonesia](https://t.me/forumsalafy), materi yang diterjemahkan merupakan jawabah syaikh Shalih al-Utsaimin terhadap pertanyaan sifat-sifat syaitan pada manusia yang terdapat pada situs [bayenahsalaf.com](http://bayenahsalaf.com/vb/showthread.php?t=12087){:target="_blank"}.
+Materi ini merupakan terjemahan materi tanya jawab yang terdapa di channel telegram milik [salafi-indonesia](https://t.me/forumsalafy), materi yang diterjemahkan merupakan jawaban syaikh Shalih al-Utsaimin terhadap pertanyaan sifat-sifat syaitan pada manusia yang terdapat pada situs [bayenahsalaf.com](http://bayenahsalaf.com/vb/showthread.php?t=12087){:target="_blank"}.
 
 ### Asy-Syaikh Muhammad bin Shalih al-Utsaimin rahimahullah
 
 #### Pertanyaan:
 
-
-<span class="ar"><b>حفظك الله يا شيخ! بيَّنت لنا شياطين الجن؛ ولكن شياطين الإنس كيف يتعرف الإنسان عليه، وكيف  يميزه من بين الأشخاص؟؟ وكيف يحذر منه؟ وكيف يتعامل معه؟</b></span>
+<b>حفظك الله يا شيخ! بيَّنت لنا شياطين الجن؛ ولكن شياطين الإنس كيف يتعرف الإنسان عليه، وكيف  يميزه من بين الأشخاص؟؟ وكيف يحذر منه؟ وكيف يتعامل معه؟</b>
 
 Wahai Syaikh -semoga Alloh menjaga anda-, anda telah menjelaskan kepada kami tentang syaitan-setan dari kalangan jin. Lalu bagaimana seseorang bisa mengetahui setan dari jenis manusia? dan bagaimana membedakannya di antara manusia? Bagaimana pula cara memperingatkan darinya? Serta bagaimana sikap kita dalam bergaul dengannya?
 
