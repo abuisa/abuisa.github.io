@@ -3,13 +3,16 @@ layout: page
 title: About
 description: This page describes IkhwanELyas.
 ---
+<!--
 ## Numpang Untuk Download Paper dari IEEE 
 <pre>
 </pre>
 
-{% include ie-url.html %}
+	{% include ie-url.html %}
 
 ____
+-->
+
 ## Tentang Web page ini
 
 Web page ini isinya artikel dan materi antah-berantah yang saya dapatkan dari dunia maya dan saya rasa penting maka saya simpan artikel tersebut dengan cara saya posting ke sini untuk menjadi arsip pribadi dan juga untuk bacaan bagi siapa yang berkepentingan.
