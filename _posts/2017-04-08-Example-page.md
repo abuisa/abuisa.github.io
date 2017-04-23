@@ -160,6 +160,19 @@ The Command for download your github repo to local :
 #### Tampak videonya 1 : 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?feature=player_embedded" width="600"></iframe>
 
+#### Vidio dengan time start dan time end
+
+{% highlight html linenos %}
+<iframe allowfullscreen="" 
+	class="YOUTUBE-iframe-video" 
+	frameborder="0" height="400" 
+	src="https://www.youtube.com/embed/fuS-3HSnpq4?start=100&end=235&feature=player_embedded" 
+	width="600">
+</iframe>
+{% endhighlight %}
+
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?start=100&end=235&feature=player_embedded" width="600"></iframe>
+
 ____
 Kategori : {{ page.categories }},
 Post by : admin
