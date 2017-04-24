@@ -24,11 +24,26 @@ description: Penelitian
 		document.getElementById(c).style.display = 'none';
 		document.getElementById(g).style.display = 'block';
 	}
+	function checkmobile(a,b){
+		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+			document.getElementById(a).style.display = 'block';
+			document.getElementById(b).style.display = 'none';
+		}
+		else
+		{
+			;
+
+		}
+
+	}
+
+
 </script>
+<div id="top"></div>
 <a href="#i3e"  onclick="show('i3e','bab1','reff','')">ieeeExplorer</a>&nbsp;|&nbsp;
 <a href="#bab1"  onclick="show('bab1','i3e','reff','gtop')">Bab I</a>&nbsp;|&nbsp;
-<a href="#reff"  onclick="show('reff','i3e','bab1','gtop')">Refferensi</a>
-<div id="i3e" style="display:none" border="0">
+<a href="#reff"  onclick="show('reff','i3e','bab1','gtop');checkmobile('mreff','reff')">Refferensi</a>
+<div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
 	{% include ie-url.html %}
@@ -41,12 +56,20 @@ description: Penelitian
 
 </div>
 <div id="reff" style="display:none" border="0">
-	<h4> Referensi </h4>
+	<h4> Referensi Papers</h4>
 
 	{%include penelitian/reff.html%}
 
 </div>
+
+<div id="mreff" style="display:none" border="0">
+	<h4> Referensi Papers</h4>
+	
+	{%include penelitian/m-reff.html%}
+
+</div>
+
 <div id="gtop" style="display:none" border="0">
-<a href="#bab1" >go-to-top</a>
+<a href="#top" >go-to-top</a>
 </div>
 

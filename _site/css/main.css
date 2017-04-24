@@ -773,10 +773,9 @@ table {
   width: 100%; }
 
 th, td {
-  padding: 12px; }
-
-th {
+  padding: 12px;
+  vertical-align: top;
   border-bottom: 1px solid #ddd; }
 
-td {
-  border-bottom: 0.6px solid #ddd; }
+.divtable {
+  padding-top: 1cm; }
