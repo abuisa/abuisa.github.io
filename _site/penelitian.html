@@ -26,8 +26,8 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Penelitian" />
 <meta property="og:description" content="Penelitian" />
-<link rel="canonical" href="http://localhost:4000//penelitian" />
-<meta property="og:url" content="http://localhost:4000//penelitian" />
+<link rel="canonical" href="https://abuisa.github.io//penelitian" />
+<meta property="og:url" content="https://abuisa.github.io//penelitian" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <script type="application/ld+json">
 {"@context": "http://schema.org",
@@ -36,7 +36,7 @@
 "author": {"@type": "Person",
 "name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
 "description": "Penelitian",
-"url": "http://localhost:4000//penelitian"}</script>
+"url": "https://abuisa.github.io//penelitian"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -126,7 +126,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
+      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -224,10 +224,11 @@ Nomor : <input type="text" id="nomor" value=""> &nbsp; <button onclick="openInNe
 		document.getElementById(d).style.display = 'none';
 		document.getElementById(e).style.display = 'none';
 	}
-	function show(a,b,c,g) {
+	function show(a,b,c,d,g) {
 		document.getElementById(a).style.display = 'block';
 		document.getElementById(b).style.display = 'none';
 		document.getElementById(c).style.display = 'none';
+		document.getElementById(d).style.display = 'none';
 		document.getElementById(g).style.display = 'block';
 	}
 	function checkmobile(a,b){
@@ -243,13 +244,18 @@ Nomor : <input type="text" id="nomor" value=""> &nbsp; <button onclick="openInNe
 
 	}
 
+	function showinrows(a,b){
+			document.getElementById(a).style.display = 'block';
+			document.getElementById(b).style.display = 'none';
+	}
 
 </script>
 
 <div id="top"></div>
-<p><a href="#i3e" onclick="show('i3e','bab1','reff','')">ieeeExplorer</a> | 
-<a href="#bab1" onclick="show('bab1','i3e','reff','gtop')">Bab I</a> | 
-<a href="#reff" onclick="show('reff','i3e','bab1','gtop');checkmobile('mreff','reff')">Refferensi</a></p>
+<p><a href="#i3e" onclick="show('i3e','bab1','reff','mreff','')">ieeeExplorer</a> | 
+<a href="#bab1" onclick="show('bab1','i3e','reff','mreff','gtop')">Bab I</a> | 
+<a href="#reff" onclick="show('reff','i3e','bab1','mreff','gtop');checkmobile('mreff','reff')">Refferensi</a> | 
+<a href="#reff" onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')">Ref-in-rows</a></p>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
@@ -683,12 +689,15 @@ The highest accuracy achieved was 96%, and was reached using a support vector ma
   </tr>
 
   <tr>
+	<td>2. </td>
+	<td>Classification of Malware Families Based on N-grams Sequential Pattern Features </td>
+	<td>Chatchai L., Ohm Sornil </td>
+	<td>Malware family identification is a complex process involving extraction of distinctive characteristics from a set of malware samples. Malware authors employ various techniques to prevent the identification of unique characteristics of their programs, such as, encryption and obfuscation. In this paper, we
+present n-gram based sequential features extracted from content of the files. N-grams are extracted from files; sequential n-gram patterns are determined; pattern statistics are calculated and reduced by the sequential floating forward selection method; and a classifier is used to determine the family of malware. Three classification models: C4.5, multilayer perceptron, and support vector machine are studied. Experimental results on a standard malware test collection show that the proposed method performs well, with the classification accuracy of 96.64%. </td>
+	<td>Features are created in 4 major steps: n-gram extraction,
+sequential pattern extraction, pattern statistics calculation, and
+feature reduction. </td>
 	<td> </td>
-	<td> </td>
-	<td> </td>
-	<td> </td>
-	<td class="tdhide"> </td>
-	<td class="tdhide"> </td>
   </tr>
 
 </table>
@@ -731,6 +740,7 @@ The highest accuracy achieved was 96%, and was reached using a support vector ma
   </tr>
 </table>
 </div>
+
 <div class="divtable">
 <table>
   <tr>
@@ -739,50 +749,22 @@ The highest accuracy achieved was 96%, and was reached using a support vector ma
   </tr>
   <tr>
 	<th>Judul</th>
-	<td>Automated malware detection using artifacts in forensic memory images </td>
+	<td>Classification of Malware Families Based on N-grams Sequential Pattern Features </td>
   </tr>
   <tr>
 	<th>Penulis</th>
-	<td>Rui Li, Bo Yuan dkk. </td>
+	<td>Chatchai L., Ohm Sornil </td>
   </tr>
   <tr>
 	<th>Abstrak</th>
-	<td> Malware is one of the greatest and most rapidly growing threats to the digital world. Traditional signature-based detection is no longer adequate to detect new variants and highly targeted malware. Furthermore, dynamic detection is often circumvented with anti-VM and/or anti-debugger techniques.
-Recently heuristic approaches have been explored to enhance detection accuracy while maintaining the generality of a model to detect unknown malware samples. In this paper, we investigate three feature types extracted from memory images – registry activity, imported libraries, and API function calls. After evaluating the importance of the different features, different machine learning techniques are implemented to compare performances of malware detection using the three feature types, respectively.
-The highest accuracy achieved was 96%, and was reached using a support vector machine model, fitted on data extracted from registry activity.</td>
+	<td>Malware family identification is a complex process involving extraction of distinctive characteristics from a set of malware samples. Malware authors employ various techniques to prevent the identification of unique characteristics of their programs, such as, encryption and obfuscation. In this paper, we
+present n-gram based sequential features extracted from content of the files. N-grams are extracted from files; sequential n-gram patterns are determined; pattern statistics are calculated and reduced by the sequential floating forward selection method; and a classifier is used to determine the family of malware. Three classification models: C4.5, multilayer perceptron, and support vector machine are studied. Experimental results on a standard malware test collection show that the proposed method performs well, with the classification accuracy of 96.64%.  </td>
   </tr>
   <tr>
 	<th>Metode</th>
-	<td>Our approach is a reactive one, in that it detects malware that is already on the system. There are several use cases for such an approach. First, anti-virus software will fail with unknown malware; therefore, applying our model on a memory image will either confirm or dispute an AV’s claim of a clean system. Second, forensic investigators may find this approach useful when searching for malware in memory images. As stated in [28], ”Analysts of the real world are often constrained by budgets and billable hours”; therefore, automating the process of malware detection might save forensic investigators time when analyzing memory images. Once the models are trained, artifacts can be extracted from a memory image using Volatility [15], and used to apply the model on. </td>
-  </tr>
-  <tr>
-	<th>File</th>
-	<td> </td>
-  </tr>
-</table>
-</div>
-
-<div class="divtable">
-<table>
-  <tr>
-	<th>No.</th>
-	<td>3. </td>
-  </tr>
-  <tr>
-	<th>Judul</th>
-	<td> </td>
-  </tr>
-  <tr>
-	<th>Penulis</th>
-	<td> </td>
-  </tr>
-  <tr>
-	<th>Abstrak</th>
-	<td> </td>
-  </tr>
-  <tr>
-	<th>Metode</th>
-	<td> </td>
+	<td>Features are created in 4 major steps: n-gram extraction,
+sequential pattern extraction, pattern statistics calculation, and
+feature reduction. </td>
   </tr>
   <tr>
 	<th>File</th>
@@ -811,7 +793,7 @@ The highest accuracy achieved was 96%, and was reached using a support vector ma
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
 </footer>
 
 

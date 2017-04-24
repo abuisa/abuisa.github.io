@@ -18,10 +18,11 @@ description: Penelitian
 		document.getElementById(d).style.display = 'none';
 		document.getElementById(e).style.display = 'none';
 	}
-	function show(a,b,c,g) {
+	function show(a,b,c,d,g) {
 		document.getElementById(a).style.display = 'block';
 		document.getElementById(b).style.display = 'none';
 		document.getElementById(c).style.display = 'none';
+		document.getElementById(d).style.display = 'none';
 		document.getElementById(g).style.display = 'block';
 	}
 	function checkmobile(a,b){
@@ -37,12 +38,17 @@ description: Penelitian
 
 	}
 
+	function showinrows(a,b){
+			document.getElementById(a).style.display = 'block';
+			document.getElementById(b).style.display = 'none';
+	}
 
 </script>
 <div id="top"></div>
-<a href="#i3e"  onclick="show('i3e','bab1','reff','')">ieeeExplorer</a>&nbsp;|&nbsp;
-<a href="#bab1"  onclick="show('bab1','i3e','reff','gtop')">Bab I</a>&nbsp;|&nbsp;
-<a href="#reff"  onclick="show('reff','i3e','bab1','gtop');checkmobile('mreff','reff')">Refferensi</a>
+<a href="#i3e"  onclick="show('i3e','bab1','reff','mreff','')">ieeeExplorer</a>&nbsp;|&nbsp;
+<a href="#bab1"  onclick="show('bab1','i3e','reff','mreff','gtop')">Bab I</a>&nbsp;|&nbsp;
+<a href="#reff"  onclick="show('reff','i3e','bab1','mreff','gtop');checkmobile('mreff','reff')">Refferensi</a>&nbsp;|&nbsp;
+<a href="#reff"  onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')">Ref-in-rows</a>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
