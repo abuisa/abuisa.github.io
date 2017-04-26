@@ -3,7 +3,7 @@ layout: page
 title: Penelitian
 description: Penelitian 
 ---
-
+{% include modulku.html %}
 <!--
 {% include ie-url.html %}
 -->
@@ -43,12 +43,26 @@ description: Penelitian
 			document.getElementById(b).style.display = 'none';
 	}
 
+	window.onload = function(){ 
+	    //alert("TES PESAN-PESAN .........!");
+
+		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+			//document.getElementById("jd").innerHTML = "<b>---Hello SmartPhone---</b>";
+			//zoom();
+			var d4 = document.getElementById('sir');
+			d4.style.visibility = "hidden";
+			
+			//alert("TES PESAN-PESAN .........!");
+		}
+
+	};
+
 </script>
 <div id="top"></div>
 <a href="#i3e"  onclick="show('i3e','bab1','reff','mreff','')">ieeeExplorer</a>&nbsp;|&nbsp;
 <a href="#bab1"  onclick="show('bab1','i3e','reff','mreff','gtop')">Bab I</a>&nbsp;|&nbsp;
 <a href="#reff"  onclick="show('reff','i3e','bab1','mreff','gtop');checkmobile('mreff','reff')">Refferensi</a>&nbsp;|&nbsp;
-<a href="#reff"  onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')">Ref-in-rows</a>
+<a href="#reff"  onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')" id="sir">Ref-in-rows</a>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 

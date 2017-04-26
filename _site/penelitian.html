@@ -26,8 +26,8 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Penelitian" />
 <meta property="og:description" content="Penelitian" />
-<link rel="canonical" href="https://abuisa.github.io//penelitian" />
-<meta property="og:url" content="https://abuisa.github.io//penelitian" />
+<link rel="canonical" href="http://localhost:4000//penelitian" />
+<meta property="og:url" content="http://localhost:4000//penelitian" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <script type="application/ld+json">
 {"@context": "http://schema.org",
@@ -36,7 +36,7 @@
 "author": {"@type": "Person",
 "name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
 "description": "Penelitian",
-"url": "https://abuisa.github.io//penelitian"}</script>
+"url": "http://localhost:4000//penelitian"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -126,7 +126,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -191,7 +191,51 @@
 
 			<article id="page">
 	
-  <!--
+  <html>
+<body>
+<script>
+	
+//===============
+	window.onload = function(){ 
+	    //alert("TES PESAN-PESAN .........!");
+
+		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+			//document.getElementById("jd").innerHTML = "<b>---Hello SmartPhone---</b>";
+			//zoom();
+			var d1 = document.getElementById('linkdiv1');
+			var d2 = document.getElementById('linkdiv2');
+			var d3 = document.getElementById('linkdiv3');
+			//var d4 = document.getElementById('sir');
+
+			d1.removeAttribute("class");
+			d2.removeAttribute("class");
+			d3.removeAttribute("class");
+			//d4.removeAttribute("class");
+			//d4.style.visibility = "hidden";
+			
+			//alert("TES PESAN-PESAN .........!");
+		}
+		else
+		{
+			;
+/*
+			//alert("TES PESAN-PESAN .........!");
+			var d1 = document.getElementById('linkdiv1');
+			var d2 = document.getElementById('linkdiv2');
+			var d3 = document.getElementById('linkdiv3');
+			d1.removeAttribute("class");
+			d2.removeAttribute("class");
+			d3.removeAttribute("class");
+*/
+		}
+
+	};
+
+</script>
+</body>
+</html>
+
+<!--
 <html>
 <body>
 <script>
@@ -249,13 +293,27 @@ Nomor : <input type="text" id="nomor" value=""> &nbsp; <button onclick="openInNe
 			document.getElementById(b).style.display = 'none';
 	}
 
+	window.onload = function(){ 
+	    //alert("TES PESAN-PESAN .........!");
+
+		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+			//document.getElementById("jd").innerHTML = "<b>---Hello SmartPhone---</b>";
+			//zoom();
+			var d4 = document.getElementById('sir');
+			d4.style.visibility = "hidden";
+			
+			//alert("TES PESAN-PESAN .........!");
+		}
+
+	};
+
 </script>
 
 <div id="top"></div>
 <p><a href="#i3e" onclick="show('i3e','bab1','reff','mreff','')">ieeeExplorer</a> | 
 <a href="#bab1" onclick="show('bab1','i3e','reff','mreff','gtop')">Bab I</a> | 
 <a href="#reff" onclick="show('reff','i3e','bab1','mreff','gtop');checkmobile('mreff','reff')">Refferensi</a> | 
-<a href="#reff" onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')">Ref-in-rows</a></p>
+<a href="#reff" onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')" id="sir">Ref-in-rows</a></p>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
@@ -700,6 +758,83 @@ feature reduction. </td>
 	<td> </td>
   </tr>
 
+  <tr>
+	<td>3. </td>
+	<td>Comparative Analysis of Feature Extraction Methods of Malware Detection </td>
+	<td>Smita Ranveer, Swapnaja Hiray </td>
+	<td>Recent years have encountered massive growth in malwares which poses a severe threat to modern computers and internet security. Existing malware detection systems are confronting with unknown malware variants. Recently developed malware detection systems investigated that the diverse forms of malware exhibit similar patterns in their structure with minor variations. Hence, it is required to discriminate the types of features extracted for detecting malwares. So that potential of malware detection system can be leveraged to combat with unfamiliar malwares. We mainly focus on the categorization of features based on malware analysis. This paper highlights general framework of malware detection system and pinpoints strengths and weaknesses of each method. Finally we presented overview of performance of present malware detection systems based on features. </td>
+	<td>The first crucial stage of malware detection mechanism is to determine the representation of malicious software files. Various representation patterns of malware files were mentioned in the literature. Transforming the large, vague collection of inputs into the set of features is called feature extraction. When there is abundant input data to an algorithm and tend to be more redundant and irrelevant, feature extraction is performed. It is required to gain the precise measurement of features which influence the classification of input as benign or malicious. Since feature extraction process transforms the features into an organized, more manageable subset of information. Further it also reduces the dataset for processing resulting low computational overhead [1]. The outcome of the feature extraction phase is a vector containing the frequencies of features extracted. Features extracted are chosen such that it attains maximum classification accuracy. The time required to get features from input dataset is also depends on the feature extraction methods. </td>
+	<td> </td>
+  </tr>
+  <tr>
+	<td>4. </td>
+	<td>Feature Selection and Extraction for Malware Classification </td>
+	<td>CHIH-TA LIN, NAI-JIAN WANG dkk </td>
+	<td>The explosive amount of malware continues their threats in network and operating systems. Signature-based method is widely used for detecting malware. Unfortunately, it is unable to determine variant malware on-the-fly. On the hand, behavior-based method can effectively characterize the behaviors of malware. However, it is time-consuming to train and predict for each specific family of malware. We propose a generic and efficient algorithm to classify malware. Our method combines the selection and the extraction of features, which significantly reduces the dimensionality of features for training and clas- sification. Based on malware behaviors collected from a sandbox environment, our method proceeds in five steps: (a) extracting n-gram feature space data from behavior logs; (b) building a support vector machine (SVM) classifier for malware classification; (c) selecting a subset of features; (d) transforming high-dimensional feature vectors into low-dimensional feature vectors; and (e) selecting models. Experiments were conducted on a real-world data set with 4,288 samples from 9 families, which demonstrated the ef- fectiveness and the efficiency of our approach.</td>
+	<td>To perform online malware analysis, the retraining and forecasting of updated mali- cious behaviors must be completed as rapidly as possible; thus, the number of features must be reduced in the learning and classification step. We exploited the feature selection and extraction techniques, using a support vector machine (SVM) classifier, proposing a generic dimension reduction method to update the learning model in few seconds. The following basic steps outline the proposed learning approach: 1: Behavior monitoring and data preprocessing. A corpus of malware binaries was executed and logs were collected using a sandbox environment based on hardware virtualization technology to avoid anti-malware detection. Regarding the application pro- gramming interface (API) function calls, the feature data were generated based on behavior logs by using the bag-of-words model...  </td>
+	<td> </td>
+  </tr>
+  <tr>
+	<td>5. </td>
+	<td>A STATIC MALWARE DETECTION SYSTEM USING DATA MINING METHODS  </td>
+	<td>Usukhbayar Baldangombo, Nyamjav Jambaljav, Shi-Jinn Horng </td>
+	<td>A serious threat today is malicious executables. It is designed to damage computer system and some of them spread over network without the knowledge of the owner using the system. Two approaches have been derived for it i.e. Signature Based Detection and Heuristic Based Detection. These approaches performed well against known malicious programs but cannot catch the new malicious programs. Different researchers have proposed methods using data mining and machine learning for detecting new malicious programs. The method based on data mining and machine learning has shown good results compared to other approaches.  This work presents a static malware detection system using data mining techniques such as Information Gain, Principal component analysis, and three classifiers: SVM, J48, and Naïve Bayes. For overcoming the lack of usual anti-virus products, we use methods of static analysis to extract valuable features of Windows PE file. We extract raw features of Windows executables which are PE header information, DLLs, and API functions inside each DLL of Windows PE file. Thereafter, Information Gain, calling frequencies of the raw features are calculated to select valuable subset features, and then Principal Component Analysis is used for dimensionality reduction of the selected features. By adopting the concepts of machine learning and data-mining, we construct a static malware detection system which has a detection rate of 99.6%. </td>
+	<td>Shultz et al. [6] proposed a method using data mining techniques for detecting new malicious executables. Three different types of features are extracted from the executables, i.e. the list of DLLs used by the binary, the list of DLL function calls, and number of different system calls used within each DLL. Also they analyze byte sequences extracted from the hexdump of an executable. The data set consisted of 4,266 files out of which 3,265 were malicious and 1,001 were legitimate or benign programs. A rule induction algorithm called Ripper [7] was applied to find patterns in the DLL data. A learning algorithm Naïve Bayes (NB), which is based on Bayesian statistics, was used to find patterns in the string data and n-grams of byte sequences were used as input data for the Multinomial Naïve Bayes algorithm. A data set is partitioned in two data sets, i.e., a test data set and a training data set. This is to allow for performance testing on data that are independent from the data used to generate the classifiers... </td>
+	<td> </td>
+  </tr>
+  <tr>
+	<td>6. </td>
+	<td>New Malicious Code Detection Based on N-Gram Analysis and Rough Set Theory </td>
+	<td>Boyun Zhang, Jianping Yin, Jingbo Hao, dkk. </td>
+	<td>Motivated by the standard signature-based technique for detecting viruses, we explore the idea of automatically detecting malicious code using the N-gram analysis. The method is based on statistical learning and not strictly dependent on certain viruses. We propose the use of rough set theory to reduce the feature dimension. An efficient implementation to calculate relative core, based on positive region definition is presented also. The k nearest neighbor and support vector machine classifiers are used to categorize a program as either normal or abnormal. The experimental results are promising and show that the proposed scheme results in low rate of false positive.</td>
+	<td>Because the n-grams obtained from the method above is redundant, we should firstly reduce the feature dimension of our detection model as a preprocessing step. Here we use RST to reduce the feature dimension. As we know that Rough Set Theory (RST) offers two fundamental concepts to deal with this particular problem: reduct and core. These concepts are generalized to fami- lies of equivalence relations. Some algorithms have been proposed to calculate reducts and core. Based on discernibility matrix and functions an algorithm to obtain core and reducts is defined [7]. However these routines are space and time consuming in practice for real world databases, thus, the need for an alternative implementation to improve and make more efficient large database processing. In this paper an efficient imple- mentation to calculate relative core, based on positive region definition is presented. Our method of implementation takes into account the following considerations: ... </td>
+	<td> </td>
+  </tr>
+
+  <tr>
+	<td>7. </td>
+	<td>DATA MINING METHODS FOR MALWARE DETECTION </td>
+	<td>MUAZZAM AHMED SIDDIQUI </td>
+	<td>This research investigates the use of data mining methods for malware (malicious programs) de-
+tection and proposed a framework as an alternative to the traditional signature detection methods.
+The traditional approaches using signatures to detect malicious programs fails for the new and un-
+known malwares case, where signatures are not available. We present a data mining framework to
+detect malicious programs. We collected, analyzed and processed several thousand malicious and
+clean programs to find out the best features and build models that can classify a given program
+into a malware or a clean class. Our research is closely related to information retrieval and classification techniques and borrows a number of ideas from the field. We used a vector space model to represent the programs in our collection. Our data mining framework includes two separate
+and distinct classes of experiments. The first are the supervised learning experiments that used a
+dataset, consisting of several thousand malicious and clean program samples to train, validate and
+test, an array of classifiers. In the second class of experiments, we proposed using sequential as
+sociation analysis for feature selection and automatic signature extraction. With our experiments,
+we were able to achieve as high as 98.4% detection rate and as low as 1.9% false positive rate on
+novel malwares. </td>
+	<td>The difference among our approach and other static analysis approaches mentioned in the re- lated research section are as follows. The framework we developed, used applied data mining as a complete process from problem statement to the model interpretation step. [Bon93] discussed the importance of maintaining a clean virus collection for research. We subjected the data to a malware analysis process where thousands of malwares as well as clean files were analyzed for corrupt and duplicate elements and packed, encrypted, polymorphic and metamorphic forms. Although data preparation is a very important step in a data mining process, most of the existing static analysis techniques mentioned in the 2 chapter did not discuss this step in detail except [WSS02]. Also, all features were sequences of instructions extracted by the disassembly instead of using fixed length of bytes such as n-gram.  </td>
+	<td> </td>
+  </tr>
+  <tr>
+	<td>8. </td>
+	<td>Feature Extraction and Static Analysis for Large-Scale Detection of Malware Types and Families </td>
+	<td>Lars Strande Grini </td>
+	<td>There exist different methods of identifying malware, and widespread method is the one found in almost every antivirus solution on the market today; the signature based ap- proach. This approach uses a one-way cryptographic function to generate a unique hash of each file. Afterwards, each hash is checked against a database of hashes of known mal- ware. This method provides close to none false positives, but this does also mean that this approach can only detect previously known malware, and will in many cases also provide a number of false negatives. Malware authors exploit this weakness in the way that they change a small part of the malicious code, and thereby changes the entire hash of the file, which then leaves the malicious code undetectable until the sample is discovered, analyzed and updated in the vendors database(s). In the light of this relatively easy mit- igation for malware authors, it is clear that we need other ways to identify malware. The other two main approaches for this are static analysis and behavior based/dynamic ana- lysis. The primary goal of such analysis and previous research has been focused around detecting whether a file is malicious or benign (binary classification). There has been comprehensive work in these fields the last few years. In the work we are proposing, we will leverage results from static analysis using machine learning methods, to distin- guish malicious Windows executables. Not just benign/malicious as in many researches, but by malware family affiliation. To do this we will use a database consisting of about of 330.000 malicious executables. A challenge in this work will be the naming of the samples and families as different antivirus vendors labels samples with different names and follows no standard naming scheme. This is exemplified by e.g. the VirusTotal online scanner which scans a hash in 57 malware databases. For the static analysis we will use the VirusTotal scanner as well as an open source tool for analyzing portable executables, PEframe. The work performed in the thesis presents a novel approach to extract and construct features that can be used to make an estimation of which type and family a malicious file is an instance of, which can be useful for analysis and antivirus scanners. This contribution is novel because multinominal classification is applied to distinguish between different types and families. </td>
+	<td>In this section we present the different methods for feature selection and classification used in the experiments. For feature selection and classification, the Weka Data Mining software, and the names used for the different methods in this sections corresponds to the name of the methods in Weka [56]. There exist other software that implements machine learning methods, such as RapidMiner 10 and Orange Data Mining 11 , but he have chosen to focus exclusively on Weka since it is most commonly used and implements a broad range of algorithms. Own implementations of algorithms were considered, but due to the limitation of time, we used Weka for all experiments, which also enabled us to have time to utilize multiple algorithms for feature selection and classification. </td>
+	<td> </td>
+  </tr>
+  <tr>
+	<td>9. </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+  </tr>
+  <tr>
+	<td>10. </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+	<td> </td>
+  </tr>
 </table>
 <pre>
 </pre>
@@ -736,7 +871,7 @@ The highest accuracy achieved was 96%, and was reached using a support vector ma
   </tr>
   <tr>
 	<th>File</th>
-	<td> </td>
+	<td> <a href="reff/Automated-malware-detection-using-artifacts-in-forensic-memory-imagesmosli2016.pdf" target="_blank">tes pdf</a></td>
   </tr>
 </table>
 </div>
@@ -793,7 +928,7 @@ feature reduction. </td>
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+	    <footer><span>@2017 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
 </footer>
 
 

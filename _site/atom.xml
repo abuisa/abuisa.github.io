@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IkhwanElyas Page</title>
- <link href="https://abuisa.github.io/atom.xml" rel="self"/>
- <id>https://abuisa.github.io</id>
- <updated>2017-04-25T04:20:20+07:00</updated>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2017-04-26T10:40:41+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -15,8 +15,8 @@
 
  <entry>
    <title>Sejarah Ilmu Forensic dan Forensik Digital</title>
-   <link href="https://abuisa.github.io/sejarah-ilmu-forensik-digital"/>
-   <id>https://abuisa.github.io/sejarah-ilmu-forensik-digital</id>
+   <link href="http://localhost:4000/sejarah-ilmu-forensik-digital"/>
+   <id>http://localhost:4000/sejarah-ilmu-forensik-digital</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Sejarah keberadaan Ilmu forensik menurut beberapa literatur sudah ada sejak ratusan bahkan ribuan tahun lalu. Dalam perkembangannya ilmu forensik mulai terpecah-pecah menjadi beberapa disiplin ilmu, diantaranya adalah disiplin ilmu forensik digital, beberapa cabang disiplin ilmu forensik lainya adalah kedokteran forensik, ilmu fisika forensik, ilmu kimia forensik, ilmu toksikologi forensik, dan...</content>
  </entry>
@@ -25,8 +25,8 @@
 
  <entry>
    <title>Doa Selain Bahasa Arab dalam Sujud</title>
-   <link href="https://abuisa.github.io/doa-selain-arab-dalam-sujud"/>
-   <id>https://abuisa.github.io/doa-selain-arab-dalam-sujud</id>
+   <link href="http://localhost:4000/doa-selain-arab-dalam-sujud"/>
+   <id>http://localhost:4000/doa-selain-arab-dalam-sujud</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;penjelasan-ust-khalid-basalamah-tentang-doa-dalam-sujud-menggunakan-bahasa-selain-bahasa-arab&quot;&gt;Penjelasan Ust. Khalid Basalamah Tentang Doa dalam Sujud menggunakan bahasa selain Bahasa Arab.&lt;/h4&gt;
 
@@ -41,8 +41,8 @@ https://www.youtube.com/embed/OoE-x7mI33E?start=200&amp;end=635
 
  <entry>
    <title>Definisi Forensik Digital</title>
-   <link href="https://abuisa.github.io/definisi-forensik-digital"/>
-   <id>https://abuisa.github.io/definisi-forensik-digital</id>
+   <link href="http://localhost:4000/definisi-forensik-digital"/>
+   <id>http://localhost:4000/definisi-forensik-digital</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Sebelum membaca atau masuk pada definisi-definisi yang kami kumpulkan dari beberbagai sumber literatur dibawah, terlebih dahulu dipahami tentang istilah digital forensik itu sendiri, dalam beberapa tulisannya para pakar IT atau komputer menyamakan antara istilah digital forensik dengan komputer forensik, meskipun ada bebrapa ahli yang mengatakan istilah digital forensik lebih umum...</content>
  </entry>
@@ -51,8 +51,8 @@ https://www.youtube.com/embed/OoE-x7mI33E?start=200&amp;end=635
 
  <entry>
    <title>Potensi Bukti Digital Pada Perangkat Digital</title>
-   <link href="https://abuisa.github.io/bukti-digital-pada-digital-device"/>
-   <id>https://abuisa.github.io/bukti-digital-pada-digital-device</id>
+   <link href="http://localhost:4000/bukti-digital-pada-digital-device"/>
+   <id>http://localhost:4000/bukti-digital-pada-digital-device</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Tema diatas: &lt;i&gt;Evidential Potential of Digital Device&lt;/i&gt; merupakan bagian ke-2 dari beberapa bagian yang terdapat dalam buku &lt;i&gt;Digital Forensics Digital evidence in Criminal Investigation&lt;/i&gt; yang ditulis oleh Angus Marshall. dalam buku ini penulis buku mengupas secara luas tentang digital forensik dan secara mendalam terutama tentang digital evidence in criminal investigation...</content>
  </entry>
@@ -61,8 +61,8 @@ https://www.youtube.com/embed/OoE-x7mI33E?start=200&amp;end=635
 
  <entry>
    <title>Anti Forensik</title>
-   <link href="https://abuisa.github.io/anti-forensik"/>
-   <id>https://abuisa.github.io/anti-forensik</id>
+   <link href="http://localhost:4000/anti-forensik"/>
+   <id>http://localhost:4000/anti-forensik</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Anti Forensik, secara umum dapat dikatakan sebagai sebuah usaha yang diambil oleh seseorang untuk menggagalkan atau memperlambat proses penyidikan forensik digital. Tulisan dibawah membahas tentang dua paper yang ditulis oleh Gary C. Kessler dengan judul Anti-Forensics and the Digital Investigator, dan paper yang ditulis oleh Przemyslaw Pajek dan Elias Pimenidis...</content>
  </entry>
@@ -71,8 +71,8 @@ https://www.youtube.com/embed/OoE-x7mI33E?start=200&amp;end=635
 
  <entry>
    <title>Online Email Tracking</title>
-   <link href="https://abuisa.github.io/online-tmail-tracking"/>
-   <id>https://abuisa.github.io/online-tmail-tracking</id>
+   <link href="http://localhost:4000/online-tmail-tracking"/>
+   <id>http://localhost:4000/online-tmail-tracking</id>
    <updated>2017-04-18T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Assalaualaikum….&lt;/p&gt; &lt;p&gt;Ok, kali ini kita akan membahas salah satu cara untuk melacak sebuah email yang dikirimkan ke kita dan kita tidak tau email tersebut dari mana atau mungkin kita curigai, karena dicurigai maka akan dilakukan proses tracking terhadap email tersebt, maksud email tracking disini adalah kita akan melakukan beberapa langkah...</content>
  </entry>
@@ -81,8 +81,8 @@ https://www.youtube.com/embed/OoE-x7mI33E?start=200&amp;end=635
 
  <entry>
    <title>Lokasi-Lokasi Bukti Digital</title>
-   <link href="https://abuisa.github.io/digital-evidence-locations"/>
-   <id>https://abuisa.github.io/digital-evidence-locations</id>
+   <link href="http://localhost:4000/digital-evidence-locations"/>
+   <id>http://localhost:4000/digital-evidence-locations</id>
    <updated>2017-04-18T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Di Dalam buku &lt;i&gt;Digital Forensics Digital Evidence in Criminal Investigation&lt;/i&gt; yang ditulis oleh Angus M. Marshall, beliau mengupas secara luas tentang digital forensik secara mendalam terutama tentang digital evidence in criminal investigation atau bukti digital dalam suatu investigasi kasus kriminal, dalam pengantarnya Angus M. Marshall menjelaskan bahwa buku ini dimaksudkan...</content>
  </entry>
@@ -91,8 +91,8 @@ https://www.youtube.com/embed/OoE-x7mI33E?start=200&amp;end=635
 
  <entry>
    <title>Berlindung dari Ilmu yang Tidak Bermanfaat</title>
-   <link href="https://abuisa.github.io/berlindung-dari-ilmu-yang-tidak-bermanfaat"/>
-   <id>https://abuisa.github.io/berlindung-dari-ilmu-yang-tidak-bermanfaat</id>
+   <link href="http://localhost:4000/berlindung-dari-ilmu-yang-tidak-bermanfaat"/>
+   <id>http://localhost:4000/berlindung-dari-ilmu-yang-tidak-bermanfaat</id>
    <updated>2017-04-18T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;sumber-pertama&quot;&gt;Sumber Pertama&lt;/h4&gt; &lt;p&gt;&lt;b&gt;اَللَّهُمَّ إِنِّي أَعُوْذُبِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا&lt;/b&gt;&lt;/p&gt; &lt;p&gt;Allaahumma innii a’uudzu bika min ‘ilmin laa yanfa’, wa min qolbin laa yakhsya’, wa min nafsin laa tasyba’, wa min da’watin laa yustajaabulahaa.&lt;/p&gt; &lt;p&gt;Ya Allah, sesungguhnya aku...</content>
  </entry>
@@ -101,8 +101,8 @@ https://www.youtube.com/embed/OoE-x7mI33E?start=200&amp;end=635
 
  <entry>
    <title>Sifat-Sifat Setan dari Jenis Manusia</title>
-   <link href="https://abuisa.github.io/syaetan-manusia"/>
-   <id>https://abuisa.github.io/syaetan-manusia</id>
+   <link href="http://localhost:4000/syaetan-manusia"/>
+   <id>http://localhost:4000/syaetan-manusia</id>
    <updated>2017-04-16T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Materi ini merupakan terjemahan materi tanya jawab yang terdapa di channel telegram milik &lt;a href=&quot;https://t.me/forumsalafy&quot;&gt;salafi-indonesia&lt;/a&gt;, materi yang diterjemahkan merupakan jawaban syaikh Shalih al-Utsaimin terhadap pertanyaan sifat-sifat syaitan pada manusia yang terdapat pada situs &lt;a href=&quot;http://bayenahsalaf.com/vb/showthread.php?t=12087&quot; target=&quot;_blank&quot;&gt;bayenahsalaf.com&lt;/a&gt;.&lt;/p&gt; &lt;h3 id=&quot;asy-syaikh-muhammad-bin-shalih-al-utsaimin-rahimahullah&quot;&gt;Asy-Syaikh Muhammad bin Shalih al-Utsaimin rahimahullah&lt;/h3&gt; &lt;h4 id=&quot;pertanyaan&quot;&gt;Pertanyaan:&lt;/h4&gt; &lt;p&gt;&lt;b&gt;حفظك الله يا شيخ! بيَّنت...</content>
  </entry>
@@ -111,8 +111,8 @@ https://www.youtube.com/embed/OoE-x7mI33E?start=200&amp;end=635
 
  <entry>
    <title>hddsuperclone Tool untuk Akuisisi Hardisk dan USB Flashdisk</title>
-   <link href="https://abuisa.github.io/hddsuperclone-tool-akuisisi-hardisk"/>
-   <id>https://abuisa.github.io/hddsuperclone-tool-akuisisi-hardisk</id>
+   <link href="http://localhost:4000/hddsuperclone-tool-akuisisi-hardisk"/>
+   <id>http://localhost:4000/hddsuperclone-tool-akuisisi-hardisk</id>
    <updated>2017-04-11T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Assalamualaikum…&lt;/p&gt; &lt;p&gt;Ok, kali ini saya ajak anda sama-sama kita belajar tentang salah satu bagian kecil dari forensik digital, tepatnya bagaimana cara kita melakukan proses akuisisi sebuah hardisk atau usb flashdisk, nah.. untuk membantu kita malakukan proses akuisisi atau imagin kita menggunakan tool, yang akan kita pelajari kali ini adalah sebuah...</content>
  </entry>
