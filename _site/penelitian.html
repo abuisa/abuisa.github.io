@@ -26,8 +26,8 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Penelitian" />
 <meta property="og:description" content="Penelitian" />
-<link rel="canonical" href="http://localhost:4000//penelitian" />
-<meta property="og:url" content="http://localhost:4000//penelitian" />
+<link rel="canonical" href="https://abuisa.github.io//penelitian" />
+<meta property="og:url" content="https://abuisa.github.io//penelitian" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <script type="application/ld+json">
 {"@context": "http://schema.org",
@@ -36,7 +36,7 @@
 "author": {"@type": "Person",
 "name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
 "description": "Penelitian",
-"url": "http://localhost:4000//penelitian"}</script>
+"url": "https://abuisa.github.io//penelitian"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -126,7 +126,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
+      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -273,7 +273,13 @@ Nomor : <input type="text" id="nomor" value=""> &nbsp; <button onclick="openInNe
 		document.getElementById(b).style.display = 'none';
 		document.getElementById(c).style.display = 'none';
 		document.getElementById(d).style.display = 'none';
-		document.getElementById(g).style.display = 'block';
+		
+		if (g == "gtop"){			
+			document.getElementById('gtop').style.display = 'block';
+        }else{
+        	document.getElementById('gtop').style.display = 'none';
+        }
+		
 	}
 	function checkmobile(a,b){
 		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
@@ -283,9 +289,7 @@ Nomor : <input type="text" id="nomor" value=""> &nbsp; <button onclick="openInNe
 		else
 		{
 			;
-
 		}
-
 	}
 
 	function showinrows(a,b){
@@ -294,18 +298,17 @@ Nomor : <input type="text" id="nomor" value=""> &nbsp; <button onclick="openInNe
 	}
 
 	window.onload = function(){ 
-	    //alert("TES PESAN-PESAN .........!");
 
 		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-			//document.getElementById("jd").innerHTML = "<b>---Hello SmartPhone---</b>";
-			//zoom();
 			var d4 = document.getElementById('sir');
 			d4.style.visibility = "hidden";
-			
 			//alert("TES PESAN-PESAN .........!");
 		}
-
 	};
+	function openpdf (fpdf){
+		window.open(fpdf);
+		window.title("Open-File")
+	}
 
 </script>
 
@@ -313,7 +316,7 @@ Nomor : <input type="text" id="nomor" value=""> &nbsp; <button onclick="openInNe
 <p><a href="#i3e" onclick="show('i3e','bab1','reff','mreff','')">ieeeExplorer</a> | 
 <a href="#bab1" onclick="show('bab1','i3e','reff','mreff','gtop')">Bab I</a> | 
 <a href="#reff" onclick="show('reff','i3e','bab1','mreff','gtop');checkmobile('mreff','reff')">Refferensi</a> | 
-<a href="#reff" onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')" id="sir">Ref-in-rows</a></p>
+<a href="#mreff" onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')" id="sir">Ref-in-rows</a></p>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
@@ -871,7 +874,7 @@ The highest accuracy achieved was 96%, and was reached using a support vector ma
   </tr>
   <tr>
 	<th>File</th>
-	<td> <a href="reff/Automated-malware-detection-using-artifacts-in-forensic-memory-imagesmosli2016.pdf" target="_blank">tes pdf</a></td>
+	<td> <a href="reff/Automated-malware-detection-using-artifacts-in-forensic-memory-imagesmosli2016.pdf" target="_blank">Automated-malware-detection-using-artifacts-in-forensic-memory-imagesmosli2016.pdf</a></td>
   </tr>
 </table>
 </div>
@@ -903,7 +906,7 @@ feature reduction. </td>
   </tr>
   <tr>
 	<th>File</th>
-	<td> </td>
+	<td><a href="reff/Classification-of-malware-families-based-on-N-grams-sequential-pattern-features.pdf" target="_blank">Classification-of-malware-families-based-on-N-grams-sequential-pattern-features.pdf</a> </td>
   </tr>
 
 
@@ -934,7 +937,7 @@ feature reduction. </td>
   </tr>
   <tr>
 	<th>File</th>
-	<td> </td>
+	<td> <a href="reff/Comparative-Analysis-of-Feature-Extraction-Methods-of-pxc.pdf" target="_blank">Comparative-Analysis-of-Feature-Extraction-Methods-of-pxc.pdf </a> </td>
   </tr>
 </table>
 </div>
@@ -963,7 +966,7 @@ feature reduction. </td>
   </tr>
   <tr>
 	<th>File</th>
-	<td> </td>
+	<td><a href="reff/Feature-Selection-and-Extraction-for-Malware-Classification-201505-11.pdf" target="_blank">Feature-Selection-and-Extraction-for-Malware-Classification-201505-11.pdf </a>  </td>
   </tr>
 </table>
 </div>
@@ -992,7 +995,7 @@ feature reduction. </td>
   </tr>
   <tr>
 	<th>File</th>
-	<td> </td>
+	<td><a href="reff/A-STATIC-MALWARE-DETECTION-SYSTEM-USING-1308.2831.pdf" target="_blank">A-STATIC-MALWARE-DETECTION-SYSTEM-USING-1308.2831.pdf </a>  </td>
   </tr>
 </table>
 </div>
@@ -1021,7 +1024,7 @@ feature reduction. </td>
   </tr>
   <tr>
 	<th>File</th>
-	<td> </td>
+	<td><a href="reff/New-Malicious-Code-Detection-Based-on-N-Gram-Analy.pdf" target="_blank">New-Malicious-Code-Detection-Based-on-N-Gram-Analy.pdf</a>  </td>
   </tr>
 </table>
 </div>
@@ -1062,7 +1065,7 @@ novel malwares. </td>
   </tr>
   <tr>
 	<th>File</th>
-	<td> </td>
+	<td><a href="reff/DATA-MINING-METHODS-FOR-MALWARE-DETECTION.pdf" target="_blank">DATA-MINING-METHODS-FOR-MALWARE-DETECTION.pdf </a>  </td>
   </tr>
 </table>
 </div>
@@ -1091,7 +1094,7 @@ novel malwares. </td>
   </tr>
   <tr>
 	<th>File</th>
-	<td> </td>
+	<td><a href="reff/Feature-Extraction-and-Static-Analysis-Malware-LSGrini-2015.pdf" target="_blank">Feature-Extraction-and-Static-Analysis-Malware-LSGrini-2015.pdf </a>  </td>
   </tr>
 </table>
 </div>
@@ -1145,7 +1148,7 @@ novel malwares. </td>
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
 </footer>
 
 

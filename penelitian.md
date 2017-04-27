@@ -23,7 +23,13 @@ description: Penelitian
 		document.getElementById(b).style.display = 'none';
 		document.getElementById(c).style.display = 'none';
 		document.getElementById(d).style.display = 'none';
-		document.getElementById(g).style.display = 'block';
+		
+		if (g == "gtop"){			
+			document.getElementById('gtop').style.display = 'block';
+        }else{
+        	document.getElementById('gtop').style.display = 'none';
+        }
+		
 	}
 	function checkmobile(a,b){
 		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
@@ -33,9 +39,7 @@ description: Penelitian
 		else
 		{
 			;
-
 		}
-
 	}
 
 	function showinrows(a,b){
@@ -44,25 +48,24 @@ description: Penelitian
 	}
 
 	window.onload = function(){ 
-	    //alert("TES PESAN-PESAN .........!");
 
 		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-			//document.getElementById("jd").innerHTML = "<b>---Hello SmartPhone---</b>";
-			//zoom();
 			var d4 = document.getElementById('sir');
 			d4.style.visibility = "hidden";
-			
 			//alert("TES PESAN-PESAN .........!");
 		}
-
 	};
+	function openpdf (fpdf){
+		window.open(fpdf);
+		window.title("Open-File")
+	}
 
 </script>
 <div id="top"></div>
 <a href="#i3e"  onclick="show('i3e','bab1','reff','mreff','')">ieeeExplorer</a>&nbsp;|&nbsp;
 <a href="#bab1"  onclick="show('bab1','i3e','reff','mreff','gtop')">Bab I</a>&nbsp;|&nbsp;
 <a href="#reff"  onclick="show('reff','i3e','bab1','mreff','gtop');checkmobile('mreff','reff')">Refferensi</a>&nbsp;|&nbsp;
-<a href="#reff"  onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')" id="sir">Ref-in-rows</a>
+<a href="#mreff"  onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')" id="sir">Ref-in-rows</a>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
