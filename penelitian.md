@@ -9,13 +9,30 @@ description: Penelitian
 	jika perangkat mobile device maka ubah div-kolom menjadi div-rows
 -->
 <script>
-	function msg(){
-		alert("tessssssssssss bab 1");
+
+	function msg(a){
+		alert(a);
 	}
-	function msgx(tes){
-		alert(tes);
+	//========Ini Fungsi Untuk Show Button go-to-top========
+
+	window.onscroll = function() {scrollFunction()};
+
+	function scrollFunction() {
+		if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		    document.getElementById("myBtn").style.display = "block";
+		} else {
+		    document.getElementById("myBtn").style.display = "none";
+		}
 	}
+
+	// When the user clicks on the button, scroll to the top of the document
+	function topFunction() {
+		document.body.scrollTop = 0;
+		document.documentElement.scrollTop = 0;
+	}
+	//======End Fungsi go-to-top===========
 	function checkmobile(a,b){
+		//---Periksa jika perangkat Mobile Device maka tampilkan a dan hide b
 		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
 			document.getElementById(a).style.display = 'block';
 			document.getElementById(b).style.display = 'none';
@@ -55,30 +72,13 @@ description: Penelitian
 		}
 
 	}
-	//========Ini Fungsi Untuk Show Button go-to-top========
 
-	window.onscroll = function() {scrollFunction()};
-
-	function scrollFunction() {
-		if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-		    document.getElementById("myBtn").style.display = "block";
-		} else {
-		    document.getElementById("myBtn").style.display = "none";
-		}
-	}
-
-	// When the user clicks on the button, scroll to the top of the document
-	function topFunction() {
-		document.body.scrollTop = 0;
-		document.documentElement.scrollTop = 0;
-	}
-	//======End Fungsi go-to-top===========
 </script>
 
-<a href="#i3e"  onclick="showx('i3e')">ieeeExplorer</a>&nbsp;|&nbsp;
-<a href="#bab1"  onclick="showx('bab1')">Bab I</a>&nbsp;|&nbsp;
-<a href="#reff"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>&nbsp;|&nbsp;
-<a href="#mreff"  onclick="showx('mreff');showinrows('mreff','reff')" id="sir">Ref-in-rows</a>
+<a href="#i3e"  onclick="showx('i3e')">ieeeExplorer</a>
+&nbsp;|&nbsp;<a href="#bab1"  onclick="showx('bab1')">Bab I</a>
+&nbsp;|&nbsp;<a href="#reff"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
+&nbsp;|&nbsp;<a href="#mreff"  onclick="showx('mreff');showinrows('mreff','reff')" id="sir">Ref-in-rows</a>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
