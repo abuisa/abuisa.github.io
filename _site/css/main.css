@@ -789,10 +789,12 @@ th, td {
   border: none;
   outline: none;
   background-color: gray;
-  color: white;
+  opacity: 0.3;
+  color: black;
   cursor: pointer;
   padding: 10px;
   border-radius: 7px; }
 
 #myBtn:hover {
-  background-color: darkgray; }
+  background-color: darkgray;
+  opacity: 0.8; }
