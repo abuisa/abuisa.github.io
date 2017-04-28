@@ -12,32 +12,34 @@
 			var d1 = document.getElementById('linkdiv1');
 			var d2 = document.getElementById('linkdiv2');
 			var d3 = document.getElementById('linkdiv3');
-			//var d4 = document.getElementById('sir');
-
 			d1.removeAttribute("class");
 			d2.removeAttribute("class");
 			d3.removeAttribute("class");
-			//d4.removeAttribute("class");
-			//d4.style.visibility = "hidden";
-			
-			//alert("TES PESAN-PESAN .........!");
 		}
 		else
 		{
 			;
-/*
-			//alert("TES PESAN-PESAN .........!");
-			var d1 = document.getElementById('linkdiv1');
-			var d2 = document.getElementById('linkdiv2');
-			var d3 = document.getElementById('linkdiv3');
-			d1.removeAttribute("class");
-			d2.removeAttribute("class");
-			d3.removeAttribute("class");
-*/
+
 		}
-
 	};
+	//========Ini Fungsi Untuk Show Button go-to-top========
 
+	window.onscroll = function() {scrollFunction()};
+
+	function scrollFunction() {
+		if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		    document.getElementById("myBtn").style.display = "block";
+		} else {
+		    document.getElementById("myBtn").style.display = "none";
+		}
+	}
+
+	// When the user clicks on the button, scroll to the top of the document
+	function topFunction() {
+		document.body.scrollTop = 0;
+		document.documentElement.scrollTop = 0;
+	}
+	//======End Fungsi go-to-top===========
 </script>
 </body>
 </html>

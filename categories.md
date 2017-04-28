@@ -6,6 +6,7 @@ header: All Post
 ---
 
 {% include modulku.html %}
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 ## Post Categories : 
 
