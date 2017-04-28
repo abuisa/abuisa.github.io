@@ -79,4 +79,22 @@ th, td {
 .divtable {
 	padding-top: 1cm;
 }
+//=====Untuk Button go to top====
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 15px;
+  right: 20px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: gray;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 7px;
+}
 
+#myBtn:hover {
+  background-color: darkgray;
+}

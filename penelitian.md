@@ -5,31 +5,15 @@ description: Penelitian
 ---
 {% include modulku.html %}
 <!--
-{% include ie-url.html %}
+	modulku.html berisi javascript untuk cek mobile device, 
+	jika perangkat mobile device maka ubah div-kolom menjadi div-rows
 -->
 <script>
 	function msg(){
 		alert("tessssssssssss bab 1");
 	}
-	function show_a(a,b,c,d,e) {
-		document.getElementById(a).style.display = 'block';
-		document.getElementById(b).style.display = 'none';
-		document.getElementById(c).style.display = 'none';
-		document.getElementById(d).style.display = 'none';
-		document.getElementById(e).style.display = 'none';
-	}
-	function show(a,b,c,d,g) {
-		document.getElementById(a).style.display = 'block';
-		document.getElementById(b).style.display = 'none';
-		document.getElementById(c).style.display = 'none';
-		document.getElementById(d).style.display = 'none';
-		
-		if (g == "gtop"){			
-			document.getElementById('gtop').style.display = 'block';
-        }else{
-        	document.getElementById('gtop').style.display = 'none';
-        }
-		
+	function msgx(tes){
+		alert(tes);
 	}
 	function checkmobile(a,b){
 		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
@@ -60,12 +44,41 @@ description: Penelitian
 		window.title("Open-File")
 	}
 
+	function showx(a) {
+		var dtag = ["bab1","i3e","reff","mreff"];
+		for(var i = 0;i < dtag.length;i++){
+			if (a == dtag[i]){
+				document.getElementById(a).style.display = 'block';
+			}else{
+				document.getElementById(dtag[i]).style.display = 'none';
+			}
+		}
+
+	}
+	//========Ini Fungsi Untuk Show Button go-to-top========
+
+	window.onscroll = function() {scrollFunction()};
+
+	function scrollFunction() {
+		if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		    document.getElementById("myBtn").style.display = "block";
+		} else {
+		    document.getElementById("myBtn").style.display = "none";
+		}
+	}
+
+	// When the user clicks on the button, scroll to the top of the document
+	function topFunction() {
+		document.body.scrollTop = 0;
+		document.documentElement.scrollTop = 0;
+	}
+	//======End Fungsi go-to-top===========
 </script>
-<div id="top"></div>
-<a href="#i3e"  onclick="show('i3e','bab1','reff','mreff','')">ieeeExplorer</a>&nbsp;|&nbsp;
-<a href="#bab1"  onclick="show('bab1','i3e','reff','mreff','gtop')">Bab I</a>&nbsp;|&nbsp;
-<a href="#reff"  onclick="show('reff','i3e','bab1','mreff','gtop');checkmobile('mreff','reff')">Refferensi</a>&nbsp;|&nbsp;
-<a href="#mreff"  onclick="show('reff','i3e','bab1','mreff','gtop');showinrows('mreff','reff')" id="sir">Ref-in-rows</a>
+
+<a href="#i3e"  onclick="showx('i3e')">ieeeExplorer</a>&nbsp;|&nbsp;
+<a href="#bab1"  onclick="showx('bab1')">Bab I</a>&nbsp;|&nbsp;
+<a href="#reff"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>&nbsp;|&nbsp;
+<a href="#mreff"  onclick="showx('mreff');showinrows('mreff','reff')" id="sir">Ref-in-rows</a>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
@@ -92,7 +105,6 @@ description: Penelitian
 
 </div>
 
-<div id="gtop" style="display:none" border="0">
-<a href="#top" >go-to-top</a>
-</div>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
 
