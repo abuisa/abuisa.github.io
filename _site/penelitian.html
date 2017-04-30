@@ -18,6 +18,9 @@
 
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/png" href="img/cantik-icon.png">
+
+ <!-- Tambahan include JQuery -->
+	<script src="js/jquery.min.js"></script>
 	
 	<!-- Begin Jekyll SEO tag v2.2.0 -->
 <title>Penelitian | IkhwanElyas Page</title>
@@ -26,8 +29,8 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Penelitian" />
 <meta property="og:description" content="Penelitian" />
-<link rel="canonical" href="http://localhost:4000//penelitian" />
-<meta property="og:url" content="http://localhost:4000//penelitian" />
+<link rel="canonical" href="https://abuisa.github.io//penelitian" />
+<meta property="og:url" content="https://abuisa.github.io//penelitian" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <script type="application/ld+json">
 {"@context": "http://schema.org",
@@ -36,8 +39,9 @@
 "author": {"@type": "Person",
 "name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
 "description": "Penelitian",
-"url": "http://localhost:4000//penelitian"}</script>
+"url": "https://abuisa.github.io//penelitian"}</script>
 <!-- End Jekyll SEO tag -->
+
 
 </head>
 
@@ -126,7 +130,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
+      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -234,6 +238,43 @@
 	}
 	//======End Fungsi go-to-top===========
 </script>
+
+
+<!-- STYLE UNTUK DIV KOLOM DAN ROWS -->
+<style type="text/css">
+        .table {
+            display: table;
+        }
+
+        .row {
+            display: table-row;	
+        }
+
+        .column, .no, .jdpdf, .np, .abmet {
+            display: table-cell;
+            vertical-align: top;
+			border: 0px solid gray;
+			padding: 4px;
+			border-left:0px solid gray;
+			border-bottom: 1px solid gray;		
+        }
+		.no, .jdpdf, .np, .abmet {
+			border-bottom: 1px solid gray;	
+			font-weight: bold;	
+		}
+		.no{
+			width: 2%;
+		}
+		.jdpdf{
+			width: 18%;
+		}
+		.np{
+			width: 14%;			
+		}
+		.abmet{
+			width: 30%;			
+		}
+</style>
 </body>
 </html>
 
@@ -278,7 +319,7 @@
 	}
 
 	function showx(a) {
-		var dtag = ["bab1","i3e","reff","mreff"];
+		var dtag = ["bab1","i3e","reff","mreff","tes"];
 		for(var i = 0;i < dtag.length;i++){
 			if (a == dtag[i]){
 				document.getElementById(a).style.display = 'block';
@@ -293,8 +334,10 @@
 
 <p><a href="#i3e" onclick="showx('i3e')">ieeeExplorer</a>
  | <a href="#bab1" onclick="showx('bab1')">Bab I</a>
- | <a href="#reff" onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a></p>
-<div id="sir">&nbsp;|&nbsp;<a href="#mreff" onclick="showx('mreff');showinrows('mreff','reff')">Ref-in-rows</a></div>
+ | <a href="#reff" onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
+ | <a href="#mreff" id="sir" onclick="showx('mreff');showinrows('mreff','reff')">Ref-in-rows</a>
+<!-- &nbsp;|&nbsp;<a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a> -->
+ | <a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a></p>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
@@ -1229,6 +1272,67 @@ novel malwares. </td>
 
 </div>
 
+<div id="tes" style="display:none" border="0">
+	<h4> Referensi Papers</h4>
+	
+	
+
+<a href="#" onclick="msg('Namaku : M. Ikhwan N. Elyas')">TES Pesan show</a>
+<a href="#" id="hh" onclick="">Hide Header</a>
+
+<div class="table">
+  <div class="rowxh" id="hd">
+	<div class="no">No. </div>
+	<div class="jdpdf">JUDUL  </div>
+	<div class="np">PENULIS  </div>
+	<div class="abmet">ABSTRAK </div>
+	<div class="abmet">METODE</div>
+	<div class="jdpdf">FILE </div>
+  </div>
+  <div class="rowx">
+	<div class="columnd">1. </div>
+	<div class="columnd">Automated malware detection using artifacts in forensic memory images </div>
+	<div class="columnd">Rui Li, Bo Yuan dkk. </div>
+	<div class="columnd">Malware is one of the greatest and most rapidly growing threats to the digital world. </div>
+	<div class="columnd">Our approach is a reactive one, in that it detects malware that is already on the system. </div>
+	<div class="columnd">utomated malware detection using artifacts in forensic memory images </div>
+  </div>
+  <div class="rowx">
+	<div class="columnd">2. </div>
+	<div class="columnd">Classification of Malware Families Based on N-grams Sequential Pattern Features </div>
+	<div class="columnd">Chatchai L., Ohm Sornil </div>
+	<div class="columnd">Malware family identification is a complex process involving extraction of distinctive characteristics  </div>
+	<div class="columnd">Features are created in 4 major steps: n-gram extraction,</div>
+	<div class="columnd">lassification of Malware Families </div>
+  </div>
+</div>
+
+<br />
+
+
+
+<script>
+$(document).ready(function(){
+    $("pX").click(function(){
+        $(this).hide();
+    });
+});
+$(document).ready(function(){
+    $("#hh").click(function(){
+        $("#hd").hide();
+    });
+});
+</script>
+
+
+<p>If you click on me, I will disappear.</p>
+<p>Click me away!</p>
+<p>Click me too!</p>
+
+
+
+</div>
+
 <p><button onclick="topFunction()" id="myBtn" title="Go to top">Top</button></p>
 
 
@@ -1243,7 +1347,7 @@ novel malwares. </td>
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
 </footer>
 
 

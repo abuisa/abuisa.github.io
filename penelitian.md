@@ -45,7 +45,7 @@ description: Penelitian
 	}
 
 	function showx(a) {
-		var dtag = ["bab1","i3e","reff","mreff"];
+		var dtag = ["bab1","i3e","reff","mreff","tes"];
 		for(var i = 0;i < dtag.length;i++){
 			if (a == dtag[i]){
 				document.getElementById(a).style.display = 'block';
@@ -61,7 +61,9 @@ description: Penelitian
 <a href="#i3e"  onclick="showx('i3e')">ieeeExplorer</a>
 &nbsp;|&nbsp;<a href="#bab1"  onclick="showx('bab1')">Bab I</a>
 &nbsp;|&nbsp;<a href="#reff"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
-<div  id="sir">&nbsp;|&nbsp;<a href="#mreff"  onclick="showx('mreff');showinrows('mreff','reff')">Ref-in-rows</a></div>
+&nbsp;|&nbsp;<a href="#mreff" id="sir" onclick="showx('mreff');showinrows('mreff','reff')">Ref-in-rows</a>
+<!-- &nbsp;|&nbsp;<a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a> -->
+&nbsp;|&nbsp;<a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
@@ -87,6 +89,15 @@ description: Penelitian
 	{%include penelitian/m-reff.html%}
 
 </div>
+
+<div id="tes" style="display:none" border="0">
+	<h4> Referensi Papers</h4>
+	
+	{%include penelitian/reff-tes.html%}
+
+</div>
+
+
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
