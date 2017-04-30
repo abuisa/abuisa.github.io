@@ -1,10 +1,17 @@
 
 
-<a href="#" onclick="msg('Namaku : M. Ikhwan N. Elyas')">TES Pesan show</a>
-<a href="#" id="hh" onclick="">Hide Header</a>
+<a href="#" onclick="msg('Namaku : M. Ikhwan N. Elyas')">TES Pesan show</a>&nbsp;|&nbsp;
+<a href="#" id="hh1" onclick="">Hide Header</a>&nbsp;|&nbsp;
+<a href="#" id="hh2" onclick="">Show Header</a>&nbsp;|&nbsp;
+
+<a href="#" id="rtc">Column</a>&nbsp;|&nbsp;
+<a href="#" id="ctr">Rows</a>&nbsp;|&nbsp;
+
+<a href="#" onclick="rowtc()">JF-Column</a>&nbsp;|&nbsp;
+<a href="#" onclick="ctrow()">JF-Rows</a>&nbsp;|&nbsp;
 
 <div class="table">
-  <div class="rowxh" id="hd">
+  <div class="row" id="hd">
 	<div class="no">No. </div>
 	<div class="jdpdf">JUDUL  </div>
 	<div class="np">PENULIS  </div>
@@ -12,21 +19,23 @@
 	<div class="abmet">METODE</div>
 	<div class="jdpdf">FILE </div>
   </div>
-  <div class="rowx">
-	<div class="columnd">1. </div>
-	<div class="columnd">Automated malware detection using artifacts in forensic memory images </div>
-	<div class="columnd">Rui Li, Bo Yuan dkk. </div>
-	<div class="columnd">Malware is one of the greatest and most rapidly growing threats to the digital world. </div>
-	<div class="columnd">Our approach is a reactive one, in that it detects malware that is already on the system. </div>
-	<div class="columnd">utomated malware detection using artifacts in forensic memory images </div>
+
+  <div class="row">
+	<div  class="column"><b class="hd">NO:</b>1. </div>
+	<div  class="column"><b class="hd">NO:</b>Automated malware detection using artifacts in forensic memory images </div>
+	<div  class="column"><b class="hd">NO:</b>Rui Li, Bo Yuan dkk. </div>
+	<div  class="column"><b class="hd">NO:</b>Malware is one of the greatest and most rapidly growing threats to the digital world. </div>
+	<div  class="column"><b class="hd">NO:</b>Our approach is a reactive one, in that it detects malware that is already on the system. </div>
+	<div  class="column"><b class="hd">NO:</b>Automated malware detection using artifacts in forensic memory images </div>
   </div>
-  <div class="rowx">
-	<div class="columnd">2. </div>
-	<div class="columnd">Classification of Malware Families Based on N-grams Sequential Pattern Features </div>
-	<div class="columnd">Chatchai L., Ohm Sornil </div>
-	<div class="columnd">Malware family identification is a complex process involving extraction of distinctive characteristics  </div>
-	<div class="columnd">Features are created in 4 major steps: n-gram extraction,</div>
-	<div class="columnd">lassification of Malware Families </div>
+
+  <div class="row">
+	<div  class="column"><b class="hd">NO:</b>2. </div>
+	<div  class="column"><b class="hd">NO:</b>Classification of Malware Families Based on N-grams Sequential Pattern Features </div>
+	<div  class="column"><b class="hd">NO:</b>Chatchai L., Ohm Sornil </div>
+	<div  class="column"><b class="hd">NO:</b>Malware family identification is a complex process involving extraction of distinctive characteristics  </div>
+	<div  class="column"><b class="hd">NO:</b>Features are created in 4 major steps: n-gram extraction,</div>
+	<div  class="column"><b class="hd">NO:</b>lassification of Malware Families </div>
   </div>
 </div>
 
@@ -35,20 +44,87 @@
 
 
 <script>
+function ctrow(){
+    	//--- Ganti class --columnx-- dengan class --column--
+    	$(".column").addClass('columnb');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("column");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".row").addClass('rowb');
+		$(".row").removeClass("row");
+		//--- Hide Head of Column
+		$("#hd").hide();
+
+		//--- Show Sub Judul ------			
+		$(".hd").addClass('hds');
+		$(".hd").removeClass("hd");
+}
+function rowtc(){
+	    //--- Ganti class --columnx-- dengan class --column--
+    	$(".columnb").addClass('column');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("columnb");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".rowb").addClass('row');
+		$(".rowb").removeClass("rowb");
+		//--- Show Head of column ----
+		$("#hd").show();
+
+		//--- Hide sub judul ----
+		$(".hds").addClass('hd');
+		$(".hds").removeClass("hds");
+}
+
 $(document).ready(function(){
-    $("pX").click(function(){
-        $(this).hide();
+    $("#rtc").click(function(){
+    	//--- Ganti class --columnx-- dengan class --column--
+    	$(".columnb").addClass('column');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("columnb");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".rowb").addClass('row');
+		$(".rowb").removeClass("rowb");
+		//--- Show Head of column ----
+		$("#hd").show();
+
+		//--- Hide sub judul ----
+		$(".hds").addClass('hd');
+		$(".hds").removeClass("hds");		
     });
+
+    $("#ctr").click(function(){
+    	//--- Ganti class --columnx-- dengan class --column--
+    	$(".column").addClass('columnb');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("column");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".row").addClass('rowb');
+		$(".row").removeClass("row");
+		//--- Hide Head of Column
+		$("#hd").hide();
+
+		//--- Show Sub Judul ------			
+		$(".hd").addClass('hds');
+		$(".hd").removeClass("hd");
+    });	
+
 });
+
 $(document).ready(function(){
-    $("#hh").click(function(){
+    $("#hh1").click(function(){
         $("#hd").hide();
     });
+
+    $("#hh2").click(function(){
+        $("#hd").show();
+    });
+
 });
+
+
 </script>
-
-
-<p>If you click on me, I will disappear.</p>
-<p>Click me away!</p>
-<p>Click me too!</p>
 

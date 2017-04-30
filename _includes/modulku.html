@@ -51,16 +51,27 @@
 
         .row {
             display: table-row;	
-        }
 
+        }
+		.rowb{
+			border-bottom: 1px solid gray;
+			padding: 4px;
+		}
         .column, .no, .jdpdf, .np, .abmet {
             display: table-cell;
             vertical-align: top;
 			border: 0px solid gray;
 			padding: 4px;
 			border-left:0px solid gray;
-			border-bottom: 1px solid gray;		
+			border-bottom: 0px solid gray;		
         }
+        .columnb {        
+            vertical-align: top;
+			border: 0px solid gray;
+			padding: 4px;
+			border-left:0px solid gray;
+			border-bottom: 0px solid gray;
+		}
 		.no, .jdpdf, .np, .abmet {
 			border-bottom: 1px solid gray;	
 			font-weight: bold;	
@@ -76,6 +87,12 @@
 		}
 		.abmet{
 			width: 30%;			
+		}
+		.hd{
+			display: none;
+		}
+		.hds{
+			display: block;
 		}
 </style>
 </body>
