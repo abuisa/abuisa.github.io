@@ -1,9 +1,4 @@
 
-
-<a href="#" onclick="msg('Namaku : M. Ikhwan N. Elyas')">TES Pesan show</a>&nbsp;|&nbsp;
-<a href="#" id="hh1" onclick="">Hide Header</a>&nbsp;|&nbsp;
-<a href="#" id="hh2" onclick="">Show Header</a>&nbsp;|&nbsp;
-
 <a href="#" id="rtc">Column</a>&nbsp;|&nbsp;
 <a href="#" id="ctr">Rows</a>&nbsp;|&nbsp;
 
@@ -11,7 +6,7 @@
 <a href="#" onclick="ctrow()">JF-Rows</a>&nbsp;|&nbsp;
 
 <div class="table">
-  <div class="row" id="hd">
+  <div class="row" id="hdr">
 	<div class="no">No. </div>
 	<div class="jdpdf">JUDUL  </div>
 	<div class="np">PENULIS  </div>
@@ -20,27 +15,33 @@
 	<div class="jdpdf">FILE </div>
   </div>
 
-  <div class="row">
-	<div  class="column"><b class="hd">NO:</b>1. </div>
-	<div  class="column"><b class="hd">NO:</b>Automated malware detection using artifacts in forensic memory images </div>
-	<div  class="column"><b class="hd">NO:</b>Rui Li, Bo Yuan dkk. </div>
-	<div  class="column"><b class="hd">NO:</b>Malware is one of the greatest and most rapidly growing threats to the digital world. </div>
-	<div  class="column"><b class="hd">NO:</b>Our approach is a reactive one, in that it detects malware that is already on the system. </div>
-	<div  class="column"><b class="hd">NO:</b>Automated malware detection using artifacts in forensic memory images </div>
+   <div class="row">
+	<div  class="column"><b class="hd">NO :		</b>1. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 1  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 1 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 1 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 1 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 1 </div>
   </div>
-
   <div class="row">
-	<div  class="column"><b class="hd">NO:</b>2. </div>
-	<div  class="column"><b class="hd">NO:</b>Classification of Malware Families Based on N-grams Sequential Pattern Features </div>
-	<div  class="column"><b class="hd">NO:</b>Chatchai L., Ohm Sornil </div>
-	<div  class="column"><b class="hd">NO:</b>Malware family identification is a complex process involving extraction of distinctive characteristics  </div>
-	<div  class="column"><b class="hd">NO:</b>Features are created in 4 major steps: n-gram extraction,</div>
-	<div  class="column"><b class="hd">NO:</b>lassification of Malware Families </div>
+	<div  class="column"><b class="hd">NO :		</b>2. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 2  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 2 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 2 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 2 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 2 </div>
+  </div>
+  <div class="row">
+	<div  class="column"><b class="hd">NO :		</b>3. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 3  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 3 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 3 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 3 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 3 </div>
   </div>
 </div>
 
 <br>
-
 
 
 <script>
@@ -54,7 +55,7 @@ function ctrow(){
 		$(".row").addClass('rowb');
 		$(".row").removeClass("row");
 		//--- Hide Head of Column
-		$("#hd").hide();
+		$("#hdr").hide();
 
 		//--- Show Sub Judul ------			
 		$(".hd").addClass('hds');
@@ -70,7 +71,7 @@ function rowtc(){
 		$(".rowb").addClass('row');
 		$(".rowb").removeClass("rowb");
 		//--- Show Head of column ----
-		$("#hd").show();
+		$("#hdr").show();
 
 		//--- Hide sub judul ----
 		$(".hds").addClass('hd');
@@ -88,7 +89,7 @@ $(document).ready(function(){
 		$(".rowb").addClass('row');
 		$(".rowb").removeClass("rowb");
 		//--- Show Head of column ----
-		$("#hd").show();
+		$("#hdr").show();
 
 		//--- Hide sub judul ----
 		$(".hds").addClass('hd');
@@ -105,7 +106,7 @@ $(document).ready(function(){
 		$(".row").addClass('rowb');
 		$(".row").removeClass("row");
 		//--- Hide Head of Column
-		$("#hd").hide();
+		$("#hdr").hide();
 
 		//--- Show Sub Judul ------			
 		$(".hd").addClass('hds');
@@ -113,18 +114,5 @@ $(document).ready(function(){
     });	
 
 });
-
-$(document).ready(function(){
-    $("#hh1").click(function(){
-        $("#hd").hide();
-    });
-
-    $("#hh2").click(function(){
-        $("#hd").show();
-    });
-
-});
-
-
 </script>
 

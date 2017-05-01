@@ -4,6 +4,8 @@ description: This is the Example Page post.
 header: Example Page
 categories: Examples
 ---
+{% include modulku.html %}
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 ## Example One ( Link )
 #### Ref lain : 
 - Petunjuk lain untuk jekyll how to : 
@@ -173,6 +175,359 @@ The Command for download your github repo to local :
 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?start=100&end=235&feature=player_embedded" width="600"></iframe>
 
+## Examples Seven  ( SCRIPT Jquery & HTML )
+
+### Script untuk buat tabel dari tag div dan ubah dari kolom menjadi baris
+#### HTML untuk div tabelnya : 
+{% highlight html linenos %}
+
+<a href="#" id="rtc">Column</a>&nbsp;|&nbsp;
+<a href="#" id="ctr">Rows</a>&nbsp;|&nbsp;
+
+<a href="#" onclick="rowtc()">JF-Column</a>&nbsp;|&nbsp;
+<a href="#" onclick="ctrow()">JF-Rows</a>&nbsp;|&nbsp;
+
+<div class="table">
+  <div class="row" id="hdr">
+	<div class="no">No. </div>
+	<div class="jdpdf">JUDUL  </div>
+	<div class="np">PENULIS  </div>
+	<div class="abmet">ABSTRAK </div>
+	<div class="abmet">METODE</div>
+	<div class="jdpdf">FILE </div>
+  </div>
+
+  <div class="row">
+	<div  class="column"><b class="hd">NO :		</b>1. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 1  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 1 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 1 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 1 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 1 </div>
+  </div>
+  <div class="row">
+	<div  class="column"><b class="hd">NO :		</b>2. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 2  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 2 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 2 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 2 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 2 </div>
+  </div>
+  <div class="row">
+	<div  class="column"><b class="hd">NO :		</b>3. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 3  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 3 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 3 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 3 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 3 </div>
+  </div>
+</div>
+
+{% endhighlight %}
+
+{% highlight css linenos %}
+.table {
+    display: table;
+}
+
+.row {
+    display: table-row;	
+
+}
+.rowb{
+	border-bottom: 1px solid gray;
+	padding: 4px;
+}
+.column, .no, .jdpdf, .np, .abmet {
+    display: table-cell;
+    vertical-align: top;
+	border: 0px solid gray;
+	padding: 4px;
+	border-left:0px solid gray;
+	border-bottom: 0px solid gray;		
+}
+.columnb {        
+    vertical-align: top;
+	border: 0px solid gray;
+	padding: 4px;
+	border-left:0px solid gray;
+	border-bottom: 0px solid gray;
+}
+.no, .jdpdf, .np, .abmet {
+	border-bottom: 1px solid gray;	
+	font-weight: bold;	
+}
+.no{
+	width: 2%;
+}
+.jdpdf{
+	width: 18%;
+}
+.np{
+	width: 14%;			
+}
+.abmet{
+	width: 30%;			
+}
+.hd{
+	display: none;
+}
+.hds{
+	display: block;
+	font-weight: bold;s
+}
+{% endhighlight %}
+
+#### JavaScript untuk mengubah class dari kolom menjadi baris (Fungsi js yang isinya jquery)
+{% highlight js linenos %}
+function ctrow(){
+    	//--- Ganti class --columnx-- dengan class --column--
+    	$(".column").addClass('columnb');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("column");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".row").addClass('rowb');
+		$(".row").removeClass("row");
+		//--- Hide Head of Column
+		$("#hdr").hide();
+
+		//--- Show Sub Judul ------			
+		$(".hd").addClass('hds');
+		$(".hd").removeClass("hd");
+}
+function rowtc(){
+	    //--- Ganti class --columnx-- dengan class --column--
+    	$(".columnb").addClass('column');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("columnb");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".rowb").addClass('row');
+		$(".rowb").removeClass("rowb");
+		//--- Show Head of column ----
+		$("#hdr").show();
+
+		//--- Hide sub judul ----
+		$(".hds").addClass('hd');
+		$(".hds").removeClass("hds");
+}
+{% endhighlight %}
+
+#### JQuery untuk mengubah class dari kolom menjadi baris (bedanya dengan js diatas hanya pada fungsi untuk memanggil)
+{% highlight js linenos %}
+$(document).ready(function(){
+    $("#rtc").click(function(){
+    	//--- Ganti class --columnx-- dengan class --column--
+    	$(".columnb").addClass('column');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("columnb");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".rowb").addClass('row');
+		$(".rowb").removeClass("rowb");
+		//--- Show Head of column ----
+		$("#hdr").show();
+
+		//--- Hide sub judul ----
+		$(".hds").addClass('hd');
+		$(".hds").removeClass("hds");		
+    });
+
+    $("#ctr").click(function(){
+    	//--- Ganti class --columnx-- dengan class --column--
+    	$(".column").addClass('columnb');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("column");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".row").addClass('rowb');
+		$(".row").removeClass("row");
+		//--- Hide Head of Column
+		$("#hdr").hide();
+
+		//--- Show Sub Judul ------			
+		$(".hd").addClass('hds');
+		$(".hd").removeClass("hd");
+    });	
+
+});
+{% endhighlight %}
+
+#### DEMO (ubah kolom kebaris)
+<!-- STYLE UNTUK DIV KOLOM DAN ROWS -->
+<style type="text/css">
+        .table {
+            display: table;
+        }
+
+        .row {
+            display: table-row;	
+
+        }
+		.rowb{
+			border-bottom: 1px solid gray;
+			padding: 4px;
+		}
+        .column, .no, .jdpdf, .np, .abmet {
+            display: table-cell;
+            vertical-align: top;
+			border: 0px solid gray;
+			padding: 4px;
+			border-left:0px solid gray;
+			border-bottom: 0px solid gray;		
+        }
+        .columnb {        
+            vertical-align: top;
+			border: 0px solid gray;
+			padding: 4px;
+			border-left:0px solid gray;
+			border-bottom: 0px solid gray;
+		}
+		.no, .jdpdf, .np, .abmet {
+			border-bottom: 1px solid gray;	
+			font-weight: bold;	
+		}
+		.no{
+			width: 2%;
+		}
+		.jdpdf{
+			width: 18%;
+		}
+		.np{
+			width: 14%;			
+		}
+		.abmet{
+			width: 30%;			
+		}
+		.hd{
+			display: none;
+		}
+		.hds{
+			display: block;
+			font-weight: bold;s
+		}
+</style>
+<div>
+
+<a href="#" id="rtc">Column</a>&nbsp;|&nbsp;
+<a href="#" id="ctr">Rows</a>&nbsp;|&nbsp;
+
+<a href="#" onclick="rowtc()">JF-Column</a>&nbsp;|&nbsp;
+<a href="#" onclick="ctrow()">JF-Rows</a>&nbsp;|&nbsp;
+
+<div class="table">
+  <div class="row" id="hdr">
+	<div class="no">No. </div>
+	<div class="jdpdf">JUDUL  </div>
+	<div class="np">PENULIS  </div>
+	<div class="abmet">ABSTRAK </div>
+	<div class="abmet">METODE</div>
+	<div class="jdpdf">FILE </div>
+  </div>
+
+   <div class="row">
+	<div  class="column"><b class="hd">NO :		</b>1. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 1  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 1 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 1 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 1 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 1 </div>
+  </div>
+  <div class="row">
+	<div  class="column"><b class="hd">NO :		</b>2. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 2  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 2 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 2 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 2 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 2 </div>
+  </div>
+  <div class="row">
+	<div  class="column"><b class="hd">NO :		</b>3. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 3  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 3 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 3 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 3 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 3 </div>
+  </div>
+</div>
+
+<br>
+
+
+<script>
+function ctrow(){
+    	//--- Ganti class --columnx-- dengan class --column--
+    	$(".column").addClass('columnb');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("column");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".row").addClass('rowb');
+		$(".row").removeClass("row");
+		//--- Hide Head of Column
+		$("#hdr").hide();
+
+		//--- Show Sub Judul ------			
+		$(".hd").addClass('hds');
+		$(".hd").removeClass("hd");
+}
+function rowtc(){
+	    //--- Ganti class --columnx-- dengan class --column--
+    	$(".columnb").addClass('column');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("columnb");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".rowb").addClass('row');
+		$(".rowb").removeClass("rowb");
+		//--- Show Head of column ----
+		$("#hdr").show();
+
+		//--- Hide sub judul ----
+		$(".hds").addClass('hd');
+		$(".hds").removeClass("hds");
+}
+
+$(document).ready(function(){
+    $("#rtc").click(function(){
+    	//--- Ganti class --columnx-- dengan class --column--
+    	$(".columnb").addClass('column');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("columnb");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".rowb").addClass('row');
+		$(".rowb").removeClass("rowb");
+		//--- Show Head of column ----
+		$("#hdr").show();
+
+		//--- Hide sub judul ----
+		$(".hds").addClass('hd');
+		$(".hds").removeClass("hds");		
+    });
+
+    $("#ctr").click(function(){
+    	//--- Ganti class --columnx-- dengan class --column--
+    	$(".column").addClass('columnb');
+    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
+		$("div").removeClass("column");
+		//--- Ubah class --row-- menjadi --rowb--
+		//--- Show Garis Pembatas ------------
+		$(".row").addClass('rowb');
+		$(".row").removeClass("row");
+		//--- Hide Head of Column
+		$("#hdr").hide();
+
+		//--- Show Sub Judul ------			
+		$(".hd").addClass('hds');
+		$(".hd").removeClass("hd");
+    });	
+
+});
+</script>
+
+</div>
 ____
 Kategori : {{ page.categories }},
 Post by : admin

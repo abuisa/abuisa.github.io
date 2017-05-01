@@ -45,7 +45,7 @@ description: Penelitian
 	}
 
 	function showx(a) {
-		var dtag = ["bab1","i3e","reff","mreff","tes"];
+		var dtag = ["bab1","i3e","reff","mreff","tes","nreff"];
 		for(var i = 0;i < dtag.length;i++){
 			if (a == dtag[i]){
 				document.getElementById(a).style.display = 'block';
@@ -62,8 +62,9 @@ description: Penelitian
 &nbsp;|&nbsp;<a href="#bab1"  onclick="showx('bab1')">Bab I</a>
 &nbsp;|&nbsp;<a href="#reff"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
 &nbsp;|&nbsp;<a href="#mreff" id="sir" onclick="showx('mreff');showinrows('mreff','reff')">Ref-in-rows</a>
-<!-- &nbsp;|&nbsp;<a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a> -->
-&nbsp;|&nbsp;<a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a>
+<!-- &nbsp;|&nbsp;<a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a>
+&nbsp;|&nbsp;<a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a> -->
+&nbsp;|&nbsp;<a href="#nreff" onclick="showx('nreff')">NEW-REFF</a>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
@@ -97,6 +98,12 @@ description: Penelitian
 
 </div>
 
+<div id="nreff" style="display:none" border="0">
+	<h4> Referensi Papers New-Reff</h4>
+	
+	{%include penelitian/n-reff.html%}
+
+</div>
 
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
