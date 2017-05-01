@@ -61,10 +61,6 @@ description: Penelitian
 <a href="#i3e"  onclick="showx('i3e')">ieeeExplorer</a>
 &nbsp;|&nbsp;<a href="#bab1"  onclick="showx('bab1')">Bab I</a>
 &nbsp;|&nbsp;<a href="#reff"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
-&nbsp;|&nbsp;<a href="#mreff" id="sir" onclick="showx('mreff');showinrows('mreff','reff')">Ref-in-rows</a>
-<!-- &nbsp;|&nbsp;<a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a>
-&nbsp;|&nbsp;<a href="#tes" id="sir" onclick="showx('tes')">TES-DIV</a> -->
-&nbsp;|&nbsp;<a href="#nreff" onclick="showx('nreff')">NEW-REFF</a>
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
@@ -78,30 +74,10 @@ description: Penelitian
 
 </div>
 <div id="reff" style="display:none" border="0">
-	<h4> Referensi Papers</h4>
+	<h4> Referensi Papers | <a href="#" id="cl" onclick="rowtc()">Column</a><a href="#" id="rw" onclick="ctrow()">Rows</a>
+</h4>
 
-	{%include penelitian/reff.html%}
-
-</div>
-
-<div id="mreff" style="display:none" border="0">
-	<h4> Referensi Papers</h4>
-	
-	{%include penelitian/m-reff.html%}
-
-</div>
-
-<div id="tes" style="display:none" border="0">
-	<h4> Referensi Papers</h4>
-	
-	{%include penelitian/reff-tes.html%}
-
-</div>
-
-<div id="nreff" style="display:none" border="0">
-	<h4> Referensi Papers New-Reff</h4>
-	
-	{%include penelitian/n-reff.html%}
+	{%include penelitian/reff-ts.html%}
 
 </div>
 
