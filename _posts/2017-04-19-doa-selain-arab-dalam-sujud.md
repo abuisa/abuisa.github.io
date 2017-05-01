@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=QNwZWJk-Rxk
 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/caJnPhT3ruA?feature=player_embedded" width="600"></iframe>
  
-* Penjelasan beliau kalau diterjemahkan kuraing-lebih artinya seperti ini : <b> berdoa dengan doa yang ada dalam as-sunnah itu lebih utama</b> akan tetapi berdoa meminta tentang kebaikan apa saja yang kita butuhkan menggunakan bahasa yang kita pahami juga <b> tidak mengapa</b>.
+* Penjelasan beliau kalau diterjemahkan kurang-lebih artinya seperti ini : <b> berdoa dengan doa yang ada dalam as-sunnah itu lebih utama</b> akan tetapi berdoa meminta tentang kebaikan apa saja yang kita butuhkan menggunakan bahasa yang kita pahami juga <b> tidak mengapa</b>.
 * Masih menurut beliau, berdoa dengan bahasa atau kalimat yang kita pahami maknanya lebih baik dari membaca doa yang kita hafal tapi tidak kita ketahui maknanya.
 <!--
 https://www.youtube.com/watch?v=caJnPhT3ruA

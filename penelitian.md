@@ -45,7 +45,7 @@ description: Penelitian
 	}
 
 	function showx(a) {
-		var dtag = ["bab1","i3e","reff","mreff","tes","nreff"];
+		var dtag = ["bab1","i3e","reff","reff-ts"];
 		for(var i = 0;i < dtag.length;i++){
 			if (a == dtag[i]){
 				document.getElementById(a).style.display = 'block';
@@ -58,9 +58,13 @@ description: Penelitian
 
 </script>
 
-<a href="#i3e"  onclick="showx('i3e')">ieeeExplorer</a>
-&nbsp;|&nbsp;<a href="#bab1"  onclick="showx('bab1')">Bab I</a>
-&nbsp;|&nbsp;<a href="#reff"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
+<div class="tocContainer">
+	<a href="#i3e"  onclick="showx('i3e')">ieeeExplorer</a>
+	&nbsp;|&nbsp;<a href="#bab1"  onclick="showx('bab1')">Bab I</a>
+	&nbsp;|&nbsp;<a href="#reff"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
+
+</div>
+
 <div id="i3e" style="display:block" border="0">
 	<h4> IEEE Explorer </h4>
 
@@ -81,7 +85,10 @@ description: Penelitian
 
 </div>
 
+<!--
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">xxx-Top</button>
+-->
 

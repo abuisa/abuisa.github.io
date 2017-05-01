@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Links Colections
-description: Links Colections
-header: Links Colections
+title: Links
+description: Links
+header: Links
 ---
 
 {% include modulku.html %}
