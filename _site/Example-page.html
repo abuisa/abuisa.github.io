@@ -609,7 +609,9 @@ ini juga bloknote</p>
 <span class="nt">&lt;/div&gt;</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<figure class="highlight"><pre><code class="language-css" data-lang="css"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<h4 id="css-untuk-table-dan-column">CSS untuk table dan column</h4>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
 3
 4
@@ -658,55 +660,55 @@ ini juga bloknote</p>
 47
 48
 49
-50</pre></td><td class="code"><pre><span class="nc">.table</span> <span class="p">{</span>
-    <span class="nl">display</span><span class="p">:</span> <span class="n">table</span><span class="p">;</span>
+50</pre></td><td class="code"><pre><span class="p">.</span><span class="nx">table</span> <span class="p">{</span>
+    <span class="nl">display</span><span class="p">:</span> <span class="nx">table</span><span class="p">;</span>
 <span class="p">}</span>
 
-<span class="nc">.row</span> <span class="p">{</span>
-    <span class="nl">display</span><span class="p">:</span> <span class="nb">table-row</span><span class="p">;</span>	
+<span class="p">.</span><span class="nx">row</span> <span class="p">{</span>
+    <span class="nl">display</span><span class="p">:</span> <span class="nx">table</span><span class="o">-</span><span class="nx">row</span><span class="p">;</span>	
 
 <span class="p">}</span>
-<span class="nc">.rowb</span><span class="p">{</span>
-	<span class="nl">border-bottom</span><span class="p">:</span> <span class="m">1px</span> <span class="nb">solid</span> <span class="no">gray</span><span class="p">;</span>
-	<span class="nl">padding</span><span class="p">:</span> <span class="m">4px</span><span class="p">;</span>
+<span class="p">.</span><span class="nx">rowb</span><span class="p">{</span>
+	<span class="nx">border</span><span class="o">-</span><span class="nx">bottom</span><span class="err">:</span> <span class="mi">1</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">gray</span><span class="p">;</span>
+	<span class="nl">padding</span><span class="p">:</span> <span class="mi">4</span><span class="nx">px</span><span class="p">;</span>
 <span class="p">}</span>
-<span class="nc">.column</span><span class="o">,</span> <span class="nc">.no</span><span class="o">,</span> <span class="nc">.jdpdf</span><span class="o">,</span> <span class="nc">.np</span><span class="o">,</span> <span class="nc">.abmet</span> <span class="p">{</span>
-    <span class="nl">display</span><span class="p">:</span> <span class="nb">table-cell</span><span class="p">;</span>
-    <span class="nl">vertical-align</span><span class="p">:</span> <span class="nb">top</span><span class="p">;</span>
-	<span class="nl">border</span><span class="p">:</span> <span class="m">0px</span> <span class="nb">solid</span> <span class="no">gray</span><span class="p">;</span>
-	<span class="nl">padding</span><span class="p">:</span> <span class="m">4px</span><span class="p">;</span>
-	<span class="nl">border-left</span><span class="p">:</span><span class="m">0px</span> <span class="nb">solid</span> <span class="no">gray</span><span class="p">;</span>
-	<span class="nl">border-bottom</span><span class="p">:</span> <span class="m">0px</span> <span class="nb">solid</span> <span class="no">gray</span><span class="p">;</span>		
+<span class="p">.</span><span class="nx">column</span><span class="p">,</span> <span class="p">.</span><span class="nx">no</span><span class="p">,</span> <span class="p">.</span><span class="nx">jdpdf</span><span class="p">,</span> <span class="p">.</span><span class="nx">np</span><span class="p">,</span> <span class="p">.</span><span class="nx">abmet</span> <span class="p">{</span>
+    <span class="nl">display</span><span class="p">:</span> <span class="nx">table</span><span class="o">-</span><span class="nx">cell</span><span class="p">;</span>
+    <span class="nx">vertical</span><span class="o">-</span><span class="nx">align</span><span class="err">:</span> <span class="nx">top</span><span class="p">;</span>
+	<span class="nl">border</span><span class="p">:</span> <span class="mi">0</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">gray</span><span class="p">;</span>
+	<span class="nl">padding</span><span class="p">:</span> <span class="mi">4</span><span class="nx">px</span><span class="p">;</span>
+	<span class="nx">border</span><span class="o">-</span><span class="nx">left</span><span class="err">:</span><span class="mi">0</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">gray</span><span class="p">;</span>
+	<span class="nx">border</span><span class="o">-</span><span class="nx">bottom</span><span class="err">:</span> <span class="mi">0</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">gray</span><span class="p">;</span>		
 <span class="p">}</span>
-<span class="nc">.columnb</span> <span class="p">{</span>        
-    <span class="nl">vertical-align</span><span class="p">:</span> <span class="nb">top</span><span class="p">;</span>
-	<span class="nl">border</span><span class="p">:</span> <span class="m">0px</span> <span class="nb">solid</span> <span class="no">gray</span><span class="p">;</span>
-	<span class="nl">padding</span><span class="p">:</span> <span class="m">4px</span><span class="p">;</span>
-	<span class="nl">border-left</span><span class="p">:</span><span class="m">0px</span> <span class="nb">solid</span> <span class="no">gray</span><span class="p">;</span>
-	<span class="nl">border-bottom</span><span class="p">:</span> <span class="m">0px</span> <span class="nb">solid</span> <span class="no">gray</span><span class="p">;</span>
+<span class="p">.</span><span class="nx">columnb</span> <span class="p">{</span>        
+    <span class="nx">vertical</span><span class="o">-</span><span class="nx">align</span><span class="err">:</span> <span class="nx">top</span><span class="p">;</span>
+	<span class="nl">border</span><span class="p">:</span> <span class="mi">0</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">gray</span><span class="p">;</span>
+	<span class="nl">padding</span><span class="p">:</span> <span class="mi">4</span><span class="nx">px</span><span class="p">;</span>
+	<span class="nx">border</span><span class="o">-</span><span class="nx">left</span><span class="err">:</span><span class="mi">0</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">gray</span><span class="p">;</span>
+	<span class="nx">border</span><span class="o">-</span><span class="nx">bottom</span><span class="err">:</span> <span class="mi">0</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">gray</span><span class="p">;</span>
 <span class="p">}</span>
-<span class="nc">.no</span><span class="o">,</span> <span class="nc">.jdpdf</span><span class="o">,</span> <span class="nc">.np</span><span class="o">,</span> <span class="nc">.abmet</span> <span class="p">{</span>
-	<span class="nl">border-bottom</span><span class="p">:</span> <span class="m">1px</span> <span class="nb">solid</span> <span class="no">gray</span><span class="p">;</span>	
-	<span class="nl">font-weight</span><span class="p">:</span> <span class="nb">bold</span><span class="p">;</span>	
+<span class="p">.</span><span class="nx">no</span><span class="p">,</span> <span class="p">.</span><span class="nx">jdpdf</span><span class="p">,</span> <span class="p">.</span><span class="nx">np</span><span class="p">,</span> <span class="p">.</span><span class="nx">abmet</span> <span class="p">{</span>
+	<span class="nx">border</span><span class="o">-</span><span class="nx">bottom</span><span class="err">:</span> <span class="mi">1</span><span class="nx">px</span> <span class="nx">solid</span> <span class="nx">gray</span><span class="p">;</span>	
+	<span class="nx">font</span><span class="o">-</span><span class="nx">weight</span><span class="err">:</span> <span class="nx">bold</span><span class="p">;</span>	
 <span class="p">}</span>
-<span class="nc">.no</span><span class="p">{</span>
-	<span class="nl">width</span><span class="p">:</span> <span class="m">2%</span><span class="p">;</span>
+<span class="p">.</span><span class="nx">no</span><span class="p">{</span>
+	<span class="nl">width</span><span class="p">:</span> <span class="mi">2</span><span class="o">%</span><span class="p">;</span>
 <span class="p">}</span>
-<span class="nc">.jdpdf</span><span class="p">{</span>
-	<span class="nl">width</span><span class="p">:</span> <span class="m">18%</span><span class="p">;</span>
+<span class="p">.</span><span class="nx">jdpdf</span><span class="p">{</span>
+	<span class="nl">width</span><span class="p">:</span> <span class="mi">18</span><span class="o">%</span><span class="p">;</span>
 <span class="p">}</span>
-<span class="nc">.np</span><span class="p">{</span>
-	<span class="nl">width</span><span class="p">:</span> <span class="m">14%</span><span class="p">;</span>			
+<span class="p">.</span><span class="nx">np</span><span class="p">{</span>
+	<span class="nl">width</span><span class="p">:</span> <span class="mi">14</span><span class="o">%</span><span class="p">;</span>			
 <span class="p">}</span>
-<span class="nc">.abmet</span><span class="p">{</span>
-	<span class="nl">width</span><span class="p">:</span> <span class="m">30%</span><span class="p">;</span>			
+<span class="p">.</span><span class="nx">abmet</span><span class="p">{</span>
+	<span class="nl">width</span><span class="p">:</span> <span class="mi">30</span><span class="o">%</span><span class="p">;</span>			
 <span class="p">}</span>
-<span class="nc">.hd</span><span class="p">{</span>
-	<span class="nl">display</span><span class="p">:</span> <span class="nb">none</span><span class="p">;</span>
+<span class="p">.</span><span class="nx">hd</span><span class="p">{</span>
+	<span class="nl">display</span><span class="p">:</span> <span class="nx">none</span><span class="p">;</span>
 <span class="p">}</span>
-<span class="nc">.hds</span><span class="p">{</span>
-	<span class="nl">display</span><span class="p">:</span> <span class="nb">block</span><span class="p">;</span>
-	<span class="nl">font-weight</span><span class="p">:</span> <span class="nb">bold</span><span class="p">;</span><span class="err">s</span>
+<span class="p">.</span><span class="nx">hds</span><span class="p">{</span>
+	<span class="nl">display</span><span class="p">:</span> <span class="nx">block</span><span class="p">;</span>
+	<span class="nx">font</span><span class="o">-</span><span class="nx">weight</span><span class="err">:</span> <span class="nx">bold</span><span class="p">;</span>
 <span class="p">}</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
@@ -1027,6 +1029,27 @@ $(document).ready(function(){
 </script>
 
 </div>
+
+<h2 id="examples-eight---arabic-style-">Examples Eight  ( Arabic Style )</h2>
+
+<h4 id="contoh-untuk-style-arabic-">Contoh untuk style arabic :</h4>
+<p><b>Al-Allamah Ubaid Al-Jabiry hafizhahullah berkata:</b></p>
+<div class="ar">
+ﺇﺫَﺍ ﻛﺎﻥ ﻓﻲ ﺍﻟﻤَﺴﺠﺪ ﻣﺼَﺎﺣﻒ ﻓﻼ ﺗﻨْﺒﻐﻲ ﺍﻟﻘﺮَﺍﺀﺓ ﺑﺎﻟﻬَﺎﺗﻒ ﻭﺃَﻧﺎ ﺃﻛْﺮﻩ ﺫﻟﻚ ﻷَﻥ ﺍﻟﻤﺼﺤﻒ ﻳﺘﻌﺒﺪ ﺑِﺤﻤﻠِﻪ ﻭﺍﻟﻨﻈَﺮ فيه ﻭﺍﻟﻬَﺎﺗﻒ ﻟﻴْﺲ ﻛَﺬﻟﻚ ﻭﻗَﺪ ﻳُﺘﺮﺗّﺐ ﻋﻠﻰ ﺫَﻟﻚ ﻫُﺠﺮﺍﻥ ﺍﻟﻤَﺼﺎﺣﻒ ﻭﺍﻟﺰّﻫﺪ ﻓِﻴﻬﺎ .
+</div>
+<div class="id">
+Jika di masjid ada mushaf-mushaf al-Qur'an maka tidak sepantasnya membaca al-Qur'an dengan HP. Dan aku membenci hal itu, karena mushaf itu, membawanya dan melihat kepadanya itu termasuk ibadah, sementara HP itu tidak demikian.
+Dan terkadang hal itu akan berakibat mushaf-mushaf ditinggalkan dan tidak dimanfaatkan.
+</div>
+<!--
+<div  class="ar">
+هُ
+</div>
+<div class="id">
+
+</div>
+-->
+
 <hr />
 <p>Kategori : Examples,
 Post by : admin</p>

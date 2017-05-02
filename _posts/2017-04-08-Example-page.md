@@ -225,7 +225,9 @@ The Command for download your github repo to local :
 
 {% endhighlight %}
 
-{% highlight css linenos %}
+#### CSS untuk table dan column
+
+{% highlight js linenos %}
 .table {
     display: table;
 }
@@ -274,7 +276,7 @@ The Command for download your github repo to local :
 }
 .hds{
 	display: block;
-	font-weight: bold;s
+	font-weight: bold;
 }
 {% endhighlight %}
 
@@ -528,6 +530,28 @@ $(document).ready(function(){
 </script>
 
 </div>
+
+## Examples Eight  ( Arabic Style )
+
+#### Contoh untuk style arabic : 
+<b>Al-Allamah Ubaid Al-Jabiry hafizhahullah berkata:</b>
+<div  class="ar">
+ﺇﺫَﺍ ﻛﺎﻥ ﻓﻲ ﺍﻟﻤَﺴﺠﺪ ﻣﺼَﺎﺣﻒ ﻓﻼ ﺗﻨْﺒﻐﻲ ﺍﻟﻘﺮَﺍﺀﺓ ﺑﺎﻟﻬَﺎﺗﻒ ﻭﺃَﻧﺎ ﺃﻛْﺮﻩ ﺫﻟﻚ ﻷَﻥ ﺍﻟﻤﺼﺤﻒ ﻳﺘﻌﺒﺪ ﺑِﺤﻤﻠِﻪ ﻭﺍﻟﻨﻈَﺮ فيه ﻭﺍﻟﻬَﺎﺗﻒ ﻟﻴْﺲ ﻛَﺬﻟﻚ ﻭﻗَﺪ ﻳُﺘﺮﺗّﺐ ﻋﻠﻰ ﺫَﻟﻚ ﻫُﺠﺮﺍﻥ ﺍﻟﻤَﺼﺎﺣﻒ ﻭﺍﻟﺰّﻫﺪ ﻓِﻴﻬﺎ .
+</div>
+<div class="id">
+Jika di masjid ada mushaf-mushaf al-Qur'an maka tidak sepantasnya membaca al-Qur'an dengan HP. Dan aku membenci hal itu, karena mushaf itu, membawanya dan melihat kepadanya itu termasuk ibadah, sementara HP itu tidak demikian.
+Dan terkadang hal itu akan berakibat mushaf-mushaf ditinggalkan dan tidak dimanfaatkan.
+</div>
+<!--
+<div  class="ar">
+هُ
+</div>
+<div class="id">
+
+</div>
+-->
+
+
 ____
 Kategori : {{ page.categories }},
 Post by : admin
