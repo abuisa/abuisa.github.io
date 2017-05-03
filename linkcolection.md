@@ -12,7 +12,14 @@ header: Links
 <div class="wrapper" markdown="0">
 
 	<div id="linkdiv1" class="first">
-
+	<h3>Al-Quran - Hadits</h3>
+		<ul>
+			<li><a href="https://quran.com/" target="_blank">quran.com</a></li>
+			<li><a href="https://sunnah.com/" target="_blank">sunnah.com</a></li>
+			<li><a href="http://tanzil.net/#19:1" target="_blank">tanzil.net </a></li>
+			<li><a href="http://tanzil.net/download" target="_blank">Download Quran DB</a></li>
+			
+		</ul>
 	<h3>Ormas dan Berita Islam</h3>
 		<ul>
 			<li><a href="http://www.muhammadiyah.or.id/" target="_blank"> www.muhammadiyah.or.id</a></li>

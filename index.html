@@ -1,6 +1,20 @@
 ---
 layout: default
 ---
+
+<!-- TAMBAHAN UNTUK HIJR CALENDER -->
+<div class="tocContainer" style="display:block" border="0">
+<script>
+	$(document).ready(function(){
+		//$("#rtc").click(function(){
+		hdte = writeIslamicDate(); //+' :: '+writeIslamicDate(-1);
+		//document.getElementById('hcal1').innerHTML += writeIslamicDate(-1);
+		document.getElementById('hcal').innerHTML = 'Today : '+hdte;
+	});
+</script>
+<div id="hcal"></div>
+</div>
+
 <!-- TAMBAHAN UNTUK IEEE BOX -->
 <div class="tocContainer" style="display:block" border="0">
 	<h4> IEEE Explorer untuk Download PDF </h4>

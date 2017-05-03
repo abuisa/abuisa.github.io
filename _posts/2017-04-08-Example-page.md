@@ -9,6 +9,7 @@ categories: Examples
 ## Example One ( Link )
 #### Ref lain : 
 - Petunjuk lain untuk jekyll how to : 
+	- [Jekyll Themes](http://jekyllthemes.org/){:target="_blank"}
 	- [Jekyll-how-to-use](https://mademistakes.com/articles/jekyll-style-guide/){:target="_blank"}
 	- [Jekyll-style](https://mademistakes.com/style-guide/){:target="_blank"}
  
@@ -163,7 +164,7 @@ The Command for download your github repo to local :
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?feature=player_embedded" width="600"></iframe>
 
 #### Vidio dengan time start dan time end
-
+- Video start dari detik ke : <b>100</b> s/d detik ke : <b>235</b>
 {% highlight html linenos %}
 <iframe allowfullscreen="" 
 	class="YOUTUBE-iframe-video" 
@@ -550,6 +551,37 @@ Dan terkadang hal itu akan berakibat mushaf-mushaf ditinggalkan dan tidak dimanf
 
 </div>
 -->
+## Examples Nine ( Video Local)
+
+### Contoh untuk memainkan video MP4 local dengan html : 
+#### SCRIPT : 
+{% highlight html linenos %}
+<video width="600" controls>
+  <source src="reff/Lightning-Exclusive-Nasheed-By_ Ahmad-Al-Muqit.mp4" type="video/mp4">
+</video>
+{% endhighlight %}
+
+#### DEMO : 
+<video width="600" controls>
+  <source src="reff/Lightning-Exclusive-Nasheed-By_ Ahmad-Al-Muqit.mp4" type="video/mp4">
+</video>
+
+
+### Contoh untuk memainkan video WEBM local dengan html : 
+#### SCRIPT : 
+{% highlight html linenos %}
+<video width="600" controls>
+	<source src="reff/nasheed--amaman-junod-alfeda.webm" type="video/webm">
+</video>
+{% endhighlight %}
+
+#### DEMO : 
+<video width="600" controls>
+  <source src="reff/nasheed--amaman-junod-alfeda.webm" type="video/webm">
+</video>
+
+
+
 
 
 ____

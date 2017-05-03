@@ -15,7 +15,7 @@ materi ini merupa hasil praktek saya ketika ada teman yang sharing di grup chat 
 - OS	: Linux deepin 15.3 64 bit (debian base)
 - Tool	: hddsuperclone
 
-Akuisisi HDD/FlashDisk menggunakan TOOL hddsuperclone dari [www.sdcomputingservice.com](www.sdcomputingservice.com), silahkan masuk di situs tersebut dan download tool hddsuperclone-nya, pilih sesuai dengan arsitektur sistem operasi anda kemudian install toolnya dengan perintah : 
+Akuisisi HDD/FlashDisk menggunakan TOOL hddsuperclone dari [www.sdcomputingservice.com](http://www.sdcomputingservice.com){:target="_blank"}, silahkan masuk di situs tersebut dan download tool hddsuperclone-nya, pilih sesuai dengan arsitektur sistem operasi anda kemudian install toolnya dengan perintah : 
 > <b>$ sudo dpkg -i hddsuperclone*.deb</b>
 
 Jika selsesai Tool ini adalah tool untuk imagin full hdd atau seluruh hardisk dan TIDAK support untuk imagin partisi

@@ -21,7 +21,8 @@
 
  <!-- Tambahan include JQuery -->
 	<script src="js/jquery.min.js"></script>
-	
+	<script src="js/hijricalendar-kuwaiti.js"></script>
+
 	<!-- Begin Jekyll SEO tag v2.2.0 -->
 <title>IkhwanElyas Page | Webpagenya Ikhwan Elyas</title>
 <meta property="og:title" content="IkhwanElyas Page" />
@@ -29,10 +30,10 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Webpagenya Ikhwan Elyas" />
 <meta property="og:description" content="Webpagenya Ikhwan Elyas" />
-<link rel="canonical" href="https://abuisa.github.io//" />
-<meta property="og:url" content="https://abuisa.github.io//" />
+<link rel="canonical" href="http://localhost:4000//" />
+<meta property="og:url" content="http://localhost:4000//" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
-<link rel="next" href="https://abuisa.github.io//page2/">
+<link rel="next" href="http://localhost:4000//page2/">
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "WebSite",
@@ -41,7 +42,7 @@
 "author": {"@type": "Person",
 "name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
 "description": "Webpagenya Ikhwan Elyas",
-"url": "https://abuisa.github.io//"}</script>
+"url": "http://localhost:4000//"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -135,7 +136,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -201,7 +202,20 @@
 		  
 		<main>
 
-			<!-- TAMBAHAN UNTUK IEEE BOX -->
+			<!-- TAMBAHAN UNTUK HIJR CALENDER -->
+<div class="tocContainer" style="display:block" border="0">
+<script>
+	$(document).ready(function(){
+		//$("#rtc").click(function(){
+		hdte = writeIslamicDate(); //+' :: '+writeIslamicDate(-1);
+		//document.getElementById('hcal1').innerHTML += writeIslamicDate(-1);
+		document.getElementById('hcal').innerHTML = 'Today : '+hdte;
+	});
+</script>
+<div id="hcal"></div>
+</div>
+
+<!-- TAMBAHAN UNTUK IEEE BOX -->
 <div class="tocContainer" style="display:block" border="0">
 	<h4> IEEE Explorer untuk Download PDF </h4>
 
@@ -330,7 +344,7 @@ nb: copy deretan angka yang bercetak tebal pada bagian akhir dari link/url yang 
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+	    <footer><span>@2017 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
 </footer>
 
 
