@@ -101,6 +101,8 @@
 	  
 	    
 	  
+	    
+	  
     
 
 	</div>
@@ -187,6 +189,8 @@
 	    
 	      
 	    
+	      
+	    
       
     </span>
   </div>
@@ -209,56 +213,41 @@
 		//$("#rtc").click(function(){
 		hdte = writeIslamicDate(); //+' :: '+writeIslamicDate(-1);
 		//document.getElementById('hcal1').innerHTML += writeIslamicDate(-1);
-		document.getElementById('hcal').innerHTML = 'Today : '+hdte;
+		document.getElementById('hcal').innerHTML = 'Today : '+hdte+'   /   '+harini();
 	});
-</script>
-<div id="hcal"></div>
-</div>
+	function harini(){
+		var nhari = new Array("Ahad","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu");
+		var mL = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+		//var mS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
 
-<!-- TAMBAHAN UNTUK IEEE BOX -->
-<div class="tocContainer" style="display:block" border="0">
-	<h4> IEEE Explorer untuk Download PDF </h4>
-
-	<html>
-<body>
-<script>
-	function openInNewTab() {
-		var nor = document.getElementById("nomor").value;
-		if (nor != "")
-		{
-			var url = "http://ieeexplore.ieee.org.sci-hub.io/xpl/articleDetails.jsp?arnumber=" + nor;
-			var win = window.open(url, '_blank');
-			win.focus();
-			//alert(url); //untuk tes doang
-		}else
-		{
-			alert("Paste deretan nomor pada bagian akhir URL !");
-		}
-
+		var d = new Date();
+		var a = d.getFullYear(),b = d.getMonth(), c = d.getDay(), e = d.getDate();
+		var f = d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds();
+		return( nhari[c]+' - '+e+'  '+mL[b]+' - '+a+'   -  '+f);
+		//return alert(nhari[c]+' : '+e+', '+mL[b]+' : '+a);
 	}
-
 </script>
-Nomor : <input type="text" id="nomor" value="" placeholder="exp: 4195161"> &nbsp; <button onclick="openInNewTab()">Open and Download</button>
-
-<p>Input/Paste nomor yang di copy dari <a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">ieeexplore.ieee.org</a>, dan click <i>"Open and Download"</i> untuk membuka dan mendownloadnya, tips ini didapat dari <a href="http://www.hackzhub.com/how-to-download-ieee-papers-from-ieeexplore-website-for-free/" target="_blank">hackhub.com</a>.</p>
-<hr>
-Exp : <br>
-http://ieeexplore.ieee.org/document/<b>4195161</b>/<br>
-nb: copy deretan angka yang bercetak tebal pada bagian akhir dari link/url yang akan di download dan paste ke inputbox Nomor.
-<br>
-
-</body>
-</html>
-
-
-
+<div id="hcal" onclick="harini(0)"></div>
 </div>
-<!-- END UNTUK IEEE BOX -->
+<!-- END - TAMBAHAN UNTUK HIJR CALENDER -->
 
 <!-- Posts -->
 <ul id="posts">
 
 	
+
+	  <li class="post">
+	  	<h2><a href="/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya">Downgrade atau Remove kernel dan kembali ke versi sebelumnya</a></h2>
+      <time datetime="2017-05-04T00:00:00+07:00" class="by-line"> <i>04 May 2017</i> | Linux</time> 
+	  	<p>SOONNN….
+
+
+
+Post by : admin @ kost Yogyakarta.
+</p>
+	  </li>
+
+    
 
 	  <li class="post">
 	  	<h2><a href="/Kenali-Kebenaran">Kenali Kebenaran</a></h2>
@@ -300,14 +289,6 @@ nb: copy deretan angka yang bercetak tebal pada bagian akhir dari link/url yang 
 
     
 
-	  <li class="post">
-	  	<h2><a href="/bukti-digital-pada-digital-device">Potensi Bukti Digital Pada Perangkat Digital</a></h2>
-      <time datetime="2017-04-19T00:00:00+07:00" class="by-line"> <i>19 Apr 2017</i> | DigitalForensik</time> 
-	  	<p>Tema diatas: Evidential Potential of Digital Device merupakan bagian ke-2 dari beberapa bagian yang terdapat dalam buku Digital Forensics Digital evidence in Criminal Investigation yang ditulis oleh Angus Marshall. dalam buku ini penulis buku mengupas secara luas tentang digital forensik dan secara mendalam terutama tentang...</p>
-	  </li>
-
-    
-
 </ul>
 
 
@@ -332,6 +313,10 @@ nb: copy deretan angka yang bercetak tebal pada bagian akhir dari link/url yang 
           
             
               <a href="/page3/" class="page-item">3</a>
+            
+          
+            
+              <a href="/page4/" class="page-item">4</a>
             
           
         

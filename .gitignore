@@ -2,5 +2,5 @@
 # _config.yml
 var-jekyll.md
 _plugins/*
-_posts
+#_posts
 .sass-cac*

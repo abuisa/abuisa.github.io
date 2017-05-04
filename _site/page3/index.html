@@ -34,6 +34,7 @@
 <meta property="og:url" content="http://localhost:4000//page3/" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <link rel="prev" href="http://localhost:4000//page2/">
+<link rel="next" href="http://localhost:4000//page4/">
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "WebPage",
@@ -90,6 +91,8 @@
 	  
 	    
 	      <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	    
+	  
 	    
 	  
 	    
@@ -186,6 +189,8 @@
 	    
 	      
 	    
+	      
+	    
       
     </span>
   </div>
@@ -208,56 +213,36 @@
 		//$("#rtc").click(function(){
 		hdte = writeIslamicDate(); //+' :: '+writeIslamicDate(-1);
 		//document.getElementById('hcal1').innerHTML += writeIslamicDate(-1);
-		document.getElementById('hcal').innerHTML = 'Today : '+hdte;
+		document.getElementById('hcal').innerHTML = 'Today : '+hdte+'   /   '+harini();
 	});
-</script>
-<div id="hcal"></div>
-</div>
+	function harini(){
+		var nhari = new Array("Ahad","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu");
+		var mL = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+		//var mS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
 
-<!-- TAMBAHAN UNTUK IEEE BOX -->
-<div class="tocContainer" style="display:block" border="0">
-	<h4> IEEE Explorer untuk Download PDF </h4>
-
-	<html>
-<body>
-<script>
-	function openInNewTab() {
-		var nor = document.getElementById("nomor").value;
-		if (nor != "")
-		{
-			var url = "http://ieeexplore.ieee.org.sci-hub.io/xpl/articleDetails.jsp?arnumber=" + nor;
-			var win = window.open(url, '_blank');
-			win.focus();
-			//alert(url); //untuk tes doang
-		}else
-		{
-			alert("Paste deretan nomor pada bagian akhir URL !");
-		}
-
+		var d = new Date();
+		var a = d.getFullYear(),b = d.getMonth(), c = d.getDay(), e = d.getDate();
+		var f = d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds();
+		return( nhari[c]+' - '+e+'  '+mL[b]+' - '+a+'   -  '+f);
+		//return alert(nhari[c]+' : '+e+', '+mL[b]+' : '+a);
 	}
-
 </script>
-Nomor : <input type="text" id="nomor" value="" placeholder="exp: 4195161"> &nbsp; <button onclick="openInNewTab()">Open and Download</button>
-
-<p>Input/Paste nomor yang di copy dari <a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">ieeexplore.ieee.org</a>, dan click <i>"Open and Download"</i> untuk membuka dan mendownloadnya, tips ini didapat dari <a href="http://www.hackzhub.com/how-to-download-ieee-papers-from-ieeexplore-website-for-free/" target="_blank">hackhub.com</a>.</p>
-<hr>
-Exp : <br>
-http://ieeexplore.ieee.org/document/<b>4195161</b>/<br>
-nb: copy deretan angka yang bercetak tebal pada bagian akhir dari link/url yang akan di download dan paste ke inputbox Nomor.
-<br>
-
-</body>
-</html>
-
-
-
+<div id="hcal" onclick="harini(0)"></div>
 </div>
-<!-- END UNTUK IEEE BOX -->
+<!-- END - TAMBAHAN UNTUK HIJR CALENDER -->
 
 <!-- Posts -->
 <ul id="posts">
 
 	
+
+	  <li class="post">
+	  	<h2><a href="/hddsuperclone-tool-akuisisi-hardisk">hddsuperclone Tool untuk Akuisisi Hardisk dan USB Flashdisk</a></h2>
+      <time datetime="2017-04-11T00:00:00+07:00" class="by-line"> <i>11 Apr 2017</i> | DigitalForensik</time> 
+	  	<p>Assalamualaikum… Ok, kali ini saya ajak anda sama-sama kita belajar tentang salah satu bagian kecil dari forensik digital, tepatnya bagaimana cara kita melakukan proses akuisisi sebuah hardisk atau usb flashdisk, nah.. untuk membantu kita malakukan proses akuisisi atau imagin kita menggunakan tool, yang akan kita...</p>
+	  </li>
+
+    
 
 	  <li class="post">
 	  	<h2><a href="/Teknik-Balajar-CLI-di-Linux">Teknik Belajar Command Line Interpreter di Linux</a></h2>
@@ -299,14 +284,6 @@ nb: copy deretan angka yang bercetak tebal pada bagian akhir dari link/url yang 
 
     
 
-	  <li class="post">
-	  	<h2><a href="/ifroth-dan-tafrith">Paham Ifroth dan Tafrith</a></h2>
-      <time datetime="2017-04-06T00:00:00+07:00" class="by-line"> <i>06 Apr 2017</i> | Agama</time> 
-	  	<p>KIBLAT.NET – Syahdan, ada tiga orang sahabat dengan penuh semangat ibadah mencoba mengunjungi rumah-rumah para ibunda kaum mukminin (istri-istri Nabi SAW). Mereka ingin mengetahui bagaimana cara ibadah Nabi Muhammad SAW di rumah. Tatkala diberitahukan tentang aktivitas ibadah Nabi SAW di rumah, ketiga orang tersebut tercengang...</p>
-	  </li>
-
-    
-
 </ul>
 
 
@@ -333,9 +310,13 @@ nb: copy deretan angka yang bercetak tebal pada bagian akhir dari link/url yang 
               <span class="page-item">3</span>
             
           
+            
+              <a href="/page4/" class="page-item">4</a>
+            
+          
         
           
-            <span class="page-item">&raquo;</span>
+            <a href="/page4/" class="page-item">&raquo;</a>
           
         </div>
         

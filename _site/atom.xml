@@ -4,12 +4,27 @@
  <title>IkhwanElyas Page</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-05-04T20:49:52+07:00</updated>
+ <updated>2017-05-04T22:19:20+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Downgrade atau Remove kernel dan kembali ke versi sebelumnya</title>
+   <link href="http://localhost:4000/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya"/>
+   <id>http://localhost:4000/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya</id>
+   <updated>2017-05-04T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;soonnn&quot;&gt;SOONNN….&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Post by : admin @ kost Yogyakarta.&lt;/p&gt;
+</content>
+ </entry>
 
  
 
@@ -99,16 +114,6 @@
    <id>http://localhost:4000/digital-evidence-locations</id>
    <updated>2017-04-18T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Di Dalam buku &lt;i&gt;Digital Forensics Digital Evidence in Criminal Investigation&lt;/i&gt; yang ditulis oleh Angus M. Marshall, beliau mengupas secara luas tentang digital forensik secara mendalam terutama tentang digital evidence in criminal investigation atau bukti digital dalam suatu investigasi kasus kriminal, dalam pengantarnya Angus M. Marshall menjelaskan bahwa buku ini dimaksudkan...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Berlindung dari Ilmu yang Tidak Bermanfaat</title>
-   <link href="http://localhost:4000/berlindung-dari-ilmu-yang-tidak-bermanfaat"/>
-   <id>http://localhost:4000/berlindung-dari-ilmu-yang-tidak-bermanfaat</id>
-   <updated>2017-04-18T00:00:00+07:00</updated>
-   <content type="html">&lt;h4 id=&quot;sumber-pertama&quot;&gt;Sumber Pertama&lt;/h4&gt; &lt;div class=&quot;ar&quot;&gt;اَللَّهُمَّ إِنِّي أَعُوْذُبِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا&lt;/div&gt; &lt;div class=&quot;id&quot;&gt; Allaahumma innii a'uudzu bika min 'ilmin laa yanfa', wa min qolbin laa yakhsya', wa min nafsin laa tasyba', wa min da'watin laa yustajaabulahaa. Ya...</content>
  </entry>
 
  

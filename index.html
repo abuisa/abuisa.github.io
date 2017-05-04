@@ -9,20 +9,23 @@ layout: default
 		//$("#rtc").click(function(){
 		hdte = writeIslamicDate(); //+' :: '+writeIslamicDate(-1);
 		//document.getElementById('hcal1').innerHTML += writeIslamicDate(-1);
-		document.getElementById('hcal').innerHTML = 'Today : '+hdte;
+		document.getElementById('hcal').innerHTML = 'Today : '+hdte+'   /   '+harini();
 	});
+	function harini(){
+		var nhari = new Array("Ahad","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu");
+		var mL = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+		//var mS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
+
+		var d = new Date();
+		var a = d.getFullYear(),b = d.getMonth(), c = d.getDay(), e = d.getDate();
+		var f = d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds();
+		return( nhari[c]+' - '+e+'  '+mL[b]+' - '+a+'   -  '+f);
+		//return alert(nhari[c]+' : '+e+', '+mL[b]+' : '+a);
+	}
 </script>
-<div id="hcal"></div>
+<div id="hcal" onclick="harini(0)"></div>
 </div>
-
-<!-- TAMBAHAN UNTUK IEEE BOX -->
-<div class="tocContainer" style="display:block" border="0">
-	<h4> IEEE Explorer untuk Download PDF </h4>
-
-	{% include ie-url.html %}
-
-</div>
-<!-- END UNTUK IEEE BOX -->
+<!-- END - TAMBAHAN UNTUK HIJR CALENDER -->
 
 <!-- Posts -->
 <ul id="posts">

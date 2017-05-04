@@ -59,14 +59,27 @@ description: Penelitian
 </script>
 
 <div class="tocContainer">
-	<a href="#i3e"  onclick="showx('i3e')">ieeeExplorer</a>
-	&nbsp;|&nbsp;<a href="#bab1"  onclick="showx('bab1')">Bab I</a>
-	&nbsp;|&nbsp;<a href="#reff"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
+	<a href="#"  onclick="showx('i3e')">ieeeExplorer</a>
+	&nbsp;|&nbsp;<a href="#"  onclick="showx('bab1')">Bab I</a>
+	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
 
 </div>
 
-<div id="i3e" style="display:block" border="0">
-	<h4> IEEE Explorer </h4>
+<!-- TAMBAHAN UNTUK IEEE BOX 
+<div class="tocContainer" style="display:block" border="0">
+	<h4> IEEE Explorer untuk Download PDF </h4>
+
+	{% include ie-url.html %}
+
+</div>
+END UNTUK IEEE BOX -->
+
+
+
+
+
+<div id="i3e" style="display:block" border="0" class="tocContainer">
+	<h4> IEEE Explorer untuk Download PDF </h4>
 
 	{% include ie-url.html %}
 

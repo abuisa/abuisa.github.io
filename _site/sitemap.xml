@@ -73,6 +73,10 @@
 <lastmod>2017-05-02T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000//downgrade-atau-remove-kernel-kembali-ke-sebelumnya</loc>
+<lastmod>2017-05-04T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000//404</loc>
 </url>
 <url>
@@ -95,6 +99,9 @@
 </url>
 <url>
 <loc>http://localhost:4000//page3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000//page4/</loc>
 </url>
 <url>
 <loc>http://localhost:4000//reff/A-STATIC-MALWARE-DETECTION-SYSTEM-USING-1308.2831.pdf</loc>

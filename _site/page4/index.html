@@ -7,8 +7,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 	<meta name="generator" content="Jekyll">
 
-	<title>About</title>
-  <meta name="description" content="This page describes IkhwanELyas.">
+	<title>IkhwanElyas Page</title>
+  <meta name="description" content="Webpagenya Ikhwan Elyas">
 
 	<!-- CSS & fonts -->
 	<link rel="stylesheet" href="/css/main.css">
@@ -24,23 +24,24 @@
 	<script src="js/hijricalendar-kuwaiti.js"></script>
 
 	<!-- Begin Jekyll SEO tag v2.2.0 -->
-<title>About | IkhwanElyas Page</title>
-<meta property="og:title" content="About" />
+<title>IkhwanElyas Page | Webpagenya Ikhwan Elyas</title>
+<meta property="og:title" content="IkhwanElyas Page" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="This page describes IkhwanELyas." />
-<meta property="og:description" content="This page describes IkhwanELyas." />
-<link rel="canonical" href="http://localhost:4000//me" />
-<meta property="og:url" content="http://localhost:4000//me" />
+<meta name="description" content="Webpagenya Ikhwan Elyas" />
+<meta property="og:description" content="Webpagenya Ikhwan Elyas" />
+<link rel="canonical" href="http://localhost:4000//page4/" />
+<meta property="og:url" content="http://localhost:4000//page4/" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
+<link rel="prev" href="http://localhost:4000//page3/">
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "WebPage",
-"headline": "About",
+"headline": "IkhwanElyas Page",
 "author": {"@type": "Person",
 "name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"description": "This page describes IkhwanELyas.",
-"url": "http://localhost:4000//me"}</script>
+"description": "Webpagenya Ikhwan Elyas",
+"url": "http://localhost:4000//page4/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -204,114 +205,80 @@
 		  
 		<main>
 
-			<article id="page">
-	
-  <!--
-## Numpang Untuk Download Paper dari IEEE 
-<pre>
-</pre>
-
-	<html>
-<body>
+			<!-- TAMBAHAN UNTUK HIJR CALENDER -->
+<div class="tocContainer" style="display:block" border="0">
 <script>
-	function openInNewTab() {
-		var nor = document.getElementById("nomor").value;
-		if (nor != "")
-		{
-			var url = "http://ieeexplore.ieee.org.sci-hub.io/xpl/articleDetails.jsp?arnumber=" + nor;
-			var win = window.open(url, '_blank');
-			win.focus();
-			//alert(url); //untuk tes doang
-		}else
-		{
-			alert("Paste deretan nomor pada bagian akhir URL !");
-		}
+	$(document).ready(function(){
+		//$("#rtc").click(function(){
+		hdte = writeIslamicDate(); //+' :: '+writeIslamicDate(-1);
+		//document.getElementById('hcal1').innerHTML += writeIslamicDate(-1);
+		document.getElementById('hcal').innerHTML = 'Today : '+hdte+'   /   '+harini();
+	});
+	function harini(){
+		var nhari = new Array("Ahad","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu");
+		var mL = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+		//var mS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
 
+		var d = new Date();
+		var a = d.getFullYear(),b = d.getMonth(), c = d.getDay(), e = d.getDate();
+		var f = d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds();
+		return( nhari[c]+' - '+e+'  '+mL[b]+' - '+a+'   -  '+f);
+		//return alert(nhari[c]+' : '+e+', '+mL[b]+' : '+a);
 	}
-
 </script>
-Nomor : <input type="text" id="nomor" value="" placeholder="exp: 4195161"> &nbsp; <button onclick="openInNewTab()">Open and Download</button>
+<div id="hcal" onclick="harini(0)"></div>
+</div>
+<!-- END - TAMBAHAN UNTUK HIJR CALENDER -->
 
-<p>Input/Paste nomor yang di copy dari <a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">ieeexplore.ieee.org</a>, dan click <i>"Open and Download"</i> untuk membuka dan mendownloadnya, tips ini didapat dari <a href="http://www.hackzhub.com/how-to-download-ieee-papers-from-ieeexplore-website-for-free/" target="_blank">hackhub.com</a>.</p>
-<hr>
-Exp : <br>
-http://ieeexplore.ieee.org/document/<b>4195161</b>/<br>
-nb: copy deretan angka yang bercetak tebal pada bagian akhir dari link/url yang akan di download dan paste ke inputbox Nomor.
-<br>
+<!-- Posts -->
+<ul id="posts">
 
-</body>
-</html>
+	
 
+	  <li class="post">
+	  	<h2><a href="/ifroth-dan-tafrith">Paham Ifroth dan Tafrith</a></h2>
+      <time datetime="2017-04-06T00:00:00+07:00" class="by-line"> <i>06 Apr 2017</i> | Agama</time> 
+	  	<p>KIBLAT.NET – Syahdan, ada tiga orang sahabat dengan penuh semangat ibadah mencoba mengunjungi rumah-rumah para ibunda kaum mukminin (istri-istri Nabi SAW). Mereka ingin mengetahui bagaimana cara ibadah Nabi Muhammad SAW di rumah. Tatkala diberitahukan tentang aktivitas ibadah Nabi SAW di rumah, ketiga orang tersebut tercengang...</p>
+	  </li>
 
+    
 
-____
--->
-
-<h2 id="tentang-web-page-ini">Tentang Web page ini</h2>
-
-<p>Web page ini isinya artikel dan materi antah-berantah yang saya dapatkan dari dunia maya dan saya rasa penting maka saya simpan artikel tersebut dengan cara saya posting ke sini untuk menjadi arsip pribadi dan juga untuk bacaan bagi siapa yang berkepentingan.</p>
-
-<h2 id="web-page-theme">Web page Theme</h2>
-
-<p>Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi <a href="https://github.com/dyutibarma/monochrome">dyutibarma-monochrome</a> atau <a href="https://github.com/thereviewindex/blog">thereviewindex-blog</a>.</p>
-
-<h2 id="me">Me</h2>
-<pre>
-</pre>
-<p><span class="f-left">
-<img src="http://localhost:4000/img/me.jpg" alt="ini-adalah-Fotoku" />
-</span></p>
-
-<!-- ![Fotoku](http://localhost:4000/img/me.jpg){:.rkiri} : OK -->
-<!-- ![Fotoku](img/me.jpg){:.rkiri} : ERROR : hasil = //img/me.jpg -->
-
-<!--
-	![Fotoku](img/me.jpg){:.f-left}
-	<img src="img/me.jpg" class="rkiri" markdown="0" />
-	![image-title-here](img/me.jpg){:height="240px" width="140px"}
-	![image-title-here](img/me.jpg){:height="240px" width="140px"}
-	![Fotoku](img/me.jpg){:.rkiri}
-	![Fotoku](img/me.jpg){:.f-left}
--->
-<pre>
+</ul>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</pre>
-
-<p>
-Info lain, segera....
-
-</p>
-
-<hr />
-
-
-
-</article>
 
 	  </main>
 		
 		  <!-- Pagination links -->
       
+        <div class="pagination">
+          
+            <a href="/page3/" class="page-item">&laquo;</a>
+          
+        
+          
+            
+              <a href="/" class="page-item">1</a>
+            
+          
+            
+              <a href="/page2/" class="page-item">2</a>
+            
+          
+            
+              <a href="/page3/" class="page-item">3</a>
+            
+          
+            
+              <span class="page-item">4</span>
+            
+          
+        
+          
+            <span class="page-item">&raquo;</span>
+          
+        </div>
+        
 
 	  </div>
 	    
