@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IkhwanElyas Page</title>
- <link href="https://abuisa.github.io/atom.xml" rel="self"/>
- <id>https://abuisa.github.io</id>
- <updated>2017-05-04T00:34:16+07:00</updated>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2017-05-04T20:49:52+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -15,8 +15,8 @@
 
  <entry>
    <title>Kenali Kebenaran</title>
-   <link href="https://abuisa.github.io/Kenali-Kebenaran"/>
-   <id>https://abuisa.github.io/Kenali-Kebenaran</id>
+   <link href="http://localhost:4000/Kenali-Kebenaran"/>
+   <id>http://localhost:4000/Kenali-Kebenaran</id>
    <updated>2017-05-02T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Assalamualaikum warahmatullah wabarakatuh….&lt;/p&gt; &lt;p&gt;nemu sesuatu yang menarik, jangan lupa untuk dicatat… nah… kali ini saya nemu sesuatu yang sudah sering saya dengar namun belum sempat nyatat, catatan kali ini tentang perkataan salah satu sahabat Nabi Shallallaahualaihiwasallam yaitu Ali bin Abi Talib yang sangat terkenal yaitu :&lt;/p&gt; &lt;div class=&quot;ar&quot;&gt; قال علي...</content>
  </entry>
@@ -25,8 +25,8 @@
 
  <entry>
    <title>KATA MUTIARA</title>
-   <link href="https://abuisa.github.io/Kata-kata-mutiara"/>
-   <id>https://abuisa.github.io/Kata-kata-mutiara</id>
+   <link href="http://localhost:4000/Kata-kata-mutiara"/>
+   <id>http://localhost:4000/Kata-kata-mutiara</id>
    <updated>2017-05-02T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;kata-mutiara&quot;&gt;KATA MUTIARA…&lt;/h4&gt; &lt;div class=&quot;ar&quot;&gt; كُلُّنَا اَشْخَاصٌ عَادِيٌّ فِى نَظْرِ مَنْ لاَ يَعْرِفُنَا &lt;/div&gt; &lt;div class=&quot;id&quot;&gt; &quot;Kita semua adalah orang biasa dalam pandangan orang-orang yg tidak mengenal kita...&quot; &lt;/div&gt; &lt;div class=&quot;ar&quot;&gt; وَكُلُّنَا اَشْخَاصٌ رَائِعُوْنَ فِى نَظْرِ مَنْ يَفْهَمُنَا &lt;/div&gt; &lt;div class=&quot;id&quot;&gt; &quot;Kita adalah orang yang menarik di mata orang yang...</content>
  </entry>
@@ -35,8 +35,8 @@
 
  <entry>
    <title>Sejarah Ilmu Forensic dan Forensik Digital</title>
-   <link href="https://abuisa.github.io/sejarah-ilmu-forensik-digital"/>
-   <id>https://abuisa.github.io/sejarah-ilmu-forensik-digital</id>
+   <link href="http://localhost:4000/sejarah-ilmu-forensik-digital"/>
+   <id>http://localhost:4000/sejarah-ilmu-forensik-digital</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Sejarah keberadaan Ilmu forensik menurut beberapa literatur sudah ada sejak ratusan bahkan ribuan tahun lalu. Dalam perkembangannya ilmu forensik mulai terpecah-pecah menjadi beberapa disiplin ilmu, diantaranya adalah disiplin ilmu forensik digital, beberapa cabang disiplin ilmu forensik lainya adalah kedokteran forensik, ilmu fisika forensik, ilmu kimia forensik, ilmu toksikologi forensik, dan...</content>
  </entry>
@@ -45,8 +45,8 @@
 
  <entry>
    <title>Doa Selain Bahasa Arab dalam Sujud</title>
-   <link href="https://abuisa.github.io/doa-selain-arab-dalam-sujud"/>
-   <id>https://abuisa.github.io/doa-selain-arab-dalam-sujud</id>
+   <link href="http://localhost:4000/doa-selain-arab-dalam-sujud"/>
+   <id>http://localhost:4000/doa-selain-arab-dalam-sujud</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;penjelasan-ust-khalid-basalamah-tentang-doa-dalam-sujud-menggunakan-bahasa-selain-bahasa-arab&quot;&gt;Penjelasan Ust. Khalid Basalamah Tentang Doa dalam Sujud menggunakan bahasa selain Bahasa Arab.&lt;/h3&gt; &lt;iframe allowfullscreen=&quot;&quot; class=&quot;YOUTUBE-iframe-video&quot; frameborder=&quot;0&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/OoE-x7mI33E?feature=player_embedded&quot; width=&quot;600&quot;&gt;&lt;/iframe&gt; &lt;ul&gt; &lt;li&gt;Menurut beliau terdapat beberapa pendapat dikalangan Ulama, &lt;b&gt;Pendapat Pertama Tidak Boleh menggunakan selain bahasa arab dalam sholat secara mutlaq&lt;/b&gt;, pendapat ini mengatakan doa-doa dalam sholat hanya boleh doa-doa...</content>
  </entry>
@@ -55,8 +55,8 @@
 
  <entry>
    <title>Definisi Forensik Digital</title>
-   <link href="https://abuisa.github.io/definisi-forensik-digital"/>
-   <id>https://abuisa.github.io/definisi-forensik-digital</id>
+   <link href="http://localhost:4000/definisi-forensik-digital"/>
+   <id>http://localhost:4000/definisi-forensik-digital</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Sebelum membaca atau masuk pada definisi-definisi yang kami kumpulkan dari beberbagai sumber literatur dibawah, terlebih dahulu dipahami tentang istilah digital forensik itu sendiri, dalam beberapa tulisannya para pakar IT atau komputer menyamakan antara istilah digital forensik dengan komputer forensik, meskipun ada bebrapa ahli yang mengatakan istilah digital forensik lebih umum...</content>
  </entry>
@@ -65,8 +65,8 @@
 
  <entry>
    <title>Potensi Bukti Digital Pada Perangkat Digital</title>
-   <link href="https://abuisa.github.io/bukti-digital-pada-digital-device"/>
-   <id>https://abuisa.github.io/bukti-digital-pada-digital-device</id>
+   <link href="http://localhost:4000/bukti-digital-pada-digital-device"/>
+   <id>http://localhost:4000/bukti-digital-pada-digital-device</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Tema diatas: &lt;i&gt;Evidential Potential of Digital Device&lt;/i&gt; merupakan bagian ke-2 dari beberapa bagian yang terdapat dalam buku &lt;i&gt;Digital Forensics Digital evidence in Criminal Investigation&lt;/i&gt; yang ditulis oleh Angus Marshall. dalam buku ini penulis buku mengupas secara luas tentang digital forensik dan secara mendalam terutama tentang digital evidence in criminal investigation...</content>
  </entry>
@@ -75,8 +75,8 @@
 
  <entry>
    <title>Anti Forensik</title>
-   <link href="https://abuisa.github.io/anti-forensik"/>
-   <id>https://abuisa.github.io/anti-forensik</id>
+   <link href="http://localhost:4000/anti-forensik"/>
+   <id>http://localhost:4000/anti-forensik</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Anti Forensik, secara umum dapat dikatakan sebagai sebuah usaha yang diambil oleh seseorang untuk menggagalkan atau memperlambat proses penyidikan forensik digital. Tulisan dibawah membahas tentang dua paper yang ditulis oleh Gary C. Kessler dengan judul Anti-Forensics and the Digital Investigator, dan paper yang ditulis oleh Przemyslaw Pajek dan Elias Pimenidis...</content>
  </entry>
@@ -85,8 +85,8 @@
 
  <entry>
    <title>Online Email Tracking</title>
-   <link href="https://abuisa.github.io/online-tmail-tracking"/>
-   <id>https://abuisa.github.io/online-tmail-tracking</id>
+   <link href="http://localhost:4000/online-tmail-tracking"/>
+   <id>http://localhost:4000/online-tmail-tracking</id>
    <updated>2017-04-18T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Assalaualaikum….&lt;/p&gt; &lt;p&gt;Ok, kali ini kita akan membahas salah satu cara untuk melacak sebuah email yang dikirimkan ke kita dan kita tidak tau email tersebut dari mana atau mungkin kita curigai, karena dicurigai maka akan dilakukan proses tracking terhadap email tersebt, maksud email tracking disini adalah kita akan melakukan beberapa langkah...</content>
  </entry>
@@ -95,8 +95,8 @@
 
  <entry>
    <title>Lokasi-Lokasi Bukti Digital</title>
-   <link href="https://abuisa.github.io/digital-evidence-locations"/>
-   <id>https://abuisa.github.io/digital-evidence-locations</id>
+   <link href="http://localhost:4000/digital-evidence-locations"/>
+   <id>http://localhost:4000/digital-evidence-locations</id>
    <updated>2017-04-18T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Di Dalam buku &lt;i&gt;Digital Forensics Digital Evidence in Criminal Investigation&lt;/i&gt; yang ditulis oleh Angus M. Marshall, beliau mengupas secara luas tentang digital forensik secara mendalam terutama tentang digital evidence in criminal investigation atau bukti digital dalam suatu investigasi kasus kriminal, dalam pengantarnya Angus M. Marshall menjelaskan bahwa buku ini dimaksudkan...</content>
  </entry>
@@ -105,8 +105,8 @@
 
  <entry>
    <title>Berlindung dari Ilmu yang Tidak Bermanfaat</title>
-   <link href="https://abuisa.github.io/berlindung-dari-ilmu-yang-tidak-bermanfaat"/>
-   <id>https://abuisa.github.io/berlindung-dari-ilmu-yang-tidak-bermanfaat</id>
+   <link href="http://localhost:4000/berlindung-dari-ilmu-yang-tidak-bermanfaat"/>
+   <id>http://localhost:4000/berlindung-dari-ilmu-yang-tidak-bermanfaat</id>
    <updated>2017-04-18T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;sumber-pertama&quot;&gt;Sumber Pertama&lt;/h4&gt; &lt;div class=&quot;ar&quot;&gt;اَللَّهُمَّ إِنِّي أَعُوْذُبِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا&lt;/div&gt; &lt;div class=&quot;id&quot;&gt; Allaahumma innii a'uudzu bika min 'ilmin laa yanfa', wa min qolbin laa yakhsya', wa min nafsin laa tasyba', wa min da'watin laa yustajaabulahaa. Ya...</content>
  </entry>
