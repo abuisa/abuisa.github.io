@@ -70,7 +70,10 @@
 	}
 
 	$(document).ready(function(){
-		$("#cl").hide();
+		if (checkm()){
+			$("#rw").hide();}
+		else{
+			$("#cl").hide();}
 		$("#rw").click(function(){
 			$("#rw").hide();
 			$("#cl").show();
