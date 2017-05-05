@@ -90,13 +90,20 @@
 		var nor = document.getElementById("nomor").value;
 		if (nor != "")
 		{
-			if(isNaN(nor)){
-		    	alert("Hanya bisa Input Nomor !");
-		    } else {
-				var url = "http://ieeexplore.ieee.org.sci-hub.io/xpl/articleDetails.jsp?arnumber=" + nor;
+			var sdurl = "http://www.sciencedirect.com.sci-hub.cc/science/article/pii/" + nor;
+			var url = "http://ieeexplore.ieee.org.sci-hub.io/xpl/articleDetails.jsp?arnumber=" + nor;
+			
+			if(isNaN(nor) && nor.length > 7){
+		    	//alert("Bukan Nomor dan > 7");
+				var win = window.open(sdurl, '_blank');
+				win.focus();
+		    } else if (isNaN(nor) == false ) {
 				var win = window.open(url, '_blank');
 				win.focus();
 				//alert(url); //untuk tes doang
+		    	//alert("Nomor dan <= 7");
+			} else{
+		    	alert("Kode tidak dikenal ");
 			}
 		}else
 		{

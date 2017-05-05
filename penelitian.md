@@ -7,14 +7,21 @@ description: Penelitian
 <!-- BODY -->
 
 <div class="tocContainer">
-	<a href="#"  onclick="showx('i3e')">ieeeExplorer</a>
+	<a href="#"  onclick="showx('i3e')">Links Utama</a>
 	&nbsp;|&nbsp;<a href="#"  onclick="showx('bab1')">Bab I</a>
 	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff')">Refferensi</a>
 
 </div>
 
 <div id="i3e" style="display:block" border="0" class="tocContainer">
-	<h4> IEEE Explorer untuk Download PDF </h4>
+	<b>
+	 	<a href="https://www.scopus.com/home.uri" target="_blank">Scopus.com</a>&nbsp;|&nbsp;
+	 	<a href="http://www.sciencedirect.com/" target="_blank">Sciencedirect.com</a>&nbsp;|&nbsp;
+	 	<a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">Ieeexplore.ieee.org</a>&nbsp;|&nbsp;
+	 	<a href="https://www.mendeley.com/" target="_blank">Mendeley.com</a>
+		
+	</b>
+	<h4> IEEE Explorer dan Sciendirec untuk Download PDF </h4>
 
 	{% include ie-url.html %}
 
