@@ -13,6 +13,7 @@
 	<!-- CSS & fonts -->
 	<link rel="stylesheet" href="/css/main.css">
 
+
 	<!-- RSS -->
 	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
 
@@ -22,6 +23,7 @@
  <!-- Tambahan include JQuery -->
 	<script src="js/jquery.min.js"></script>
 	<script src="js/hijricalendar-kuwaiti.js"></script>
+	<script src="js/modulku.js"></script>
 
 	<!-- Begin Jekyll SEO tag v2.2.0 -->
 <title>IkhwanElyas Page | Webpagenya Ikhwan Elyas</title>
@@ -215,17 +217,7 @@
 		//document.getElementById('hcal1').innerHTML += writeIslamicDate(-1);
 		document.getElementById('hcal').innerHTML = 'Today : '+hdte+'   /   '+harini();
 	});
-	function harini(){
-		var nhari = new Array("Ahad","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu");
-		var mL = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-		//var mS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June', 'July', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
 
-		var d = new Date();
-		var a = d.getFullYear(),b = d.getMonth(), c = d.getDay(), e = d.getDate();
-		var f = d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds();
-		return( nhari[c]+' - '+e+'  '+mL[b]+' - '+a+'   -  '+f);
-		//return alert(nhari[c]+' : '+e+', '+mL[b]+' : '+a);
-	}
 </script>
 <div id="hcal" onclick="harini(0)"></div>
 </div>

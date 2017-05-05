@@ -4,8 +4,6 @@ title: Links
 description: Links
 header: Links
 ---
-
-{% include modulku.html %}
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 ## Link Collections 

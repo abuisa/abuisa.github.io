@@ -1,22 +1,5 @@
 <html>
 <body>
-<script>
-	function openInNewTab() {
-		var nor = document.getElementById("nomor").value;
-		if (nor != "")
-		{
-			var url = "http://ieeexplore.ieee.org.sci-hub.io/xpl/articleDetails.jsp?arnumber=" + nor;
-			var win = window.open(url, '_blank');
-			win.focus();
-			//alert(url); //untuk tes doang
-		}else
-		{
-			alert("Paste deretan nomor pada bagian akhir URL !");
-		}
-
-	}
-
-</script>
 Nomor : <input type="text" id="nomor" value="" placeholder="exp: 4195161"> &nbsp; <button onclick="openInNewTab()">Open and Download</button>
 
 <p>Input/Paste nomor yang di copy dari <a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">ieeexplore.ieee.org</a>, dan click <i>"Open and Download"</i> untuk membuka dan mendownloadnya, tips ini didapat dari <a href="http://www.hackzhub.com/how-to-download-ieee-papers-from-ieeexplore-website-for-free/" target="_blank">hackhub.com</a>.</p>

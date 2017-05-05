@@ -3,80 +3,15 @@ layout: page
 title: Penelitian
 description: Penelitian 
 ---
-{% include modulku.html %}
-<!--
-	modulku.html berisi javascript untuk cek mobile device, 
-	jika perangkat mobile device maka ubah div-kolom menjadi div-rows
--->
-<script>
 
-	function msg(a){
-		alert(a);
-	}
-
-	function checkmobile(a,b){
-		//---Periksa jika perangkat Mobile Device maka tampilkan a dan hide b
-		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-			document.getElementById(a).style.display = 'block';
-			document.getElementById(b).style.display = 'none';
-		}
-		else
-		{
-			;
-		}
-	}
-
-	function showinrows(a,b){
-			document.getElementById(a).style.display = 'block';
-			document.getElementById(b).style.display = 'none';
-	}
-
-	window.onload = function(){ 
-
-		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-			var d4 = document.getElementById('sir');
-			d4.style.visibility = "hidden";
-			//alert("TES PESAN-PESAN .........!");
-		}
-	};
-	function openpdf (fpdf){
-		window.open(fpdf);
-		window.title("Open-File")
-	}
-
-	function showx(a) {
-		var dtag = ["bab1","i3e","reff","reff-ts"];
-		for(var i = 0;i < dtag.length;i++){
-			if (a == dtag[i]){
-				document.getElementById(a).style.display = 'block';
-			}else{
-				document.getElementById(dtag[i]).style.display = 'none';
-			}
-		}
-
-	}
-
-</script>
+<!-- BODY -->
 
 <div class="tocContainer">
 	<a href="#"  onclick="showx('i3e')">ieeeExplorer</a>
 	&nbsp;|&nbsp;<a href="#"  onclick="showx('bab1')">Bab I</a>
-	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff');checkmobile('mreff','reff')">Refferensi</a>
+	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff')">Refferensi</a>
 
 </div>
-
-<!-- TAMBAHAN UNTUK IEEE BOX 
-<div class="tocContainer" style="display:block" border="0">
-	<h4> IEEE Explorer untuk Download PDF </h4>
-
-	{% include ie-url.html %}
-
-</div>
-END UNTUK IEEE BOX -->
-
-
-
-
 
 <div id="i3e" style="display:block" border="0" class="tocContainer">
 	<h4> IEEE Explorer untuk Download PDF </h4>

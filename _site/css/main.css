@@ -757,6 +757,55 @@ footer {
   width: 55%;
   padding-left: 1.6cm; }
 
+.table {
+  display: table; }
+
+.row {
+  display: table-row;
+  border-bottom: 1px solid gray; }
+
+.rowb {
+  border-bottom: 1px solid gray;
+  padding: 4px; }
+
+.column, .no, .jdpdf, .np, .abmet {
+  display: table-cell;
+  vertical-align: top;
+  border: 0px solid gray;
+  padding: 4px;
+  border-left: 0px solid gray;
+  border-bottom: 0px solid gray; }
+
+.columnb {
+  vertical-align: top;
+  border: 0px solid gray;
+  padding: 4px;
+  border-left: 0px solid gray;
+  border-bottom: 0px solid gray; }
+
+.no, .jdpdf, .np, .abmet {
+  border-bottom: 1px solid gray;
+  font-weight: bold; }
+
+.no {
+  width: 2%; }
+
+.jdpdf {
+  width: 18%; }
+
+.np {
+  width: 14%; }
+
+.abmet {
+  width: 30%; }
+
+.hd {
+  display: none; }
+
+.hds {
+  display: block;
+  font-weight: bold; }
+
 .ar {
   font-weight: bold;
   font-size: 22px;

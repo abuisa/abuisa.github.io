@@ -13,6 +13,7 @@
 	<!-- CSS & fonts -->
 	<link rel="stylesheet" href="/css/main.css">
 
+
 	<!-- RSS -->
 	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
 
@@ -22,6 +23,7 @@
  <!-- Tambahan include JQuery -->
 	<script src="js/jquery.min.js"></script>
 	<script src="js/hijricalendar-kuwaiti.js"></script>
+	<script src="js/modulku.js"></script>
 
 	<!-- Begin Jekyll SEO tag v2.2.0 -->
 <title>This is the Example Page post. | IkhwanElyas Page</title>
@@ -218,122 +220,28 @@
 <body>
 <script>
 	
-//===============
-	window.onload = function(){ 
-	    //alert("TES PESAN-PESAN .........!");
-
-		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-			//document.getElementById("jd").innerHTML = "<b>---Hello SmartPhone---</b>";
-			//zoom();
-			var d1 = document.getElementById('linkdiv1');
-			var d2 = document.getElementById('linkdiv2');
-			var d3 = document.getElementById('linkdiv3');
-			d1.removeAttribute("class");
-			d2.removeAttribute("class");
-			d3.removeAttribute("class");
-		}
-		else
-		{
-			;
-
-		}
-	};
-	//========Ini Fungsi Untuk Show Button go-to-top========
-		/*
-			window.onscroll = function() {scrollFunction()};
-
-			function scrollFunction() {
-				if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-					document.getElementById("myBtn").style.display = "block";
-				} else {
-					document.getElementById("myBtn").style.display = "none";
-				}
-			}
-
-			// When the user clicks on the button, scroll to the top of the document
-			function topFunction() {
-				document.body.scrollTop = 0;
-				document.documentElement.scrollTop = 0;
-			}
-		*/
-	//======End Fungsi go-to-top===========
-</script>
-
-
+<!-- SEBELUMNYA HALAMAN INI DIGUNAKAN UNTUK MENAMPUNG FUNGSI JS DAN CSS -->
+<!-- TAPI UDAH TIDAK LAGI KARENA SEMUA FUNGSI TELAH DIPINDAHKAN KE HALAMAN modulku.js dan main.scss -->
 <!-- STYLE UNTUK DIV KOLOM DAN ROWS -->
 <style type="text/css">
-        .table {
-            display: table;
-        }
-
-        .row {
-            display: table-row;	
-			border-bottom: 1px solid gray;
-        }
-		.rowb{
-			border-bottom: 1px solid gray;
-			padding: 4px;
-		}
-        .column, .no, .jdpdf, .np, .abmet {
-            display: table-cell;
-            vertical-align: top;
-			border: 0px solid gray;
-			padding: 4px;
-			border-left:0px solid gray;
-			border-bottom: 0px solid gray;		
-        }
-        .columnb {        
-            vertical-align: top;
-			border: 0px solid gray;
-			padding: 4px;
-			border-left:0px solid gray;
-			border-bottom: 0px solid gray;
-		}
-		.no, .jdpdf, .np, .abmet {
-			border-bottom: 1px solid gray;	
-			font-weight: bold;	
-		}
-		.no{
-			width: 2%;
-		}
-		.jdpdf{
-			width: 18%;
-		}
-		.np{
-			width: 14%;			
-		}
-		.abmet{
-			width: 30%;			
-		}
-		.hd{
-			display: none;
-		}
-		.hds{
-			display: block;
-			font-weight: bold;s
-		}
-
+ 
 </style>
 </body>
 </html>
 
-<p><button onclick="topFunction()" id="myBtn" title="Go to top">Top</button></p>
-<h2 id="example-one--link-">Example One ( Link )</h2>
-<h4 id="ref-lain-">Ref lain :</h4>
-<ul>
-  <li>Petunjuk lain untuk jekyll how to :
-    <ul>
-      <li><a href="http://jekyllthemes.org/" target="_blank">Jekyll Themes</a></li>
-      <li><a href="https://mademistakes.com/articles/jekyll-style-guide/" target="_blank">Jekyll-how-to-use</a></li>
-      <li><a href="https://mademistakes.com/style-guide/" target="_blank">Jekyll-style</a></li>
-    </ul>
-  </li>
-</ul>
 
-<h2 id="example-two--image-and-var-">Example Two ( Image and Var )</h2>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+## Example One ( Link )
+#### Ref lain : 
+- Petunjuk lain untuk jekyll how to : 
+	- [Jekyll Themes](http://jekyllthemes.org/){:target="_blank"}
+	- [Jekyll-how-to-use](https://mademistakes.com/articles/jekyll-style-guide/){:target="_blank"}
+	- [Jekyll-style](https://mademistakes.com/style-guide/){:target="_blank"}
+ 
+## Example Two ( Image and Var )
 
-<h4 id="foto-cantik-posisi-kiri">Foto Cantik posisi kiri</h4>
-<p><img src="img/cantik-icon.png" alt="image-title-here" class="rkiri" /></p>
+#### Foto Cantik posisi kiri
+![image-title-here](img/cantik-icon.png){: .rkiri}
 <pre>
 
 
@@ -347,9 +255,9 @@
 
 </pre>
 
-<h4 id="test-image-posisi-kanan">Test Image posisi kanan</h4>
+#### Test Image posisi kanan
 
-<p><img src="img/cantik-icon.png" alt="image-title-here" class="img-responsive rkanan" /></p>
+![image-title-here](img/cantik-icon.png){:class="img-responsive"}{: .rkanan}
 <pre>
 
 
@@ -362,10 +270,10 @@
 
 </pre>
 
-<h4 id="use-span-posisi-kiri">Use SPAN posisi kiri</h4>
-<p><span class="f-left">
-<img src="img/cantik-icon.png" alt="image-title-here" />
-</span></p>
+#### Use SPAN posisi kiri
+<span class="f-left">
+![image-title-here](img/cantik-icon.png)
+</span>
 <pre>
 
 
@@ -378,21 +286,19 @@
 
 
 </pre>
-<h4 id="variabel-">Variabel :</h4>
-<ol>
-  <li>page.id 		: /Example-page <br /></li>
-  <li>page.url		: /Example-page <br /></li>
-  <li>page.path	: _posts/2017-04-08-Example-page.md <br /></li>
-  <li>site.url		: http://localhost:4000 <br /></li>
-  <li>site.baseurl	: /<br /></li>
-  <li>post.url		:  <br /></li>
-</ol>
+#### Variabel : 
+1. page.id 		: /Example-page <br>
+2. page.url		: /Example-page <br>
+3. page.path	: _posts/2017-04-08-Example-page.md <br>
+4. site.url		: http://localhost:4000 <br>
+5. site.baseurl	: /<br>
+6. post.url		:  <br>
+ 
+## Example three ( Code highlight )
 
-<h2 id="example-three--code-highlight-">Example three ( Code highlight )</h2>
+To insert highlight code inside of a post, it's enough to use some specific tags, has directly described into the [Jekyll documentation](http://jekyllrb.com/docs/templates/#code-snippet-highlighting). In this way the code will be included into a ``.highlight`` CSS class and will be highlight according to the [syntax.scss](https://github.com/mojombo/tpw/blob/master/css/syntax.css) file. This is the standard style adopted by **Github** to highlight the code. 
 
-<p>To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the <a href="http://jekyllrb.com/docs/templates/#code-snippet-highlighting">Jekyll documentation</a>. In this way the code will be included into a <code class="highlighter-rouge">.highlight</code> CSS class and will be highlight according to the <a href="https://github.com/mojombo/tpw/blob/master/css/syntax.css">syntax.scss</a> file. This is the standard style adopted by <strong>Github</strong> to highlight the code.</p>
-
-<p>This is a CSS example:</p>
+This is a CSS example:
 
 <figure class="highlight"><pre><code class="language-css" data-lang="css"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -411,7 +317,9 @@
 <span class="p">}</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<p>And this is a HTML example, with a linenumber:</p>
+
+And this is a HTML example, with a linenumber:
+
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -420,7 +328,9 @@
 <span class="nt">&lt;/html&gt;</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<p>Last, a Ruby example:</p>
+
+Last, a Ruby example:
+
 
 <figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -429,41 +339,34 @@
 <span class="k">end</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<h2 id="example-four--blok-note-">Example Four ( Blok Note )</h2>
 
-<blockquote>
-  <p>This is a blockquote
-ini juga bloknote</p>
-</blockquote>
+## Example Four ( Blok Note )
 
-<p>The Command for download your github repo to local :</p>
-<blockquote>
-  <p>Command $ git clone https://github.com/abuisa/abuisa.github.io</p>
-</blockquote>
+> This is a blockquote
+> ini juga bloknote
 
-<h4 id="unordered-list">Unordered list</h4>
-<ul>
-  <li>list 1</li>
-  <li>list 2</li>
-  <li>list 3</li>
-  <li>list 4</li>
-  <li>a;askdf</li>
-  <li>aksdf</li>
-</ul>
+The Command for download your github repo to local : 
+> Command $ git clone https://github.com/abuisa/abuisa.github.io
 
-<h4 id="ordered-list">Ordered list</h4>
-<ol>
-  <li>one</li>
-  <li>two</li>
-  <li>three</li>
-  <li>four</li>
-  <li>alsjdf</li>
-  <li>aksjdf</li>
-</ol>
+#### Unordered list
+- list 1
+- list 2
+- list 3
+- list 4
+- a;askdf
+- aksdf
 
-<h2 id="examples-five--loop-">Examples Five ( loop )</h2>
+#### Ordered list
+1. one
+2. two
+3. three
+4. four
+5. alsjdf
+6. aksjdf
 
-<h4 id="contoh-mengambil-semua-kategori-">Contoh Mengambil semua Kategori :</h4>
+## Examples Five ( loop )
+
+#### Contoh Mengambil semua Kategori : 
 <ul>
 
 	<a href="http://localhost:4000/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya">Downgrade atau Remove kernel dan kembali ke versi sebelumnya</a><br />
@@ -474,27 +377,23 @@ ini juga bloknote</p>
 
 </ul>
 
-<h4 id="contoh-penggunaan-for">Contoh penggunaan For</h4>
+#### Contoh penggunaan For
 
 <ul>
 
-    1 <br />
+    1 <br>
 
-    2 <br />
+    2 <br>
 
-    3 <br />
+    3 <br>
 
 </ul>
 
-<h2 id="examples-six---video-">Examples Six  ( Video )</h2>
-<h4 id="manual-embed-video-from-youtube-">Manual Embed video from youtube :</h4>
-<blockquote>
-  <p>https://www.youtube.com/watch?v=fuS-3HSnpq4</p>
-</blockquote>
+## Examples Six  ( Video )
+#### Manual Embed video from youtube : 
+> https://www.youtube.com/watch?v=fuS-3HSnpq4
 
-<ul>
-  <li>Scrip ini copy dan buat menjadi satu bari (menghindari error)..</li>
-</ul>
+- Scrip ini copy dan buat menjadi satu bari (menghindari error)..
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -509,13 +408,12 @@ ini juga bloknote</p>
 <span class="nt">&lt;/iframe&gt;</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<h4 id="tampak-videonya-1-">Tampak videonya 1 :</h4>
+
+#### Tampak videonya 1 : 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?feature=player_embedded" width="600"></iframe>
 
-<h4 id="vidio-dengan-time-start-dan-time-end">Vidio dengan time start dan time end</h4>
-<ul>
-  <li>Video start dari detik ke : <b>100</b> s/d detik ke : <b>235</b></li>
-</ul>
+#### Vidio dengan time start dan time end
+- Video start dari detik ke : <b>100</b> s/d detik ke : <b>235</b>
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -530,12 +428,13 @@ ini juga bloknote</p>
 <span class="nt">&lt;/iframe&gt;</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?start=100&amp;end=235&amp;feature=player_embedded" width="600"></iframe>
 
-<h2 id="examples-seven---script-jquery--html-">Examples Seven  ( SCRIPT Jquery &amp; HTML )</h2>
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?start=100&end=235&feature=player_embedded" width="600"></iframe>
 
-<h3 id="script-untuk-buat-tabel-dari-tag-div-dan-ubah-dari-kolom-menjadi-baris">Script untuk buat tabel dari tag div dan ubah dari kolom menjadi baris</h3>
-<h4 id="html-untuk-div-tabelnya-">HTML untuk div tabelnya :</h4>
+## Examples Seven  ( SCRIPT Jquery & HTML )
+
+### Script untuk buat tabel dari tag div dan ubah dari kolom menjadi baris
+#### HTML untuk div tabelnya : 
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -620,7 +519,9 @@ ini juga bloknote</p>
 <span class="nt">&lt;/div&gt;</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<h4 id="css-untuk-table-dan-column">CSS untuk table dan column</h4>
+
+#### CSS untuk table dan column
+
 
 <figure class="highlight"><pre><code class="language-js" data-lang="js"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -723,7 +624,8 @@ ini juga bloknote</p>
 <span class="p">}</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<h4 id="javascript-untuk-mengubah-class-dari-kolom-menjadi-baris-fungsi-js-yang-isinya-jquery">JavaScript untuk mengubah class dari kolom menjadi baris (Fungsi js yang isinya jquery)</h4>
+
+#### JavaScript untuk mengubah class dari kolom menjadi baris (Fungsi js yang isinya jquery)
 
 <figure class="highlight"><pre><code class="language-js" data-lang="js"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -790,7 +692,8 @@ ini juga bloknote</p>
 <span class="p">}</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<h4 id="jquery-untuk-mengubah-class-dari-kolom-menjadi-baris-bedanya-dengan-js-diatas-hanya-pada-fungsi-untuk-memanggil">JQuery untuk mengubah class dari kolom menjadi baris (bedanya dengan js diatas hanya pada fungsi untuk memanggil)</h4>
+
+#### JQuery untuk mengubah class dari kolom menjadi baris (bedanya dengan js diatas hanya pada fungsi untuk memanggil)
 
 <figure class="highlight"><pre><code class="language-js" data-lang="js"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -865,7 +768,8 @@ ini juga bloknote</p>
 <span class="p">});</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<h4 id="demo-ubah-kolom-kebaris">DEMO (ubah kolom kebaris)</h4>
+
+#### DEMO (ubah kolom kebaris)
 <!-- STYLE UNTUK DIV KOLOM DAN ROWS -->
 <style type="text/css">
         .table {
@@ -919,7 +823,6 @@ ini juga bloknote</p>
 			font-weight: bold;s
 		}
 </style>
-
 <div>
 
 <a href="#" id="rtc">Column</a>&nbsp;|&nbsp;
@@ -939,32 +842,32 @@ ini juga bloknote</p>
   </div>
 
    <div class="row">
-	<div class="column"><b class="hd">NO :		</b>1. </div>
-	<div class="column"><b class="hd">JUDUL :	</b> Judul 1  </div>
-	<div class="column"><b class="hd">PENULIS :	</b> Penulis 1 </div>
-	<div class="column"><b class="hd">ABSTRAK :	</b> Abstrak 1 </div>
-	<div class="column"><b class="hd">METODE :	</b> Metode 1 </div>
-	<div class="column"><b class="hd">FILE :	</b> File 1 </div>
+	<div  class="column"><b class="hd">NO :		</b>1. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 1  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 1 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 1 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 1 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 1 </div>
   </div>
   <div class="row">
-	<div class="column"><b class="hd">NO :		</b>2. </div>
-	<div class="column"><b class="hd">JUDUL :	</b> Judul 2  </div>
-	<div class="column"><b class="hd">PENULIS :	</b> Penulis 2 </div>
-	<div class="column"><b class="hd">ABSTRAK :	</b> Abstrak 2 </div>
-	<div class="column"><b class="hd">METODE :	</b> Metode 2 </div>
-	<div class="column"><b class="hd">FILE :	</b> File 2 </div>
+	<div  class="column"><b class="hd">NO :		</b>2. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 2  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 2 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 2 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 2 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 2 </div>
   </div>
   <div class="row">
-	<div class="column"><b class="hd">NO :		</b>3. </div>
-	<div class="column"><b class="hd">JUDUL :	</b> Judul 3  </div>
-	<div class="column"><b class="hd">PENULIS :	</b> Penulis 3 </div>
-	<div class="column"><b class="hd">ABSTRAK :	</b> Abstrak 3 </div>
-	<div class="column"><b class="hd">METODE :	</b> Metode 3 </div>
-	<div class="column"><b class="hd">FILE :	</b> File 3 </div>
+	<div  class="column"><b class="hd">NO :		</b>3. </div>
+	<div  class="column"><b class="hd">JUDUL :	</b> Judul 3  </div>
+	<div  class="column"><b class="hd">PENULIS :	</b> Penulis 3 </div>
+	<div  class="column"><b class="hd">ABSTRAK :	</b> Abstrak 3 </div>
+	<div  class="column"><b class="hd">METODE :	</b> Metode 3 </div>
+	<div  class="column"><b class="hd">FILE :	</b> File 3 </div>
   </div>
 </div>
 
-<br />
+<br>
 
 
 <script>
@@ -1039,12 +942,12 @@ $(document).ready(function(){
 });
 </script>
 
-</div>
+&lt;/div&gt;
 
-<h2 id="examples-eight---arabic-style-">Examples Eight  ( Arabic Style )</h2>
+## Examples Eight  ( Arabic Style )
 
-<h4 id="contoh-untuk-style-arabic-">Contoh untuk style arabic :</h4>
-<p><b>Al-Allamah Ubaid Al-Jabiry hafizhahullah berkata:</b></p>
+#### Contoh untuk style arabic : 
+<b>Al-Allamah Ubaid Al-Jabiry hafizhahullah berkata:</b>
 <div class="ar">
 ﺇﺫَﺍ ﻛﺎﻥ ﻓﻲ ﺍﻟﻤَﺴﺠﺪ ﻣﺼَﺎﺣﻒ ﻓﻼ ﺗﻨْﺒﻐﻲ ﺍﻟﻘﺮَﺍﺀﺓ ﺑﺎﻟﻬَﺎﺗﻒ ﻭﺃَﻧﺎ ﺃﻛْﺮﻩ ﺫﻟﻚ ﻷَﻥ ﺍﻟﻤﺼﺤﻒ ﻳﺘﻌﺒﺪ ﺑِﺤﻤﻠِﻪ ﻭﺍﻟﻨﻈَﺮ فيه ﻭﺍﻟﻬَﺎﺗﻒ ﻟﻴْﺲ ﻛَﺬﻟﻚ ﻭﻗَﺪ ﻳُﺘﺮﺗّﺐ ﻋﻠﻰ ﺫَﻟﻚ ﻫُﺠﺮﺍﻥ ﺍﻟﻤَﺼﺎﺣﻒ ﻭﺍﻟﺰّﻫﺪ ﻓِﻴﻬﺎ .
 </div>
@@ -1060,10 +963,10 @@ Dan terkadang hal itu akan berakibat mushaf-mushaf ditinggalkan dan tidak dimanf
 
 </div>
 -->
-<h2 id="examples-nine--video-local">Examples Nine ( Video Local)</h2>
+## Examples Nine ( Video Local)
 
-<h3 id="contoh-untuk-memainkan-video-mp4-local-dengan-html-">Contoh untuk memainkan video MP4 local dengan html :</h3>
-<h4 id="script-">SCRIPT :</h4>
+### Contoh untuk memainkan video MP4 local dengan html : 
+#### SCRIPT : 
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -1072,13 +975,15 @@ Dan terkadang hal itu akan berakibat mushaf-mushaf ditinggalkan dan tidak dimanf
 <span class="nt">&lt;/video&gt;</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<h4 id="demo-">DEMO :</h4>
+
+#### DEMO : 
 <video width="600" controls="">
   <source src="reff/Lightning-Exclusive-Nasheed-By_ Ahmad-Al-Muqit.mp4" type="video/mp4" />
 </video>
 
-<h3 id="contoh-untuk-memainkan-video-webm-local-dengan-html-">Contoh untuk memainkan video WEBM local dengan html :</h3>
-<h4 id="script--1">SCRIPT :</h4>
+
+### Contoh untuk memainkan video WEBM local dengan html : 
+#### SCRIPT : 
 
 <figure class="highlight"><pre><code class="language-html" data-lang="html"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
 2
@@ -1087,14 +992,20 @@ Dan terkadang hal itu akan berakibat mushaf-mushaf ditinggalkan dan tidak dimanf
 <span class="nt">&lt;/video&gt;</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
-<h4 id="demo--1">DEMO :</h4>
+
+#### DEMO : 
 <video width="600" controls="">
   <source src="reff/nasheed--amaman-junod-alfeda.webm" type="video/webm" />
 </video>
 
-<hr />
-<p>Kategori : Examples,
-Post by : admin</p>
+
+
+
+
+____
+Kategori : Examples,
+Post by : admin
+</body></html>
 
 		
 	</div>

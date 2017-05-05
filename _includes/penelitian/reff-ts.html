@@ -1,54 +1,7 @@
-<script>
-function ctrow(){
-    	//--- Ganti class --columnx-- dengan class --column--
-    	$(".column").addClass('columnb');
-    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
-		$("div").removeClass("column");
-		//--- Ubah class --row-- menjadi --rowb--
-		//--- Show Garis Pembatas ------------
-		$(".row").addClass('rowb');
-		$(".row").removeClass("row");
-		//--- Hide Head of Column
-		$("#ts").hide();
-
-		//--- Show Sub Judul ------			
-		$(".hd").addClass('hds');
-		$(".hd").removeClass("hd");
-}
-function rowtc(){
-	    //--- Ganti class --columnx-- dengan class --column--
-    	$(".columnb").addClass('column');
-    	//--- Hapus class --columnx-- yang terdapat pada semua --div--
-		$("div").removeClass("columnb");
-		//--- Ubah class --row-- menjadi --rowb--
-		//--- Show Garis Pembatas ------------
-		$(".rowb").addClass('row');
-		$(".rowb").removeClass("rowb");
-		//--- Show Head of column ----
-		$("#ts").show();
-
-		//--- Hide sub judul ----
-		$(".hds").addClass('hd');
-		$(".hds").removeClass("hds");
-}
-
-$(document).ready(function(){
-	$("#cl").hide();
-    $("#rw").click(function(){
-    	$("#rw").hide();
-		$("#cl").show();
-    });	
-    $("#cl").click(function(){
-    	$("#cl").hide();
-		$("#rw").show();
-    });	
-});
-
-</script>
 
 <div class="table">
   <div class="row" id="ts">
-	<div class="no">No. </div>
+	<div class="no">NO </div>
 	<div class="jdpdf">JUDUL  </div>
 	<div class="np">PENULIS  </div>
 	<div class="abmet">ABSTRAK  </div>
