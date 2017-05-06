@@ -4,7 +4,7 @@ description: This is the Example Page post.
 header: Example Page
 categories: Examples
 ---
-{% include modulku.html %}
+
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 ## Example One ( Link )
 #### Ref lain : 

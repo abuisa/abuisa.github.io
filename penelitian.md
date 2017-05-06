@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Penelitian
-description: Penelitian 
+description: Penelitian
 ---
 
 <!-- BODY -->
@@ -19,7 +19,6 @@ description: Penelitian
 	 	<a href="http://www.sciencedirect.com/" target="_blank">Sciencedirect.com</a>&nbsp;|&nbsp;
 	 	<a href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">Ieeexplore.ieee.org</a>&nbsp;|&nbsp;
 	 	<a href="https://www.mendeley.com/" target="_blank">Mendeley.com</a>
-		
 	</b>
 	<h4> IEEE Explorer dan Sciendirec untuk Download PDF </h4>
 
@@ -46,4 +45,3 @@ description: Penelitian
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">xxx-Top</button>
 -->
-
