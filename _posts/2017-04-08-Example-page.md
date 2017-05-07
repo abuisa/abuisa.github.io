@@ -580,9 +580,29 @@ Dan terkadang hal itu akan berakibat mushaf-mushaf ditinggalkan dan tidak dimanf
   <source src="reff/nasheed--amaman-junod-alfeda.webm" type="video/webm">
 </video>
 
+### Contoh untuk memainkan video Secara otomatis dan berulang : 
+{% highlight html linenos %}
+<video width="600" controls autoplay loop >
+  <source src="reff/Lightning-Exclusive-Nasheed-By_ Ahmad-Al-Muqit.mp4" type="video/mp4">
+</video>
+{% endhighlight %}
 
+#### Embed Youtube Loop : 
 
+{% highlight html linenos %}
+<iframe width="560" height="315" 
+	src="https://www.youtube.com/embed?listType=playlist&list=PLnoTfAA_jyrgySNpyxOc1Eo6Oob5_jwCo&autoplay=1&loop=1" 
+	frameborder="0" 
+	allowfullscreen>
+</iframe>​
+{% endhighlight %}
 
+#### Demo : 
+<iframe width="560" height="315" src="https://www.youtube.com/embed?listType=playlist&list=PLnoTfAA_jyrgySNpyxOc1Eo6Oob5_jwCo&autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>​
+Sumber dari :
+- [developers.google.com](https://developers.google.com/youtube/player_parameters){:target="_blank"}
+- [http://stackoverflow.com](http://stackoverflow.com/a/13042891){:target="_blank"}
+- [http://web.archive.org](http://web.archive.org/web/20121016180134/http://brianwong.com/blog/2012-youtube-embed-code-autoplay-on-and-all-other-parameters/){:target="_blank"}
 
 ____
 Kategori : {{ page.categories }},

@@ -70,6 +70,7 @@
 	}
 
 	$(document).ready(function(){
+		//--- untuk hide click-link rows dan column ---
 		if (checkm()){
 			$("#rw").hide();}
 		else{
@@ -139,7 +140,7 @@
 	}
 
 	function showx(a) {
-		var dtag = ["bab1","i3e","reff","reff-ts"];
+		var dtag = ["bab1","i3e","reff","reff-tes"];
 		for(var i = 0;i < dtag.length;i++){
 			if (a == dtag[i]){
 				document.getElementById(a).style.display = 'block';

@@ -768,43 +768,51 @@ footer {
   border-bottom: 1px solid gray;
   padding: 4px; }
 
-.column, .no, .jdpdf, .np, .abmet {
+.column, .no, .judul, .namap, .abstrak, .fpdf {
   display: table-cell;
   vertical-align: top;
   border: 0px solid gray;
-  padding: 4px;
+  padding: 6px;
   border-left: 0px solid gray;
   border-bottom: 0px solid gray; }
 
 .columnb {
   vertical-align: top;
   border: 0px solid gray;
-  padding: 4px;
+  padding: 6px;
   border-left: 0px solid gray;
   border-bottom: 0px solid gray; }
 
-.no, .jdpdf, .np, .abmet {
+.no, .judul, .namap, .abstrak, .fpdf {
   border-bottom: 1px solid gray;
   font-weight: bold; }
 
 .no {
-  width: 2%; }
+  width: auto; }
 
-.jdpdf {
+.judul {
+  width: 24%; }
+
+.namap {
   width: 18%; }
 
-.np {
-  width: 14%; }
+.abstrak {
+  width: 45%; }
 
-.abmet {
-  width: 30%; }
+.fpdf {
+  width: 12%; }
 
 .hd {
   display: none; }
 
 .hds {
-  display: block;
+  /*display: block;*/
+  sdisplay: inline;
   font-weight: bold; }
+
+.fontJD {
+  font-weight: bold;
+  font-size: 28px; }
 
 .ar {
   font-weight: bold;
