@@ -749,12 +749,12 @@ footer {
 .kate1 {
   float: left;
   height: 100%;
-  width: 45%;
+  width: 50%;
   border-right: 0px solid grey; }
 
 .kate2 {
   display: inline-block;
-  width: 55%;
+  width: 49%;
   padding-left: 1.6cm; }
 
 .table {

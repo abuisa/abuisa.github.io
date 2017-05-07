@@ -16,7 +16,7 @@ header: All Post
 
 		<ul>
 		{% for post in site.categories.Agama %}
-			<li><a href="{{site.url}}{{post.url}}">{{ post.title }} | {{ post.date | date: "%B %d, %Y" }}</a></li>
+			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
 		{% endfor %}
 		</ul>
 
@@ -24,14 +24,14 @@ header: All Post
 
 		<ul>
 		{% for post in site.categories.DigitalForensik %}
-			<li><a href="{{site.url}}{{post.url}}">{{ post.title }} | {{ post.date | date: "%B %d, %Y" }}</a></li>
+			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
 		{% endfor %}
 		</ul>
 
 	<h3> Just Examples : </h3>
 		<ul>
 		{% for post in site.categories.Examples %}
-			<li><a href="{{site.url}}{{post.url}}">{{ post.title }} | {{ post.date | date: "%B %d, %Y" }}</a></li>
+			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
 		{% endfor %}
 		</ul>
 
@@ -43,7 +43,7 @@ header: All Post
 	<h3> Linux : </h3>
 		<ul>
 		{% for post in site.categories.Linux %}
-			<li><a href="{{site.url}}{{post.url}}">{{ post.title }} | {{ post.date | date: "%B %d, %Y" }}</a></li>
+			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
 		{% endfor %}
 		</ul>
 
@@ -52,7 +52,7 @@ header: All Post
 
 		<ul>
 		{% for post in site.categories.Programming %}
-			<li><a href="{{site.url}}{{post.url}}">{{ post.title }} | {{ post.date | date: "%B %d, %Y" }}</a></li>
+			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
 		{% endfor %}
 		</ul>
 
