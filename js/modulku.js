@@ -150,6 +150,21 @@
 			}
 		}
 	}
+//--- FOR FILE SIGNATURE FROM 1 to 18 ---
+	function showfsig(a) {
+		
+		for(var i=1;i<=18;i++){
+			//var n = i.toString();
+			if (a === i){
+				document.getElementById(i).style.display = 'block';
+				//alert(i);
+			}else{
+				//alert("tidak sama");
+				document.getElementById(i).style.display = 'none';
+			}
+		}
+	//alert(a);
+	}
 //--- END FUNGSI-FUNGSI untuk penelitian.md ---
 //--- =================================== ---
 //--- FUNGSI-FUNGSI untuk index.html ---
