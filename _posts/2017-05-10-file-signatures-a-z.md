@@ -30,46 +30,8 @@ categories: DigitalForensik
 
 <div id="bab1" style="display:none" border="0">
 	<!-- https://www.filesignatures.net/index.php?page=all -->
-	<h4> Examples File Signatuess </h4>
-	<b>
-	<!-- <a href="#" onclick="showfsig(2)">Hal-2</a> -->
-	Page 
-	{% for ix in (1..6) %}
-		 <!-- the stuff to be done followed by an increase in the 'counter' variable -->
-    	: <a onclick="showfsig( {{ ix }} )"> {{ ix }} </a>
-	{% endfor %}
-	: <a onclick="showfsig(7)"> All </a>
-	</b>
-	
-
-<!-- =====BATAS DIV FOR FILE SIGNA 1-18==== -->
-<div id="1" style="display:block" border="0">
-	{% include extposts/fsig/filesig1.html %} 
-</div>
-<div id="2" style="display:none" border="0">
-	{% include extposts/fsig/filesig2.html %} 
-</div>
-<div id="3" style="display:none" border="0">
-	{% include extposts/fsig/filesig3.html %} 
-</div>
-<div id="4" style="display:none" border="0">
-	{% include extposts/fsig/filesig4.html %} 
-</div>
-<div id="5" style="display:none" border="0">
-	{% include extposts/fsig/filesig5.html %} 
-</div>
-<div id="6" style="display:none" border="0">
-	{% include extposts/fsig/filesig6.html %} 
-</div>
-<div id="7" style="display:none" border="0">
-	{% include extposts/fsig/filesig.html %} 
-</div>
-
-<!--
-
--->
-
-
+	<h4> File Signatues from <a href="https://www.filesignatures.net/index.php?page=all" target="_blank">filesignatures.net</a> </h4>
+	{% include extposts/filesig.html %} 
 
 </div>
 

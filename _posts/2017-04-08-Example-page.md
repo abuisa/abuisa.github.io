@@ -138,14 +138,20 @@ The Command for download your github repo to local :
 {% endfor %}
 </ul>
 
-#### Contoh penggunaan For
+#### Contoh penggunaan For with br
 
 <ul>
 {% for num in (1..3) %}
     {{num}} <br>
 {% endfor %}
 </ul>
-
+#### Loop tanpa br
+<div style="display:block" border="0">
+Click Number
+	{% for i in (1..6) %}
+		  : <a onclick="msg({{ i }})">{{i}}</a>
+	{% endfor %}
+</div>
 ## Examples Six  ( Video )
 #### Manual Embed video from youtube : 
 > https://www.youtube.com/watch?v=fuS-3HSnpq4

@@ -151,6 +151,8 @@
 		}
 	}
 //--- FOR FILE SIGNATURE FROM 1 to 18 ---
+//--- Fungsi showfsig(a) ini sudah TIDAK LAGI DIGUNAKAN !!! ---
+/*	
 	function showfsig(a) {
 		
 		for(var i=1;i<=7;i++){
@@ -165,6 +167,8 @@
 		}
 	//alert(a);
 	}
+*/
+//--- END fungsi showfsig(a) ---
 //--- END FUNGSI-FUNGSI untuk penelitian.md ---
 //--- =================================== ---
 //--- FUNGSI-FUNGSI untuk index.html ---
