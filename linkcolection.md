@@ -153,6 +153,13 @@ header: Links
 			<li><a href="https://github.com/ytisf/theZoo/tree/master/malwares/" target="_blank"> github.com/malwares</a></li>
 			<li><a href="http://www.tekdefense.com/downloads/malware-samples/" target="_blank"> www.tekdefense.com</a></li>
 		</ul>
+	<h3> Online Malware Scanner</h3>
+		<ul>	
+			<li><a href="https://www.garyshood.com/virus/" target="_blank"> www.garyshood.com</a></li>
+			<li><a href="https://virusdesk.kaspersky.com/" target="_blank"> virusdesk.kaspersky.com</a></li>
+			<li><a href="https://www.virustotal.com/" target="_blank"> www.virustotal.com</a></li>
+		</ul>
+
 	<h3> Malware Analys System</h3>
 		<ul>
 			<li><a href="https://cuckoosandbox.org/" target="_blank"> cuckoosandbox.org</a></li>
