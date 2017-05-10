@@ -4,7 +4,6 @@ title: Links
 description: Links
 header: Links
 ---
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 ## Link Collections 
 <div class="wrapper" markdown="0">

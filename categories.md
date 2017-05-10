@@ -4,7 +4,6 @@ title: All Post
 description: This page displays all posts.
 header: All Post
 ---
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 ## Post Categories : 
 

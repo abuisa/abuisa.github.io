@@ -38,11 +38,7 @@ categories: DigitalForensik
 		 <!-- the stuff to be done followed by an increase in the 'counter' variable -->
     	: <a onclick="showfsig( {{ ix }} )"> {{ ix }} </a>
 	{% endfor %}
-	|
-	{% for ax in (A..Z) %}
-		 <!-- the stuff to be done followed by an increase in the 'counter' variable -->
-    	: <a onclick="showfsig( {{ ax }} )"> {{ ax }} </a>
-	{% endfor %}
+
 	</b>
 
 	
