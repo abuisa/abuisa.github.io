@@ -38,9 +38,8 @@ categories: DigitalForensik
 		 <!-- the stuff to be done followed by an increase in the 'counter' variable -->
     	: <a onclick="showfsig( {{ ix }} )"> {{ ix }} </a>
 	{% endfor %}
-
+	: <a onclick="showfsig(7)"> All </a>
 	</b>
-
 	
 
 <!-- =====BATAS DIV FOR FILE SIGNA 1-18==== -->
@@ -61,6 +60,9 @@ categories: DigitalForensik
 </div>
 <div id="6" style="display:none" border="0">
 	{% include extposts/fsig/filesig6.html %} 
+</div>
+<div id="7" style="display:none" border="0">
+	{% include extposts/fsig/filesig.html %} 
 </div>
 
 <!--
