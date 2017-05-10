@@ -33,16 +33,22 @@ categories: DigitalForensik
 	<h4> Examples File Signatuess </h4>
 	<b>
 	<!-- <a href="#" onclick="showfsig(2)">Hal-2</a> -->
-	{% for ix in (1..18) %}
-  <!-- the stuff to be done followed by an increase in the 'counter' variable -->
-    	: <a href="#" onclick="showfsig( {{ ix }} )"> {{ ix }} </a>
+	Page 
+	{% for ix in (1..6) %}
+		 <!-- the stuff to be done followed by an increase in the 'counter' variable -->
+    	: <a onclick="showfsig( {{ ix }} )"> {{ ix }} </a>
+	{% endfor %}
+	|
+	{% for ax in (A..Z) %}
+		 <!-- the stuff to be done followed by an increase in the 'counter' variable -->
+    	: <a onclick="showfsig( {{ ax }} )"> {{ ax }} </a>
 	{% endfor %}
 	</b>
 
 	
 
 <!-- =====BATAS DIV FOR FILE SIGNA 1-18==== -->
-<div id="1" style="display:none" border="0">
+<div id="1" style="display:block" border="0">
 	{% include extposts/fsig/filesig1.html %} 
 </div>
 <div id="2" style="display:none" border="0">
@@ -60,43 +66,10 @@ categories: DigitalForensik
 <div id="6" style="display:none" border="0">
 	{% include extposts/fsig/filesig6.html %} 
 </div>
-<div id="7" style="display:none" border="0">
-	{% include extposts/fsig/filesig7.html %} 
-</div>
-<div id="8" style="display:none" border="0">
-	{% include extposts/fsig/filesig8.html %} 
-</div>
-<div id="9" style="display:none" border="0">
-	{% include extposts/fsig/filesig9.html %} 
-</div>
-<div id="10" style="display:none" border="0">
-	{% include extposts/fsig/filesig10.html %} 
-</div>
-<div id="11" style="display:none" border="0">
-	{% include extposts/fsig/filesig11.html %} 
-</div>
-<div id="12" style="display:none" border="0">
-	{% include extposts/fsig/filesig12.html %} 
-</div>
-<div id="13" style="display:none" border="0">
-	{% include extposts/fsig/filesig13.html %} 
-</div>
-<div id="14" style="display:none" border="0">
-	{% include extposts/fsig/filesig14.html %} 
-</div>
-<div id="15" style="display:none" border="0">
-	{% include extposts/fsig/filesig15.html %} 
-</div>
-<div id="16" style="display:none" border="0">
-	{% include extposts/fsig/filesig16.html %} 
-</div>
-<div id="17" style="display:none" border="0">
-	{% include extposts/fsig/filesig17.html %} 
-</div>
-<div id="18" style="display:none" border="0">
-	{% include extposts/fsig/filesig18.html %} 
-</div>
 
+<!--
+
+-->
 
 
 

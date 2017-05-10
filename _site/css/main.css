@@ -836,9 +836,14 @@ table {
   width: 100%; }
 
 th, td {
-  padding: 12px;
+  /*padding: 12px;*/
+  padding: 6px;
   vertical-align: top;
   border-bottom: 1px solid #ddd; }
+
+a {
+  cursor: pointer;
+  cursor: hand; }
 
 .divtable {
   padding-top: 1cm; }

@@ -4,7 +4,7 @@
  <title>IkhwanElyas Page</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-05-10T14:41:22+07:00</updated>
+ <updated>2017-05-10T19:21:01+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -15,8 +15,8 @@
 
  <entry>
    <title>File Signatures</title>
-   <link href="http://localhost:4000/file-signatures"/>
-   <id>http://localhost:4000/file-signatures</id>
+   <link href="http://localhost:4000/file-signatures-a-z"/>
+   <id>http://localhost:4000/file-signatures-a-z</id>
    <updated>2017-05-10T00:00:00+07:00</updated>
    <content type="html">&lt;div class=&quot;tocContainer&quot;&gt; &lt;a href=&quot;#&quot; onclick=&quot;showx('i3e')&quot;&gt;Garykessler File Signatues&lt;/a&gt; &amp;nbsp;|&amp;nbsp;&lt;a href=&quot;#&quot; onclick=&quot;showx('reff')&quot;&gt;Wiki File Signatures&lt;/a&gt; &amp;nbsp;|&amp;nbsp;&lt;a href=&quot;#&quot; onclick=&quot;showx('bab1')&quot;&gt;Examples File Signatues&lt;/a&gt; &lt;!-- &amp;nbsp;|&amp;nbsp;&lt;a href=&quot;#&quot; onclick=&quot;showx('reff-tes')&quot;&gt;Refferensi-TES&lt;/a&gt; --&gt; &lt;/div&gt; &lt;div id=&quot;i3e&quot; style=&quot;display:block&quot; border=&quot;0&quot;&gt; &lt;h4&gt; Garykessler File Signatures &lt;/h4&gt; &lt;html&gt;&lt;head&gt;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=windows-1252&quot; /&gt; &lt;title&gt;File Signatures&lt;/title&gt; &lt;meta name=&quot;keywords&quot; content=&quot;file signatures, file headers, magic numbers&quot; /&gt; &lt;/head&gt; &lt;body...</content>
  </entry>
