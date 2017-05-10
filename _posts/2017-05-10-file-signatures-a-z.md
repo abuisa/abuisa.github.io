@@ -5,23 +5,24 @@ header: File Signatures
 categories: DigitalForensik
 ---
 <div class="tocContainer">
-	<a href="#"  onclick="showx('i3e')">Garykessler File Signatues</a>
-	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff')">Wiki File Signatures</a>
-	&nbsp;|&nbsp;<a href="#"  onclick="showx('bab1')">Examples File Signatues</a>
+	
+	<a href="#"  onclick="showx('reff')">Wiki </a>
+	&nbsp;|&nbsp;<a href="#"  onclick="showx('bab1')">Filesignatures.net</a>
+	&nbsp;|&nbsp;<a href="#"  onclick="showx('i3e')">Garykessler.net</a>
 
 <!--
 	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff-tes')">Refferensi-TES</a>
 -->
 </div>
 
-<div id="i3e" style="display:block" border="0">
+<div id="i3e" style="display:none" border="0">
 	<h4> Garykessler File Signatures </h4>
 
 	{% include extposts/file-signatures-garykessler-net.html %}
 
 </div>
 
-<div id="reff" style="display:none" border="0">
+<div id="reff" style="display:block" border="0">
 	<h4> Wiki File Signatures </h4>
 
 	{% include extposts/wiki-file-signatures.html %}
