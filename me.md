@@ -15,7 +15,7 @@ ____
 
 ## Tentang Web page ini
 
-Web page ini isinya artikel dan materi antah-berantah yang saya dapatkan dari dunia maya dan saya rasa penting maka saya simpan artikel tersebut dengan cara saya posting ke sini untuk menjadi arsip pribadi dan juga untuk bacaan bagi siapa yang berkepentingan.
+Web page ini isinya tulisan-tulisan sendiri serta artikel-artikel yang saya dapatkan dari dunia maya dan saya rasa penting maka saya simpan artikel tersebut dengan cara saya posting ke sini untuk menjadi arsip pribadi dan juga untuk bacaan bagi siapa saja yang mau baca-baca...
 
 ## Web page Theme 
 
