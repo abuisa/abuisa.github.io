@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IkhwanElyas Page</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <id>http://localhost:4000</id>
- <updated>2017-05-11T02:09:10+07:00</updated>
+ <link href="https://abuisa.github.io/atom.xml" rel="self"/>
+ <id>https://abuisa.github.io</id>
+ <updated>2017-05-12T00:13:19+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -14,9 +14,19 @@
  
 
  <entry>
+   <title>Jihad dan Kemenangan tanpa Petunjuk</title>
+   <link href="https://abuisa.github.io/Jihad-Kemenangan-dengan-petunjuk"/>
+   <id>https://abuisa.github.io/Jihad-Kemenangan-dengan-petunjuk</id>
+   <updated>2017-05-11T00:00:00+07:00</updated>
+   <content type="html">&lt;div class=&quot;ar&quot;&gt; &quot;الجهاد والنصر بلا رُشد ضلالٌ للبشر وتضييعٌ للثمر&quot; &lt;br /&gt; فضيلة الشيخ / أبو محمد المقدسي ـ حفظه الله ـ &lt;br /&gt; ⌘⌘⌘⌘ &lt;br /&gt; حين أوى الفتية الذين استُضعفوا وأوذوا إلى الكهف؛ طَلبوا أن يُهَيّء الله لهم من أمرهم رشدا؛ وذكر الله عنهم هذا وأَبرَزه؛ ولم يُبرز...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>File Signatures</title>
-   <link href="http://localhost:4000/file-signatures-a-z"/>
-   <id>http://localhost:4000/file-signatures-a-z</id>
+   <link href="https://abuisa.github.io/file-signatures-a-z"/>
+   <id>https://abuisa.github.io/file-signatures-a-z</id>
    <updated>2017-05-10T00:00:00+07:00</updated>
    <content type="html">&lt;div class=&quot;tocContainer&quot;&gt; &lt;a href=&quot;#&quot; onclick=&quot;showx('reff')&quot;&gt;Wiki &lt;/a&gt; &amp;nbsp;|&amp;nbsp;&lt;a href=&quot;#&quot; onclick=&quot;showx('bab1')&quot;&gt;Filesignatures.net&lt;/a&gt; &amp;nbsp;|&amp;nbsp;&lt;a href=&quot;#&quot; onclick=&quot;showx('i3e')&quot;&gt;Garykessler.net&lt;/a&gt; &lt;!-- &amp;nbsp;|&amp;nbsp;&lt;a href=&quot;#&quot; onclick=&quot;showx('reff-tes')&quot;&gt;Refferensi-TES&lt;/a&gt; --&gt; &lt;/div&gt; &lt;div id=&quot;i3e&quot; style=&quot;display:none&quot; border=&quot;0&quot;&gt; &lt;h4&gt; Garykessler File Signatures &lt;/h4&gt; &lt;html&gt;&lt;head&gt;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=windows-1252&quot; /&gt; &lt;title&gt;File Signatures&lt;/title&gt; &lt;meta name=&quot;keywords&quot; content=&quot;file signatures, file headers, magic numbers&quot; /&gt; &lt;/head&gt; &lt;body bgcolor=&quot;#ffffff&quot; text=&quot;#000000&quot;&gt; &lt;h2 align=&quot;center&quot;&gt;FILE SIGNATURES...</content>
  </entry>
@@ -24,30 +34,9 @@
  
 
  <entry>
-   <title>Example External Posts in Jekyll</title>
-   <link href="http://localhost:4000/External-Example-page"/>
-   <id>http://localhost:4000/External-Example-page</id>
-   <updated>2017-05-09T00:00:00+07:00</updated>
-   <content type="html">&lt;!--  
-&lt;iframe src=&quot;http://www.garykessler.net/library/file_sigs.html&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/iframe&gt;
-&lt;iframe src=&quot;http://www.garykessler.net/library/file_sigs.html&quot;&gt;&lt;/iframe&gt;
-&lt;iframe src=&quot;&quot; onload=&quot;this.width=screen.width;this.height=screen.height;&quot;&gt;
-
-
---&gt;
-
-&lt;iframe src=&quot;http://www.garykessler.net/library/file_sigs.html&quot;&gt;&lt;/iframe&gt;
-&lt;hr /&gt;
-&lt;p&gt;sby: Admin&lt;/p&gt;
-</content>
- </entry>
-
- 
-
- <entry>
    <title>Memori ceramahnya Buya Hamka</title>
-   <link href="http://localhost:4000/memory-ceramah-buya-hamka"/>
-   <id>http://localhost:4000/memory-ceramah-buya-hamka</id>
+   <link href="https://abuisa.github.io/memory-ceramah-buya-hamka"/>
+   <id>https://abuisa.github.io/memory-ceramah-buya-hamka</id>
    <updated>2017-05-05T00:00:00+07:00</updated>
    <content type="html">&lt;div class=&quot;ar&quot;&gt; بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم &lt;/div&gt; &lt;p&gt;Assalamualaikum….&lt;/p&gt; &lt;p&gt;Hadits imam Abu Daud No.1330 (versi lidwa pusaka android - Ensiklopedi Hadits 9 Imam) :&lt;/p&gt; &lt;div class=&quot;ar&quot;&gt; حَدَّثَنَا أَحْمَدُ بْنُ عُبَيْدِ اللَّهِ الْغُدَانِيُّ أَخْبَرَنَا غَسَّانُ بْنُ عَوْفٍ أَخْبَرَنَا الْجُرَيْرِيُّ عَنْ أَبِي نَضْرَةَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَدَخَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ...</content>
  </entry>
@@ -56,8 +45,8 @@
 
  <entry>
    <title>Downgrade atau Remove kernel dan kembali ke versi sebelumnya</title>
-   <link href="http://localhost:4000/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya"/>
-   <id>http://localhost:4000/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya</id>
+   <link href="https://abuisa.github.io/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya"/>
+   <id>https://abuisa.github.io/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya</id>
    <updated>2017-05-04T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Assalamualaikum…&lt;/p&gt; &lt;h3 id=&quot;mater-soon&quot;&gt;Mater soon….&lt;/h3&gt; &lt;!-- Langsung saja, kali ini saya ingin berbagi cerita dengan anda khususnya para pengguna linux tentang topik kita yaitu kembali ke versi kernel sebelumnya setelah upgrade ke kernel terbaru, pertanyaanya kenapa harus kembali ke versi kernel sebelunya ?, jawabannya bisa berbeda-beda tapi untuk kasus saya, kembali...</content>
  </entry>
@@ -66,8 +55,8 @@
 
  <entry>
    <title>Kenali Kebenaran</title>
-   <link href="http://localhost:4000/Kenali-Kebenaran"/>
-   <id>http://localhost:4000/Kenali-Kebenaran</id>
+   <link href="https://abuisa.github.io/Kenali-Kebenaran"/>
+   <id>https://abuisa.github.io/Kenali-Kebenaran</id>
    <updated>2017-05-02T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Assalamualaikum warahmatullah wabarakatuh….&lt;/p&gt; &lt;p&gt;nemu sesuatu yang menarik, jangan lupa untuk dicatat… nah… kali ini saya nemu sesuatu yang sudah sering saya dengar namun belum sempat nyatat, catatan kali ini tentang perkataan salah satu sahabat Nabi Shallallaahualaihiwasallam yaitu Ali bin Abi Talib yang sangat terkenal yaitu :&lt;/p&gt; &lt;div class=&quot;ar&quot;&gt; قال علي...</content>
  </entry>
@@ -76,8 +65,8 @@
 
  <entry>
    <title>KATA MUTIARA</title>
-   <link href="http://localhost:4000/Kata-kata-mutiara"/>
-   <id>http://localhost:4000/Kata-kata-mutiara</id>
+   <link href="https://abuisa.github.io/Kata-kata-mutiara"/>
+   <id>https://abuisa.github.io/Kata-kata-mutiara</id>
    <updated>2017-05-02T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;kata-mutiara&quot;&gt;KATA MUTIARA…&lt;/h4&gt; &lt;div class=&quot;ar&quot;&gt; كُلُّنَا اَشْخَاصٌ عَادِيٌّ فِى نَظْرِ مَنْ لاَ يَعْرِفُنَا &lt;/div&gt; &lt;div class=&quot;id&quot;&gt; &quot;Kita semua adalah orang biasa dalam pandangan orang-orang yg tidak mengenal kita...&quot; &lt;/div&gt; &lt;div class=&quot;ar&quot;&gt; وَكُلُّنَا اَشْخَاصٌ رَائِعُوْنَ فِى نَظْرِ مَنْ يَفْهَمُنَا &lt;/div&gt; &lt;div class=&quot;id&quot;&gt; &quot;Kita adalah orang yang menarik di mata orang yang...</content>
  </entry>
@@ -86,8 +75,8 @@
 
  <entry>
    <title>Sejarah Ilmu Forensic dan Forensik Digital</title>
-   <link href="http://localhost:4000/sejarah-ilmu-forensik-digital"/>
-   <id>http://localhost:4000/sejarah-ilmu-forensik-digital</id>
+   <link href="https://abuisa.github.io/sejarah-ilmu-forensik-digital"/>
+   <id>https://abuisa.github.io/sejarah-ilmu-forensik-digital</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Sejarah keberadaan Ilmu forensik menurut beberapa literatur sudah ada sejak ratusan bahkan ribuan tahun lalu. Dalam perkembangannya ilmu forensik mulai terpecah-pecah menjadi beberapa disiplin ilmu, diantaranya adalah disiplin ilmu forensik digital, beberapa cabang disiplin ilmu forensik lainya adalah kedokteran forensik, ilmu fisika forensik, ilmu kimia forensik, ilmu toksikologi forensik, dan...</content>
  </entry>
@@ -96,8 +85,8 @@
 
  <entry>
    <title>Doa Selain Bahasa Arab dalam Sujud</title>
-   <link href="http://localhost:4000/doa-selain-arab-dalam-sujud"/>
-   <id>http://localhost:4000/doa-selain-arab-dalam-sujud</id>
+   <link href="https://abuisa.github.io/doa-selain-arab-dalam-sujud"/>
+   <id>https://abuisa.github.io/doa-selain-arab-dalam-sujud</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;penjelasan-ust-khalid-basalamah-tentang-doa-dalam-sujud-menggunakan-bahasa-selain-bahasa-arab&quot;&gt;Penjelasan Ust. Khalid Basalamah Tentang Doa dalam Sujud menggunakan bahasa selain Bahasa Arab.&lt;/h3&gt; &lt;iframe allowfullscreen=&quot;&quot; class=&quot;YOUTUBE-iframe-video&quot; frameborder=&quot;0&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/OoE-x7mI33E?feature=player_embedded&quot; width=&quot;600&quot;&gt;&lt;/iframe&gt; &lt;ul&gt; &lt;li&gt;Menurut beliau terdapat beberapa pendapat dikalangan Ulama, &lt;b&gt;Pendapat Pertama Tidak Boleh menggunakan selain bahasa arab dalam sholat secara mutlaq&lt;/b&gt;, pendapat ini mengatakan doa-doa dalam sholat hanya boleh doa-doa...</content>
  </entry>
@@ -106,8 +95,8 @@
 
  <entry>
    <title>Definisi Forensik Digital</title>
-   <link href="http://localhost:4000/definisi-forensik-digital"/>
-   <id>http://localhost:4000/definisi-forensik-digital</id>
+   <link href="https://abuisa.github.io/definisi-forensik-digital"/>
+   <id>https://abuisa.github.io/definisi-forensik-digital</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Sebelum membaca atau masuk pada definisi-definisi yang kami kumpulkan dari beberbagai sumber literatur dibawah, terlebih dahulu dipahami tentang istilah digital forensik itu sendiri, dalam beberapa tulisannya para pakar IT atau komputer menyamakan antara istilah digital forensik dengan komputer forensik, meskipun ada bebrapa ahli yang mengatakan istilah digital forensik lebih umum...</content>
  </entry>
@@ -116,8 +105,8 @@
 
  <entry>
    <title>Potensi Bukti Digital Pada Perangkat Digital</title>
-   <link href="http://localhost:4000/bukti-digital-pada-digital-device"/>
-   <id>http://localhost:4000/bukti-digital-pada-digital-device</id>
+   <link href="https://abuisa.github.io/bukti-digital-pada-digital-device"/>
+   <id>https://abuisa.github.io/bukti-digital-pada-digital-device</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Tema diatas: &lt;i&gt;Evidential Potential of Digital Device&lt;/i&gt; merupakan bagian ke-2 dari beberapa bagian yang terdapat dalam buku &lt;i&gt;Digital Forensics Digital evidence in Criminal Investigation&lt;/i&gt; yang ditulis oleh Angus Marshall. dalam buku ini penulis buku mengupas secara luas tentang digital forensik dan secara mendalam terutama tentang digital evidence in criminal investigation...</content>
  </entry>
