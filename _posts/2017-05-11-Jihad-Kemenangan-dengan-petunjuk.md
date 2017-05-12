@@ -62,3 +62,11 @@ categories: Agama
  <br>
 والحمد لله رب العالمين والصلاة والسلام على أشرف الخلق وإمام الأنبياء والمرسلين
 </div>
+
+
+<b>Sumber : </b>
+- [From telegram channel](https://t.me/mqdse1/2690){:target="_blank"}
+- [From justpaste](https://justpaste.it/16g6d){:target="_blank"}
+- [File pdf](reff/jihad-tanpa-petunjuk-menyesatkan.pdf){:target="_blank"}
+
+
