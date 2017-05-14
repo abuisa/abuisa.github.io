@@ -144,7 +144,22 @@ header: Links
 -->
 
 		</ul>
+	<h3> IP & DNS LookUp </h3>
+		<ul>
+			<li><a href="https://www.iplocation.net/" target="_blank">www.iplocation.net </a></li>
+			<li><a href="https://mxtoolbox.com/DNSLookup.aspx" target="_blank">www.mxtoolbox.com</a></li>
+			<li><a href="http://www.dnsstuff.com/" target="_blank">www.dnsstuff.com </a></li>
+			<li><a href="https://www.ultratools.com/tools/dnsLookup" target="_blank">www.ultratools.com</a></li>
+			<li><a href="http://ping.eu/" target="_blank">www.ping.eu</a></li>
+			<li><a href="https://www.dnswatch.info/" target="_blank">www.dnswatch.info</a></li>
+			<li><a href="http://viewdns.info/" target="_blank">http://viewdns.info/</a></li>
+<!--
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+			<li><a href=" " target="_blank"> </a></li>
+-->
 
+		</ul>
 	<h3> Malware Examples</h3>
 		<ul>
 			<li><a href="https://indoforensics.wordpress.com/" target="_blank"> indoforensics.w.com</a></li>

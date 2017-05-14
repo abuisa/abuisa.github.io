@@ -169,6 +169,13 @@ Click Number
 #### Tampak videonya 1 : 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?feature=player_embedded" width="600"></iframe>
 
+#### Video From LK21.com
+<!--
+http://play.lk21.me/play/out?movie=american-violence-2017&size=360&server=0&key=TmR3SXE4ekI3b2JFZi9ITzJQVURBdz09&ip=189.208.39.201
+http://play.lk21.me/play/out?movie=american-violence-2017&size=720&server=0&key=N09Bc1BJYzIxS1Q2TkNScERlSEhZZz09&ip=189.208.39.201
+http://play.lk21.me/play/out?movie=resident-evil-final-chapter-2017&size=720&server=0&key=c2NPYnBhUVlMTEZEa2IzT2hMdEQ1QT09&ip=189.208.39.201
+-->
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="http://play.lk21.me/play/out?movie=american-violence-2017&size=720&server=0&key=TmR3SXE4ekI3b2JFZi9ITzJQVURBdz09&ip=180.253.120.44" width="600"></iframe>
 #### Vidio dengan time start dan time end
 - Video start dari detik ke : <b>100</b> s/d detik ke : <b>235</b>
 {% highlight html linenos %}
@@ -183,6 +190,28 @@ Click Number
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" frameborder="0" height="400" src="https://www.youtube.com/embed/fuS-3HSnpq4?start=100&end=235&feature=player_embedded" width="600"></iframe>
 
 ## Examples Seven  ( SCRIPT Jquery & HTML )
+#### Menampilkan SCRIPT PYTHON : 
+```python
+
+  class RedditSpider(GenericSpider):
+      name = "reddit"
+      start_urls = ["https://www.reddit.com/"]
+  
+      class Meta:
+          items = CssTarget("items", ".thing")
+          targets = [   # scrapyz also has XpathTarget and RegexTarget classes for extraction
+              CssTarget("rank", ".rank::text"),
+              CssTarget("upvoted", ".upvoted::text"),
+              CssTarget("dislikes", ".dislikes::text"),
+              CssTarget("likes", ".likes::text"),
+              CssTarget("title", "a.title::text"),
+              CssTarget("domain", ".domain > a::text"),
+              CssTarget("datetime", ".tagline > time::attr(datetime)"),
+              CssTarget("author", ".tagline > .author::text"),
+              CssTarget("subreddit", ".tagline > .subreddit::text"),
+              CssTarget("comments", ".comments::text")
+          ]
+```
 
 ### Script untuk buat tabel dari tag div dan ubah dari kolom menjadi baris
 #### HTML untuk div tabelnya : 

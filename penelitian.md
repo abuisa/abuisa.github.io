@@ -10,8 +10,10 @@ description: Penelitian
 	<a href="#"  onclick="showx('i3e')">Links Utama</a>
 	&nbsp;|&nbsp;<a href="#"  onclick="showx('bab1')">Bab I</a>
 	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff')">Refferensi</a>
+	
 <!--
-	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff-tes')">Refferensi-TES</a>
+	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff-tes')">Tes Video Url</a>
+	&nbsp;|&nbsp;<a href="#"  onclick="showx('reff-tes')">Tes Video Url</a>
 -->
 </div>
 
@@ -42,12 +44,12 @@ description: Penelitian
 </div>
 
 <div id="reff-tes" style="display:none" border="0">
-	<h4> Referensi Papers TES | <a href="#" id="cl" onclick="rowtc()">Column</a>&nbsp;|&nbsp;<a href="#" id="rw" onclick="ctrow()">Rows</a>
-</h4>
+	<h4>Tes Video Url </h4>
 
 	{%include penelitian/reff.html%}
 
 </div>
+
 <!--
 
 

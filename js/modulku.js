@@ -112,7 +112,9 @@
 		}
 
 	}
+
 //--- END FUNGSI-FUNGSI untuk ie-url.html ---
+
 //--- =================================== ---
 //--- FUNGSI-FUNGSI untuk penelitian.md ---
 	
@@ -187,4 +189,17 @@
 	}
 //--- END FUNGSI-FUNGSI untuk index.html ---
 //--- =================================== ---
+//--- Fungsi Ganti src video ---
+	function gantisrc(s1,s2){
+		var es1=document.getElementById(s1).value;
+//		msg(es1);
+		document.getElementById(s2).src = es1;
+
+
+	}
+
+//--- END fungsi ganti video ---
+//--- =================================== ---
+
+
 
