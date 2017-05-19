@@ -146,6 +146,7 @@ header: Links
 		</ul>
 	<h3> IP & DNS LookUp </h3>
 		<ul>
+			<li><a href="https://who.is/" target="_blank">who.is</a></li>
 			<li><a href="https://www.iplocation.net/" target="_blank">www.iplocation.net </a></li>
 			<li><a href="https://mxtoolbox.com/DNSLookup.aspx" target="_blank">www.mxtoolbox.com</a></li>
 			<li><a href="http://www.dnsstuff.com/" target="_blank">www.dnsstuff.com </a></li>
@@ -154,7 +155,7 @@ header: Links
 			<li><a href="https://www.dnswatch.info/" target="_blank">www.dnswatch.info</a></li>
 			<li><a href="http://viewdns.info/" target="_blank">http://viewdns.info/</a></li>
 <!--
-			<li><a href=" " target="_blank"> </a></li>
+
 			<li><a href=" " target="_blank"> </a></li>
 			<li><a href=" " target="_blank"> </a></li>
 -->
@@ -194,9 +195,20 @@ header: Links
 
 <!-- ======= <div id="kedua" class="second"> ========= -->
 	<div id="linkdiv3" class="second">
+	<h3> Android For PC </h3>
+		<ul>	
+			<li><a href="http://www.jide.com/" target="_blank">RemixOS-Android-PC</a></li>
+			<li><a href="http://getchrome.eu/download.php" target="_blank">ChromeOsLinux</a></li>
+			<li><a href="http://www.android-x86.org/download" target="_blank">android-x86.org</a></li>
+		</ul>
 
 	<h3> Favorite Distro [<a href="https://distrowatch.com" target="_blank">DistroWatch</a>]</h3>
-		<ul>
+		<ul>	
+<!--
+			<li><a href="http://www.jide.com/" target="_blank">RemixOS-Android-PC</a></li>
+			<li><a href="http://getchrome.eu/download.php" target="_blank">ChromeOsLinux</a></li>
+			<li><a href="http://www.android-x86.org/download" target="_blank">android-x86.org</a></li>
+-->
 			<li><a href="http://www.ubuntu.com/" target="_blank"> www.ubuntu.com</a></li>
 			<li><a href="http://linuxmint.com/" target="_blank"> linuxmint.com</a></li>
 			<li><a href="https://www.debian.org/" target="_blank"> www.debian.org</a></li>
@@ -209,6 +221,7 @@ header: Links
 		</ul>
 	<h3> Linux world </h3>
 		<ul>
+			<li><a href="http://www.commandlinefu.com/commands/browse" target="_blank">www.commandlinefu.com</a></li>
 			<li><a href="http://www.tecmint.com/" target="_blank">www.tecmint.com/about-linux</a></li>
 			<li><a href="http://linuxcommand.org/" target="_blank">linuxcommand.org</a></li>
 			<li><a href="https://www.nixcraft.com/" target="_blank">www.nixcraft.com</a></li>
