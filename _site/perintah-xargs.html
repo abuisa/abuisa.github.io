@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>Belajar perintah xargs di Linux</title>
+  <meta name="description" content="Belajar perintah xargs di Linux">
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="/css/main.css">
+
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="img/cantik-icon.png">
+
+ <!-- Tambahan include JQuery -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/hijricalendar-kuwaiti.js"></script>
+	<script src="js/modulku.js"></script>
+
+	<!-- Begin Jekyll SEO tag v2.2.0 -->
+<title>Belajar perintah xargs di Linux | IkhwanElyas Page</title>
+<meta property="og:title" content="Belajar perintah xargs di Linux" />
+<meta name="author" content="Ikhwan Elyas" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Belajar perintah xargs di Linux" />
+<meta property="og:description" content="Belajar perintah xargs di Linux" />
+<link rel="canonical" href="https://abuisa.github.io//perintah-xargs" />
+<meta property="og:url" content="https://abuisa.github.io//perintah-xargs" />
+<meta property="og:site_name" content="IkhwanElyas Page" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-05-21T00:00:00+07:00" />
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "BlogPosting",
+"headline": "Belajar perintah xargs di Linux",
+"author": {"@type": "Person",
+"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
+"datePublished": "2017-05-21T00:00:00+07:00",
+"description": "Belajar perintah xargs di Linux",
+"mainEntityOfPage": {"@type": "WebPage",
+"@id": "https://abuisa.github.io//perintah-xargs"},
+"url": "https://abuisa.github.io//perintah-xargs"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+
+<body>
+	<div id="wrap">
+	  	
+	  	<!-- Navigation -->
+	  	<nav id="nav">
+	<div id="nav-list">
+		<a href="https://abuisa.github.io/">Home</a>
+
+    <!-- Nav links -->
+	  <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+	<!-- Nav pages -->
+	  
+	    
+	  
+	    
+	  
+	    
+	      <a href="/categories" title="All Post">All Post</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/linkcolection" title="Links">Links</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/me" title="About">About</a> 
+	    
+	  
+	    
+	      <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+    
+
+	</div>
+  
+  <!-- Nav footer -->
+	
+	  <footer>
+	
+	<span>version 1.0.0</span>
+
+</footer>
+	
+
+</nav>
+
+    
+    <!-- Icon menu -->
+	  <a id="nav-menu">
+	  	<div id="menu"></div>
+	  </a>
+
+      <!-- Header -->
+      
+        <header id="header" class="parent justify-spaceBetween">
+  <div class="inner w100 relative">
+<!--
+    <span class="f-left">  
+      <a href="//">
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+-->
+    <span class="f-left">  
+      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+    <span id="nav-links" class="absolute right bottom">
+      <!-- Nav links -->
+	    <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+      <!-- Nav pages -->
+	    
+	      
+	    
+	      
+	    
+	      
+	        <a href="/categories" title="All Post">All Post</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/linkcolection" title="Links">Links</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/me" title="About">About</a> 
+	      
+	    
+	      
+	        <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+      
+    </span>
+  </div>
+</header>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+
+
+      
+
+    <!-- Main content -->
+	  <div id="container">
+		  
+		<main>
+
+			<article id="post-page">
+	<h2>Belajar perintah xargs di Linux</h2>		
+	<time datetime="2017-05-21T00:00:00+07:00" class="by-line">21 May 2017 | Linux</time>
+	<div class="content">
+
+		<h3 id="perintah-xargs">Perintah xargs</h3>
+
+<p>perintah <code class="highlighter-rouge">$ man xargs</code> akan menapilkan manual page dari perintah xargs, berikut  hasil gambarnya :</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14</pre></td><td class="code"><pre><span class="gp">$ </span>xargs --help
+<span class="gp">FD-UII-XI:$ </span>xargs --help
+Usage: xargs <span class="o">[</span>OPTION]... COMMAND <span class="o">[</span>INITIAL-ARGS]...
+Run COMMAND with arguments INITIAL-ARGS and more arguments <span class="nb">read </span>from input.
+
+Mandatory and optional arguments to long options are also
+mandatory or optional <span class="k">for </span>the corresponding short option.
+  -0, --null                   items are separated by a null, not whitespace;
+                                 disables quote and backslash processing and
+                                 logical EOF processing
+  -a, --arg-file<span class="o">=</span>FILE          <span class="nb">read </span>arguments from FILE, not standard input
+  -d, --delimiter<span class="o">=</span>CHARACTER    items <span class="k">in </span>input stream are separated by CHARACTER,
+                                 not by whitespace; disables quote and backslash
+                                 processing and logical EOF processing<span class="w">
+</span></pre></td></tr></tbody></table></code></pre></figure>
+
+<p><img src="img/linux/linux-post4-001.png" alt="image-title-here" class="rkiri" /></p>
+
+<p><code class="highlighter-rouge">xargs</code> adalah tool bawaan (biasanya) di sistem operasi linux yang berfungsi untuk mengeksekusi perintah berdasarkan standar input.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8</pre></td><td class="code"><pre><span class="gp">FD-UII-XI:$ </span>find . -type f |awk <span class="s1">'{print "`"$0"`"}'</span>|sed <span class="s1">'s/`/"/g'</span>|xargs du -h
+4.0K	./lat-2016/take-camera-picture.py
+8.0K	./lat-2017/Ffu2IMG/ffu2img.py
+8.0K	./lat-2017/Ffu2IMG/ffu2img.py3
+4.0K	./lat-2017/Ffu2IMG/LICENSE
+8.0K	./lat-2017/Ffu2IMG/random-master.zip
+512	./lat-2017/Ffu2IMG/README.md
+4.0K	./lat-2017/Ffu2IMG/unlockerv.py<span class="w">
+</span></pre></td></tr></tbody></table></code></pre></figure>
+
+<p>Perintah diatas merupakan kombinasi dari perintah <b>find . -type f</b> yang berfungsi untuk me-list semua file di direktori aktif dan hanya yang bertype file tanpa direktori,</p>
+
+<p>perintah <b>awk ‘{print “<code class="highlighter-rouge">"$0"</code>”}’</b> berfungsi untuk meletakkan tanda petik (grave) di awal dan diakhir dari hasil pencarian pada perintah pertama,</p>
+
+<p>sedangkan perintah <b>sed ‘s/`/”/g’</b> adalah untuk mengubah kembali tanda petik (grave) menjadi tanda petik ganda, kenapa harus ditaruh tanda petik ganda pada awal dan akhir ?, agar tidak error saat perintah <b>xargs du -h</b> dijalankan, kenapa error ? karena pada NAMA file yang di periksa terdapat SPASI, dan jika ada spasi penulisannya harus ditambah backslash pada spasi tersebut atau memberikan tanda petik ganda diawal dan akhir dari PATH + NAMA File yang akan diperiksa.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+2
+3
+4
+5</pre></td><td class="code"><pre><span class="gp">FD-UII-XI:$ </span>find . -type f|grep <span class="s2">".py"</span>|xargs wc -l
+       33 ./lat-2016/take-camera-picture.py
+      111 ./lat-2017/Ffu2IMG/ffu2img.py
+      112 ./lat-2017/Ffu2IMG/ffu2img.py3
+       76 ./lat-2017/Ffu2IMG/unlockerv.py<span class="w">
+</span></pre></td></tr></tbody></table></code></pre></figure>
+
+<p>perintah <b>grep “.py”</b> adalah mencari kata “.py” disetiap file yang dihasilkan dari perintah <b>find . -type f</b> dan perintah <b> xargs wc -l</b> untuk menghitung jumlah baris dari tiap file yang dihasilkan dari perintah sebelumnya.</p>
+
+<hr />
+<p>by : admin @ Yogyakarta - Mon May 22 01:37:03 WIB 2017</p>
+
+
+		
+	</div>
+</article>
+
+
+
+	  </main>
+		
+		  <!-- Pagination links -->
+      
+
+	  </div>
+	    
+	    <!-- Footer -->
+	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+</footer>
+
+
+<!-- original script :
+<footer><span>@2017 -  <a href="//">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+</footer>
+-->
+
+
+	    <!-- Script -->
+      <script src="/js/main.js"></script>	
+
+
+	</div>
+</body>
+</html>
