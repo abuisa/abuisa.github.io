@@ -4,12 +4,22 @@
  <title>IkhwanElyas Page</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-05-25T21:16:16+07:00</updated>
+ <updated>2017-05-25T21:42:33+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Akses MySql dan Operasi menggunakan Python</title>
+   <link href="http://localhost:4000/mysql-menggunakan-python"/>
+   <id>http://localhost:4000/mysql-menggunakan-python</id>
+   <updated>2017-05-25T08:20:01+07:00</updated>
+   <content type="html">&lt;p&gt;Berikut merupakan scrip Python untuk melakukan proses konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql.&lt;/p&gt; &lt;h2 id=&quot;struktur-database&quot;&gt;Struktur Database&lt;/h2&gt; &lt;p&gt;Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan database ke dalam mysql silahkan lakukan perintah berikut :&lt;/p&gt;...</content>
+ </entry>
 
  
 
@@ -99,16 +109,6 @@
    <id>http://localhost:4000/doa-selain-arab-dalam-sujud</id>
    <updated>2017-04-19T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;penjelasan-ust-khalid-basalamah-tentang-doa-dalam-sujud-menggunakan-bahasa-selain-bahasa-arab&quot;&gt;Penjelasan Ust. Khalid Basalamah Tentang Doa dalam Sujud menggunakan bahasa selain Bahasa Arab.&lt;/h3&gt; &lt;iframe allowfullscreen=&quot;&quot; class=&quot;YOUTUBE-iframe-video&quot; frameborder=&quot;0&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/OoE-x7mI33E?feature=player_embedded&quot; width=&quot;600&quot;&gt;&lt;/iframe&gt; &lt;ul&gt; &lt;li&gt;Menurut beliau terdapat beberapa pendapat dikalangan Ulama, &lt;b&gt;Pendapat Pertama Tidak Boleh menggunakan selain bahasa arab dalam sholat secara mutlaq&lt;/b&gt;, pendapat ini mengatakan doa-doa dalam sholat hanya boleh doa-doa...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Definisi Forensik Digital</title>
-   <link href="http://localhost:4000/definisi-forensik-digital"/>
-   <id>http://localhost:4000/definisi-forensik-digital</id>
-   <updated>2017-04-19T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Sebelum membaca atau masuk pada definisi-definisi yang kami kumpulkan dari beberbagai sumber literatur dibawah, terlebih dahulu dipahami tentang istilah digital forensik itu sendiri, dalam beberapa tulisannya para pakar IT atau komputer menyamakan antara istilah digital forensik dengan komputer forensik, meskipun ada bebrapa ahli yang mengatakan istilah digital forensik lebih umum...</content>
  </entry>
 
  

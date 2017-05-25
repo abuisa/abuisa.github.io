@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>Akses MySql dan Operasi menggunakan Python</title>
+  <meta name="description" content="Webpagenya Ikhwan Elyas">
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="/css/main.css">
+
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="img/cantik-icon.png">
+
+ <!-- Tambahan include JQuery -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/hijricalendar-kuwaiti.js"></script>
+	<script src="js/modulku.js"></script>
+
+	<!-- Begin Jekyll SEO tag v2.2.0 -->
+<title>Akses MySql dan Operasi menggunakan Python | IkhwanElyas Page</title>
+<meta property="og:title" content="Akses MySql dan Operasi menggunakan Python" />
+<meta name="author" content="Ikhwan Elyas" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Berikut merupakan scrip Python untuk melakukan proses konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql. Struktur Database Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan database ke dalam mysql silahkan lakukan perintah berikut : $ mysql -u root -p &lt; tes-database-name.sql $ masukkan password (password mysql anda):" />
+<meta property="og:description" content="Berikut merupakan scrip Python untuk melakukan proses konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql. Struktur Database Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan database ke dalam mysql silahkan lakukan perintah berikut : $ mysql -u root -p &lt; tes-database-name.sql $ masukkan password (password mysql anda):" />
+<link rel="canonical" href="http://localhost:4000//mysql-menggunakan-python" />
+<meta property="og:url" content="http://localhost:4000//mysql-menggunakan-python" />
+<meta property="og:site_name" content="IkhwanElyas Page" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-05-25T08:20:01+07:00" />
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "BlogPosting",
+"headline": "Akses MySql dan Operasi menggunakan Python",
+"author": {"@type": "Person",
+"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
+"datePublished": "2017-05-25T08:20:01+07:00",
+"description": "Berikut merupakan scrip Python untuk melakukan proses konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql. Struktur Database Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan database ke dalam mysql silahkan lakukan perintah berikut : $ mysql -u root -p &lt; tes-database-name.sql $ masukkan password (password mysql anda):",
+"mainEntityOfPage": {"@type": "WebPage",
+"@id": "http://localhost:4000//mysql-menggunakan-python"},
+"url": "http://localhost:4000//mysql-menggunakan-python"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+
+<body>
+	<div id="wrap">
+	  	
+	  	<!-- Navigation -->
+	  	<nav id="nav">
+	<div id="nav-list">
+		<a href="http://localhost:4000/">Home</a>
+
+    <!-- Nav links -->
+	  <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+	<!-- Nav pages -->
+	  
+	    
+	  
+	    
+	  
+	    
+	      <a href="/categories" title="All Post">All Post</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/linkcolection" title="Links">Links</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/me" title="About">About</a> 
+	    
+	  
+	    
+	      <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+    
+
+	</div>
+  
+  <!-- Nav footer -->
+	
+	  <footer>
+	
+	<span>version 1.0.0</span>
+
+</footer>
+	
+
+</nav>
+
+    
+    <!-- Icon menu -->
+	  <a id="nav-menu">
+	  	<div id="menu"></div>
+	  </a>
+
+      <!-- Header -->
+      
+        <header id="header" class="parent justify-spaceBetween">
+  <div class="inner w100 relative">
+<!--
+    <span class="f-left">  
+      <a href="//">
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+-->
+    <span class="f-left">  
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+    <span id="nav-links" class="absolute right bottom">
+      <!-- Nav links -->
+	    <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+      <!-- Nav pages -->
+	    
+	      
+	    
+	      
+	    
+	      
+	        <a href="/categories" title="All Post">All Post</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/linkcolection" title="Links">Links</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/me" title="About">About</a> 
+	      
+	    
+	      
+	        <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+      
+    </span>
+  </div>
+</header>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+
+
+      
+
+    <!-- Main content -->
+	  <div id="container">
+		  
+		<main>
+
+			<article id="post-page">
+	<h2>Akses MySql dan Operasi menggunakan Python</h2>		
+	<time datetime="2017-05-25T08:20:01+07:00" class="by-line">25 May 2017 | Programming</time>
+	<div class="content">
+
+		<p>Berikut merupakan scrip Python untuk melakukan proses konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql.</p>
+<h2 id="struktur-database">Struktur Database</h2>
+<p>Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan database ke dalam mysql silahkan lakukan perintah berikut :</p>
+<blockquote>
+  <p>$ mysql -u root -p &lt; tes-database-name.sql<br />
+$ masukkan password (password mysql anda):</p>
+</blockquote>
+
+<p>berikut struktur database lengkap, copy dan simpan dengan nama file tes-database-name.sql (atau menyesuaikan) :</p>
+
+<figure class="highlight"><pre><code class="language-sql" data-lang="sql"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79</pre></td><td class="code"><pre><span class="c1">-- MySQL dump 10.13  Distrib 5.7.15, for Linux (x86_64)</span>
+<span class="c1">--</span>
+<span class="c1">-- Host: localhost    Database: dbfilelist</span>
+<span class="c1">-- ------------------------------------------------------</span>
+<span class="c1">-- Server version	5.7.15-1</span>
+
+<span class="cm">/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET NAMES utf8 */</span><span class="p">;</span>
+<span class="cm">/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */</span><span class="p">;</span>
+<span class="cm">/*!40103 SET TIME_ZONE='+00:00' */</span><span class="p">;</span>
+<span class="cm">/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */</span><span class="p">;</span>
+<span class="cm">/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */</span><span class="p">;</span>
+<span class="cm">/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */</span><span class="p">;</span>
+
+<span class="c1">--</span>
+<span class="c1">-- Table structure for table `tfilelist`</span>
+<span class="c1">--</span>
+
+<span class="k">DROP</span> <span class="k">TABLE</span> <span class="n">IF</span> <span class="k">EXISTS</span> <span class="nv">`tfilelist`</span><span class="p">;</span>
+<span class="cm">/*!40101 SET @saved_cs_client     = @@character_set_client */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET character_set_client = utf8 */</span><span class="p">;</span>
+<span class="k">CREATE</span> <span class="k">TABLE</span> <span class="nv">`tfilelist`</span> <span class="p">(</span>
+  <span class="nv">`id`</span> <span class="n">int</span><span class="p">(</span><span class="mi">11</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span> <span class="n">AUTO_INCREMENT</span><span class="p">,</span>
+  <span class="nv">`flist`</span> <span class="n">text</span> <span class="k">NOT</span> <span class="k">NULL</span><span class="p">,</span>
+  <span class="nv">`hash`</span> <span class="n">char</span><span class="p">(</span><span class="mi">35</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span><span class="p">,</span>
+  <span class="nv">`fsize`</span> <span class="n">char</span><span class="p">(</span><span class="mi">50</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span> <span class="k">DEFAULT</span> <span class="s1">''</span><span class="p">,</span>
+  <span class="nv">`addt`</span> <span class="k">timestamp</span> <span class="k">NOT</span> <span class="k">NULL</span> <span class="k">DEFAULT</span> <span class="k">CURRENT_TIMESTAMP</span> <span class="k">ON</span> <span class="k">UPDATE</span> <span class="k">CURRENT_TIMESTAMP</span><span class="p">,</span>
+  <span class="nv">`ket`</span> <span class="n">varchar</span><span class="p">(</span><span class="mi">65</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span><span class="p">,</span>
+  <span class="k">PRIMARY</span> <span class="k">KEY</span> <span class="p">(</span><span class="nv">`id`</span><span class="p">)</span>
+<span class="p">)</span> <span class="n">ENGINE</span><span class="o">=</span><span class="n">InnoDB</span> <span class="n">AUTO_INCREMENT</span><span class="o">=</span><span class="mi">1111112</span> <span class="k">DEFAULT</span> <span class="n">CHARSET</span><span class="o">=</span><span class="n">latin1</span><span class="p">;</span>
+<span class="cm">/*!40101 SET character_set_client = @saved_cs_client */</span><span class="p">;</span>
+
+<span class="c1">--</span>
+<span class="c1">-- Table structure for table `tflist1`</span>
+<span class="c1">--</span>
+
+<span class="k">DROP</span> <span class="k">TABLE</span> <span class="n">IF</span> <span class="k">EXISTS</span> <span class="nv">`tflist1`</span><span class="p">;</span>
+<span class="cm">/*!40101 SET @saved_cs_client     = @@character_set_client */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET character_set_client = utf8 */</span><span class="p">;</span>
+<span class="k">CREATE</span> <span class="k">TABLE</span> <span class="nv">`tflist1`</span> <span class="p">(</span>
+  <span class="nv">`id`</span> <span class="n">int</span><span class="p">(</span><span class="mi">11</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span> <span class="n">AUTO_INCREMENT</span><span class="p">,</span>
+  <span class="nv">`flist`</span> <span class="n">text</span> <span class="k">NOT</span> <span class="k">NULL</span><span class="p">,</span>
+  <span class="nv">`hash`</span> <span class="n">char</span><span class="p">(</span><span class="mi">35</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span><span class="p">,</span>
+  <span class="nv">`addt`</span> <span class="k">timestamp</span> <span class="k">NOT</span> <span class="k">NULL</span> <span class="k">DEFAULT</span> <span class="k">CURRENT_TIMESTAMP</span> <span class="k">ON</span> <span class="k">UPDATE</span> <span class="k">CURRENT_TIMESTAMP</span><span class="p">,</span>
+  <span class="k">PRIMARY</span> <span class="k">KEY</span> <span class="p">(</span><span class="nv">`id`</span><span class="p">)</span>
+<span class="p">)</span> <span class="n">ENGINE</span><span class="o">=</span><span class="n">InnoDB</span> <span class="n">AUTO_INCREMENT</span><span class="o">=</span><span class="mi">1156774</span> <span class="k">DEFAULT</span> <span class="n">CHARSET</span><span class="o">=</span><span class="n">latin1</span><span class="p">;</span>
+<span class="cm">/*!40101 SET character_set_client = @saved_cs_client */</span><span class="p">;</span>
+
+<span class="c1">--</span>
+<span class="c1">-- Table structure for table `tflistdata`</span>
+<span class="c1">--</span>
+
+<span class="k">DROP</span> <span class="k">TABLE</span> <span class="n">IF</span> <span class="k">EXISTS</span> <span class="nv">`tflistdata`</span><span class="p">;</span>
+<span class="cm">/*!40101 SET @saved_cs_client     = @@character_set_client */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET character_set_client = utf8 */</span><span class="p">;</span>
+<span class="k">CREATE</span> <span class="k">TABLE</span> <span class="nv">`tflistdata`</span> <span class="p">(</span>
+  <span class="nv">`id`</span> <span class="n">int</span><span class="p">(</span><span class="mi">11</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span> <span class="n">AUTO_INCREMENT</span><span class="p">,</span>
+  <span class="nv">`flist`</span> <span class="n">text</span> <span class="k">NOT</span> <span class="k">NULL</span><span class="p">,</span>
+  <span class="nv">`hash`</span> <span class="n">char</span><span class="p">(</span><span class="mi">35</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span><span class="p">,</span>
+  <span class="nv">`fsize`</span> <span class="n">char</span><span class="p">(</span><span class="mi">50</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span> <span class="k">DEFAULT</span> <span class="s1">''</span><span class="p">,</span>
+  <span class="nv">`addt`</span> <span class="k">timestamp</span> <span class="k">NOT</span> <span class="k">NULL</span> <span class="k">DEFAULT</span> <span class="k">CURRENT_TIMESTAMP</span> <span class="k">ON</span> <span class="k">UPDATE</span> <span class="k">CURRENT_TIMESTAMP</span><span class="p">,</span>
+  <span class="nv">`ket`</span> <span class="n">varchar</span><span class="p">(</span><span class="mi">65</span><span class="p">)</span> <span class="k">NOT</span> <span class="k">NULL</span><span class="p">,</span>
+  <span class="k">PRIMARY</span> <span class="k">KEY</span> <span class="p">(</span><span class="nv">`id`</span><span class="p">)</span>
+<span class="p">)</span> <span class="n">ENGINE</span><span class="o">=</span><span class="n">InnoDB</span> <span class="n">AUTO_INCREMENT</span><span class="o">=</span><span class="mi">146858</span> <span class="k">DEFAULT</span> <span class="n">CHARSET</span><span class="o">=</span><span class="n">latin1</span><span class="p">;</span>
+<span class="cm">/*!40101 SET character_set_client = @saved_cs_client */</span><span class="p">;</span>
+<span class="cm">/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */</span><span class="p">;</span>
+
+<span class="cm">/*!40101 SET SQL_MODE=@OLD_SQL_MODE */</span><span class="p">;</span>
+<span class="cm">/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */</span><span class="p">;</span>
+<span class="cm">/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */</span><span class="p">;</span>
+<span class="cm">/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */</span><span class="p">;</span>
+<span class="cm">/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */</span><span class="p">;</span>
+
+<span class="c1">-- Dump completed on 2017-05-25 20:53:25</span><span class="w">
+</span></pre></td></tr></tbody></table></code></pre></figure>
+
+<h2 id="python-script">Python Script</h2>
+<p>Berikut script python untuk malakukan koneksi, select, dan operasi lainnya yang bisa disesuaikan dengan kebutuhan dengan mengubah sendiri scripnya :</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105</pre></td><td class="code"><pre><span class="c">#!/usr/bin/python</span>
+<span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">import</span> <span class="nn">hashlib</span>
+<span class="kn">import</span> <span class="nn">MySQLdb</span>
+<span class="kn">from</span> <span class="nn">time</span> <span class="kn">import</span> <span class="n">gmtime</span><span class="p">,</span> <span class="n">strftime</span>
+
+<span class="c">#--- -----------------------------</span>
+<span class="s">""" 
+1.SCRIPT UNTUK AMBIL DATA DARI MYSQL DATABASE DAN BENTUK MENJADI FILE A
+CONTOH FILE A : 
+-----------------------------
+3470a43e0fa7031d413a8efdeab0d923  /bin/ping4
+73a662fa1882854dcec652e2b6cb55b7  /bin/ntfsls
+-----------------------------
+2.SCRIPT UNTUK INPUT DATA KE TABEL MYSQL 
+CONTOH DIBAWAH : masukkandata() dan masukkandata1().
+"""</span>
+<span class="c">#--- -----------------------------</span>
+<span class="k">def</span> <span class="nf">fwrite</span><span class="p">(</span><span class="n">fl</span><span class="p">,</span><span class="n">s</span><span class="p">):</span>
+	<span class="n">f</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">fl</span><span class="p">,</span> <span class="s">"a+"</span><span class="p">)</span>
+	<span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+	<span class="n">f</span><span class="o">.</span><span class="n">close</span>
+<span class="c">#--- -------------------------------</span>
+
+<span class="n">db</span> <span class="o">=</span> <span class="n">MySQLdb</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">host</span><span class="o">=</span><span class="s">"localhost"</span><span class="p">,</span>    <span class="c"># your host, usually localhost</span>
+                     <span class="n">user</span><span class="o">=</span><span class="s">"root"</span><span class="p">,</span>         <span class="c"># your username</span>
+                     <span class="n">passwd</span><span class="o">=</span><span class="s">"pass"</span><span class="p">,</span>  	  <span class="c"># your password</span>
+                     <span class="n">db</span><span class="o">=</span><span class="s">"dbfilelist"</span><span class="p">)</span>     <span class="c"># name of the data base</span>
+
+<span class="c"># you must create a Cursor object. It will let</span>
+<span class="c">#  you execute all the queries you need</span>
+<span class="n">cur</span> <span class="o">=</span> <span class="n">db</span><span class="o">.</span><span class="n">cursor</span><span class="p">()</span>
+<span class="c"># --- ----FOR QUERY DATA -----</span>
+<span class="k">def</span> <span class="nf">strquery</span><span class="p">(</span><span class="n">sql</span><span class="p">):</span>
+	<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="n">sql</span><span class="p">)</span>
+	<span class="n">cur</span><span class="o">.</span><span class="n">fetchall</span><span class="p">()</span>
+	<span class="n">db</span><span class="o">.</span><span class="n">commit</span><span class="p">()</span>
+	<span class="k">print</span> <span class="s">" Suksesss Process Data..."</span>
+<span class="c"># --- ----END FOR QUERY DATA -----</span>
+<span class="c"># --- -------SHOW DATA ----- OK</span>
+<span class="k">def</span> <span class="nf">showdata</span><span class="p">():</span>
+	<span class="c">#cur.execute("SELECT * FROM tflist1 WHERE flist like '%TESSS%'")</span>
+	<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s">"SELECT * FROM tflist1"</span><span class="p">)</span>
+	<span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">cur</span><span class="o">.</span><span class="n">fetchall</span><span class="p">():</span>
+		<span class="k">print</span> <span class="n">row</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span> <span class="o">+</span><span class="s">"  "</span> <span class="o">+</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+	<span class="k">print</span> <span class="s">"--------END---DATA-----------"</span>
+<span class="c"># --- ------END SHOW DATA -----</span>
+
+<span class="c"># --- ----- INSERT DATA TEST---------- OK</span>
+<span class="k">def</span> <span class="nf">tesmasukkandata</span><span class="p">():</span>
+	<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s">"INSERT INTO `tflist1` (id, `flist`, `hash`,`addt`) VALUES (1111111, 'tes-TESSSSS.conf', 'TESSSSa5221', '2017-03-28 17:39')"</span><span class="p">)</span>
+	<span class="n">cur</span><span class="o">.</span><span class="n">fetchall</span><span class="p">()</span>
+	<span class="n">db</span><span class="o">.</span><span class="n">commit</span><span class="p">()</span>
+	<span class="k">print</span> <span class="s">" Suksesss Tes Input Data..."</span>
+<span class="c"># --- ------- END INSERT DATA ---------</span>
+
+<span class="c"># --- ------TES Input Data From Another Process -----</span>
+<span class="k">def</span> <span class="nf">masukkandata</span><span class="p">(</span><span class="n">d1</span><span class="p">,</span><span class="n">d2</span><span class="p">):</span>
+	<span class="n">d3</span> <span class="o">=</span> <span class="n">strftime</span><span class="p">(</span><span class="s">"</span><span class="si">%</span><span class="s">Y-</span><span class="si">%</span><span class="s">m-</span><span class="si">%</span><span class="s">d </span><span class="si">%</span><span class="s">H:</span><span class="si">%</span><span class="s">M"</span><span class="p">,</span> <span class="n">gmtime</span><span class="p">())</span>
+	<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s">"INSERT INTO `tflist1` (id, `flist`, `hash`,`addt`) VALUES (null, '"</span><span class="o">+</span><span class="n">d1</span><span class="o">+</span><span class="s">"','"</span><span class="o">+</span><span class="n">d2</span><span class="o">+</span><span class="s">"','"</span><span class="o">+</span><span class="n">d3</span><span class="o">+</span><span class="s">"')"</span><span class="p">)</span>
+	<span class="n">cur</span><span class="o">.</span><span class="n">fetchall</span><span class="p">()</span>
+	<span class="n">db</span><span class="o">.</span><span class="n">commit</span><span class="p">()</span>
+	<span class="c">#print " Suksesss Input Data..."</span>
+<span class="c"># --- ------END Input Data ----------</span>
+
+
+<span class="c"># --- -------FUNCTION VERSION LIST-DIR--------</span>
+<span class="c"># --- -----Fungsi untuk meng-LIST File dalam Direktori-------</span>
+<span class="k">def</span> <span class="nf">processDirectory</span> <span class="p">(</span> <span class="n">args</span><span class="p">,</span> <span class="n">dirname</span><span class="p">,</span> <span class="n">filenames</span> <span class="p">):</span>
+    <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">filenames</span><span class="p">:</span>
+		<span class="n">dirfile</span> <span class="o">=</span> <span class="n">dirname</span><span class="o">+</span><span class="s">"/"</span><span class="o">+</span><span class="n">filename</span>
+		<span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">isfile</span><span class="p">(</span><span class="n">dirfile</span><span class="p">):</span>
+			<span class="n">md</span> <span class="o">=</span> <span class="n">hashlib</span><span class="o">.</span><span class="n">md5</span><span class="p">(</span><span class="nb">open</span><span class="p">(</span><span class="n">dirfile</span><span class="p">,</span><span class="s">'rb'</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">())</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span>
+			<span class="c">#print md+" : "+dirfile</span>
+			<span class="n">masukkandata</span><span class="p">(</span><span class="n">dirfile</span><span class="p">,</span><span class="n">md</span><span class="p">)</span>
+
+<span class="k">def</span> <span class="nf">listDir</span><span class="p">(</span><span class="n">direktori</span><span class="p">):</span>
+	<span class="n">base_dir</span> <span class="o">=</span> <span class="n">direktori</span>
+	<span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">walk</span><span class="p">(</span> <span class="n">base_dir</span><span class="p">,</span> <span class="n">processDirectory</span><span class="p">,</span> <span class="bp">None</span> <span class="p">)</span>
+
+<span class="c">#s = raw_input("Pilih Direktori : ")</span>
+<span class="c">#listDir(s)</span>
+<span class="c"># --- ------END FUNCTION LIST DIR-------------</span>
+
+<span class="k">print</span> <span class="s">"</span><span class="se">\t</span><span class="s"> 1.Tampilkan Data</span><span class="se">\n\t</span><span class="s"> 2.Tes Input Data</span><span class="se">\n\t</span><span class="s"> 3.Input Data Manual TES</span><span class="se">\n\t</span><span class="s"> 4.Delete All Data From tflist1"</span>
+<span class="n">s</span> <span class="o">=</span> <span class="nb">raw_input</span><span class="p">(</span><span class="s">"Pilih No ? "</span><span class="p">)</span>
+<span class="k">if</span> <span class="n">s</span> <span class="o">==</span> <span class="s">"1"</span><span class="p">:</span>
+	<span class="n">showdata</span><span class="p">()</span>
+<span class="k">elif</span> <span class="n">s</span> <span class="o">==</span> <span class="s">"2"</span><span class="p">:</span>
+	<span class="n">tesmasukkandata</span><span class="p">()</span>
+<span class="k">elif</span> <span class="n">s</span> <span class="o">==</span> <span class="s">"3"</span><span class="p">:</span>
+	<span class="n">s</span> <span class="o">=</span> <span class="nb">raw_input</span><span class="p">(</span><span class="s">"Input Direktori (exp:/home) : "</span><span class="p">)</span>
+	<span class="k">if</span> <span class="n">s</span> <span class="o">!=</span> <span class="s">" "</span> <span class="ow">or</span> <span class="n">s</span> <span class="o">!=</span> <span class="s">""</span><span class="p">:</span>
+		<span class="n">listDir</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>	
+		<span class="k">print</span> <span class="s">" Selesai, Suksesss Input Data..."</span>
+<span class="k">else</span><span class="p">:</span>
+	<span class="n">dt</span> <span class="o">=</span> <span class="s">'tflist1'</span>
+	<span class="n">strquery</span><span class="p">(</span><span class="s">"TRUNCATE TABLE "</span><span class="o">+</span> <span class="n">dt</span><span class="p">)</span>
+	<span class="n">showdata</span><span class="p">()</span>
+	
+
+<span class="k">print</span> <span class="s">" -------------------------------------------------"</span>
+<span class="k">print</span> <span class="s">" Selesai.s...."</span>
+
+<span class="n">db</span><span class="o">.</span><span class="n">close</span><span class="p">()</span><span class="w">
+</span></pre></td></tr></tbody></table></code></pre></figure>
+
+<hr />
+<p>post by : Admin</p>
+
+		
+	</div>
+</article>
+
+
+
+	  </main>
+		
+		  <!-- Pagination links -->
+      
+
+	  </div>
+	    
+	    <!-- Footer -->
+	    <footer><span>@2017 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+</footer>
+
+
+<!-- original script :
+<footer><span>@2017 -  <a href="//">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+</footer>
+-->
+
+
+	    <!-- Script -->
+      <script src="/js/main.js"></script>	
+
+
+	</div>
+</body>
+</html>
