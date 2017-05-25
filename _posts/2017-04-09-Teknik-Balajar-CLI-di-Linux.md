@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Teknik Belajar Command Line Interpreter di Linux
 description: Teknik Belajar Command Line Interpreter di Linux
 header: Teknik Belajar Command Line Interpreter di Linux
