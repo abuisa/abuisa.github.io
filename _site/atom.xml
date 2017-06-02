@@ -4,7 +4,7 @@
  <title>IkhwanElyas Page</title>
  <link href="https://abuisa.github.io/atom.xml" rel="self"/>
  <id>https://abuisa.github.io</id>
- <updated>2017-05-30T20:07:43+07:00</updated>
+ <updated>2017-06-02T16:47:50+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -58,7 +58,7 @@
    <link href="https://abuisa.github.io/mysql-menggunakan-python"/>
    <id>https://abuisa.github.io/mysql-menggunakan-python</id>
    <updated>2017-05-25T08:20:01+07:00</updated>
-   <content type="html">&lt;p&gt;Berikut merupakan scrip Python untuk melakukan proses konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql.&lt;/p&gt; &lt;h2 id=&quot;struktur-database&quot;&gt;Struktur Database&lt;/h2&gt; &lt;p&gt;Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan database ke dalam mysql silahkan lakukan perintah berikut :&lt;/p&gt;...</content>
+   <content type="html">&lt;p&gt;Berikut merupakan scrip Python untuk melakukan konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql. Script lengkap dan terbaru dapat dilihat di &lt;a href=&quot;https://github.com/abuisa/python-mysql/blob/master/mysql-python.py&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;struktur-database&quot;&gt;Struktur Database&lt;/h2&gt; &lt;p&gt;Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan...</content>
  </entry>
 
  

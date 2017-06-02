@@ -4,7 +4,7 @@ title:  Akses MySql dan Operasi menggunakan Python
 date:   2017-05-25 08:20:01 +0700
 categories: Programming
 ---
-Berikut merupakan scrip Python untuk melakukan proses konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql.
+Berikut merupakan scrip Python untuk melakukan konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql. Script lengkap dan terbaru dapat dilihat di [github](https://github.com/abuisa/python-mysql/blob/master/mysql-python.py){:target="_blank"}
 ## Struktur Database 
 Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan database ke dalam mysql silahkan lakukan perintah berikut : 
 > $ mysql -u root -p < tes-database-name.sql<br>
@@ -207,6 +207,7 @@ db.close()
 
 {% endhighlight %}
 
+Script lengkap dan terbaru dapat dilihat di [github](https://github.com/abuisa/python-mysql/blob/master/mysql-python.py){:target="_blank"}
 
 ______
 post by : Admin
