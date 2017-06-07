@@ -114,6 +114,7 @@ header: Links
 	<h3> Digital Forensik </h3>
 		<ul>
 			<li><a href="https://catatanforensikadigital.wordpress.com/" target="_blank"> catatanforensikadigital.com</a></li>
+			<li><a href="https://indoforensics.wordpress.com/" target="_blank"> indoforensics.w.com</a></li>
 			<li><a href="http://forensics.uii.ac.id/" target="_blank"> forensics.uii.ac.id</a></li>
 			<li><a href="http://forensicswiki.org/wiki/Main_Page/" target="_blank"> forensicswiki.org</a></li>
 			<li><a href="http://forensikdigital.web.id/" target="_blank"> forensikdigital.web.id</a></li>
@@ -163,7 +164,7 @@ header: Links
 		</ul>
 	<h3> Malware Examples</h3>
 		<ul>
-			<li><a href="https://indoforensics.wordpress.com/" target="_blank"> indoforensics.w.com</a></li>
+
 			<li><a href="https://zeltser.com/malware-sample-sources/" target="_blank"> zeltser.com/malwares</a></li>
 			<li><a href="https://github.com/ytisf/theZoo/tree/master/malwares/" target="_blank"> github.com/malwares</a></li>
 			<li><a href="http://www.tekdefense.com/downloads/malware-samples/" target="_blank"> www.tekdefense.com</a></li>
