@@ -4,12 +4,22 @@
  <title>IkhwanElyas Page</title>
  <link href="https://abuisa.github.io/atom.xml" rel="self"/>
  <id>https://abuisa.github.io</id>
- <updated>2017-06-07T10:32:54+07:00</updated>
+ <updated>2017-06-08T09:01:21+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Waktu imsak dan mulai puasa</title>
+   <link href="https://abuisa.github.io/waktu-imsak-dan-mulai-puasa"/>
+   <id>https://abuisa.github.io/waktu-imsak-dan-mulai-puasa</id>
+   <updated>2017-06-08T00:00:00+07:00</updated>
+   <content type="html">&lt;blockquote&gt; &lt;p&gt;Saya tidak mengetahui adanya dalil tentang penetapan waktu imsak 15 menit sebelum adzan shubuh. Bahkan yang sesuai dengan dalil Al Qur’an dan As Sunnah, imsak (yaitu menahan diri dari makan dan minum, -pen) adalah mulai terbitnya fajar (masuknya waktu shubuh). &lt;code class=&quot;highlighter-rouge&quot;&gt;Abdul Aziz bin ‘Abdillah bin Baz&lt;/code&gt;.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;b&gt;Pertanyaan...</content>
+ </entry>
 
  
 
@@ -99,16 +109,6 @@
    <id>https://abuisa.github.io/memory-ceramah-buya-hamka</id>
    <updated>2017-05-05T00:00:00+07:00</updated>
    <content type="html">&lt;div class=&quot;ar&quot;&gt; بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم &lt;/div&gt; &lt;p&gt;Assalamualaikum….&lt;/p&gt; &lt;p&gt;Hadits imam Abu Daud No.1330 (versi lidwa pusaka android - Ensiklopedi Hadits 9 Imam) :&lt;/p&gt; &lt;div class=&quot;ar&quot;&gt; حَدَّثَنَا أَحْمَدُ بْنُ عُبَيْدِ اللَّهِ الْغُدَانِيُّ أَخْبَرَنَا غَسَّانُ بْنُ عَوْفٍ أَخْبَرَنَا الْجُرَيْرِيُّ عَنْ أَبِي نَضْرَةَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَدَخَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Downgrade atau Remove kernel dan kembali ke versi sebelumnya</title>
-   <link href="https://abuisa.github.io/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya"/>
-   <id>https://abuisa.github.io/Downgrade-atau-remove-kernel-kembali-ke-sebelumnya</id>
-   <updated>2017-05-04T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Assalamualaikum…&lt;/p&gt; &lt;h3 id=&quot;mater-soon&quot;&gt;Mater soon….&lt;/h3&gt; &lt;!-- Langsung saja, kali ini saya ingin berbagi cerita dengan anda khususnya para pengguna linux tentang topik kita yaitu kembali ke versi kernel sebelumnya setelah upgrade ke kernel terbaru, pertanyaanya kenapa harus kembali ke versi kernel sebelunya ?, jawabannya bisa berbeda-beda tapi untuk kasus saya, kembali...</content>
  </entry>
 
  
