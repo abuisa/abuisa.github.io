@@ -154,7 +154,11 @@ header: Links
 			<li><a href="https://www.ultratools.com/tools/dnsLookup" target="_blank">www.ultratools.com</a></li>
 			<li><a href="http://ping.eu/" target="_blank">www.ping.eu</a></li>
 			<li><a href="https://www.dnswatch.info/" target="_blank">www.dnswatch.info</a></li>
-			<li><a href="http://viewdns.info/" target="_blank">http://viewdns.info/</a></li>
+			<li><a href="http://viewdns.info/" target="_blank">viewdns.info</a></li>
+			<hr>
+			<li><a href="https://censys.io/" target="_blank">censys.io</a></li>
+			<li><a href="http://domainbigdata.com/" target="_blank">domainbigdata.com</a></li>
+			<li><a href="https://whois.domaintools.com/" target="_blank">whois.domaintools.com</a></li>
 <!--
 
 			<li><a href=" " target="_blank"> </a></li>
