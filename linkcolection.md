@@ -260,6 +260,15 @@ header: Links
 			<li><a href="http://www.secmaniac.com" target="_blank">www.secmaniac.com</a></li>
 			<li><a href="http://www.irongeek.com" target="_blank">www.irongeek.com</a></li>
 		</ul>
+	<h3> Private Search Engine </h3>
+		<ul>
+			<li><a href="https://duckduckgo.com/" target="_blank">duckduckgo.com</a></li>
+			<li><a href="https://www.startpage.com/" target="_blank">www.startpage.com</a></li>
+			<li><a href="https://metager.de/" target="_blank">metager.de </a></li>
+			<li><a href="https://hulbee.com/" target="_blank">hulbee.com</a></li>
+			<li><a href="https://oscobo.co.uk/search.php" target="_blank">oscobo.co.uk</a></li>
+			<li><a href="http://gibiru.com/" target="_blank">gibiru.com</a></li>
+		</ul>
 	</div>
 </div>
 
