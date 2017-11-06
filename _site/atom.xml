@@ -4,12 +4,22 @@
  <title>IkhwanElyas Page</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2017-10-24T07:23:55+07:00</updated>
+ <updated>2017-11-07T01:24:20+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Dzikir dan Doa - Dzikir [vol-1]</title>
+   <link href="http://localhost:4000/Dzikir-dan-Doa-Dzikir-vol-1"/>
+   <id>http://localhost:4000/Dzikir-dan-Doa-Dzikir-vol-1</id>
+   <updated>2017-11-06T00:00:00+07:00</updated>
+   <content type="html">&lt;h2 id=&quot;1-dzikir-yang-paling-agung-secara-mutlak&quot;&gt;1. Dzikir yang paling Agung secara Mutlak&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;h3 id=&quot;hadits-1--2--&quot;&gt;&lt;b&gt;HADITS 1 &amp;amp; 2 : &lt;/b&gt;&lt;/h3&gt; &lt;/li&gt; &lt;/ul&gt; &lt;div class=&quot;arxx&quot;&gt; ... جَابِرَ بْنَ عَبْدِ اللَّهِ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ أَفْضَلُ الذِّكْرِ لَا إِلَهَ إِلَّا اللَّهُ وَأَفْضَلُ الدُّعَاءِ الْحَمْدُ لِلَّهِ. &lt;/div&gt; &lt;div class=&quot;idx&quot;&gt; &lt;b&gt;Ibnu Majah...</content>
+ </entry>
 
  
 
@@ -99,16 +109,6 @@
    <id>http://localhost:4000/perintah-xargs</id>
    <updated>2017-05-21T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;perintah-xargs&quot;&gt;Perintah xargs&lt;/h3&gt; &lt;p&gt;perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;$ man xargs&lt;/code&gt; akan menapilkan manual page dari perintah xargs, berikut hasil gambarnya :&lt;/p&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1 2 3 4 5 6 7 8 9 10 11 12 13 14&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;xargs --help &lt;span class=&quot;gp&quot;&gt;FD-UII-XI:$ &lt;/span&gt;xargs...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Jihad dan Kemenangan tanpa Petunjuk</title>
-   <link href="http://localhost:4000/Jihad-Kemenangan-dengan-petunjuk"/>
-   <id>http://localhost:4000/Jihad-Kemenangan-dengan-petunjuk</id>
-   <updated>2017-05-11T00:00:00+07:00</updated>
-   <content type="html">&lt;div class=&quot;ar&quot;&gt; &quot;الجهاد والنصر بلا رُشد ضلالٌ للبشر وتضييعٌ للثمر&quot; &lt;br /&gt; فضيلة الشيخ / أبو محمد المقدسي ـ حفظه الله ـ &lt;br /&gt; ⌘⌘⌘⌘ &lt;br /&gt; حين أوى الفتية الذين استُضعفوا وأوذوا إلى الكهف؛ طَلبوا أن يُهَيّء الله لهم من أمرهم رشدا؛ وذكر الله عنهم هذا وأَبرَزه؛ ولم يُبرز...</content>
  </entry>
 
  

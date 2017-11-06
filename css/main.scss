@@ -26,13 +26,13 @@
     float:left;
     height:100%;
     width:30%;
-	border-right:0px solid grey;   
+	border-right:0px solid grey;
 }
 .second{
 	float: right;
 	height:100%;
-	width: 35%;   
-	//padding-left: 0.6cm;	
+	width: 35%;
+	//padding-left: 0.6cm;
 }
 
 .tengah{
@@ -45,7 +45,7 @@
     float:left;
     height:100%;
     width:50%;
-	border-right:0px solid grey;   
+	border-right:0px solid grey;
 }
 .kate2{
 	//float: right;
@@ -61,7 +61,7 @@
 }
 
 .row {
-    display: table-row;	
+    display: table-row;
 	border-bottom: 1px solid gray;
 }
 .rowb{
@@ -74,9 +74,9 @@
 	border: 0px solid gray;
 	padding: 6px;
 	border-left:0px solid gray;
-	border-bottom: 0px solid gray;		
+	border-bottom: 0px solid gray;
 }
-.columnb {        
+.columnb {
     vertical-align: top;
 	border: 0px solid gray;
 	padding: 6px;
@@ -84,8 +84,8 @@
 	border-bottom: 0px solid gray;
 }
 .no, .judul, .namap, .abstrak, .fpdf{
-	border-bottom: 1px solid gray;	
-	font-weight: bold;	
+	border-bottom: 1px solid gray;
+	font-weight: bold;
 }
 .no{
 	width: auto;
@@ -95,10 +95,10 @@
 	width: 24%;
 }
 .namap{
-	width: 18%;			
+	width: 18%;
 }
 .abstrak{
-	width: 45%;			
+	width: 45%;
 }
 .fpdf{
 	width: 12%;
@@ -119,6 +119,9 @@
 //======untuk tulisan Arab=====
 .ar{
 	//float: right;
+  direction:RTL;
+  unicode-bidi:embed;
+  //====================
 	font-weight: bold;
 	font-size: 22px;
 	text-align: right;
@@ -131,14 +134,46 @@
 	padding:10px 18px;
 	padding-top:10px;
 }
+.arx {
+  direction:RTL;
+  unicode-bidi:embed;
+  //====================
+  font-weight: bold;
+	font-size: 26px;
+	text-align: right;
+	margin-left:0px;
+	margin-bottom:10px;
+	background-color:#f2f2f2;
+	border-radius:8px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	padding:10px 18px;
+	padding-top:10px;
+}
+.arxx {
+  direction:RTL;
+  unicode-bidi:embed;
+  //====================
+  font-weight: bold;
+	font-size: 30px;
+	text-align: right;
+	margin-left:0px;
+	margin-bottom:10px;
+	background-color:#f2f2f2;
+	border-radius:8px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	padding:10px 18px;
+	padding-top:10px;
+}
 //=====Untuk TABEL STYLE======
-table, td, th {    
+table, td, th {
     border: 0px solid #ddd;
     text-align: left;
 }
 table {
     	border-collapse: collapse;
-    	width: 100%;	
+    	width: 100%;
 }
 th, td {
     	/*padding: 12px;*/
@@ -184,5 +219,16 @@ a {
 	padding:7px 16px;
 	padding-top:7px;
 }
-//--- Untuk IFRAME --- 
+.idx{
+  font-size: 20px;
+	margin-left:0px;
+	margin-bottom:10px;
+	background-color:#eee;
+	border-radius:4px;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	padding:7px 16px;
+	padding-top:7px;
+}
+//--- Untuk IFRAME ---
 iframe {width: 100%; height: 600px; border: none;}
