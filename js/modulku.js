@@ -3,7 +3,7 @@
 //--- Fungsi dibawah merupakan fungsi untuk mendeteksi mobile phone ---
 //--- Jika perangkat merupakan mobile phone maka secara otomatis ubah kolom div menjadi baris ---
 
-	window.onload = function(){ 
+	window.onload = function(){
 	    //alert("TES PESAN-PESAN .........!");
 
 		if( checkm() ) {
@@ -14,10 +14,10 @@
 			var d3 = document.getElementById('linkdiv3');
 			d1.removeAttribute("class");
 			d2.removeAttribute("class");
-			d3.removeAttribute("class");			
+			d3.removeAttribute("class");
 		}
 		else
-		{			
+		{
 			;
 
 		}
@@ -48,7 +48,7 @@
 			//--- Hide Head of Column
 			$("#ts").hide();
 
-			//--- Show Sub Judul ------			
+			//--- Show Sub Judul ------
 			$(".hd").addClass('hds');
 			$(".hd").removeClass("hd");
 	}
@@ -78,11 +78,11 @@
 		$("#rw").click(function(){
 			$("#rw").hide();
 			$("#cl").show();
-		});	
+		});
 		$("#cl").click(function(){
 			$("#cl").hide();
 			$("#rw").show();
-		});	
+		});
 	});
 //--- END FUNGSI-FUNGSI untuk reff.html ---
 //--- =================================== ---
@@ -93,7 +93,7 @@
 		{
 			var sdurl = "http://www.sciencedirect.com.sci-hub.cc/science/article/pii/" + nor;
 			var url = "http://ieeexplore.ieee.org.sci-hub.io/xpl/articleDetails.jsp?arnumber=" + nor;
-			
+
 			if(isNaN(nor) && nor.length > 7){
 		    	//alert("Bukan Nomor dan > 7");
 				var win = window.open(sdurl, '_blank');
@@ -117,7 +117,7 @@
 
 //--- =================================== ---
 //--- FUNGSI-FUNGSI untuk penelitian.md ---
-	
+
 	//--- fungsi ini hanya untuk tes ---
 	function msg(a){
 		alert(a);
@@ -154,9 +154,9 @@
 	}
 //--- FOR FILE SIGNATURE FROM 1 to 18 ---
 //--- Fungsi showfsig(a) ini sudah TIDAK LAGI DIGUNAKAN !!! ---
-/*	
+/*
 	function showfsig(a) {
-		
+
 		for(var i=1;i<=7;i++){
 			//var n = i.toString();
 			if (a === i){
@@ -200,6 +200,16 @@
 
 //--- END fungsi ganti video ---
 //--- =================================== ---
+//---
+function sdiv(id) {
+   var e = document.getElementById(id);
+   if(e.style.display == 'block')
+      e.style.display = 'none';
+   else
+      e.style.display = 'block';
+}
 
-
-
+function showhide(id) {
+	 var e = document.getElementById(id);
+	 e.style.display = (e.style.display == 'block') ? 'none' : 'block';
+}
