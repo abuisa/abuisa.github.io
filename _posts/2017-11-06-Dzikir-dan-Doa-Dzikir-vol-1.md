@@ -171,6 +171,70 @@ categories: Agama
 <div class="id">
 <b>Ad Darimi - No.3271, 3272, 3273 </b> : ...Abu Sa'id al Khudri ia berkata; Barangsiapa yang membaca surat al kahfi pada malam Jum'at maka ia akan diterangi oleh cahaya yang terangnya mencapai jarak antara dirinya dan Baitul 'Atiq.
 </div>
+### 5. Surah Al-Mulk
+<div class="ar">
+عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ سُورَةٌ مِنْ الْقُرْآنِ ثَلَاثُونَ آيَةً تَشْفَعُ لِصَاحِبِهَا حَتَّى يُغْفَرَ لَهُ تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ.
+</div>
+<div class="id">
+<b>Abu Daud - No.1192</b> : ...dari Nabi shallallahu 'alaihi wasallam bersabda: 'Ada suatu surat dari al qur'an yang terdiri dari tiga puluh ayat dan dapat memberi syafa'at bagi yang membacanya, sampai dia di ampuni, yaitu; "Tabaarakalladzii biyadihil mulku…"
+</div>
+<div class="ar">
+عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّ سُورَةً مِنْ الْقُرْآنِ ثَلَاثُونَ آيَةً شَفَعَتْ لِرَجُلٍ حَتَّى غُفِرَ لَهُ وَهِيَ سُورَةُ تَبَارَكَ...
+</div>
+<div class="id">
+<b>Tirmidzi - No.2816, 2815, 2817 & Ibnu Majah - No.3776</b> : ...dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya ada satu surat dalam Al Qur`an yang terdiri dari tiga puluh ayat, dan dapat memberikan syafa'at kepada seseorang hingga dia diampuni, yaitu surat TABAARAK...
+</div>
+<div class="ar">
+قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَنَامُ حَتَّى يَقْرَأَ الم تَنْزِيلُ السَّجْدَةَ وَتَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ.
+</div>
+<div class="id">
+<b>Ahmad - No.14132</b> : ...dari Jabir "Rasulullah shallallahu 'alaihi wasallam tidak tidur hingga membaca ALIF LAM MIM As-Sajdah (Surat Assjadah) dan TABAROKALLADZI BIYADIHIL MULK (Surat Almulk) ".
+</div>
+<div class="ar">
+عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ إِنَّ سُورَةً مِنْ الْقُرْآنِ ثَلَاثُونَ آيَةً شَفَعَتْ لِرَجُلٍ حَتَّى غُفِرَ لَهُ وَهِيَ تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ.
+</div>
+
+<div class="id">
+<b>Ahmad - No.7634, 7927</b> : ...dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Sesungguhnya ada satu surat Al Qur`an yang memiliki tiga puluh ayat, ia memberi syafa'at kepada seseorang hingga ia diampuni, surat tersebut adalah: TABAAROKAL LADZII BIYADIHIL MULKU."
+</div>
+### 5. Surah Al-Zalzalah
+
+<div class="ar">
+أَتَى رَجُلٌ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ أَقْرِئْنِي يَا رَسُولَ اللَّهِ فَقَالَ اقْرَأْ ثَلَاثًا مِنْ ذَوَاتِ الر فَقَالَ كَبُرَتْ سِنِّي وَاشْتَدَّ قَلْبِي وَغَلُظَ لِسَانِي قَالَ فَاقْرَأْ ثَلَاثًا مِنْ ذَوَاتِ حاميم فَقَالَ مِثْلَ مَقَالَتِهِ فَقَالَ اقْرَأْ ثَلَاثًا مِنْ الْمُسَبِّحَاتِ فَقَالَ مِثْلَ مَقَالَتِهِ فَقَالَ الرَّجُلُ يَا رَسُولَ اللَّهِ أَقْرِئْنِي سُورَةً جَامِعَةً فَأَقْرَأَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا زُلْزِلَتْ الْأَرْضُ حَتَّى فَرَغَ مِنْهَا فَقَالَ الرَّجُلُ وَالَّذِي بَعَثَكَ بِالْحَقِّ لَا أَزِيدُ عَلَيْهَا أَبَدًا ثُمَّ أَدْبَرَ الرَّجُلُ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَفْلَحَ الرُّوَيْجِلُ مَرَّتَيْنِ.
+</div>
+<div class="id">
+<b>Abu Daud - No.1191</b> : ...seorang laki-laki datang kepada Rasulullah shallallahu 'alaihi wasallam sambil berkata; "Wahai Rasulullah, koreksilah bacaanku!" Maka beliau pun berkata kepadanya: "Bacalah tiga surat yang di dahului Alif Laam Ra'." Lelaki itu berkata; "Umurku sudah tua, dan hatiku sudah mengeras, serta lidahku juga sudah kelu." Beliau berkata: "Kalau begitu bacalah surat yang di dahului Haa' Mim." Maka lelaki itupun mengatakan seperti perkataannya yang tadi. Beliau berkata: "Bacalah tiga surat yang diawali dengan sabbaha." Dan lelaki itupun mengatakan seperti perkataannya yang pertama, lalu dia mengatakan, "Wahai Rasulullah, yang aku mau anda membacakan kepadaku satu surat yang mencakup keseluruhan." Maka beliau menyuruhnya membaca surat Idzaa zulzilatil ardlu, hingga selesai. Laki-laki itu berkata; "Demi Dzat Yang telah mengutusmu dengan kebenaran, aku tidak akan menambahinya untuk selamanya." Lalu orang itupun berpaling dan pergi meninggalkan beliau, lalu Rasulullah pun bersabda: "Sungguh beruntung orang itu, sungguh beruntung orang itu" Beliau mengucapkannya hingga dua kali.
+</div>
+<div class="ar">
+قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَرَأَ إِذَا زُلْزِلَتْ عُدِلَتْ لَهُ بِنِصْفِ الْقُرْآنِ وَمَنْ قَرَأَ قُلْ يَا أَيُّهَا الْكَافِرُونَ عُدِلَتْ لَهُ بِرُبُعِ الْقُرْآنِ وَمَنْ قَرَأَ قُلْ هُوَ اللَّهُ أَحَدٌ عُدِلَتْ لَهُ بِثُلُثِ الْقُرْآنِ.
+</div>
+<div class="id">
+<b>Tirmidzi 	No.2818</b> : Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membaca "IDZA ZULZILAT" maka akan digantikan baginya dengan separuh Al Qur'an, barangsiapa membaca "QUL YAA AYYUHAL KAAFIRUUN" maka akan di gantikan baginya dengan seperempat Al Qur'an dan barangsiapa membaca "QUL HUWALLAAHU AHAD" maka akan disamakan baginya dengan sepertiga Al Qur'an."
+</div>
+<div class="ar">
+قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا زُلْزِلَتْ تَعْدِلُ نِصْفَ الْقُرْآنِ وَقُلْ هُوَ اللَّهُ أَحَدٌ تَعْدِلُ ثُلُثَ الْقُرْآنِ وَقُلْ يَا أَيُّهَا الْكَافِرُونَ تَعْدِلُ رُبُعَ الْقُرْآنِ.
+</div>
+<div class="id">
+<b>Tirmidzi 	No.2819</b> : Rasulullah shallallahu 'alaihi wasallam bersabda: "(Surat) IDZA ZULZILAT sama seperti separuh Al Qur'an, QUL HUWALLAAHU AHAD sama seperti sepertiga Al Qur'an dan QUL YAA AYYUHAL KAAFIRUUN sama seperti seperempat Al Qur'an."
+</div>
+<div class="ar">
+أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لِرَجُلٍ مِنْ أَصْحَابِهِ هَلْ تَزَوَّجْتَ يَا فُلَانُ قَالَ لَا وَاللَّهِ يَا رَسُولَ اللَّهِ وَلَا عِنْدِي مَا أَتَزَوَّجُ بِهِ قَالَ أَلَيْسَ مَعَكَ قُلْ هُوَ اللَّهُ أَحَدٌ قَالَ بَلَى قَالَ ثُلُثُ الْقُرْآنِ قَالَ أَلَيْسَ مَعَكَ إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ قَالَ بَلَى قَالَ رُبُعُ الْقُرْآنِ قَالَ أَلَيْسَ مَعَكَ قُلْ يَا أَيُّهَا الْكَافِرُونَ قَالَ بَلَى قَالَ رُبُعُ الْقُرْآنِ قَالَ أَلَيْسَ مَعَكَ إِذَا زُلْزِلَتْ الْأَرْضُ قَالَ بَلَى قَالَ رُبُعُ الْقُرْآنِ قَالَ تَزَوَّجْ.
+</div>
+<div class="id">
+<b>Tirmidzi - No.2820</b> : ...bahwa Rasulullah shallallahu 'alaihi wasallam bertanya kepada salah seorang sahabat beliau: "Apakah kamu sudah menikah hai fulan?" ia menjawab; "Belum, demi Allah wahai Rasulullah, aku tidak memiliki sesuatu untuk aku pakai menikah." Rasulullah bertanya: "Bukankah kamu punya (hafalan) QUL HUWALLAHU AHAD?" Ia menjawab; "Betul." Beliau bersabda: "Sepertiga al-Qur'an." Beliau bertanya: "Bukankah kau punya (hafalan) IDZAA JAA'A NASHRULLAAHI WAL FATH?" ia menjawab; "Benar." Beliau bersabda: "Seperempat al-Qur'an." Beliau bertanya: "Bukankah kamu punya (hafalan) QUL YAA'AYYUHAL KAAFIRUUN?" ia menjawab; "Benar." Beliau bersabda: "Seperempat al-Qur'an." Beliau bertanya: "Bukankah kau punya (hafalan) IDZAA ZULZILATIL ARDLU?" ia menjawab; "Benar." Beliau bersabda: "Seperempat al-Qur'an." Beliau bersabda: "Menikahlah."
+</div>
+<div class="ar">
+أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَأَلَ رَجُلًا مِنْ صَحَابَتِهِ فَقَالَ أَيْ فُلَانُ هَلْ تَزَوَّجْتَ قَالَ لَا وَلَيْسَ عِنْدِي مَا أَتَزَوَّجُ بِهِ قَالَ أَلَيْسَ مَعَكَ قُلْ هُوَ اللَّهُ أَحَدٌ قَالَ بَلَى قَالَ رُبُعُ الْقُرْآنِ قَالَ أَلَيْسَ مَعَكَ قُلْ يَا أَيُّهَا الْكَافِرُونَ قَالَ بَلَى قَالَ رُبُعُ الْقُرْآنِ قَالَ أَلَيْسَ مَعَكَ إِذَا زُلْزِلَتْ الْأَرْضُ قَالَ بَلَى قَالَ رُبُعُ الْقُرْآنِ قَالَ أَلَيْسَ مَعَكَ إِذَا جَاءَ نَصْرُ اللَّهِ قَالَ بَلَى قَالَ رُبُعُ الْقُرْآنِ قَالَ أَلَيْسَ مَعَكَ آيَةُ الْكُرْسِيِّ اللَّهُ لَا إِلَهَ إِلَّا هُوَ قَالَ بَلَى قَالَ رُبُعُ الْقُرْآنِ قَالَ تَزَوَّجْ تَزَوَّجْ تَزَوَّجْ ثَلَاثَ مَرَّاتٍ.
+</div>
+<div class="id">
+<b>Ahmad - No.12831 </b> : Pernah Rasulullah Shallallahu'alaihi wasallam bertanya kepada salah seorang sahabatnya, bersabda, "Wahai fulan apakah kau sudah menikah?". Dia menjawab, "Belum, saya tidak mempunyai bekal untuk itu". (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Bukankah kamu hapal: QUL HUWA ALLOHU AHAD". Dia menjawab, ya. (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Itu adalah seperempat al-qur'an". (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Bukan kau hapal: QUL YA AYYUHAL KAFIRUN". Dia berkata, ya. (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Itu adalah seperempat al-qur'an" (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Bukan kau hapal: IDZA ZULZILATIL ARDZU". Dia berkata, ya. (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Itu adalah seperempat al-qur'an". (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Bukan kau hapal: IDZA JAA'A NASRULLOH". Dia berkata, ya. (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Itu adalah seperempat al-qur'an". (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Bukan kau hapal ayat kursi: ALLAHU LA ILAHA ILLA HUWA". Dia berkata, ya. (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Itu adalah seperempat al-qur'an". (Rasulullah Shallallahu'alaihi wasallam) bersabda, "Menikahlah, menikahlah, menikahlah, ".
+</div>
+<div class="ar">
+...فَقَالَ الرَّجُلُ وَلَكِنْ أَقْرِئْنِي يَا رَسُولَ اللَّهِ سُورَةً جَامِعَةً فَأَقْرَأَهُ إِذَا زُلْزِلَتْ الْأَرْضُ حَتَّى إِذَا فَرَغَ مِنْهَا قَالَ الرَّجُلُ وَالَّذِي بَعَثَكَ بِالْحَقِّ لَا أَزِيدُ عَلَيْهَا أَبَدًا ثُمَّ أَدْبَرَ الرَّجُلُ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَفْلَحَ الرُّوَيْجِلُ أَفْلَحَ الرُّوَيْجِلُ...
+</div>
+<div class="id">
+<b>Ahmad - No.6287 </b> Isi Hadits mirip dengan hadits yang dikeluarkan olah imam <b>Abu Daud - No.1191</b> : ...lalu dia mengatakan, "Wahai Rasulullah, yang aku mau engkau membacakan kepadaku satu surat yang mencakup keseluruhan." Maka beliau menyuruhnya membaca surat Az Zalzalah, hingga sa'at ia selesai membacanya, dia berkata, "Demi Dzat Yang telah mengutusmu dengan kebenaran, aku tidak akan menambahinya untuk selamanya." Lalu orang itupun berpaling dan pergi meninggalkan beliau, dan Rasulullah pun berkata: "Sungguh beruntuk Ruwaihil, sungguh beruntuk Ruwaihil...
+</div>
 
 
 
