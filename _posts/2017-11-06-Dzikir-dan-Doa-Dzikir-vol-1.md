@@ -81,8 +81,10 @@ categories: Agama
 </div>
 
 * sumber : Situs Tanya Jawab [binbaz.org](http://www.binbaz.org.sa/noor/2653){:target="_blank"}
+
 <a name="dzikir2">
 ## 2. Hadits tentang Surat & Ayat Agung dalam Al-Quran yang Agung
+
 ### 1.	Surat Al-Fatihah
 
 <div class="ar">
