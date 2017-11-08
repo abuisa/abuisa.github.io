@@ -4,8 +4,21 @@ description: Dzikir dan Doa - Dzikir [vol-1]
 header: Dzikir dan Doa - Dzikir [vol-1]
 categories: Agama
 ---
+#### Daftar Isi : 
+- <a href="#dzikir1">Dzikir yang paling Agung secara Mutlak</a>
+- Hadits tentang Surat & Ayat Agung dalam Al-Quran yang Agung
+- <a href="#dzikir2">Surat Al-Fatihah</a> 
+- <a href="#dzikir3">Surat Al-Baqarah</a>
+- <a href="#dzikir4">Ayat Kursi</a>
+- <a href="#dzikir5">Dua Ayat Akhir Al-Baqarah</a>
+- <a href="#dzikir6">Surah Ali Imran</a>
+- <a href="#dzikir7">Surah Al-Kahfi</a>
+- <a href="#dzikir8">Surah Al-Mulk</a>
+- <a href="#dzikir9">Surah Al-Zalzalah & Al-Kaafiruun & Al-Ikhlash</a>
+- <a href="#dzikir10">Surah al Mu'awidzatain - Al-Falaq & An-Naas</a>
+<hr>
+<a name="dzikir1">
 ## 1. Dzikir yang paling Agung secara Mutlak
-
 - ### Kesimpulan dari Jawaban para Ulama bahwa sebaik-baik Dzikir secara mutlak adalah AL-QURAN AL-KARIIM.
 
 - ### <b>HADITS 1 & 2 : </b>
@@ -68,9 +81,10 @@ categories: Agama
 </div>
 
 * sumber : Situs Tanya Jawab [binbaz.org](http://www.binbaz.org.sa/noor/2653){:target="_blank"}
-
+<a name="dzikir2">
 ## 2. Hadits tentang Surat & Ayat Agung dalam Al-Quran yang Agung
 ### 1.	Surat Al-Fatihah
+
 <div class="ar">
 ...أَلَمْ تَقُلْ لَأُعَلِّمَنَّكَ سُورَةً هِيَ أَعْظَمُ سُورَةٍ فِي الْقُرْآنِ قَالَ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ...
 </div>
@@ -78,6 +92,7 @@ categories: Agama
 <b>Bukhari - No.4114 </b> : ...Bukankah engkau berjanji; 'Saya akan mengajarimu surat yang paling agung yang terdapat di dalam Al Qur`an.' Beliau menjawab; (Yaitu surat) AL HAMDU LILLAHI RABBIL 'AALAMIIN (Segala puji bagi Allah, Rabb semesta Alam)...
 </div>
 
+<a name="dzikir3">
 ### 2.	Surat Al-Baqarah 
 <div class="ar">
 ... أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْبَقَرَةُ سَنَامُ الْقُرْآنِ وَذُرْوَتُهُ نَزَلَ مَعَ كُلِّ آيَةٍ مِنْهَا ثَمَانُونَ مَلَكًا وَاسْتُخْرِجَتْ { لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ } مِنْ تَحْتِ الْعَرْشِ فَوُصِلَتْ بِهَا أَوْ فَوُصِلَتْ بِسُورَةِ الْبَقَرَةِ...
@@ -92,6 +107,8 @@ categories: Agama
 <div class="id">
 <b>Muslim - No.1300 </b> : ...bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian jadikan rumah-rumah kalian sebagai kuburan, sesungguhnya syetan itu akan lari dari rumah yang di dalamnya dibacakan surat al baqarah.
 </div>
+
+<a name="dzikir4">
 ### 3. Ayat Kursi
 <div class="ar">
 ...قَالَ رَسُولُ اللَّهِ يَا أَبَا الْمُنْذِرِ أَتَدْرِي أَيُّ آيَةٍ مِنْ كِتَابِ اللَّهِ مَعَكَ أَعْظَمُ قَالَ قُلْتُ اللَّهُ وَرَسُولُهُ أَعْلَمُ قَالَ يَا أَبَا الْمُنْذِرِ أَتَدْرِي أَيُّ آيَةٍ مِنْ كِتَابِ اللَّهِ مَعَكَ أَعْظَمُ قَالَ قُلْتُ { اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ } قَالَ فَضَرَبَ فِي صَدْرِي وَقَالَ وَاللَّهِ لِيَهْنِكَ الْعِلْمُ أَبَا الْمُنْذِرِ.
@@ -114,6 +131,8 @@ categories: Agama
 <div class="id">
 <b>Ahmad - No.19415</b> : ...bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Al Baqarah adalah Al Qur'an kedudukan yang tertinggi dan puncaknya. Delapan puluh Malaikat turun menyertai masing-masing ayatnya. Laa ilaaha illaahu wal hayyul qayyuum di bawah 'Arsy, lalu ia digabungkan dengannya, atau digabungkan dengan surat Al Baqarah....
 </div>
+
+<a name="dzikir5">
 ### 4. Dua Ayat Akhir Al-Baqarah
 <div class="ar">
 عَنْ ابْنِ عَبَّاسٍ قَالَ بَيْنَمَا جِبْرِيلُ قَاعِدٌ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَمِعَ نَقِيضًا مِنْ فَوْقِهِ فَرَفَعَ رَأْسَهُ فَقَالَ هَذَا بَابٌ مِنْ السَّمَاءِ فُتِحَ الْيَوْمَ لَمْ يُفْتَحْ قَطُّ إِلَّا الْيَوْمَ فَنَزَلَ مِنْهُ مَلَكٌ فَقَالَ هَذَا مَلَكٌ نَزَلَ إِلَى الْأَرْضِ لَمْ يَنْزِلْ قَطُّ إِلَّا الْيَوْمَ فَسَلَّمَ وَقَالَ أَبْشِرْ بِنُورَيْنِ أُوتِيتَهُمَا لَمْ يُؤْتَهُمَا نَبِيٌّ قَبْلَكَ فَاتِحَةُ الْكِتَابِ وَخَوَاتِيمُ سُورَةِ الْبَقَرَةِ لَنْ تَقْرَأَ بِحَرْفٍ مِنْهُمَا إِلَّا أُعْطِيتَهُ
@@ -139,6 +158,8 @@ categories: Agama
 <div class="id">
 <b>Ad Darimi - No.3246</b> : ...Ada seorang bertanya; Wahai Rasulullah, surat Al Qur'an mana yang paling agung? Beliau menjawab: "QUL HUWALLAHU AHAD (surat Al Ikhlas)." Ia bertanya lagi; Lalu ayat apa lagi yang paling agung di dalam Al Qur'an? Beliau menjawab: "Ayat Kursi: ALLAHU LAAILAAHA ILLA HUWAL HAYYUL QAYYUM (Allah tidak ada Ilah melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhlukNya))." Ia bertanya lagi; Ayat mana wahai Nabiyullah, yang engkau dan juga umatmu inginkan untuk mendapatkannya? Beliau menjawab: "Ayat penutup surat Al Baqarah, sebab sesungguhnya ia termasuk perbendaharaan rahmat Allah dari bawah ArasyNya. Dia memberikannya kepada umat ini. Tidak ada satu kebaikan pun dari pada kebaikan dunia dan akhirat kecuali telah dikandung olehnya.
 </div>
+
+<a name="dzikir6">
 ### 5. Surah Ali Imran
 <div class="ar">
 ...أَبُو أُمَامَةَ الْبَاهِلِيُّ قَالَسَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ اقْرَءُوا الْقُرْآنَ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ شَفِيعًا لِأَصْحَابِهِ اقْرَءُوا الزَّهْرَاوَيْنِ الْبَقَرَةَ وَسُورَةَ آلِ عِمْرَانَ فَإِنَّهُمَا تَأْتِيَانِ يَوْمَ الْقِيَامَةِ كَأَنَّهُمَا غَمَامَتَانِ أَوْ كَأَنَّهُمَا غَيَايَتَانِ أَوْ كَأَنَّهُمَا فِرْقَانِ مِنْ طَيْرٍ صَوَافَّ تُحَاجَّانِ عَنْ أَصْحَابِهِمَا...
@@ -152,7 +173,10 @@ categories: Agama
 <div class="id">
 <b>Ad Darimi - No.3261, 3262, 3263, 3264, 3265</b> : ... Barangsiapa yang membaca akhir surat ali imran pada malam hari, maka ditulis baginya pahala shalat malam.
 </div>
-### 5. Surah Al-Kahfi
+
+
+<a name="dzikir7">
+### 6. Surah Al-Kahfi
 <div class="ar">
 قَالَ كَانَ رَجُلٌ يَقْرَأُ سُورَةَ الْكَهْفِ وَإِلَى جَانِبِهِ حِصَانٌ مَرْبُوطٌ بِشَطَنَيْنِ فَتَغَشَّتْهُ سَحَابَةٌ فَجَعَلَتْ تَدْنُو وَتَدْنُو وَجَعَلَ فَرَسُهُ يَنْفِرُ فَلَمَّا أَصْبَحَ أَتَى النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَ ذَلِكَ لَهُ فَقَالَ تِلْكَ السَّكِينَةُ تَنَزَّلَتْ بِالْقُرْآنِ.
 </div>
@@ -171,7 +195,10 @@ categories: Agama
 <div class="id">
 <b>Ad Darimi - No.3271, 3272, 3273 </b> : ...Abu Sa'id al Khudri ia berkata; Barangsiapa yang membaca surat al kahfi pada malam Jum'at maka ia akan diterangi oleh cahaya yang terangnya mencapai jarak antara dirinya dan Baitul 'Atiq.
 </div>
-### 5. Surah Al-Mulk
+
+
+<a name="dzikir8">
+### 7. Surah Al-Mulk
 <div class="ar">
 عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ سُورَةٌ مِنْ الْقُرْآنِ ثَلَاثُونَ آيَةً تَشْفَعُ لِصَاحِبِهَا حَتَّى يُغْفَرَ لَهُ تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ.
 </div>
@@ -197,7 +224,9 @@ categories: Agama
 <div class="id">
 <b>Ahmad - No.7634, 7927</b> : ...dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Sesungguhnya ada satu surat Al Qur`an yang memiliki tiga puluh ayat, ia memberi syafa'at kepada seseorang hingga ia diampuni, surat tersebut adalah: TABAAROKAL LADZII BIYADIHIL MULKU."
 </div>
-### 5. Surah Al-Zalzalah
+
+<a name="dzikir9">
+### 8. Surah Al-Zalzalah & Al-Kaafiruun & Al-Ikhlash
 
 <div class="ar">
 أَتَى رَجُلٌ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ أَقْرِئْنِي يَا رَسُولَ اللَّهِ فَقَالَ اقْرَأْ ثَلَاثًا مِنْ ذَوَاتِ الر فَقَالَ كَبُرَتْ سِنِّي وَاشْتَدَّ قَلْبِي وَغَلُظَ لِسَانِي قَالَ فَاقْرَأْ ثَلَاثًا مِنْ ذَوَاتِ حاميم فَقَالَ مِثْلَ مَقَالَتِهِ فَقَالَ اقْرَأْ ثَلَاثًا مِنْ الْمُسَبِّحَاتِ فَقَالَ مِثْلَ مَقَالَتِهِ فَقَالَ الرَّجُلُ يَا رَسُولَ اللَّهِ أَقْرِئْنِي سُورَةً جَامِعَةً فَأَقْرَأَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا زُلْزِلَتْ الْأَرْضُ حَتَّى فَرَغَ مِنْهَا فَقَالَ الرَّجُلُ وَالَّذِي بَعَثَكَ بِالْحَقِّ لَا أَزِيدُ عَلَيْهَا أَبَدًا ثُمَّ أَدْبَرَ الرَّجُلُ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَفْلَحَ الرُّوَيْجِلُ مَرَّتَيْنِ.
@@ -235,7 +264,58 @@ categories: Agama
 <div class="id">
 <b>Ahmad - No.6287 </b> Isi Hadits mirip dengan hadits yang dikeluarkan olah imam <b>Abu Daud - No.1191</b> : ...lalu dia mengatakan, "Wahai Rasulullah, yang aku mau engkau membacakan kepadaku satu surat yang mencakup keseluruhan." Maka beliau menyuruhnya membaca surat Az Zalzalah, hingga sa'at ia selesai membacanya, dia berkata, "Demi Dzat Yang telah mengutusmu dengan kebenaran, aku tidak akan menambahinya untuk selamanya." Lalu orang itupun berpaling dan pergi meninggalkan beliau, dan Rasulullah pun berkata: "Sungguh beruntuk Ruwaihil, sungguh beruntuk Ruwaihil...
 </div>
+<div class="ar">
+عَنْ عَائِشَةَ قَالَتْ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي رَكْعَتَيْنِ قَبْلَ الْفَجْرِ وَكَانَ يَقُولُ نِعْمَ السُّورَتَانِ هُمَا يُقْرَأُ بِهِمَا فِي رَكْعَتَيْ الْفَجْرِ قُلْ هُوَ اللَّهُ أَحَدٌ وَقُلْ يَا أَيُّهَا الْكَافِرُونَ.
+</div>
+<div class="id">
+<b>Ibnu Majah - No.1140</b> : dari 'Aisyah ia berkata, "Rasulullah shallallahu 'alaihi wasallam shalat dua raka'at sebelum fajar. Beliau mengatakan: "Itu adalah dua surat yang paling baik, ia dibaca pada dua raka'at sebelum subuh; QUL HUWA ALLAHU AHAD dan QUL YAA AYYUHAL KAAFIRUUN. "
+</div>
 
+<a name="dzikir10">
+### 9. Surah al Mu'awidzatain - Al-Falaq & An-Naas
+<div class="ar">
+عَنْ عَائِشَةَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا أَوَى إِلَى فِرَاشِهِ كُلَّ لَيْلَةٍ جَمَعَ كَفَّيْهِ ثُمَّ نَفَثَ فِيهِمَا فَقَرَأَ فِيهِمَا قُلْ هُوَ اللَّهُ أَحَدٌ وَ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ وَ قُلْ أَعُوذُ بِرَبِّ النَّاسِ ثُمَّ يَمْسَحُ بِهِمَا مَا اسْتَطَاعَ مِنْ جَسَدِهِ يَبْدَأُ بِهِمَا عَلَى رَأْسِهِ وَوَجْهِهِ وَمَا أَقْبَلَ مِنْ جَسَدِهِ يَفْعَلُ ذَلِكَ ثَلَاثَ مَرَّاتٍ.
+</div>
+<div class="id">
+<b>Bukhari - No.4630 & Abu Daud - No.4397</b> : dari Aisyah bahwa biasa Nabi shallallahu 'alaihi wasallam bila hendak beranjak ke tempat tidurnya pada setiap malam, beliau menyatukan kedua telapak tangannya, lalu meniupnya dan membacakan: "QULHUWALLAHU AHAD.." dan, "QUL 'A'UUDZU BIRABBIL FALAQ..." serta, "QUL 'A'UUDZU BIRABBIN NAAS.." Setelah itu, beliau mengusapkan dengan kedua tangannya pada anggota tubuhnya yang terjangkau olehnya. Beliau memulainya dari kepala, wajah dan pada anggota yang dapat dijangkaunya. Hal itu, beliau ulangi sebanyak tiga kali.
+</div>
+
+<div class="ar">
+قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَلَمْ تَرَ آيَاتٍ أُنْزِلَتْ اللَّيْلَةَ لَمْ يُرَ مِثْلُهُنَّ قَطُّ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ وَقُلْ أَعُوذُ بِرَبِّ النَّاسِ.
+</div>
+<div class="id">
+<b>Muslim - No.1348</b> : Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidakkah kalian lihat beberapa ayat yang diturunkah semalam, belum ada ayat yang serupa dengannya. Yaitu; 'QUL A'UUDZU BIRABBIL FALAQ dan QUL A'UUDZU BIRABBINNAAS' (surat Al Falaq dan An Nas).
+</div>
+<div class="ar">
+عَنْ عُقْبَةَ بْنِ عَامِرٍ قَالَ كُنْتُ أَقُودُ بِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَاقَتَهُ فِي السَّفَرِ فَقَالَ لِي يَا عُقْبَةُ أَلَا أُعَلِّمُكَ خَيْرَ سُورَتَيْنِ قُرِئَتَا فَعَلَّمَنِي قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ وَقُلْ أَعُوذُ بِرَبِّ النَّاسِ قَالَ فَلَمْ يَرَنِي سُرِرْتُ بِهِمَا جِدًّا فَلَمَّا نَزَلَ لِصَلَاةِ الصُّبْحِ صَلَّى بِهِمَا صَلَاةَ الصُّبْحِ لِلنَّاسِ فَلَمَّا فَرَغَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ الصَّلَاةِ الْتَفَتَ إِلَيَّ فَقَالَ يَا عُقْبَةُ كَيْفَ رَأَيْتَ.
+</div>
+<div class="id">
+<b>Abu Daud - No.1250</b> : Uqbah bin 'Amir, ia berkata; aku menuntun unta Rasulullah shallAllahu wa'alaihi wa sallam yang beliau tunggangi dalam suatu perjalanan. Kemudian beliau berkata: "Wahai 'Uqbah, maukah aku ajarkan kepadamu dua surat terbaik yang dibaca?" Kemudian beliau mengajarkan kepadaku QUL A'UUDZU BIRABBIL FALAQ, dan QUL A'UUDZU BIRABBINNAAS. Kemudian tatkala Rasulullah shallAllahu wa'alaihi wa sallam selesai dari shalat beliau menoleh kepadaku dan berkata: "Wahai 'Uqbah, bagaimana pendapatmu?"
+</div>
+<div class="ar">
+عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ قَدْ أَنْزَلَ اللَّهُ عَلَيَّ آيَاتٍ لَمْ يُرَ مِثْلُهُنَّ { قُلْ أَعُوذُ بِرَبِّ النَّاسِ } إِلَى آخِرِ السُّورَةِ وَ{ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ } إِلَى آخِرِ السُّورَةِ.
+</div>
+<div class="id">
+<b>Tirmidzi - No.2827, 3289</b> : dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Allah menurunkan beberapa ayat yang belum pernah ditemukan bandingannya, yaitu; QUL A'UUDZU BIRABBIN NAAS hingga akhir surat dan QUL A'UUDZU BIRABBIL FALAQ hingga akhir surat." 
+</div>
+<div class="ar">
+عَنْ مُعَاذِ بْنِ عَبْدِ اللَّهِ بْنِ خُبَيْبٍ عَنْ أَبِيهِ قَالَ كُنْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي طَرِيقِ مَكَّةَ فَأَصَبْتُ خُلْوَةً مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَدَنَوْتُ مِنْهُ فَقَالَ قُلْ فَقُلْتُ مَا أَقُولُ قَالَ قُلْ قُلْتُ مَا أَقُولُ قَالَ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ حَتَّى خَتَمَهَا ثُمَّ قَالَ قُلْ أَعُوذُ بِرَبِّ النَّاسِ حَتَّى خَتَمَهَا ثُمَّ قَالَ مَا تَعَوَّذَ النَّاسُ بِأَفْضَلَ مِنْهُمَا.
+</div>
+<div class="id">
+<b>Nasa'i - No.5334</b> : dari Mu'adz bin Khubaib dari Ayahnya ia berkata; "Aku bersama Rasulullah shallallahu 'alaihi wasallam berada di jalanan Makkah, hingga aku bisa berdua dan lebih dekat dengan Rasulullah shallallahu 'alaihi wasallam. Beliau lalu bersabda: "Ucapkanlah!" aku berkata; "Apa yang harus aku ucapkan?" beliau bersabda: "Ucapkanlah!" aku berkata; "Apa yang harus aku ucapkan?" beliau bersabda: 'QUL A'UUDZU BIRABBIL FALAQ (Katakanlah: "Aku berlindung kepada Tuhan Yang Menguasai subuh) ' hingga beliau menyelesaikan bacaannya. Kemudian beliau bersabda lagi: 'QUL A'UUDZU BIRABBINNAAS (Katakanlah: "Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia) ' hingga beliau menyelesaikan bacaannya. Setelah itu beliau bersabda: "Tidaklah manusia berlindung dengan sesuatu yang lebih utama dari keduanya."
+</div>
+<div class="ar">
+...ثُمَّ قَرَأَ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ وَقَرَأْتُ مَعَهُ حَتَّى خَتَمَهَا ثُمَّ قَرَأَ قُلْ أَعُوذُ بِرَبِّ النَّاسِ فَقَرَأْتُ مَعَهُ حَتَّى خَتَمَهَا ثُمَّ قَالَ مَا تَعَوَّذَ بِمِثْلِهِنَّ أَحَدٌ.
+</div>
+<div class="id">
+<b>Nasa'i - No.5335</b> : Kemudian beliau membaca 'QUL A'UUDZU BIRABBIL FALAQ (Katakanlah: "Aku berlindung kepada Tuhan Yang Menguasai subuh) beliau lantas membacanya hingga selesai. Kemudian beliau membaca 'QUL A'UUDZU BIRABBINNAAS (Katakanlah: "Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia) ' maka aku pun membacanya bersama beliau hingga selesai. Setelah itu beliau bersabda: "Seseorang tidak akan mendapat sesuatu perlindungan yang setara dengannya (surat-surat tersebut)."
+</div>
+<div class="ar">
+قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ آيَاتٌ أُنْزِلَتْ عَلَيَّ اللَّيْلَةَ لَمْ يُرَ مِثْلُهُنَّ قَطُّ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ وَقُلْ أَعُوذُ بِرَبِّ النَّاسِ.
+</div>
+<div class="id">
+<b>Nasa'i -	No.944, 945</b> : Rasulullah Shallallallahu'alaihi wasallam bersabda: "Tadi malam telah diturunkan kepadaku beberapa ayat yang tidak kulihat bandingannya, yaitu qul a'udzu birabbil falaq dan qul a'udzu birabbin-naas (Al Falaq dan An-Naas)."
+</div>
 
 
 
