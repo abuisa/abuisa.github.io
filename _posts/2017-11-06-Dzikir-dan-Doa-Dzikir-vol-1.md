@@ -19,15 +19,27 @@ categories: Agama
 <hr>
 <a name="dzikir1">
 ## 1. Dzikir yang paling Agung secara Mutlak
-- ### Kesimpulan dari Jawaban para Ulama bahwa sebaik-baik Dzikir secara mutlak adalah AL-QURAN AL-KARIIM.
+- ### Para Ulama menyimpulkan bahwa sebaik-baik Dzikir secara mutlak adalah AL-QURAN AL-KARIIM.
 
-- ### <b>HADITS 1 & 2 : </b>
+- ### <b>Hadits-Hadits Keutamaan Al-Qur'an </b>
 
 <div class="arx">
 ...فَإِنَّ خَيْرَ الْحَدِيثِ كِتَابُ اللَّهِ وَخَيْرُ الْهُدَى هُدَى مُحَمَّدٍ وَشَرُّ الْأُمُورِ مُحْدَثَاتُهَا وَكُلُّ بِدْعَةٍ ضَلَالَةٌ...
 </div>
-<div class="id">
+<div class="idx">
 <b>Muslim - No.1435 </b>: Sesungguhnya sebaik-baik perkataan adalah Kitabullah, sebaik-baik petunjuk adalah petunjuk Muhammad shallallahu 'alaihi wasallam. Seburuk-buruk perkara adalah perkara yang diada-adakan dan setiap bid'ah adalah sesat...
+</div>
+<div class="arx">
+عَبْدَ اللَّهِ بْنَ مَسْعُودٍ يَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَرَأَ حَرْفًا مِنْ كِتَابِ اللَّهِ فَلَهُ بِهِ حَسَنَةٌ وَالْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا لَا أَقُولُ الم حَرْفٌ وَلَكِنْ أَلِفٌ حَرْفٌ وَلَامٌ حَرْفٌ وَمِيمٌ حَرْفٌ.
+</div>
+<div class="idx">
+<b>Tirmidzi - No.2835</b> : Abdullah bin Mas'ud berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membaca satu huruf dari Kitabullah (Al Qur`an), maka baginya satu pahala kebaikan dan satu pahala kebaikan akan dilipat gandakan menjadi sepuluh kali, aku tidak mengatakan ALIF LAAM MIIM itu satu huruf, akan tetapi ALIF satu huruf, LAAM satu huruf dan MIIM satu huruf."
+</div>
+<div class="arx">
+عَنْ عَائِشَةَ قَالَتْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَاهِرُ بِالْقُرْآنِ مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ وَالَّذِي يَقْرَأُ الْقُرْآنَ وَيَتَتَعْتَعُ فِيهِ وَهُوَ عَلَيْهِ شَاقٌّ لَهُ أَجْرَانِ.
+</div>
+<div class="idx">
+<b>Muslim - No.1329</b> : dari 'Aisyah ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang mukmin yang mahir membaca Al Qur'an, maka kedudukannya di akhirat ditemani oleh para malaikat yang mulia. Dan orang yang membaca Al Qur'an dengan gagap, ia sulit dalam membacanya, maka ia mendapat dua pahala."
 </div>
 <div class="arx">
 ... جَابِرَ بْنَ عَبْدِ اللَّهِ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ أَفْضَلُ الذِّكْرِ لَا إِلَهَ إِلَّا اللَّهُ  وَأَفْضَلُ الدُّعَاءِ الْحَمْدُ لِلَّهِ.
@@ -37,7 +49,7 @@ categories: Agama
 <b>Ibnu Majah - No.3790 dan Tirmidzi - No.3305 :</b>... saya mendengar Jabir bin Abdillah dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Dzikir yang paling utama adalah Laa ilaaha illallah (Tidak ada ilah yang berhak disembah kecuali Allah). Dan do'a yang paling utama adalah Al Hamdulillah (segala puji bagi Allah)".
 
 </div>
-- sumber : Nomor Hadits sama dengan nomor hadits di databases [Lidwapusaka](http://www.lidwa.com/){:target="_blank"}
+- sumber : Nomor Hadits dari awal sampai akhir sama dengan nomor hadits di databases [Lidwapusaka](http://www.lidwa.com/){:target="_blank"}
 
 
 - ### <b>PENDAPAT ULAMA' : </b>
@@ -197,6 +209,19 @@ categories: Agama
 <div class="id">
 <b>Ad Darimi - No.3271, 3272, 3273 </b> : ...Abu Sa'id al Khudri ia berkata; Barangsiapa yang membaca surat al kahfi pada malam Jum'at maka ia akan diterangi oleh cahaya yang terangnya mencapai jarak antara dirinya dan Baitul 'Atiq.
 </div>
+<div class="ar">
+عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ مَنْ قَرَأَ أَوَّلَ سُورَةِ الْكَهْفِ وَآخِرَهَا كَانَتْ لَهُ نُورًا مِنْ قَدَمِهِ إِلَى رَأْسِهِ وَمَنْ قَرَأَهَا كُلَّهَا كَانَتْ لَهُ نُورًا مَا بَيْنَ السَّمَاءِ إِلَى الْأَرْضِ.
+</div>
+<div class="id">
+<b>Ahmad - No.15073</b> : dari Rasulullah Shallallahu'alaihiwasallam beliau bersabda: "Barangsiapa membaca awal surat Al Kahfi dan akhirnya, dia mendapatkan cahaya dari kaki sampai kepalanya. Barangsiapa membaca semuanya, dia mendapatkan cahaya antara langit dan bumi".
+</div>
+<div class="ar">
+عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ مَنْ قَرَأَ عَشْرَ آيَاتٍ مِنْ آخِرِ الْكَهْفِ عُصِمَ مِنْ فِتْنَةِ الدَّجَّالِ قَالَ حَجَّاجٌ مَنْ قَرَأَ الْعَشْرَ الْأَوَاخِرَ مِنْ سُورَةِ الْكَهْفِ.
+
+<div class="id">
+<b>Ahmad - No.26244</b> : dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa membaca sepuluh ayat terakhir dari surat Al Kahfi, maka ia terlindung dari fitnah Dajjal." Hajjaj menyebutkan, "Barangsiapa membaca sepuluh terakhir dari surat Al Kahfi."
+</div>
+</div>
 
 
 <a name="dzikir8">
@@ -264,7 +289,7 @@ categories: Agama
 ...فَقَالَ الرَّجُلُ وَلَكِنْ أَقْرِئْنِي يَا رَسُولَ اللَّهِ سُورَةً جَامِعَةً فَأَقْرَأَهُ إِذَا زُلْزِلَتْ الْأَرْضُ حَتَّى إِذَا فَرَغَ مِنْهَا قَالَ الرَّجُلُ وَالَّذِي بَعَثَكَ بِالْحَقِّ لَا أَزِيدُ عَلَيْهَا أَبَدًا ثُمَّ أَدْبَرَ الرَّجُلُ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَفْلَحَ الرُّوَيْجِلُ أَفْلَحَ الرُّوَيْجِلُ...
 </div>
 <div class="id">
-<b>Ahmad - No.6287 </b> Isi Hadits mirip dengan hadits yang dikeluarkan olah imam <b>Abu Daud - No.1191</b> : ...lalu dia mengatakan, "Wahai Rasulullah, yang aku mau engkau membacakan kepadaku satu surat yang mencakup keseluruhan." Maka beliau menyuruhnya membaca surat Az Zalzalah, hingga sa'at ia selesai membacanya, dia berkata, "Demi Dzat Yang telah mengutusmu dengan kebenaran, aku tidak akan menambahinya untuk selamanya." Lalu orang itupun berpaling dan pergi meninggalkan beliau, dan Rasulullah pun berkata: "Sungguh beruntuk Ruwaihil, sungguh beruntuk Ruwaihil...
+<b>Ahmad - No.6287 </b> Isi Hadits mirip dengan hadits yang dikeluarkan olah imam <b>Abu Daud - No.1191</b> : ...lalu dia mengatakan, "Wahai Rasulullah, yang aku mau engkau membacakan kepadaku satu surat yang mencakup keseluruhan." Maka beliau menyuruhnya membaca surat Az Zalzalah, hingga sa'at ia selesai membacanya, dia berkata, "Demi Dzat Yang telah mengutusmu dengan kebenaran, aku tidak akan menambahinya untuk selamanya." Lalu orang itupun berpaling dan pergi meninggalkan beliau, dan Rasulullah pun berkata: "Sungguh beruntung Ruwaihil, sungguh beruntung Ruwaihil...
 </div>
 <div class="ar">
 عَنْ عَائِشَةَ قَالَتْ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي رَكْعَتَيْنِ قَبْلَ الْفَجْرِ وَكَانَ يَقُولُ نِعْمَ السُّورَتَانِ هُمَا يُقْرَأُ بِهِمَا فِي رَكْعَتَيْ الْفَجْرِ قُلْ هُوَ اللَّهُ أَحَدٌ وَقُلْ يَا أَيُّهَا الْكَافِرُونَ.
