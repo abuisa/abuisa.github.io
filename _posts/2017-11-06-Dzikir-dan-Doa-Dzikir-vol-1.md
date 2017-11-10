@@ -44,7 +44,6 @@ categories: Agama
 <div class="arx">
 ... جَابِرَ بْنَ عَبْدِ اللَّهِ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ أَفْضَلُ الذِّكْرِ لَا إِلَهَ إِلَّا اللَّهُ  وَأَفْضَلُ الدُّعَاءِ الْحَمْدُ لِلَّهِ.
 </div>
-
 <div class="idx"> 	
 <b>Ibnu Majah - No.3790 dan Tirmidzi - No.3305 :</b>... saya mendengar Jabir bin Abdillah dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Dzikir yang paling utama adalah Laa ilaaha illallah (Tidak ada ilah yang berhak disembah kecuali Allah). Dan do'a yang paling utama adalah Al Hamdulillah (segala puji bagi Allah)".
 
@@ -218,9 +217,9 @@ categories: Agama
 <div class="ar">
 عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ مَنْ قَرَأَ عَشْرَ آيَاتٍ مِنْ آخِرِ الْكَهْفِ عُصِمَ مِنْ فِتْنَةِ الدَّجَّالِ قَالَ حَجَّاجٌ مَنْ قَرَأَ الْعَشْرَ الْأَوَاخِرَ مِنْ سُورَةِ الْكَهْفِ.
 
+</div>
 <div class="id">
 <b>Ahmad - No.26244</b> : dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda: "Barangsiapa membaca sepuluh ayat terakhir dari surat Al Kahfi, maka ia terlindung dari fitnah Dajjal." Hajjaj menyebutkan, "Barangsiapa membaca sepuluh terakhir dari surat Al Kahfi."
-</div>
 </div>
 
 
