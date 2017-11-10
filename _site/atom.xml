@@ -4,12 +4,22 @@
  <title>IkhwanElyas Page</title>
  <link href="https://abuisa.github.io/atom.xml" rel="self"/>
  <id>https://abuisa.github.io</id>
- <updated>2017-11-10T06:38:57+07:00</updated>
+ <updated>2017-11-11T01:55:04+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Dzikir dan Doa - Dzikir [vol-2]</title>
+   <link href="https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-2"/>
+   <id>https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-2</id>
+   <updated>2017-11-10T00:00:00+07:00</updated>
+   <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Dzikir yang paling Agung secara Mutlak&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Hadits tentang Surat &amp;amp; Ayat Agung dalam Al-Quran yang Agung&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Surat Al-Fatihah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Surat Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt;Ayat Kursi&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir5&quot;&gt;Dua Ayat Akhir Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir6&quot;&gt;Surah Ali Imran&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir7&quot;&gt;Surah Al-Kahfi&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir8&quot;&gt;Surah Al-Mulk&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir9&quot;&gt;Surah Al-Zalzalah &amp;amp;...</content>
+ </entry>
 
  
 
@@ -99,16 +109,6 @@
    <id>https://abuisa.github.io/mysql-menggunakan-python</id>
    <updated>2017-05-25T08:20:01+07:00</updated>
    <content type="html">&lt;p&gt;Berikut merupakan scrip Python untuk melakukan konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql. Script lengkap dan terbaru dapat dilihat di &lt;a href=&quot;https://github.com/abuisa/python-mysql/blob/master/mysql-python.py&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;struktur-database&quot;&gt;Struktur Database&lt;/h2&gt; &lt;p&gt;Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Belajar perintah xargs di Linux</title>
-   <link href="https://abuisa.github.io/perintah-xargs"/>
-   <id>https://abuisa.github.io/perintah-xargs</id>
-   <updated>2017-05-21T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;perintah-xargs&quot;&gt;Perintah xargs&lt;/h3&gt; &lt;p&gt;perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;$ man xargs&lt;/code&gt; akan menapilkan manual page dari perintah xargs, berikut hasil gambarnya :&lt;/p&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1 2 3 4 5 6 7 8 9 10 11 12 13 14&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;gp&quot;&gt;$ &lt;/span&gt;xargs --help &lt;span class=&quot;gp&quot;&gt;FD-UII-XI:$ &lt;/span&gt;xargs...</content>
  </entry>
 
  
