@@ -899,6 +899,9 @@ a {
   background-color: darkgray;
   opacity: 0.8; }
 
+.gdiv {
+  background-color: #eee; }
+
 .tocContainer, .id {
   margin-left: 0px;
   margin-bottom: 10px;

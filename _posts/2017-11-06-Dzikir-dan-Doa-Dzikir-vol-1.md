@@ -16,6 +16,8 @@ categories: Agama
 - <a href="#dzikir8">Surah Al-Mulk</a>
 - <a href="#dzikir9">Surah Al-Zalzalah & Al-Kaafiruun & Al-Ikhlash</a>
 - <a href="#dzikir10">Surah al Mu'awidzatain - Al-Falaq & An-Naas</a>
+
+<b>NOTE :</b><br> Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Databases atau Applikasi [Lidwapusaka](http://www.lidwa.com/){:target="_blank"}
 <hr>
 <a name="dzikir1">
 ## 1. Dzikir yang paling Agung secara Mutlak
@@ -91,16 +93,6 @@ categories: Agama
 <div class="idx">
 <b>Muslim - No.1329</b> : dari 'Aisyah ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang mukmin yang mahir membaca Al Qur'an, maka kedudukannya di akhirat ditemani oleh para malaikat yang mulia. Dan orang yang membaca Al Qur'an dengan gagap, ia sulit dalam membacanya, maka ia mendapat dua pahala."
 </div>
-
-### Hadits 5 :
-<div class="arx">
-... جَابِرَ بْنَ عَبْدِ اللَّهِ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ أَفْضَلُ الذِّكْرِ لَا إِلَهَ إِلَّا اللَّهُ  وَأَفْضَلُ الدُّعَاءِ الْحَمْدُ لِلَّهِ.
-</div>
-<div class="idx"> 	
-<b>Ibnu Majah - No.3790 dan Tirmidzi - No.3305 :</b>... saya mendengar Jabir bin Abdillah dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Dzikir yang paling utama adalah Laa ilaaha illallah (Tidak ada ilah yang berhak disembah kecuali Allah). Dan do'a yang paling utama adalah Al Hamdulillah (segala puji bagi Allah)".
-
-</div>
-- sumber : Nomor Hadits dari awal sampai akhir sama dengan nomor hadits di databases [Lidwapusaka](http://www.lidwa.com/){:target="_blank"}
 
 
 - ### <b>PENDAPAT ULAMA' : </b>

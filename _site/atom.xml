@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IkhwanElyas Page</title>
- <link href="https://abuisa.github.io/atom.xml" rel="self"/>
- <id>https://abuisa.github.io</id>
- <updated>2017-11-12T00:24:56+07:00</updated>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <id>http://0.0.0.0:4000</id>
+ <updated>2017-11-12T17:24:23+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -15,18 +15,18 @@
 
  <entry>
    <title>Dzikir dan Doa - Dzikir [vol-2]</title>
-   <link href="https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-2"/>
-   <id>https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-2</id>
+   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-2"/>
+   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-2</id>
    <updated>2017-11-10T00:00:00+07:00</updated>
-   <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Anjuran Berdzikir dalam Al-Qur’an&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Anjuran Berdzikir dalam As-Sunnah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Surat Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt;Ayat Kursi&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir5&quot;&gt;Dua Ayat Akhir Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir6&quot;&gt;Surah Ali Imran&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir7&quot;&gt;Surah Al-Kahfi&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir8&quot;&gt;Surah Al-Mulk&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir9&quot;&gt;Surah Al-Zalzalah &amp;amp; Al-Kaafiruun &amp;amp; Al-Ikhlash&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir10&quot;&gt;Surah al Mu’awidzatain - Al-Falaq &amp;amp;...</content>
+   <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Anjuran Berdzikir dalam Al-Qur’an&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Anjuran Berdzikir dalam As-Sunnah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Dzikir-Dzikir Terbaik dan Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir5&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir6&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir7&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir8&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir9&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir10&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;hr /&gt; &lt;h2 id=&quot;anjuran-untuk-selalu-berdzikir-kepada-allah&quot;&gt;Anjuran Untuk Selalu Berdzikir Kepada...</content>
  </entry>
 
  
 
  <entry>
    <title>Dzikir dan Doa - Dzikir [vol-1]</title>
-   <link href="https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-1"/>
-   <id>https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-1</id>
+   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-1"/>
+   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-1</id>
    <updated>2017-11-06T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Dzikir yang paling Agung secara Mutlak&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Hadits tentang Surat &amp;amp; Ayat Agung dalam Al-Quran yang Agung&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Surat Al-Fatihah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Surat Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt;Ayat Kursi&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir5&quot;&gt;Dua Ayat Akhir Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir6&quot;&gt;Surah Ali Imran&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir7&quot;&gt;Surah Al-Kahfi&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir8&quot;&gt;Surah Al-Mulk&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir9&quot;&gt;Surah Al-Zalzalah &amp;amp;...</content>
  </entry>
@@ -35,8 +35,8 @@
 
  <entry>
    <title>Sholat Sunnah Rawatib qabliyah dan badiyah</title>
-   <link href="https://abuisa.github.io/sholat-sunnah-rawatib"/>
-   <id>https://abuisa.github.io/sholat-sunnah-rawatib</id>
+   <link href="http://0.0.0.0:4000/sholat-sunnah-rawatib"/>
+   <id>http://0.0.0.0:4000/sholat-sunnah-rawatib</id>
    <updated>2017-07-27T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Ringkasan sholat sunnah rawatib Muakkadn dan Ghoiru Muakkad qabliyah dan ba’diyah :&lt;/p&gt; &lt;table&gt; &lt;tr&gt; &lt;th&gt;&lt;/th&gt; &lt;th&gt;Qabliyah Muakkad&lt;/th&gt; &lt;th&gt;Ba'diyah Muakkad&lt;/th&gt; &lt;th&gt;GhoiruMuakkad&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;b&gt;Subuh&lt;/b&gt;&lt;/td&gt; &lt;td&gt;2 Raka'at&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;b&gt;Dzuhur&lt;/b&gt;&lt;/td&gt; &lt;td&gt;2 atau 4 Raka'at&lt;/td&gt; &lt;td&gt;2 Raka'at&lt;/td&gt; &lt;td&gt;2 Raka'at Ba'diyah&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;b&gt;Ashar&lt;/b&gt;&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;4 Raka'at Qabliyah&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;b&gt;Maghrib&lt;/b&gt;&lt;/td&gt;...</content>
  </entry>
@@ -45,8 +45,8 @@
 
  <entry>
    <title>Waktu imsak dan mulai puasa</title>
-   <link href="https://abuisa.github.io/waktu-imsak-dan-mulai-puasa"/>
-   <id>https://abuisa.github.io/waktu-imsak-dan-mulai-puasa</id>
+   <link href="http://0.0.0.0:4000/waktu-imsak-dan-mulai-puasa"/>
+   <id>http://0.0.0.0:4000/waktu-imsak-dan-mulai-puasa</id>
    <updated>2017-06-08T00:00:00+07:00</updated>
    <content type="html">&lt;blockquote&gt; &lt;p&gt;Saya tidak mengetahui adanya dalil tentang penetapan waktu imsak 15 menit sebelum adzan shubuh. Bahkan yang sesuai dengan dalil Al Qur’an dan As Sunnah, imsak (yaitu menahan diri dari makan dan minum, -pen) adalah mulai terbitnya fajar (masuknya waktu shubuh). &lt;code class=&quot;highlighter-rouge&quot;&gt;Abdul Aziz bin ‘Abdillah bin Baz&lt;/code&gt;.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;b&gt;Pertanyaan...</content>
  </entry>
@@ -55,8 +55,8 @@
 
  <entry>
    <title>Makna Islam</title>
-   <link href="https://abuisa.github.io/makna-islam"/>
-   <id>https://abuisa.github.io/makna-islam</id>
+   <link href="http://0.0.0.0:4000/makna-islam"/>
+   <id>http://0.0.0.0:4000/makna-islam</id>
    <updated>2017-06-08T00:00:00+07:00</updated>
    <content type="html">&lt;blockquote&gt; &lt;p&gt;Makna Islam: Islam maknanya berserah diri kepada Allah dengan mentauhidkan-Nya, dan taat serta patuh kepada-Nya, dengan penuh ketundukan dan perendahan diri.(muslim.or.id)&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Syaikh Abdul Aziz bin Baz rahimahullah&lt;/p&gt; &lt;p&gt;Islam maknanya,&lt;/p&gt; &lt;div class=&quot;ar&quot;&gt; الاستسلام لله بالتوحيد، والانقياد له بالطاعة، إذلالا وخضوعا &lt;/div&gt; &lt;div class=&quot;id&quot;&gt; “berserah diri kepada Allah dengan mentauhidkan-Nya,...</content>
  </entry>
@@ -65,8 +65,8 @@
 
  <entry>
    <title>Doa ketika dipuji</title>
-   <link href="https://abuisa.github.io/Doa-ketika-dipuji"/>
-   <id>https://abuisa.github.io/Doa-ketika-dipuji</id>
+   <link href="http://0.0.0.0:4000/Doa-ketika-dipuji"/>
+   <id>http://0.0.0.0:4000/Doa-ketika-dipuji</id>
    <updated>2017-05-30T00:00:00+07:00</updated>
    <content type="html">&lt;div class=&quot;ar&quot;&gt; حدثنا مخلد بن مالك قال حدثنا حجاج بن محمد قال أخبرنا بن المبارك عن بكر بن عبد الله المزني عن عدي بن أرطأة قال كان الرجل من أصحاب النبي صلى الله عليه وسلم إذا زكي قال : اللهم لا تؤاخذني بما يقولون واغفر لي ما لا يعلمون ....</content>
  </entry>
@@ -75,8 +75,8 @@
 
  <entry>
    <title>Kapankah Puasa Ramadhan Diwajibkan Kepada Umat Manusia ?</title>
-   <link href="https://abuisa.github.io/kapankah-puasa-ramadhan-diwajibkan"/>
-   <id>https://abuisa.github.io/kapankah-puasa-ramadhan-diwajibkan</id>
+   <link href="http://0.0.0.0:4000/kapankah-puasa-ramadhan-diwajibkan"/>
+   <id>http://0.0.0.0:4000/kapankah-puasa-ramadhan-diwajibkan</id>
    <updated>2017-05-27T00:00:00+07:00</updated>
    <content type="html">&lt;blockquote&gt; &lt;p&gt;Puasa Ramadhan diwajibkan pada tahun kedua hijriah dan Rasulullah shallallahu ‘alaihi wa sallam berpuasa selama sembilan kali Ramadhan. Sehingga jadilah puasa Ramadhan sebagai kewajiban dan salah satu rukun Islam. Barangsiapa yang mengingkari wajibnya puasa Ramadhan, maka dia telah kafir. Barangsiapa yang tidak berpuasa tanpa udzur, dan dia mengakui kewajiban...</content>
  </entry>
@@ -85,8 +85,8 @@
 
  <entry>
    <title>Doa Buka Puasa</title>
-   <link href="https://abuisa.github.io/doa-buka-puasa"/>
-   <id>https://abuisa.github.io/doa-buka-puasa</id>
+   <link href="http://0.0.0.0:4000/doa-buka-puasa"/>
+   <id>http://0.0.0.0:4000/doa-buka-puasa</id>
    <updated>2017-05-27T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Doa berbuka puasa yang shahih&lt;/p&gt; &lt;p&gt;Berbuka Puasalah dengan doa berikut ini :&lt;/p&gt; &lt;p&gt;Terdapat sebuah hadits shahih tentang doa berbuka puasa, yang diriwayatkan dari Rasulullah shallallahu ‘alaihi wa sallam,&lt;/p&gt; &lt;div class=&quot;ar&quot;&gt; ذَهَبَ الظَّمَأُ، وابْتَلَّتِ الْعُرُوقُ، وثَبَتَ اْلأَجْرُ إِنْ شَاءَاللهُ &lt;/div&gt; &lt;blockquote&gt; &lt;p&gt;“Dzahabazh zhoma’u wabtallatil ‘uruqu wa tsabatal ajru insya Allah.”&lt;/p&gt; &lt;/blockquote&gt;...</content>
  </entry>
@@ -95,8 +95,8 @@
 
  <entry>
    <title>Kapan Shalat 5 Waktu Mulai Diwajibkan ?</title>
-   <link href="https://abuisa.github.io/Kapan-Shalat5-Waktu-Mulai-Diwajibkan"/>
-   <id>https://abuisa.github.io/Kapan-Shalat5-Waktu-Mulai-Diwajibkan</id>
+   <link href="http://0.0.0.0:4000/Kapan-Shalat5-Waktu-Mulai-Diwajibkan"/>
+   <id>http://0.0.0.0:4000/Kapan-Shalat5-Waktu-Mulai-Diwajibkan</id>
    <updated>2017-05-27T00:00:00+07:00</updated>
    <content type="html">&lt;blockquote&gt; &lt;p&gt;Ibadah sholat lima waktu diwajibkan pada umat ini saat Nabi shallallahu’alaihi wa sallam masih tinggal di Makkah, sebelum hijrah ke Madinah dilakukan&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Ibadah sholat lima waktu diwajibkan pada umat ini saat Nabi shallallahu’alaihi wa sallam masih tinggal di Makkah, sebelum hijrah ke Madinah dilakukan. Tepatnya saat malam isra’...</content>
  </entry>
@@ -105,8 +105,8 @@
 
  <entry>
    <title>Akses MySql dan Operasi menggunakan Python</title>
-   <link href="https://abuisa.github.io/mysql-menggunakan-python"/>
-   <id>https://abuisa.github.io/mysql-menggunakan-python</id>
+   <link href="http://0.0.0.0:4000/mysql-menggunakan-python"/>
+   <id>http://0.0.0.0:4000/mysql-menggunakan-python</id>
    <updated>2017-05-25T08:20:01+07:00</updated>
    <content type="html">&lt;p&gt;Berikut merupakan scrip Python untuk melakukan konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql. Script lengkap dan terbaru dapat dilihat di &lt;a href=&quot;https://github.com/abuisa/python-mysql/blob/master/mysql-python.py&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;struktur-database&quot;&gt;Struktur Database&lt;/h2&gt; &lt;p&gt;Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan...</content>
  </entry>
