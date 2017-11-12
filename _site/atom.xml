@@ -4,7 +4,7 @@
  <title>IkhwanElyas Page</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <id>http://0.0.0.0:4000</id>
- <updated>2017-11-12T18:55:52+07:00</updated>
+ <updated>2017-11-13T00:35:16+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -14,11 +14,21 @@
  
 
  <entry>
+   <title>Dzikir dan Doa Sehari-Hari dari Al-Quran dan As-Sunnah</title>
+   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-harian-dari-alquran-dan-Assunnah"/>
+   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-harian-dari-alquran-dan-Assunnah</id>
+   <updated>2017-11-12T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar ISI :&lt;/h3&gt; &lt;div class=&quot;arx&quot;&gt; * &lt;a href=&quot;#dzikir1&quot;&gt;أذكار الصباح والمساء&lt;/a&gt;&lt;br /&gt; * &lt;a href=&quot;#dzikir2&quot;&gt;باب ما يقول إذا استيقَظ من منامه&lt;/a&gt;&lt;br /&gt; * &lt;a href=&quot;#dzikir3&quot;&gt;باب ما يقول إذا لبِس ثوبه&lt;/a&gt;&lt;br /&gt; * &lt;a href=&quot;#dzikir4&quot;&gt;باب كيفية لُبس الثو &lt;/a&gt;&lt;br /&gt; * &lt;a href=&quot;#dzikir5&quot;&gt;باب ما يقول إذا دخل الخلا&lt;/a&gt;&lt;br /&gt; * &lt;a...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Dzikir dan Doa - Dzikir [vol-2]</title>
    <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-2"/>
    <id>http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-2</id>
    <updated>2017-11-10T00:00:00+07:00</updated>
-   <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Anjuran Berdzikir dalam Al-Qur’an&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Anjuran Berdzikir dalam As-Sunnah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Dzikir-Dzikir Terbaik dan Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir5&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir6&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir7&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir8&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir9&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir10&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;hr /&gt; &lt;h2 id=&quot;anjuran-untuk-selalu-berdzikir-kepada-allah&quot;&gt;Anjuran Untuk Selalu Berdzikir Kepada...</content>
+   <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Anjuran Berdzikir dalam Al-Qur’an&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Anjuran Berdzikir dalam As-Sunnah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Dzikir-Dzikir Terbaik dan Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir5&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir6&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir7&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir8&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir9&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir10&quot;&gt; &lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;b&gt;NOTE :&lt;/b&gt;&lt;br /&gt; Nomor Hadits dari awal sampai...</content>
  </entry>
 
  
@@ -99,16 +109,6 @@
    <id>http://0.0.0.0:4000/Kapan-Shalat5-Waktu-Mulai-Diwajibkan</id>
    <updated>2017-05-27T00:00:00+07:00</updated>
    <content type="html">&lt;blockquote&gt; &lt;p&gt;Ibadah sholat lima waktu diwajibkan pada umat ini saat Nabi shallallahu’alaihi wa sallam masih tinggal di Makkah, sebelum hijrah ke Madinah dilakukan&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Ibadah sholat lima waktu diwajibkan pada umat ini saat Nabi shallallahu’alaihi wa sallam masih tinggal di Makkah, sebelum hijrah ke Madinah dilakukan. Tepatnya saat malam isra’...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Akses MySql dan Operasi menggunakan Python</title>
-   <link href="http://0.0.0.0:4000/mysql-menggunakan-python"/>
-   <id>http://0.0.0.0:4000/mysql-menggunakan-python</id>
-   <updated>2017-05-25T08:20:01+07:00</updated>
-   <content type="html">&lt;p&gt;Berikut merupakan scrip Python untuk melakukan konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql. Script lengkap dan terbaru dapat dilihat di &lt;a href=&quot;https://github.com/abuisa/python-mysql/blob/master/mysql-python.py&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;struktur-database&quot;&gt;Struktur Database&lt;/h2&gt; &lt;p&gt;Berikut ini merupakan bentuk atau struktur database yang dijadikan contoh, terdapat 3 (tiga) buah tabel didalamnya, untuk memasukkan...</content>
  </entry>
 
  

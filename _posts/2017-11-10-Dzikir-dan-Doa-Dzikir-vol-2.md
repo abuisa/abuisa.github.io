@@ -15,11 +15,15 @@ categories: Agama
 - <a href="#dzikir8"> </a>
 - <a href="#dzikir9"> </a>
 - <a href="#dzikir10"> </a>
+
+<b>NOTE :</b><br>
+Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Databases atau Applikasi [Lidwapusaka](http://www.lidwa.com/){:target="_blank"} <br>
+<a href="reff/Kumpulan-Dzikir-dan-Doa-Karya-Syaikh-AlBani-8936.pdf" target="_blank">Lihat & Download Kumpulan Dzikir dan Doa Karya Syaikh Al-Bani dalam bentuk file .PDF</a>
 <hr>
 ## Anjuran Untuk Selalu Berdzikir Kepada Allah
 <a name="dzikir1">
 ### 1. Anjuran Berdzikir dalam Al-Qur'an
-### Ayat 1 : 
+### Ayat 1 :
 <div class="gdiv">
 <div class="ar">
 فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُواْ لِي وَلاَ تَكْفُرُونِ.-(152)-
@@ -39,7 +43,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 3 : 
+### Ayat 3 :
 <div class="gdiv">
 <div class="ar">
 قَالَ رَبِّ اجْعَل لِّيَ آيَةً قَالَ آيَتُكَ أَلاَّ تُكَلِّمَ النَّاسَ ثَلاَثَةَ أَيَّامٍ إِلاَّ رَمْزاً وَاذْكُر رَّبَّكَ كَثِيراً وَسَبِّحْ بِالْعَشِيِّ وَالإِبْكَارِ. -(41)-
@@ -49,7 +53,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 4 : 
+### Ayat 4 :
 <div class="gdiv">
 <div class="ar">
 الَّذِينَ يَذْكُرُونَ اللّهَ قِيَاماً وَقُعُوداً وَعَلَىَ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالأَرْضِ رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ. -(191)-
@@ -59,7 +63,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 5 : 
+### Ayat 5 :
 <div class="gdiv">
 <div class="ar">
 فَإِذَا قَضَيْتُمُ الصَّلاَةَ فَاذْكُرُواْ اللّهَ قِيَاماً وَقُعُوداً وَعَلَى جُنُوبِكُمْ... -(103)-
@@ -69,7 +73,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 6 : 
+### Ayat 6 :
 <div class="gdiv">
 <div class="ar">
 وَاذْكُر رَّبَّكَ فِي نَفْسِكَ تَضَرُّعاً وَخِيفَةً وَدُونَ الْجَهْرِ مِنَ الْقَوْلِ بِالْغُدُوِّ وَالآصَالِ وَلاَ تَكُن مِّنَ الْغَافِلِينَ. -(205)-
@@ -79,7 +83,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 7 : 
+### Ayat 7 :
 <div class="gdiv">
 <div class="ar">
 يَا أَيُّهَا الَّذِينَ آمَنُواْ إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُواْ وَاذْكُرُواْ اللّهَ كَثِيراً لَّعَلَّكُمْ تُفْلَحُونَ. -(45)-
@@ -89,7 +93,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 8 : 
+### Ayat 8 :
 <div class="gdiv">
 <div class="ar">
 ... وَالْحَافِظَاتِ وَالذَّاكِرِينَ اللَّهَ كَثِيراً وَالذَّاكِرَاتِ أَعَدَّ اللَّهُ لَهُم مَّغْفِرَةً وَأَجْراً عَظِيماً.
@@ -99,7 +103,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 9 : 
+### Ayat 9 :
 <div class="gdiv">
 <div class="ar">
 يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْراً كَثِيراً -(41)-  وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً -(42)-
@@ -109,7 +113,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 10 : 
+### Ayat 10 :
 <div class="gdiv">
 <div class="ar">
 اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَاباً مُّتَشَابِهاً مَّثَانِيَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَى ذِكْرِ اللَّهِ ذَلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَنْ يَشَاءُ وَمَن يُضْلِلْ اللَّهُ فَمَا لَهُ مِنْ هَادٍ. -(23)-
@@ -119,7 +123,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 11 : 
+### Ayat 11 :
 <div class="gdiv">
 <div class="ar">
 اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنسَاهُمْ ذِكْرَ اللَّهِ أُوْلَئِكَ حِزْبُ الشَّيْطَانِ أَلَا إِنَّ حِزْبَ الشَّيْطَانِ هُمُ الْخَاسِرُونَ. -(19)-
@@ -129,7 +133,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 12 : 
+### Ayat 12 :
 <div class="gdiv">
 <div class="ar">
 فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيراً لَّعَلَّكُمْ تُفْلِحُونَ. -(10)-
@@ -139,7 +143,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 13 : 
+### Ayat 13 :
 <div class="gdiv">
 <div class="ar">
 وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلاً. -(8)-
@@ -149,7 +153,7 @@ categories: Agama
 </div>
 </div>
 
-### Ayat 14 : 
+### Ayat 14 :
 <div class="gdiv">
 <div class="ar">
 وَاذْكُرِ اسْمَ رَبِّكَ بُكْرَةً وَأَصِيلاً -(25)- وَمِنَ اللَّيْلِ فَاسْجُدْ لَهُ وَسَبِّحْهُ لَيْلاً طَوِيلاً -(26)-
@@ -162,7 +166,7 @@ categories: Agama
 <a name="dzikir2">
 ### 2. Anjuran Berdzikir dalam As-Sunnah
 ### Hadits 1 :
-<div class="gdiv">	
+<div class="gdiv">
 <div class="ar">
 قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ اللَّهُ عَزَّ وَجَلَّ أَنَا عِنْدَ ظَنِّ عَبْدِي بِي وَأَنَا مَعَهُ حِينَ يَذْكُرُنِي إِنْ ذَكَرَنِي فِي نَفْسِهِ ذَكَرْتُهُ فِي نَفْسِي وَإِنْ ذَكَرَنِي فِي مَلَإٍ ذَكَرْتُهُ فِي مَلَإٍ هُمْ خَيْرٌ مِنْهُمْ وَإِنْ تَقَرَّبَ مِنِّي شِبْرًا تَقَرَّبْتُ إِلَيْهِ ذِرَاعًا وَإِنْ تَقَرَّبَ إِلَيَّ ذِرَاعًا تَقَرَّبْتُ مِنْهُ بَاعًا وَإِنْ أَتَانِي يَمْشِي أَتَيْتُهُ هَرْوَلَةً.
 </div>
@@ -198,9 +202,3 @@ Tidak ada ilah yang berhak disembah kecuali Allah
 <b>Ibnu Majah - No.3790 dan Tirmidzi - No.3305 :</b>... saya mendengar Jabir bin Abdillah dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Dzikir yang paling utama adalah Laa ilaaha illallah (Tidak ada ilah yang berhak disembah kecuali Allah). Dan do'a yang paling utama adalah Al Hamdulillah (segala puji bagi Allah)".
 </div>
 <div>
-
-
-
-
-
-

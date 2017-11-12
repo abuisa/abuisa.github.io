@@ -217,20 +217,23 @@ a {
 	margin-left:0px;
 	margin-bottom:10px;
 	background-color:#eee;
+	border-top:0.5px solid #C0C0C0;
 	border-radius:4px;
-	-webkit-border-radius:4px;
-	-moz-border-radius:4px;
+	-webkit-border-radius:0px; 
+	-moz-border-radius:0px;
 	padding:7px 16px;
 	padding-top:7px;
 }
+//--- radius (-web & -moz) untuk sudut div ----
 .idx{
   font-size: 20px;
 	margin-left:0px;
 	margin-bottom:10px;
 	background-color:#eee;
+	border-top:0.5px solid #C0C0C0;
 	border-radius:4px;
-	-webkit-border-radius:4px;
-	-moz-border-radius:4px;
+	-webkit-border-radius:0px;
+	-moz-border-radius:0px;
 	padding:7px 16px;
 	padding-top:7px;
 }
