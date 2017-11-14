@@ -16,12 +16,12 @@ categories: Agama
 - <a href="#dzikir9"> </a>
 - <a href="#dzikir10"> </a>
 
-<b>NOTE :</b><br>
-Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Databases atau Applikasi [Lidwapusaka](http://www.lidwa.com/){:target="_blank"} <br>
+<b>NOTE :</b><br />
+Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Databases atau Applikasi [Lidwapusaka](http://www.lidwa.com/){:target="_blank"} <br />
 <a href="reff/Kumpulan-Dzikir-dan-Doa-Karya-Syaikh-AlBani-8936.pdf" target="_blank">Lihat & Download Kumpulan Dzikir dan Doa Karya Syaikh Al-Bani dalam bentuk file .PDF</a>
-<hr>
+<hr />
 ## Anjuran Untuk Selalu Berdzikir Kepada Allah
-<a name="dzikir1">
+<a name="dzikir1"></a>
 ### 1. Anjuran Berdzikir dalam Al-Qur'an
 ### Ayat 1 :
 <div class="gdiv">
@@ -163,7 +163,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir2">
+<a name="dzikir2"></a>
 ### 2. Anjuran Berdzikir dalam As-Sunnah
 ### Hadits 1 :
 <div class="gdiv">
@@ -185,7 +185,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir3">
+<a name="dzikir3"></a>
 ### 3. Dzikir-Dzikir Terbaik dan Agung
 ### Dzikir 1 :
 <div class="gdiv">
@@ -201,4 +201,30 @@ Tidak ada ilah yang berhak disembah kecuali Allah
 <div class="id"> 	
 <b>Ibnu Majah - No.3790 dan Tirmidzi - No.3305 :</b>... saya mendengar Jabir bin Abdillah dia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Dzikir yang paling utama adalah Laa ilaaha illallah (Tidak ada ilah yang berhak disembah kecuali Allah). Dan do'a yang paling utama adalah Al Hamdulillah (segala puji bagi Allah)".
 </div>
-<div>
+</div>
+
+### Dzikir 2 :
+
+<div class="gdiv">
+<div class="arx">
+سُبْحَانَ اللَّهِ وَبِحَمْدِهِ,  سُبْحَانَ اللَّهِ الْعَظِيمِ
+</div>
+<div class="idx">
+Maha suci Allah dan segala pujian hanya untuk-Nya, Maha suci Allah yang Maha Agung
+</div>
+<div class="ar">
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلِمَتَانِ حَبِيبَتَانِ إِلَى الرَّحْمَنِ خَفِيفَتَانِ عَلَى اللِّسَانِ ثَقِيلَتَانِ فِي الْمِيزَانِ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ سُبْحَانَ اللَّهِ الْعَظِيمِ.
+</div>
+<div class="id">
+<b>Bukhari - No.7008,6188,5927:</b> ari Abu Hurairah radliyallahu'anhu, ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Ada dua kalimat yang disukai Ar Rahman, ringan di lisan dan berat di timbangan, yaitu SUBHANALLAH WABIHAMDIHI dan SUBHAANALLAAHIL'AZHIIM."
+</div>
+<div class="ar">
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَالَ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ فِي يَوْمٍ مِائَةَ مَرَّةٍ حُطَّتْ خَطَايَاهُ وَإِنْ كَانَتْ مِثْلَ زَبَدِ الْبَحْرِ.
+</div>
+<div class="id">
+<b>Bukhari - No.5926 :</b> dari Abu Hurairah radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengucapkan 'Subhanallah wabihamdihi Maha suci Allah dan segala pujian hanya untuk-Nya' sehari seratus kali, maka kesalahan-kesalahannya akan terampuni walaupun sebanyak buih di lautan."
+</div>
+
+</div>
+
+
