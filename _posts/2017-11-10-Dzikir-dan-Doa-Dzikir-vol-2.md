@@ -11,13 +11,13 @@ categories: Agama
 - <a href="#dzikir1">Dzikir 1 : .لَا إِلَهَ إِلَّا اللَّهُ </a>
 - <a href="#dzikir2">Dzikir 2 : .سُبْحَانَ اللَّهِ وَبِحَمْدِهِ </a>
 - <a href="#dzikir3">Dzikir 3 : .سُبْحَانَ اللَّهِ وَبِحَمْدِهِ, سُبْحَانَ اللَّهِ الْعَظِيمِ </a>
-- <a href="#dzikir4">Dzikir 4 : ...لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ </a>
+- <a href="#dzikir4">Dzikir 4 : ...لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ </a>
 - <a href="#dzikir5">Dzikir 5 : ...سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ </a>
-- <a href="#dzikir"> </a>
-- <a href="#dzikir"> </a>
-- <a href="#dzikir"> </a>
-- <a href="#dzikir"> </a>
-- <a href="#dzikir"> </a>
+- <a href="#dzikir6">Dzikir 6 : .لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ </a>
+- <a href="#dzikir7">Dzikir 7 : .سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَاللَّهُ أَكْبَرُ </a>
+- <a href="#dzikir8">Dzikir 8 : .سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ </a>
+- <a href="#dzikir9">Dzikir 9 : ...سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ </a>
+- <a href="#dzikir10">Dzikir 10 : ...لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ </a>
 - <a href="#dzikir"> </a>
 - <a href="#dzikir"> </a>
 - <a href="#dzikir"> </a>
@@ -270,7 +270,12 @@ Maha suci Allah dan segala pujian hanya untuk-Nya, Maha suci Allah yang Maha Agu
 <div class="idx">
 Tiada tuhan selain Allah, Dialah Tuhan Yang Maha Esa. Tidak ada sekutu bagi-Nya, Dialah yang memiliki alam semesta dan segala puji hanya bagi-Nya. Allah adalah Maha Kuasa atas segaIa sesuatu. 
 </div>
-
+<div class="ar">
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَالَ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ فِي يَوْمٍ مِائَةَ مَرَّةٍ كَانَتْ لَهُ عَدْلَ عَشْرِ رِقَابٍ وَكُتِبَتْ لَهُ مِائَةُ حَسَنَةٍ وَمُحِيَتْ عَنْهُ مِائَةُ سَيِّئَةٍ وَكَانَتْ لَهُ حِرْزًا مِنْ الشَّيْطَانِ يَوْمَهُ ذَلِكَ حَتَّى يُمْسِيَ وَلَمْ يَأْتِ أَحَدٌ بِأَفْضَلَ مِمَّا جَاءَ بِهِ إِلَّا أَحَدٌ عَمِلَ أَكْثَرَ مِنْ ذَلِكَ.
+</div>
+<div class="id">
+<b>Bukhari - No.3050 :</b> dari Abu Hurairah radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang membaca laa ilaaha illallahu wahdahuu laa syariika lahuu, lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai'in qodir (Tidak ada ilah (yang berhaq disembah) selain Allah Yang Maha Tunggal tidak ada sekutu bagi-Nya. Milik-Nya kerajaan dan bagi-Nya segala puji dan Dia Maha Kuasa atas segala sesuatu) sebanyak seratus kali dalam sehari, maka baginya mendapatkan pahala seperti membebaskan sepuluh orang budak, ditetapkan baginya seratus hasanah (kebaikan) dan dijauhkan darinya seratus keburukan dan baginya ada perlindungan dari (godaan) setan pada hari itu hingga petang dan tidak ada orang yang lebih baik amalnya dari orang yang membaca doa ini kecuali seseorang yang dapat lebih banyak mengamalkan (membaca) dzikir ini".
+</div> 
 <div class="ar">
 عَنْ أَبِي هُرَيْرَةَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَالَ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ فِي يَوْمٍ مِائَةَ مَرَّةٍ كَانَتْ لَهُ عَدْلَ عَشْرِ رِقَابٍ وَكُتِبَتْ لَهُ مِائَةُ حَسَنَةٍ وَمُحِيَتْ عَنْهُ مِائَةُ سَيِّئَةٍ وَكَانَتْ لَهُ حِرْزًا مِنْ الشَّيْطَانِ يَوْمَهُ ذَلِكَ حَتَّى يُمْسِيَ وَلَمْ يَأْتِ أَحَدٌ أَفْضَلَ مِمَّا جَاءَ بِهِ إِلَّا أَحَدٌ عَمِلَ أَكْثَرَ مِنْ ذَلِكَ ...
 </div>
@@ -289,7 +294,7 @@ Tiada tuhan selain Allah, Dialah Tuhan Yang Maha Esa. Tidak ada sekutu bagi-Nya,
 ### Dzikir 5 :
 <div class="gdiv">
 <div class="arx">
- سُبْحَانَ اللَّهِ عَدَدَ خَلْقِهِ سُبْحَانَ اللَّهِ رِضَا نَفْسِهِ سُبْحَانَ اللَّهِ زِنَةَ عَرْشِهِ سُبْحَانَ اللَّهِ مِدَادَ كَلِمَاتِهِ. <br>
+ سُبْحَانَ اللَّهِ عَدَدَ خَلْقِهِ سُبْحَانَ اللَّهِ رِضَا نَفْسِهِ سُبْحَانَ اللَّهِ زِنَةَ عَرْشِهِ سُبْحَانَ اللَّهِ مِدَادَ كَلِمَاتِهِ. <br />
  سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ.
 </div>
 
@@ -303,4 +308,143 @@ Maha suci Allah sebanyak hitungan makhluk-Nya. Maha Suci Allah menurut keridlaan
 <b>Muslim - No.4905 & Abu Daud - No.1285 :</b> dari Ibnu 'Abbas dari Juwairiyah bahwasanya Nabi shallallahu 'alaihi wasallam keluar dari rumah Juwairiyah pada pagi hari usai shalat Subuh dan dia tetap di tempat shalatnya. Tak lama kemudian Rasulullah shallallahu 'alaihi wasallam kembali setelah terbit fajar (pada waktu dhuha), sedangkan Juwairiyah masih duduk di tempat shalatnya. Setelah itu, Rasulullah menyapanya: "Ya Juwairiyah, kamu masih belum beranjak dari tempat shalatmu?" Juwairiyah menjawab; 'Ya. Saya masih di sini, di tempat semula ya Rasulullah.' Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: 'Setelah keluar tadi, aku telah mengucapkan empat rangkaian kata-kata -sebanyak tiga kali- yang kalimat tersebut jika dibandingkan dengan apa yang kamu baca seharian tentu akan sebanding, yaitu 'SUBHAANALLOOHI WABIHAMDIHI, 'ADADA KHOLQIHI WARIDHOO NAFSIHI WAZINATA 'ARSYIHI WAMIDAADA KALIMAATIHI."Maha Suci Allah dengan segala puji bagi-Nya sebanyak hitungan makhluk-Nya, menurut keridlaan-Nya, menurut arasy-Nya dan sebanyak tinta kalimat-Nya.' Telah menceritakan kepada kami Abu Bakr bin Abu Syaibah dan Abu Kuraib dan Ishaq dari Muhammad bin Bisyr dari Mis'ar dari Muhammad bin 'Abdurrahman dari Abu Risydin dari Ibnu 'Abbas dari Juwairiyah dia berkata; bahwa suatu ketika Rasulullah shallallahu 'alaihi wasallam melewatiku ketika beliau usai shalat shubuh. -lalu dia menyebutkan redaksi yang serupa. Namun beliau dengan menggunakan kalimat; 'SUBHANALLAH 'ADADA KHALQIHI, SUBHANALLAH RIDHO NAFSIHI, SUBHANALLAH ZINATA 'ARSYIHI, SUBHANALLAH MIDADA KALIMAATIHI. Maha suci Allah sebanyak hitungan makhluk-Nya. Maha Suci Allah menurut keridlaan-Nya. Maha Suci Allah menurut kebesaran arasy-Nya. Maha Suci Allah sebanyak paparan kelimat-Nya.'
 </div>
 </div>
+
+<a name="dzikir6"></a>
+### Dzikir 6 :
+<div class="gdiv">
+<div class="arx">
+لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ.
+</div>
+<div class="idx">
+Tiada daya dan upaya kecuali dengan pertolongan AIIah.
+</div>
+<div class="ar">
+عَنْ أَبِي مُوسَى قَالَ كُنَّا مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي سَفَرٍ... قَالَ وَأَنَا خَلْفَهُ وَأَنَا أَقُولُ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ فَقَالَ يَا عَبْدَ اللَّهِ بْنَ قَيْسٍ أَلَا أَدُلُّكَ عَلَى كَنْزٍ مِنْ كُنُوزِ الْجَنَّةِ فَقُلْتُ بَلَى يَا رَسُولَ اللَّهِ قَالَ قُلْ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ,...
+</div>
+<div class="id">
+<b>Muslim - No.4873, 4874, 4875 & Bukhari - No.5930 :</b>... Abu Musa berkata; 'Pada saat itu saya sedang berada di belakang Rasulullah shallallahu 'alaihi wasallam sambil membaca; 'Laa haula wa laa quwwata ilIa billaah' (Tiada daya dan upaya kecuali dengan pertolongan AlIah). Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: 'Hai Abdullah bin Qais, inginkah aku tunjukkan kepadamu salah satu perbendaharaan surga? ' Saya menjawab; 'Tentu ya Rasulullah.' Rasulullah bersabda: 'Ucapkanlah, Laa haula wala quwwata illaa billaah' (Tiada daya dan upaya kecuali dengan pertolongan AIIah).
+</div>
+</div>
+
+### Dzikir 7 :
+<a name="dzikir7"></a>
+<div class="gdiv">
+<div class="arx">
+سُبْحَانَ اللَّهِ  وَالْحَمْدُ لِلَّهِ  وَاللَّهُ أَكْبَرُ.
+</div>
+<div class="idx">
+Maha suci Allah dan Segala puji bagi Allah dan Allah maha Besar. 33x
+</div>
+<div class="ar">
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ جَاءَ الْفُقَرَاءُ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالُوا ذَهَبَ أَهْلُ الدُّثُورِ مِنْ الْأَمْوَالِ بِالدَّرَجَاتِ الْعُلَا وَالنَّعِيمِ الْمُقِيمِ يُصَلُّونَ كَمَا نُصَلِّي وَيَصُومُونَ كَمَا نَصُومُ وَلَهُمْ فَضْلٌ مِنْ أَمْوَالٍ يَحُجُّونَ بِهَا وَيَعْتَمِرُونَ وَيُجَاهِدُونَ وَيَتَصَدَّقُونَ قَالَ أَلَا أُحَدِّثُكُمْ إِنْ أَخَذْتُمْ أَدْرَكْتُمْ مَنْ سَبَقَكُمْ وَلَمْ يُدْرِكْكُمْ أَحَدٌ بَعْدَكُمْ وَكُنْتُمْ خَيْرَ مَنْ أَنْتُمْ بَيْنَ ظَهْرَانَيْهِ إِلَّا مَنْ عَمِلَ مِثْلَهُ تُسَبِّحُونَ وَتَحْمَدُونَ وَتُكَبِّرُونَ خَلْفَ كُلِّ صَلَاةٍ ثَلَاثًا وَثَلَاثِينَ فَاخْتَلَفْنَا بَيْنَنَا فَقَالَ بَعْضُنَا نُسَبِّحُ ثَلَاثًا وَثَلَاثِينَ وَنَحْمَدُ ثَلَاثًا وَثَلَاثِينَ وَنُكَبِّرُ أَرْبَعًا وَثَلَاثِينَ فَرَجَعْتُ إِلَيْهِ فَقَالَ تَقُولُ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَاللَّهُ أَكْبَرُ حَتَّى يَكُونَ مِنْهُنَّ كُلِّهِنَّ ثَلَاثًا وَثَلَاثِينَ.
+</div>
+<div class="id">
+<b>Bukhari - No.798 : </b>dari Abu Hurairah berkata, "Pernah datang para fuqara kepada Nabi shallallahu 'alaihi wasallam seraya berkata, "Orang-orang kaya, dengan harta benda mereka itu, mereka mendapatkan kedudukan yang tinggi, juga kenikmatan yang abadi. Karena mereka melaksanakan shalat seperti juga kami melaksanakan shalat. Mereka shaum sebagaimana kami juga shaum. Namun mereka memiliki kelebihan disebabkan harta mereka, sehingga mereka dapat menunaikan 'ibadah haji dengan harta tersebut, juga dapat melaksnakan 'umrah bahkan dapat berjihad dan bersedekah." Maka beliau pun bersabda: "Maukah aku sampaikan kepada kalian sesuatu yang apabila kalian ambil (sebagai amal ibadah) kalian akan dapat melampaui (derajat) orang-orang yang sudah mengalahkan kalian tersebut, dan tidak akan ada yang dapat mengalahkan kalian dengan amal ini sehingga kalian menjadi yang terbaik di antara kalian dan di tengah-tengah mereka kecuali bila ada orang yang mengerjakan seperti yang kalian amalkan ini. Yaitu kalian membaca tasbih (Subhaanallah), membaca tahmid (Alhamdulillah) dan membaca takbir (Allahu Akbar) setiap selesai dari shalat sebanyak tiga puluh tiga kali." Kemudian setelah itu di antara kami terdapat perbedaan pendapat. Di antara kami ada yang berkata, "Kita bertasbih tiga puluh tiga kali, lalu bertahmid tiga puluh tiga kali, lalu bertakbir empat puluh tiga kali." Kemudian aku kembali menemui Beliau shallallahu 'alaihi wasallam, beliau lalu bersabda: "Bacalah 'Subhaanallah walhamdulillah wallahu Akbar' hingga dari itu semuanya berjumlah tiga puluh tiga kali."
+</div>
+<div class="ar">
+...يَقُولُ سُهَيْلٌ إِحْدَى عَشْرَةَ إِحْدَى عَشْرَةَ فَجَمِيعُ ذَلِكَ كُلِّهِ ثَلَاثَةٌ وَثَلَاثُونَ.
+</div>
+<div class="id">
+<b>Muslim -	No.936 :</b> ... Dalam hadis itu ia tambahkan, Suhail mengatakan; "Sebelas sebelas, hingga semuanya berjumlah tiga puluh tiga."
+</div>
+</div>
+
+### Dzikir 8 :
+<a name="dzikir8"></a>
+<div class="gdiv">
+<div class="arx">
+سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ.
+</div>
+<div class="idx">
+Maha Suci Allah, segala puji bagi Allah, tiada Tuhan selain Allah, dan Allah Maha Besar.
+</div>
+<div class="ar">
+عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَأَنْ أَقُولَ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ أَحَبُّ إِلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمْسُ
+</div>
+<div class="id">
+<b>Muslim - No.4861 & Tirmidzi - No.3521:</b> dari Abu Hurairah dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah bersabda: 'Sesungguhnya membaca doa, Maha Suci Allah, segala puji bagi Allah, tiada Tuhan selain Allah, dan Allah Maha Besar adalah lebih aku cintai daripada segala sesuatu yang terkena oleh sinar matahari.'"
+</div>
+<div class="ar">
+عَنْ سَمُرَةَ بْنِ جُنْدَبٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَحَبُّ الْكَلَامِ إِلَى اللَّهِ أَرْبَعٌ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ لَا يَضُرُّكَ بِأَيِّهِنَّ بَدَأْتَ...
+</div>
+<div class="id">
+<b>Muslim - No.3985 & Ibnu Majah - No.3801 : </b> dari Samurah bin Jundab ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada empat ucapan yang paling di sukai Allah Subhanahu Wa Ta'ala; 1) Subhanallah, 2) Al Hamdulillah, 3) Laa ilaaha illallah, 3) Allahu Akbar. Tidak berdosa bagimu dengan mana saja kamu memulai...
+</div>
+<div class="ar">
+عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا مَرَرْتُمْ بِرِيَاضِ الْجَنَّةِ فَارْتَعُوا قُلْتُ يَا رَسُولَ اللَّهِ وَمَا رِيَاضُ الْجَنَّةِ قَالَ الْمَسَاجِدُ قُلْتُ وَمَا الرَّتْعُ يَا رَسُولَ اللَّهِ قَالَ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ.
+</div>
+<div class="id">
+<b>Tirmidzi - No.3431 :</b> dari Abu Hurairah ia berkata; Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Apabila kalian melewati taman Surga, maka merumputlah!" Aku katakan; apakah taman Surga itu wahai Rasulullah? Beliau mengatakan: "Masjid-masjid." Aku katakan; dan apakah rumputnya wahai Rasulullah? Beliau mengtakan: "SUBHAANALLAAHI WAL HAMDULILLAAHI WA LAA ILAAHA ILLALLAAHU WALLAAHU AKBAR" (Maha Suci Allah, segala puji bagi Allah, tidak ada tuhan yang berhak disembah selain Allah, dan Allah Maha Besar).
+</div>
+<div class="ar">
+عَنْ أَبِي هُرَيْرَةَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَرَّ بِهِ وَهُوَ يَغْرِسُ غَرْسًا فَقَالَ يَا أَبَا هُرَيْرَةَ مَا الَّذِي تَغْرِسُ قُلْتُ غِرَاسًا لِي قَالَ أَلَا أَدُلُّكَ عَلَى غِرَاسٍ خَيْرٍ لَكَ مِنْ هَذَا قَالَ بَلَى يَا رَسُولَ اللَّهِ قَالَ قُلْ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ يُغْرَسْ لَكَ بِكُلِّ وَاحِدَةٍ شَجَرَةٌ فِي الْجَنَّةِ.
+</div>
+<div class="id">
+<b>Ibnu Majah - No.3797 :</b> dari Abu Hurairah bahwa Rasulullah shallallahu 'alaihi wasallam pernah melawitnya saat ia sedang menanam tanaman, maka beliau bersabda: "Wahai Abu Hurairah, tanaman apa yang kamu tanam?" dia menjawab; "Tanaman milikku." Beliau bersabda: "Apakah kamu mau kuberitahukan tentang tanaman yang bagimu akan lebih baik dari tanaman ini?" Abu Hurairah menjawab; "Tentu wahai Rasulullah!." Beliau bersabda: "Ucapkanlah olehmu Subhanallah (Maha suci Allah), Al Hamdulillah (Segala puji bagi Allah), Laa ilaaha illallah (tidak ada ilah selain Allah) dan Allahu akbar (Allah Maha besar). Maka setiap bacaan tersebut akan menumbuhkan satu pohon di surga bagimu."
+</div>
+<div class="ar">
+عَنْ أَبِي الدَّرْدَاءِ قَالَ قَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَيْكَ بِسُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ فَإِنَّهَا يَعْنِي يَحْطُطْنَ الْخَطَايَا كَمَا تَحُطُّ الشَّجَرَةُ وَرَقَهَا.
+</div>
+<div class="id">
+<b>Ibnu Majah - No.3803 :</b> dari Abu Darda` dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Hendaknya kamu selalu mengucapkan Subhanallah wal hamdulillah wa laailaaha illallah wallahu akbar (Maha suci Allah, dan segala pujian bagi Allah, dan tidak ada ilah kecuali Allah dan Allah Maha besar), maka kalimat tersebut akan menggugurkan kesalahan-kesalahan sebagaimana pohon menjatuhkan dedaunannya."
+</div>
+</div>
+
+### Dzikir 9 :
+<a name="dzikir9"></a>
+<div class="gdiv">
+<div class="arx">
+سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ.
+</div>
+<div class="idx">
+Maha Suci Allah, Segala puji bagi Allah, Tiada Tuhan kecuali Allah dan Allah Maha Besar, Tiada daya dan upaya kecuali dari Allah.
+</div>
+<div class="ar">
+عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أَوْفَى قَالَجَاءَ رَجُلٌ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ إِنِّي لَا أَسْتَطِيعُ أَنْ آخُذَ مِنْ الْقُرْآنِ شَيْئًا فَعَلِّمْنِي مَا يُجْزِئُنِي مِنْهُ قَالَ قُلْ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ قَالَ يَا رَسُولَ اللَّهِ هَذَا لِلَّهِ عَزَّ وَجَلَّ فَمَا لِي قَالَ قُلْ اللَّهُمَّ ارْحَمْنِي وَارْزُقْنِي وَعَافِنِي وَاهْدِنِي فَلَمَّا قَامَ قَالَ هَكَذَا بِيَدِهِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَّا هَذَا فَقَدْ مَلَأَ يَدَهُ مِنْ الْخَيْرِ.
+</div>
+<div class="id">
+<b>Abu Daud - No.708 & Nasa'i - No.915 & Ahmad - No.18322, 18349 :</b> dari Abdullah bin Abu Aufa dia berkata; seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam seraya berkata; "Sesungguhnya aku tidak dapat mempelajari Al Qur'an sedikit pun, maka ajarilah aku sesuatu yang dapat memadai untukku sebagai gantinya." Beliau bersabda: "Ucapkanlah; "SUBHANALLAH WAL HAMDULILLAH WALAA ILAAHA ILLALLAH WALLAAHU AKBAR WALAA HAULAA WALAA QUWWATA ILLA BILLAHIL 'ALIYYIL 'AZHIIM (Maha suci Allah, segala puji bagi Allah, tidak ada ilah yang hak kecuali Allah dan Allah Maha besar, tidak ada daya dan upaya kecuali kecuali dengan pertolongan Allah yang Maha Luhur lagi Maha Agung)." Laki-laki itu berkata; "wahai Rasulullah, ungkapan ini untuk Allah Azza Wa Jalla, lantas (ungkapan) manakah yang untuk saya?" beliau bersabda: "katakanlah; "ALLAHUMMARHAMNII WARZUQNII WA'AAFINII WAHDINII (Ya Allah, rahmatilah aku, berilah aku rizki, kesejahteraan, dan petunjuk." Ketika orang itu berdiri (shalat), maka dia memberi isyarat dengan tangannya seperti ini (yaitu membaca sambil menghitungnya) maka Rasulullah shallallahu 'alaihi wasallam bersabda: " Orang ini tangannya telah di penuhi dengan kebaikan."
+</div>
+<div class="ar">
+حَدَّثَنِي أَبُو هُرَيْرَةَ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ مَنْ طَافَ بِالْبَيْتِ سَبْعًا وَلَا يَتَكَلَّمُ إِلَّا بِسُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ مُحِيَتْ عَنْهُ عَشْرُ سَيِّئَاتٍ وَكُتِبَتْ لَهُ عَشْرُ حَسَنَاتٍ وَرُفِعَ لَهُ بِهَا عَشْرَةُ دَرَجَاتٍ وَمَنْ طَافَ فَتَكَلَّمَ وَهُوَ فِي تِلْكَ الْحَالِ خَاضَ فِي الرَّحْمَةِ بِرِجْلَيْهِ كَخَائِضِ الْمَاءِ بِرِجْلَيْهِ.
+</div>
+<div class="id">
+<b>Ibnu Majah - No.2948 :</b> telah menceritakan kepadaku Abu Hurairah bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barang siapa yang berthawaf sebanyak tujuh kali dan ia tidak mengucapkan kecuali "Subhanallah" (Maha Suci Allah), "Alhamdulillah" (Segala puji bagi Allah), "Laa ilaaha Illallah (Tiada Tuhan kecuali Allah) dan "Allahu Akbar" (Allah Maha Besar), 'Laa haula wa laa quwwata illaa billaah (Tiada daya dan upaya kecuali dari Allah), maka dihapuskan padanya sepuluh kesalahan, dituliskan sepuluh kebaikan dan diangkat derajatnya sepuluh tingkat. Dan siapa yang berthawaf dengan berkata-kata (tidak berdzikir) maka seakan-akan ia berenang pada rahmat Allah dengan kedua kakinya saja (tanpa jasadnya) semisal ia berenang di air dengan kedua kakinya.'
+</div>
+
+</div>
+
+### Dzikir 10 :
+<a name="dzikir10"></a>
+<div class="gdiv">
+<div class="arx">
+لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ وَسُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ.
+</div>
+<div class="idx">
+Tidak ada tuhan yang berhak disembah kecuali Allah semata, tidak ada sekutu bagiNya, milikNya semua kerajaan dan bagiNya seluruh pujian, dan Dia Maha Mampu melakukan segala sesuatu. Maha Suci Allah, segala puji bagi Allah, tidak ada tuhan yang berhak disembah kecuali Allah, Allah Maha Besar, dan tidak ada daya serta kekuatan kecuali dengan pertolongan Allah
+</div>
+<div class="ar">
+حَدَّثَنِي عُبَادَةُ بْنُ الصَّامِتِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ تَعَارَّ مِنْ اللَّيْلِ فَقَالَ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ الْحَمْدُ لِلَّهِ وَسُبْحَانَ اللَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ ثُمَّ قَالَ اللَّهُمَّ اغْفِرْ لِي أَوْ دَعَا اسْتُجِيبَ لَهُ فَإِنْ تَوَضَّأَ وَصَلَّى قُبِلَتْ صَلَاتُهُ.
+</div>
+<div class="id">
+<b>Bukhari - No.1086 :</b> elah menceritakan kepada saya 'Ubadah bin Ash-Shamit dari Nabi shallallahu 'alaihi wasallam bersabda: "Siapa yang bangun di malam hari lalu membaca "laa ilaaha illallah wahdahu laa syariika lahu, lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai-in qadiir. Alhamdulillahi wa subhaanallah wa laa ilaaha illallah wallahu akbar wa laa haula wa laa quwwata illa billah" (Tidak ada ilah yang berhaq disembah kecuali Allah satu-satunya, tidak ada sekutu bagiNya. Dialah yang memiliki kerajaan dan baginNya segala pujian dan Dia berkuasa atas segala sesuatu. Segala puji bagi Allah dan Maha Suci Allah dan tidak ada ilah kecuali Allah dan Allah Maha Besar dan tidak ada daya dan upaya kecuali dengan Dia") Kemudian dilanjutkan dengan membaca "Allahummaghfirlii" ("Ya Allah ampunilah aku") atau berdo'a, maka akan dikabulkan baginya. Jika dia berwudhu' lalu shalat maka shalatnya diterima".
+</div>
+
+<div class="ar">
+حَدَّثَنِي عُبَادَةُ بْنُ الصَّامِتِ رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ تَعَارَّ مِنْ اللَّيْلِ فَقَالَ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ وَسُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ ثُمَّ قَالَ رَبِّ اغْفِرْ لِي أَوْ قَالَ ثُمَّ دَعَا اسْتُجِيبَ لَهُ فَإِنْ عَزَمَ فَتَوَضَّأَ ثُمَّ صَلَّى قُبِلَتْ صَلَاتُهُ.
+</div>
+<div class="id">
+<b>Tirmidzi - No.3336 :</b> elah menceritakan kepadaku 'Ubadah bin Ash Shamit? radliallahu 'anhu? dari? Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Barang siapa yang terjaga pada malam hari kemudian mengucapkan; LAA ILAAHA ILLALLAAH WAHDAHU LAA SYARIIKA LAH LAHUL MULKU WA LAHUL HAMDU WA HUWA 'ALAA KULLI SYAI-IN QADIIR, WA SUBHAANALLAAH, WAL HAMDU LILLAAH, WA LAA ILAAHA ILLALLAAH WALLAAHU AKBAR WA LAA HAULA WA LAA QUWWATA ILLAA BILLAAH. Kemudian mengucapkan; RABBIGHFIRLII (Tidak ada tuhan yang berhak disembah kecuali Allah semata, tidak ada sekutu bagiNya, milikNya semua kerajaan dan bagiNya seluruh pujian, dan Dia Maha Mampu melakukan segala sesuatu. Maha Suci Allah, segala puji bagi Allah, tidak ada tuhan yang berhak disembah kecuali Allah, Allah Maha Besar, dan tidak ada daya serta kekuatan kecuali dengan pertolongan Allah). atau beliau mengatakan: kemudian berdoa, maka doanya dikabulkan. Apabila ia bertekad untuk wudhu kemudian melakukan shalat maka shalatnya diterima."
+</div>
+<div class="ar">
+عَنْ عُبَادَةَ بْنِ الصَّامِتِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ تَعَارَّ مِنْ اللَّيْلِ فَقَالَ حِينَ يَسْتَيْقِظُ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ... ثُمَّ دَعَا رَبِّ اغْفِرْ لِي قَالَ الْوَلِيدُ أَوْ قَالَ دَعَا اسْتُجِيبَ لَهُ فَإِنْ قَامَ فَتَوَضَّأَ ثُمَّ صَلَّى قُبِلَتْ صَلَاتُهُ. 
+</div>
+<div class="id">
+<b>Abu Daud - No.4401 & Ibnu Majah - No.3868 :</b> dari Ubadah bin Ash Shamit ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa terbangun di malam hari dan ketika bangun ia membaca : "LAA ILAAHA ILLAAHU WAHDAHU LAA SYARIIKALAH...." ... Kemudian berdoa RABBIGHFIRLII (Ya Allah ampunilah aku) -Al Walid menyebutkan- Atau beliau mengatakan, "Lalu berdoa maka doanya akan diterima. Jika ia berdiri wudhu lalu shalat, maka shalatnya akan diterima."
+</div>
+</div>
+
+
+
+
 
