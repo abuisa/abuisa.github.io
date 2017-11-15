@@ -6,7 +6,8 @@ categories: Agama
 ---
 #### Daftar Isi :
 - <a href="#dzikir1">Dzikir yang paling Agung secara Mutlak</a>
-- Hadits tentang Surat & Ayat Agung dalam Al-Quran yang Agung
+- <a href="#dzikir1x">Pendapat Ulama Tentang Dzikir yang paling Agung</a>
+- <a href="#dzikir2">Hadits tentang Surat & Ayat Agung dalam Al-Quran yang Agung</a>
 - <a href="#dzikir2">Surat Al-Fatihah</a>
 - <a href="#dzikir3">Surat Al-Baqarah</a>
 - <a href="#dzikir4">Ayat Kursi</a>
@@ -112,8 +113,8 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-
-- ### <b>PENDAPAT ULAMA' : </b>
+<a name="dzikir1x"></a>
+- ### PENDAPAT ULAMA' TENTANG DZIKIR yang PALING AGUNG :
 
 <div class="ar">
 السؤال:<br>
