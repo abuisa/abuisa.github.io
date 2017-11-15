@@ -23,7 +23,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 
 
 <hr>
-<a name="dzikir1">
+<a name="dzikir1"></a>
 ## 1. Dzikir yang paling Agung secara Mutlak
 - ### Para Ulama menyimpulkan bahwa sebaik-baik Dzikir secara mutlak adalah AL-QURAN AL-KARIIM.
 
@@ -155,7 +155,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 
 * sumber : Situs Tanya Jawab [binbaz.org](http://www.binbaz.org.sa/noor/2653){:target="_blank"}
 
-<a name="dzikir2">
+<a name="dzikir2"></a>
 ## 2. Hadits tentang Surat & Ayat Agung dalam Al-Quran yang Agung
 
 ### 1.	Surat Al-Fatihah
@@ -170,7 +170,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir3">
+<a name="dzikir3"></a>
 ### 2.	Surat Al-Baqarah
 ### Hadits 1 :
 <div class="gdiv">
@@ -192,7 +192,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir4">
+<a name="dzikir4"></a>
 ### 3. Ayat Kursi
 ### Hadits 1 :
 <div class="gdiv">
@@ -227,7 +227,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir5">
+<a name="dzikir5"></a>
 ### 4. Dua Ayat Akhir Al-Baqarah
 ### Hadits 1 :
 <div class="gdiv">
@@ -269,7 +269,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir6">
+<a name="dzikir6"></a>
 ### 5. Surah Ali Imran
 ### Hadits 1 :
 <div class="gdiv">
@@ -302,7 +302,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 
 
-<a name="dzikir7">
+<a name="dzikir7"></a>
 ### 6. Surah Al-Kahfi
 ### Hadits 1 :
 <div class="gdiv">
@@ -355,7 +355,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir8">
+<a name="dzikir8"></a>
 ### 7. Surah Al-Mulk
 ### Hadits 1 :
 <div class="gdiv">
@@ -398,7 +398,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir9">
+<a name="dzikir9"></a>
 ### 8. Surah Al-Zalzalah & Al-Kaafiruun & Al-Ikhlash
 ### Hadits 1 :
 <div class="gdiv">
@@ -470,7 +470,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir10">
+<a name="dzikir10"></a>
 ### 9. Surah al Mu'awidzatain - Al-Falaq & An-Naas
 ### Hadits 1 :
 <div class="gdiv">

@@ -5,23 +5,30 @@ header: Dzikir dan Doa - Dzikir [vol-2]
 categories: Agama
 ---
 #### Daftar Isi :
-- <a href="#dzikir1">Anjuran Berdzikir dalam Al-Qur'an</a>
-- <a href="#dzikir2">Anjuran Berdzikir dalam As-Sunnah</a>
-- <a href="#dzikir3">Dzikir-Dzikir Terbaik dan Agung</a>
-- <a href="#dzikir4"> </a>
-- <a href="#dzikir5"> </a>
-- <a href="#dzikir6"> </a>
-- <a href="#dzikir7"> </a>
-- <a href="#dzikir8"> </a>
-- <a href="#dzikir9"> </a>
-- <a href="#dzikir10"> </a>
+- <a href="#dzikir1x">Anjuran Berdzikir dalam Al-Qur'an</a>
+- <a href="#dzikir2x">Anjuran Berdzikir dalam As-Sunnah</a>
+- <a href="#dzikir3x">Dzikir-Dzikir Terbaik dan Agung</a>
+- <a href="#dzikir1">Dzikir 1 : .لَا إِلَهَ إِلَّا اللَّهُ </a>
+- <a href="#dzikir2">Dzikir 2 : .سُبْحَانَ اللَّهِ وَبِحَمْدِهِ </a>
+- <a href="#dzikir3">Dzikir 3 : .سُبْحَانَ اللَّهِ وَبِحَمْدِهِ, سُبْحَانَ اللَّهِ الْعَظِيمِ </a>
+- <a href="#dzikir4">Dzikir 4 : ...لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ </a>
+- <a href="#dzikir5">Dzikir 5 : ...سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ </a>
+- <a href="#dzikir"> </a>
+- <a href="#dzikir"> </a>
+- <a href="#dzikir"> </a>
+- <a href="#dzikir"> </a>
+- <a href="#dzikir"> </a>
+- <a href="#dzikir"> </a>
+- <a href="#dzikir"> </a>
+- <a href="#dzikir"> </a>
+- <a href="#dzikir"> </a>
 
 <b>NOTE :</b><br />
 Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Databases atau Applikasi [Lidwapusaka](http://www.lidwa.com/){:target="_blank"} <br />
 <a href="reff/Kumpulan-Dzikir-dan-Doa-Karya-Syaikh-AlBani-8936.pdf" target="_blank">Lihat & Download Kumpulan Dzikir dan Doa Karya Syaikh Al-Bani dalam bentuk file .PDF</a>
 <hr />
 ## Anjuran Untuk Selalu Berdzikir Kepada Allah
-<a name="dzikir1"></a>
+<a name="dzikir1x"></a>
 ### 1. Anjuran Berdzikir dalam Al-Qur'an
 ### Ayat 1 :
 <div class="gdiv">
@@ -163,7 +170,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir2"></a>
+<a name="dzikir2x"></a>
 ### 2. Anjuran Berdzikir dalam As-Sunnah
 ### Hadits 1 :
 <div class="gdiv">
@@ -185,7 +192,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 </div>
 
-<a name="dzikir3"></a>
+<a name="dzikir3x"></a>
 ### 3. Dzikir-Dzikir Terbaik dan Agung
 ### Dzikir 1 :
 <div class="gdiv">
@@ -203,8 +210,36 @@ Tidak ada ilah yang berhak disembah kecuali Allah
 </div>
 </div>
 
+<a name="dzikir2"></a>
 ### Dzikir 2 :
+<div class="gdiv">
+<div class="arx">
+ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ.
+</div>
+<div class="idx">
+Maha Suci Allah dan segala puji bagi-Nya
+</div>
+<div class="ar">
+عَنْ أَبِي هُرَيْرَةَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ ... وَمَنْ قَالَ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ فِي يَوْمٍ مِائَةَ مَرَّةٍ حُطَّتْ خَطَايَاهُ وَلَوْ كَانَتْ مِثْلَ زَبَدِ الْبَحْرِ.
+</div>
+<div class="id">
+<b>Muslim - No.4857 :</b> dari Abu Hurairah bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: ... Barang siapa membaca Subhaanallaah wa bi hamdihi (Maha Suci Allah dan segala puji bagi-Nya) seratus kali dalam sehari, maka dosanya akan dihapus, meskipun sebanyak buih lautan."
+</div>
+<div class="ar">
+عَنْ أَبِي ذَرٍّأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ أَيُّ الْكَلَامِ أَفْضَلُ قَالَ مَا اصْطَفَى اللَّهُ لِمَلَائِكَتِهِ أَوْ لِعِبَادِهِ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ.
+</div>
+<div class="id">
+<b>Muslim - No.4910 :</b>dari Abu Dzar bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah ditanya orang: 'Apakah ucapan dzikir yang paling afdlal (utama), ya Rasulullah? ' Jawab beliau: 'Yaitu ucapan dzikir yang dipilihkan Allah bagi para malaikat-Nya dan hamba-hamba-Nya, ialah; Subhanalahi wa bihamdihi (Maha Suci Allah dan Maha Terpuji Dia).'
+</div>
+</div>
 
+
+
+
+
+
+<a name="dzikir3"></a>
+### Dzikir 3 :
 <div class="gdiv">
 <div class="arx">
 سُبْحَانَ اللَّهِ وَبِحَمْدِهِ,  سُبْحَانَ اللَّهِ الْعَظِيمِ
@@ -216,7 +251,7 @@ Maha suci Allah dan segala pujian hanya untuk-Nya, Maha suci Allah yang Maha Agu
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلِمَتَانِ حَبِيبَتَانِ إِلَى الرَّحْمَنِ خَفِيفَتَانِ عَلَى اللِّسَانِ ثَقِيلَتَانِ فِي الْمِيزَانِ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ سُبْحَانَ اللَّهِ الْعَظِيمِ.
 </div>
 <div class="id">
-<b>Bukhari - No.7008,6188,5927:</b> ari Abu Hurairah radliyallahu'anhu, ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Ada dua kalimat yang disukai Ar Rahman, ringan di lisan dan berat di timbangan, yaitu SUBHANALLAH WABIHAMDIHI dan SUBHAANALLAAHIL'AZHIIM."
+<b>Bukhari - No.7008, 6188, 5927 & Muslim - No.4860:</b> ari Abu Hurairah radliyallahu'anhu, ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Ada dua kalimat yang disukai Ar Rahman, ringan di lisan dan berat di timbangan, yaitu SUBHANALLAH WABIHAMDIHI dan SUBHAANALLAAHIL'AZHIIM."
 </div>
 <div class="ar">
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَالَ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ فِي يَوْمٍ مِائَةَ مَرَّةٍ حُطَّتْ خَطَايَاهُ وَإِنْ كَانَتْ مِثْلَ زَبَدِ الْبَحْرِ.
@@ -224,7 +259,48 @@ Maha suci Allah dan segala pujian hanya untuk-Nya, Maha suci Allah yang Maha Agu
 <div class="id">
 <b>Bukhari - No.5926 :</b> dari Abu Hurairah radliallahu 'anhu bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mengucapkan 'Subhanallah wabihamdihi Maha suci Allah dan segala pujian hanya untuk-Nya' sehari seratus kali, maka kesalahan-kesalahannya akan terampuni walaupun sebanyak buih di lautan."
 </div>
-
 </div>
 
+<a name="dzikir4"></a>
+### Dzikir 4 :
+<div class="gdiv">
+<div class="arx">
+لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.
+</div>
+<div class="idx">
+Tiada tuhan selain Allah, Dialah Tuhan Yang Maha Esa. Tidak ada sekutu bagi-Nya, Dialah yang memiliki alam semesta dan segala puji hanya bagi-Nya. Allah adalah Maha Kuasa atas segaIa sesuatu. 
+</div>
+
+<div class="ar">
+عَنْ أَبِي هُرَيْرَةَأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ قَالَ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ فِي يَوْمٍ مِائَةَ مَرَّةٍ كَانَتْ لَهُ عَدْلَ عَشْرِ رِقَابٍ وَكُتِبَتْ لَهُ مِائَةُ حَسَنَةٍ وَمُحِيَتْ عَنْهُ مِائَةُ سَيِّئَةٍ وَكَانَتْ لَهُ حِرْزًا مِنْ الشَّيْطَانِ يَوْمَهُ ذَلِكَ حَتَّى يُمْسِيَ وَلَمْ يَأْتِ أَحَدٌ أَفْضَلَ مِمَّا جَاءَ بِهِ إِلَّا أَحَدٌ عَمِلَ أَكْثَرَ مِنْ ذَلِكَ ...
+</div>
+<div class="id">
+<b>Muslim - No.4857 :</b> dari Abu Hurairah bahwasanya Rasulullah shallallahu 'alaihi wasallam telah bersabda: "Barangsiapa yang mengucapkan Laa ilaaha ilIallaahu wahdah, Iaa syariikalahu lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai'in qadiir' (Tiada tuhan selain Allah, Dialah Tuhan Yang Maha Esa. Tidak ada sekutu bagi-Nya, Dialah yang memiliki alam semesta dan segala puji hanya bagi-Nya. Allah adalah Maha Kuasa atas segaIa sesuatu) dalam sehari seratus kali, maka orang tersebut akan mendapat pahala sama seperti orang yang memerdekakan seratus orang budak dicatat seratus kebaikan untuknya, dihapus seratus keburukan untuknya. Pada hari itu ia akan terjaga dari godaan syetan sampai sore hari dan tidak ada orang lain yang melebihi pahalanya, kecuali orang yang membaca lebih banyak dan itu." ...
+</div>
+<div class="ar">
+عَنْ عَمْرِو بْنِ مَيْمُونٍ قَالَ مَنْ قَالَ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ عَشْرَ مِرَارٍ كَانَ كَمَنْ أَعْتَقَ أَرْبَعَةَ أَنْفُسٍ مِنْ وَلَدِ إِسْمَعِيلَ ... قَالَ فَأَتَيْتُ ابْنَ أَبِي لَيْلَى فَقُلْتُ مِمَّنْ سَمِعْتُهُ قَالَ مِنْ أَبِي أَيُّوبَ الْأَنْصَارِيِّ يُحَدِّثُهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ.
+</div>
+<div class="id">
+<b>Muslim - No.4859 :</b> dari 'Amru bin Maimun dia berkata; "Barangsiapa yang mengucapkan Laa ilaaha ilIallaahu wahdah, Iaa syariikalahu lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai'in qadiir' (Tiada tuhan selain Allah, Dialah Tuhan Yang Maha Esa. Tidak ada sekutu bagi-Nya, Dialah yang memiliki alam semesta dan segala puji hanya bagi-Nya. Allah adalah Maha Kuasa atas segaIa sesuatu) sebanyak sepuluh kali, maka baginya pahala sebagaimana memerdekakan empat orang dari keturunan ismail.
+</div>
+</div>
+
+<a name="dzikir5"></a>
+### Dzikir 5 :
+<div class="gdiv">
+<div class="arx">
+ سُبْحَانَ اللَّهِ عَدَدَ خَلْقِهِ سُبْحَانَ اللَّهِ رِضَا نَفْسِهِ سُبْحَانَ اللَّهِ زِنَةَ عَرْشِهِ سُبْحَانَ اللَّهِ مِدَادَ كَلِمَاتِهِ. <br>
+ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ.
+</div>
+
+<div class="idx">
+Maha suci Allah sebanyak hitungan makhluk-Nya. Maha Suci Allah menurut keridlaan-Nya. Maha Suci Allah menurut kebesaran arasy-Nya. Maha Suci Allah sebanyak paparan kelimat-Nya.
+</div>
+<div class="ar">
+عَنْ ابْنِ عَبَّاسٍ عَنْ جُوَيْرِيَةَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَرَجَ مِنْ عِنْدِهَا بُكْرَةً حِينَ صَلَّى الصُّبْحَ وَهِيَ فِي مَسْجِدِهَا ثُمَّ رَجَعَ بَعْدَ أَنْ أَضْحَى وَهِيَ جَالِسَةٌ فَقَالَ مَا زِلْتِ عَلَى الْحَالِ الَّتِي فَارَقْتُكِ عَلَيْهَا قَالَتْ نَعَمْ قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَقَدْ قُلْتُ بَعْدَكِ أَرْبَعَ كَلِمَاتٍ ثَلَاثَ مَرَّاتٍ لَوْ وُزِنَتْ بِمَا قُلْتِ مُنْذُ الْيَوْمِ لَوَزَنَتْهُنَّ سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ. حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ وَإِسْحَقُ عَنْ مُحَمَّدِ بْنِ بِشْرٍ عَنْ مِسْعَرٍ عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي رِشْدِينَ عَنْ ابْنِ عَبَّاسٍ عَنْ جُوَيْرِيَةَ قَالَتْ مَرَّ بِهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حِينَ صَلَّى صَلَاةَ الْغَدَاةِ أَوْ بَعْدَ مَا صَلَّى الْغَدَاةَ فَذَكَرَ نَحْوَهُ غَيْرَ أَنَّهُ قَالَ سُبْحَانَ اللَّهِ عَدَدَ خَلْقِهِ سُبْحَانَ اللَّهِ رِضَا نَفْسِهِ سُبْحَانَ اللَّهِ زِنَةَ عَرْشِهِ سُبْحَانَ اللَّهِ مِدَادَ كَلِمَاتِهِ.
+</div>
+<div class="id">
+<b>Muslim - No.4905 & Abu Daud - No.1285 :</b> dari Ibnu 'Abbas dari Juwairiyah bahwasanya Nabi shallallahu 'alaihi wasallam keluar dari rumah Juwairiyah pada pagi hari usai shalat Subuh dan dia tetap di tempat shalatnya. Tak lama kemudian Rasulullah shallallahu 'alaihi wasallam kembali setelah terbit fajar (pada waktu dhuha), sedangkan Juwairiyah masih duduk di tempat shalatnya. Setelah itu, Rasulullah menyapanya: "Ya Juwairiyah, kamu masih belum beranjak dari tempat shalatmu?" Juwairiyah menjawab; 'Ya. Saya masih di sini, di tempat semula ya Rasulullah.' Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: 'Setelah keluar tadi, aku telah mengucapkan empat rangkaian kata-kata -sebanyak tiga kali- yang kalimat tersebut jika dibandingkan dengan apa yang kamu baca seharian tentu akan sebanding, yaitu 'SUBHAANALLOOHI WABIHAMDIHI, 'ADADA KHOLQIHI WARIDHOO NAFSIHI WAZINATA 'ARSYIHI WAMIDAADA KALIMAATIHI."Maha Suci Allah dengan segala puji bagi-Nya sebanyak hitungan makhluk-Nya, menurut keridlaan-Nya, menurut arasy-Nya dan sebanyak tinta kalimat-Nya.' Telah menceritakan kepada kami Abu Bakr bin Abu Syaibah dan Abu Kuraib dan Ishaq dari Muhammad bin Bisyr dari Mis'ar dari Muhammad bin 'Abdurrahman dari Abu Risydin dari Ibnu 'Abbas dari Juwairiyah dia berkata; bahwa suatu ketika Rasulullah shallallahu 'alaihi wasallam melewatiku ketika beliau usai shalat shubuh. -lalu dia menyebutkan redaksi yang serupa. Namun beliau dengan menggunakan kalimat; 'SUBHANALLAH 'ADADA KHALQIHI, SUBHANALLAH RIDHO NAFSIHI, SUBHANALLAH ZINATA 'ARSYIHI, SUBHANALLAH MIDADA KALIMAATIHI. Maha suci Allah sebanyak hitungan makhluk-Nya. Maha Suci Allah menurut keridlaan-Nya. Maha Suci Allah menurut kebesaran arasy-Nya. Maha Suci Allah sebanyak paparan kelimat-Nya.'
+</div>
+</div>
 
