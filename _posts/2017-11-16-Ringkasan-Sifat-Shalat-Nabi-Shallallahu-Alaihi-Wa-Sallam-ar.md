@@ -14,9 +14,9 @@ categories: Agama
 - <a href="#bab7">BAB 6. السجود </a>
 
 <b>SUMBER :</b><br />
-	- Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [almanhaj.or](https://almanhaj.or.id/900-ringkasan-sifat-shalat-nabi-shallallahu-alaihi-wa-sallam-1.html){:target="_blank"} <br />
-	- Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [Ibnu Mjjah Abu Abdurrozaq](https://imnasution.files.wordpress.com/2013/11/ringkasan-sifat-shalat-nabi.pdf){:target="_blank"} <br />
-	- Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [تلخيص صفة صلاة النبي صلى الله عليه وسلم](http://madrasato-mohammed.com/albani/pg_022_0001.htm){:target="_blank"} <br />
+1. Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [almanhaj.or](https://almanhaj.or.id/900-ringkasan-sifat-shalat-nabi-shallallahu-alaihi-wa-sallam-1.html){:target="_blank"} <br />
+2. Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [Ibnu Mjjah Abu Abdurrozaq](https://imnasution.files.wordpress.com/2013/11/ringkasan-sifat-shalat-nabi.pdf){:target="_blank"} <br />
+3. Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [تلخيص صفة صلاة النبي صلى الله عليه وسلم](http://madrasato-mohammed.com/albani/pg_022_0001.htm){:target="_blank"} <br />
 <hr />
 <div class="gdiv">
 <div class="arxx">

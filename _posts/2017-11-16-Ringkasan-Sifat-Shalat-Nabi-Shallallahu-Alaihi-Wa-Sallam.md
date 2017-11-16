@@ -10,12 +10,14 @@ categories: Agama
 - <a href="#bab3">BAB 3. Niat </a>
 - <a href="#bab4">BAB 4. Takbir </a>
 - <a href="#bab5">BAB 5. Bacaan </a>
-- <a href="https://imnasution.files.wordpress.com/2013/11/ringkasan-sifat-shalat-nabi.pdf">Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam PDF </a>
+<br />
 
-<b>SUMBER :</b><br />
-1.Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [almanhaj.or](https://almanhaj.or.id/900-ringkasan-sifat-shalat-nabi-shallallahu-alaihi-wa-sallam-1.html){:target="_blank"} <br />
-2.Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [Ibnu Mjjah Abu Abdurrozaq](https://imnasution.files.wordpress.com/2013/11/ringkasan-sifat-shalat-nabi.pdf){:target="_blank"} <br />
-3.Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [تلخيص صفة صلاة النبي صلى الله عليه وسلم](http://madrasato-mohammed.com/albani/pg_022_0001.htm){:target="_blank"} <br />
+<b>SUMBER :</b>
+- <a href="reff/ringkasan_sifat_shalat_nabi.pdf" target="_blank">Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam .PDF Format</a>
+- <a href="reff/Ringkasan_Sifat_Shalat_Nabi.doc" target="_blank">Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam .DOC Format</a>
+1. Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [almanhaj.or](https://almanhaj.or.id/900-ringkasan-sifat-shalat-nabi-shallallahu-alaihi-wa-sallam-1.html){:target="_blank"} <br />
+2. Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [Ibnu Mjjah Abu Abdurrozaq](https://imnasution.files.wordpress.com/2013/11/ringkasan-sifat-shalat-nabi.pdf){:target="_blank"} <br />
+3. Ringkasan Sifat Shalat Nabi Shallallahu Alaihi Wa Sallam - [تلخيص صفة صلاة النبي صلى الله عليه وسلم](http://madrasato-mohammed.com/albani/pg_022_0001.htm){:target="_blank"} <br />
 <hr />
 
 
