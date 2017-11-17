@@ -26,9 +26,10 @@ categories: Agama
 - <a href="#dzikir"> </a>
 -->
 <b>NOTE :</b><br />
-Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Databases atau Applikasi [Lidwapusaka](http://www.lidwa.com/){:target="_blank"} <br />
-<a href="reff/Kumpulan-Dzikir-dan-Doa-Karya-Syaikh-AlBani-8936.pdf" target="_blank">Lihat & Download Kumpulan Dzikir dan Doa Karya Syaikh Al-Bani dalam bentuk file .PDF</a>
+1. Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Databases atau Applikasi [Lidwapusaka](http://www.lidwa.com/){:target="_blank"} <br />
+2. <a href="reff/Kumpulan-Dzikir-dan-Doa-Karya-Syaikh-AlBani-8936.pdf" target="_blank">Lihat & Download Kumpulan Dzikir dan Doa Karya Syaikh Al-Bani dalam bentuk file .PDF</a>
 <hr />
+
 ## Anjuran Untuk Selalu Berdzikir Kepada Allah
 <a name="dzikir1x"></a>
 ### 1. Anjuran Berdzikir dalam Al-Qur'an
