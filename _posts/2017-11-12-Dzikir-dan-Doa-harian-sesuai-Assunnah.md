@@ -1,7 +1,7 @@
 ---
-title: Dzikir dan Doa Sehari-Hari dari Al-Quran dan As-Sunnah
-description: Dzikir dan Doa Sehari-Hari dari Al-Quran dan As-Sunnah
-header: Dzikir dan Doa Sehari-Hari dari Al-Quran dan As-Sunnah
+title: Dzikir dan Doa Sehari-Hari sesuai As-Sunnah
+description: Dzikir dan Doa Sehari-Hari sesuai As-Sunnah
+header: Dzikir dan Doa Sehari-Hari sesuai As-Sunnah
 categories: Agama
 ---
 ### Daftar ISI :

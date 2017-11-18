@@ -9,7 +9,7 @@ categories: Agama
 - <a href="#doa2x">Anjuran Ber-Doa dalam As-Sunnah</a>
 - <a href="#doa3x">Doa-Doa Terbaik dan Agung</a>
 - <a href="#doa1">Doa 1 : ...اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ </a>
-- <a href="#doa2">Doa 2 : </a>
+- <a href="#doa2">Doa 2 : ...رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً </a>
 - <a href="#doa3">Doa 3 : </a>
 - <a href="#doa4">Doa 4 : </a>
 - <a href="#doa5">Doa 5 : </a>
@@ -199,10 +199,48 @@ Ya Allah, Engkau adalah Tuhanku, tidak ada Tuhan yang berhak diibadahi selain En
 <div class="id">
 <b>Bukhari - No.5848 :</b> dari Syaddad bin Aus dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Sesungguhnya istighfar yang paling baik adalah; jika seorang hamba mengucapkan: 'ALLAHUMMA ANTA RABBI LAA ILAAHA ILLA ANTA ... Jika ia mengucapkan di waktu sore lalu meninggal, maka ia akan masuk surga. Dan jika ia membacanya di waktu pagi lalu meninggal pada hari, maka ia mendapatkan seperti itu juga (masuk surga)."
 </div>
+<div class="ar">
+...قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَالَهَا فِي يَوْمِهِ وَلَيْلَتِهِ فَمَاتَ فِي ذَلِكَ الْيَوْمِ أَوْ تِلْكَ اللَّيْلَةِ دَخَلَ الْجَنَّةَ إِنْ شَاءَ اللَّهُ تَعَالَى.
 </div>
-	
-	
+<div class="id">
+<b>Ibnu Majah - No.3862 & Nasa'i - No.5427 & Tirmidzi - No.3315 & Abu Daud - No.4408 & Ahmad - No.16488, 16508, 21935 :</b> ... Buraidah berkata; "Rasulullah shallallahu 'alaihi wasallam berabda: "Barangsiapa membacanya pada siang dan malam hari, kemudian dia mati pada hari itu atau pada malam itu, niscaya ia akan masuk surga, jika Allah Ta'ala menghendaki."
+</div>
+</div>
 
+<a name="doa2"></a>	
+### Doa 2 :
+<div class="gdiv">
+<div class="arx">
+ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ .
+</div>
+<div class="idx">
+Ya Allah, Rabb kami, berikanlah kebaikan di dunia dan di akhirat, dan jagalah kami dari siksa neraka.
+</div>
+<div class="ar">
+سَأَلَ قَتَادَةُ أَنَسًاأَيُّ دَعْوَةٍ كَانَ يَدْعُو بِهَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَكْثَرَ قَالَ كَانَ أَكْثَرُ دَعْوَةٍ يَدْعُو بِهَا يَقُولُ اللَّهُمَّ { آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ } قَالَ وَكَانَ أَنَسٌ إِذَا أَرَادَ أَنْ يَدْعُوَ بِدَعْوَةٍ دَعَا بِهَا فَإِذَا أَرَادَ أَنْ يَدْعُوَ بِدُعَاءٍ دَعَا بِهَا فِيهِ.
+</div>
+<div class="id">
+<b>Muslim - No.4855 </b> Pada suatu ketika, Qatadah pernah bertanya kepada Anas; 'Hai Anas, doa apa yang sering diucapkan Rasulullah? ' Anas menjawab; 'Sesungguhnya Rasulullah shallallahu 'alaihi wasallam sering membaca doa yang berbunyi: 'Ya Allah, berilah kami kebaikan di dunia dan kebaikan di akhirat, serta peliharalah kami dari siksa api neraka.' Perawi hadits ini berkata; 'Ketika Anas hendak berdoa, maka ia senantiasa membaca doa tersebut. Dan ketika ia hendak membaca doa yang lain, maka ia selalu menyertakan doa tersebut.'
+</div>
+<div class="ar">
+حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ حَدَّثَنَا أَبِي حَدَّثَنَا شُعْبَةُ عَنْ ثَابِتٍ عَنْ أَنَسٍ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ{ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ }.
+</div>
+<div class="id">
+<b>Muslim - No.4856 :</b> Telah menceritakan kepada kami 'Ubaidullah bin Mu'adz, bapakku telah menceritakan kepada kami; telah menceritakan kepada kami Syu'bah dari Tsabit dari Anas dia berkata; Rasulullah Shallallahu'alaihi wasallam banyak berdo'a dengan, "Ya Allah, Rabb kami, berikanlah kebaikan di dunia dan di akhirat, dan jagalah kami dari siksa neraka".
+</div>
+<div class="ar">
+حَدَّثَنَا مُسَدَّدٌ حَدَّثَنَا عَبْدُ الْوَارِثِ عَنْ عَبْدِ الْعَزِيزِ عَنْ أَنَسٍ قَالَ كَانَ أَكْثَرُ دُعَاءِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اللَّهُمَّ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ.
+</div>
+<div class="id">
+<b>Bukhari - No.5910 :</b> Telah menceritakan kepada kami Musaddad telah menceritakan kepada kami Abdul Warits dari Abdul Aziz dari Anas dia berkata; "Do'a yang paling banyak dipanjatkan Nabi shallallahu 'alaihi wasallam adalah: 'RABBANAA AATINAA FID DUN-YAA HASANAH ...
+</div>
+<div class="ar">
+
+</div>
+<div class="id">
+<b> </b>
+</div>
+</div>	
 
 
 
