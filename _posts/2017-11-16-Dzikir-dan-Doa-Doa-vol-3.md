@@ -12,13 +12,16 @@ categories: Agama
 - <a href="#doa2">Doa 2 : ...رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً </a>
 - <a href="#doa3">Doa 3 : ...اللَّهُمَّ إنِّي ظَلَمْتُ نَفْسِي ظُلْماً كَثِيراً</a>
 - <a href="#doa4">Doa 4 : ...اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ الْهَمِّ وَالْحَزَنِ </a>
-- <a href="#doa5">Doa 5 : </a>
-- <a href="#doa6">Doa 6 : </a>
+- <a href="#doa5">Doa 5 : ... يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ</a>
+- <a href="#doa6">Doa 6 : ...اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا</a>
+
+<!--
 - <a href="#doa7">Doa 7 : </a>
 - <a href="#doa8">Doa 8 : </a>
 - <a href="#doa9">Doa 9 : </a>
 - <a href="#doa10">Doa 10 : </a>
 - <a href="#doa11">Doa 11 : </a>
+-->
 
 <!--
 - <a href="#doa"> </a>
@@ -252,7 +255,7 @@ Ya Allah, sungguh aku telah menzhalimi diriku sendiri dengan kezhaliman yang ban
 <b>Bukhari - No.790, 5851, 6839 :</b> dari Abu Bakar Ash Shiddiq radliallahu 'anhu, ia berkata kepada Rasulullah shallallahu 'alaihi wasallam: "Ajarkanlah aku suatu do'a yang bisa aku panjatkan saat shalat!" Maka Beliau pun berkata: "Bacalah 'ALLAHUMMA INNII ... (Ya Allah, sungguh aku telah menzhalimi diriku sendiri dengan kezhaliman yang banyak, sedangkan tidak ada yang dapat mengampuni dosa-dosa kecuali Engkau. Maka itu ampunilah aku dengan suatu pengampunan dari sisi-Mu, dan rahmatilah aku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang) '."
 </div>
 <div class="ar">
-عَنْ أَبِي بَكْرٍ أَنَّهُقَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلِّمْنِي دُعَاءً أَدْعُو بِهِ فِي صَلَاتِي قَالَ قُلْ اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَبِيرًا وَقَالَ قُتَيْبَةُ كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ. ... إِنَّ أَبَا بَكْرٍ الصِّدِّيقَ قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلِّمْنِي يَا رَسُولَ اللَّهِ دُعَاءً أَدْعُو بِهِ فِي صَلَاتِي وَفِي بَيْتِي ثُمَّ ذَكَرَ بِمِثْلِ حَدِيثِ اللَّيْثِ غَيْرَ أَنَّهُ قَالَ ظُلْمًا كَثِيرًا.
+عَنْ أَبِي بَكْرٍ أَنَّهُ قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلِّمْنِي دُعَاءً أَدْعُو بِهِ فِي صَلَاتِي قَالَ قُلْ اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَبِيرًا وَقَالَ قُتَيْبَةُ كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ. ... إِنَّ أَبَا بَكْرٍ الصِّدِّيقَ قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلِّمْنِي يَا رَسُولَ اللَّهِ دُعَاءً أَدْعُو بِهِ فِي صَلَاتِي وَفِي بَيْتِي ثُمَّ ذَكَرَ بِمِثْلِ حَدِيثِ اللَّيْثِ غَيْرَ أَنَّهُ قَالَ ظُلْمًا كَثِيرًا.
 </div>
 <div class="id">
 <b>Muslim - No.4876 :</b> dari Abu Bakar Ash-Shiddiq radliallahu 'anhu bahwa ia pernah berkata kepada Rasulullah shallallahu 'alaihi wasallam; "Ajari aku suatu doa yang dapat aku panjatkan dalam shalatku." Beliau Shallallallahu'alaihi wasallam bersabda: "Ucapkanlah, (Ya Allah, aku telah berbuat aniaya kepada diriku sendiri dengan aniaya yang besar, -Qutaibah berkata; yang banyak-, dan tidak ada yang mengampuni dosa-dosa selain Engkau, ampunilah aku dengan ampunan dari sisi-Mu, serta kasihinilah aku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang." ... bahwa Abu Bakr Ash Shiddiq dia berkata kepada Rasulullah: "Ajari aku suatu doa yang dapat aku panjatkan dalam shalatku dan aku panjatkan di rumahku, -lalu dian menyebutkan Hadits yang sama dengan Hadits Al Laits. Namun dia menyebutkan dengan kalimat; 'zhulman katsiran' (dengan aniaya yang banyak).
@@ -286,7 +289,62 @@ Ya Allah, sungguh aku telah menzhalimi diriku sendiri dengan kezhaliman yang ban
 </div>
 </div>
 
+<a name="doa5"></a>
+### Doa 5 :
+<div class="gdiv">
+<div class="arx">
+1. يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ، أَصْلِحْ لِي شَأْنِي كُلَّهُ، وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ.
+<br />
+2. اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ أَصْلِحْ لِي شَأْنِي كُلَّهُ لَا إِلَهَ إِلَّا أَنْتَ.
+<br />
+3. يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْثُ، وَأَصْلِحْ لِيْ شَأْنِيْ كُلَّهُ وَلاَ تَكِلْنِيْ إِلَى نَفْسِيْ طَرْفَةَ عَيْنٍ أَبَدًا.
 
+</div>
+<div class="idx">
+<b>1.</b> Wahai Yang Maha Hidup, wahai Yang Berdiri Sendiri tidak butuh segala sesuatu, dengan rahmat-Mu aku minta pertolongan, perbaikilah segala urusanku dan jangan diserahkan kepadaku sekali pun sekejap mata tanpa mendapat pertolongan dari-Mu.
+<br />
+<b>2.</b> Ya Allah ya Tuhanku, aku mengharap rahmat-Mu, karena itu janganlah Engkau serahkan urusanku kepada diriku sendiri (janganlah Engkau berpaling dariku) sekejap mata, perbaikilah semua urusanku, tidak ada Tuhan selain Engkau.
+<br />
+<b>3.</b> Wahai Rabb Yang Maha Hidup, wahai Rabb Yang Berdiri Sendiri tidak butuh segala sesuatu, dengan rahmat-Mu aku minta pertolongan, perbaikilah segala urusanku dan jangan diserahkan kepadaku sekali pun sekejap mata tanpa mendapat pertolongan dari-Mu selamanya.
+</div>
+<div class="ar">
+قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَعَوَاتُ الْمَكْرُوبِ اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ وَأَصْلِحْ لِي شَأْنِي كُلَّهُ لَا إِلَهَ إِلَّا أَنْتَ.
+</div>
+<div class="id">
+<b>Abu Daud - No.4426 & Ahmad - No.19535 :</b> Rasulullah shallallahu 'alaihi wasallam bersabda: "Beberapa doa bagi orang yang tertimpa musibah; "ALLAHUMMA RAHMATAKA ARJUU ... ."
+</div>
+<b>SUMBER :</b> <br />
+<div class="id">
+<b>1. </b> <a href="https://rumaysho.com/10415-doa-ketika-dirundung-duka.html" target="_blank">https://rumaysho.com/10415-doa-ketika-dirundung-duka.html</a><br />
+<b>2. </b> <a href="https://islamqa.info/ar/109609" target="_blank">https://islamqa.info/ar/109609</a><br />
+<b>3. </b> <a href="http://www.alukah.net/sharia/0/85316/" target="_blank">http://www.alukah.net/sharia/0/85316/</a><br />
+
+</div>
+</div>
+
+<a name="doa6"></a>
+### Doa 6 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلًا مُتَقَبَّلًا.
+</div>
+<div class="idx">
+Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang baik dan amal yang diterima.
+</div>
+<div class="ar">
+عَنْ أُمِّ سَلَمَةَأَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَقُولُ إِذَا صَلَّى الصُّبْحَ حِينَ يُسَلِّمُ اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلًا مُتَقَبَّلًا.
+</div>
+<div class="id">
+<b>Ibnu Majah - No.915 :</b> dari Ummu Salamah berkata, "Ketika salam dalam shalat subuh Nabi shallallahu 'alaihi wasallam mengucapkan; "ALLAHUMMA INNI AS`ALUKA ILMAN NAAFI'AN ...".
+</div>
+<div class="ar">
+... عَنْ أُمِّ سَلَمَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَقُولُ إِذَا صَلَّى الصُّبْحَ حِينَ يُسَلِّمُ فَذَكَرَهُ.
+</div>
+<div class="id">
+<b>Ahmad - No.25477, 25506, 25388, 25312:</b> dari Ummu Salamah bahwa Rasulullah shalallahu'alaihi wa sallam membacanya tatkala shalat shubuh ketika salam.
+</div>
+
+</div>
 
 
 
