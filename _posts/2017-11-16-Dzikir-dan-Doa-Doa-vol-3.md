@@ -343,9 +343,27 @@ Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang baik dan amal y
 <div class="id">
 <b>Ahmad - No.25477, 25506, 25388, 25312:</b> dari Ummu Salamah bahwa Rasulullah shalallahu'alaihi wa sallam membacanya tatkala shalat shubuh ketika salam.
 </div>
-
 </div>
 
+<!--
+<a name="doa7"></a>
+### Doa 7 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ لا سَهْلَ إِلاَّ ما جَعَلْتَهُ سَهْلاً، وأنْتَ تَجْعَلُ الحَزْنَ إذَا شِئْتَ سَهْلاً.
+</div>
+<div class="idx">
+
+</div>
+<div class="ar">
+
+</div>
+<div class="id">
+<b> :</b>
+</div>
+</div>
+
+-->
 
 
 
