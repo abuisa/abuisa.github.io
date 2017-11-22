@@ -451,9 +451,9 @@ Tidak ada tuhan yang berhak disembah kecuali Allah semata, tidak ada sekutu bagi
 <a name="dzikir11"></a>
 <div class="gdiv">
 <div class="arx">
- أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبُ إِلَيْهِ. __أو_
+1. أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبُ إِلَيْهِ. __أو_
 <br />
- أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبُ إِلَيْهِ.
+2. أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبُ إِلَيْهِ.
 </div>
 <div class="idx">
 aku memohon ampunan kepada Allah (yang Maha Agung), Dzat yang tidak ada tuhan yang berhak disembah kecuali Dia, yang Maha Hidup dan Yang terus mengurus makhluk-Nya, dan aku bertaubat kepada-Nya.  
