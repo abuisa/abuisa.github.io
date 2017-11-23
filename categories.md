@@ -15,7 +15,7 @@ header: All Post
 
 		<ul>
 		{% for post in site.categories.Agama %}
-			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
+			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}.html">{{ post.title }}</a></li>
 		{% endfor %}
 		</ul>
 
@@ -23,14 +23,14 @@ header: All Post
 
 		<ul>
 		{% for post in site.categories.DigitalForensik %}
-			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
+			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}.html">{{ post.title }}</a></li>
 		{% endfor %}
 		</ul>
 
 	<h3> Just Examples : </h3>
 		<ul>
 		{% for post in site.categories.Examples %}
-			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}">{{ post.title }}</a></li>
+			<li>{{ post.date | date: "%B %d, %Y" }}: <a href="{{site.url}}{{post.url}}.html">{{ post.title }}</a></li>
 		{% endfor %}
 		</ul>
 
