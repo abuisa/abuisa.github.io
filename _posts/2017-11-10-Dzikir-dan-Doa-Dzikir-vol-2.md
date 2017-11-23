@@ -19,6 +19,7 @@ categories: Agama
 - <a href="#dzikir9">Dzikir 9 : ...سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ </a>
 - <a href="#dzikir10">Dzikir 10 : ...لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ </a>
 - <a href="#dzikir11">Dzikir 11 : ...أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ </a>
+- <a href="#dzikir12">Dzikir 12 : ...حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ </a>
 
 <!--
 - <a href="#dzikir"> </a>
@@ -481,6 +482,41 @@ aku memohon ampunan kepada Allah (yang Maha Agung), Dzat yang tidak ada tuhan ya
 </div>
 <div class="id">
 <b>Ahmad - No.10652 :</b> dari Abu Sa'id Al Khudri berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa ketika akan tidur ia mengucapkan: ASTAGHFIRULLAH ... sebanyak tiga kali, maka Allah akan mengampuni dosa-dosanya walaupun seperti buih di lautan, walaupun seperti gunung pasir, walau seperti jumlah daun di pepohonan."
+</div>
+</div>
+
+### Dzikir 12 :
+<a name="dzikir12"></a>
+<div class="gdiv">
+<div class="arx">
+1. حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ.
+<br />
+2. حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ عَلَى اللَّهِ تَوَكَّلْنَا.
+<br />
+3. حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ تَوَكَّلْنَا عَلَى اللَّهِ رَبِّنَا.
+</div>
+<div class="idx">
+1. Cukuplah Allah menjadi Penolong kami dan Allah adalah sebaik-baik Pelindung.<br />
+2. Cukuplah Allah bagi kami dan sebaik-baik penolong, kepada Allah Rabb kami bertawakkal.<br />
+3. Cukuplah Allah bagi kami dan sebaik-baik penolong, kami bertawakkal kepada Allah Rabb kami.
+</div>
+<div class="ar">
+ عَنْ ابْنِ عَبَّاسٍ{ حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ }قَالَهَا إِبْرَاهِيمُ عَلَيْهِ السَّلَام حِينَ أُلْقِيَ فِي النَّارِ وَقَالَهَا مُحَمَّدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حِينَ قَالُوا { إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ }.
+</div>
+<div class="id">
+<b>Bukhari - No.4197 : </b> dari Ibnu 'Abbas Hasbunallah wa ni'mal wakil adalah ucapan Ibrahim Alaihis Salam ketika di lemparkan ke api. Juga diucapkan oleh Nabi shallallahu 'alaihi wasallam ketika orang-orang kafir berkata; "Sesungguhnya manusia telah mengumpulkan pasukan untuk menyerang kamu, karena itu takutlah kepada mereka", maka perkataan itu menambah keimanan mereka dan mereka menjawab: "Cukuplah Allah menjadi Penolong kami dan Allah adalah sebaik-baik Pelindung."
+</div>
+<div class="ar">
+عَنْ أَبِي سَعِيدٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَيْفَ أَنْعَمُ وَصَاحِبُ الْقَرْنِ قَدْ الْتَقَمَ الْقَرْنَ وَاسْتَمَعَ الْإِذْنَ مَتَى يُؤْمَرُ بِالنَّفْخِ فَيَنْفُخُ فَكَأَنَّ ذَلِكَ ثَقُلَ عَلَى أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ لَهُمْ قُولُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ عَلَى اللَّهِ تَوَكَّلْنَاقَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ وَقَدْ رُوِيَ مِنْ غَيْرِ وَجْهٍ هَذَا الْحَدِيثُ عَنْ عَطِيَّةَ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَحْوَهُ.
+</div>
+<div class="id">
+<b>Tirmidzi - No.2355, 3166 :</b> dari Abu Sa'id berkata: Rasulullah Shallallahu 'alaihi wa salam bersabda: "Bagaimana aku bersenang-senang sementara malaikat peniup sangkakala telah menelan tanduk (terompet) dan mendengar izin kapankan diperintahkan untuk meniup lalu ia akan meniup." Sepertinya hal itu terasa berat oleh para sahabat nabi Shallallahu 'alaihi wa Salam lalu beliau bersabda kepada mereka: "Ucapkan: HASBUNALLAAH WA NI'MAL WAKILL 'ALALLAAHI TAWAKKALNAA." Berkata Abu Isa: Hadits ini hasan dan hadits ini diriwayatkan melalui beberapa sanad dari 'Athiyah dari Abu Sa'id Al Khudri dari nabi Shallallahu 'alaihi wa Salam sepertinya.
+</div>
+<div class="ar">
+عَنْ أَبِي سَعِيدٍعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ كَيْفَ أَنْعَمُ وَقَدْ الْتَقَمَ صَاحِبُ الْقَرْنِ الْقَرْنَ وَحَنَى جَبْهَتَهُ وَأَصْغَى سَمْعَهُ يَنْظُرُ مَتَى يُؤْمَرُ قَالَ الْمُسْلِمُونَ يَا رَسُولَ اللَّهِ فَمَا نَقُولُ قَالَ قُولُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ عَلَى اللَّهِ تَوَكَّلْنَا.
+</div>
+<div class="id">
+<b>Ahmad - No.10614, 18539, 2853 :</b> dari Abu Sa'id dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Bagaimana aku merasa nyaman sedangkan yang membawa sangkakala telah siap meniupnya, mengerutkan dahinya dan menyiapkan telinganya menunggu kapan ia diperintahkan, " kaum muslimin bertanya, "Wahai Rasulullah, lalu apa yang harus kami katakan?" beliau bersabda: "Katakanlah: HASBUNAALLAHU WA NI'MAL WAKIIL 'ALALLAHI TAWAKKALNAA (cukuplah Allah bagi kami dan Dialah sebaik-baik pelindung, kepada Allah lah kami bertawakkal)."
 </div>
 </div>
 
