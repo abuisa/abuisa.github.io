@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IkhwanElyas Page</title>
- <link href="https://abuisa.github.io/atom.xml" rel="self"/>
- <id>https://abuisa.github.io</id>
- <updated>2017-11-23T11:36:01+07:00</updated>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <id>http://0.0.0.0:4000</id>
+ <updated>2017-11-23T20:57:32+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -15,8 +15,8 @@
 
  <entry>
    <title>Sunnah dan Keutamaan Hari Jum'at</title>
-   <link href="https://abuisa.github.io/tentang-hari-jumat"/>
-   <id>https://abuisa.github.io/tentang-hari-jumat</id>
+   <link href="http://0.0.0.0:4000/tentang-hari-jumat"/>
+   <id>http://0.0.0.0:4000/tentang-hari-jumat</id>
    <updated>2017-11-19T00:00:00+07:00</updated>
    <content type="html">&lt;h2 id=&quot;sunnah-sunnah-di-hari-jumat-&quot;&gt;Sunnah-Sunnah di hari jum’at :&lt;/h2&gt; &lt;p&gt;&lt;br /&gt; &lt;img src=&quot;img/agama/jumat_02.jpg&quot; alt=&quot;fdisk-l&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;banyak-pahala-kebaikan-yang-bisa-kawan-perolah-di-hari-jumat-berikut-ini-beberapa-amalan-istimewa-di-hari-jumat&quot;&gt;Banyak pahala kebaikan yang bisa kawan perolah di hari Jum’at. Berikut ini beberapa amalan istimewa di hari Jum’at:&lt;/h3&gt; &lt;ol&gt; &lt;li&gt; &lt;p&gt;Membaca surat al-Kahfi pada malam Jum’at. Dibolehkan membacanya di siang hari bila tidak sempat membacanya di malam...</content>
  </entry>
@@ -25,8 +25,8 @@
 
  <entry>
    <title>Doa-Doa dari Al-quran dan As-Sunnah</title>
-   <link href="https://abuisa.github.io/Doa-Doa-dari-Al-quran-dan-As-Sunnah"/>
-   <id>https://abuisa.github.io/Doa-Doa-dari-Al-quran-dan-As-Sunnah</id>
+   <link href="http://0.0.0.0:4000/Doa-Doa-dari-Al-quran-dan-As-Sunnah"/>
+   <id>http://0.0.0.0:4000/Doa-Doa-dari-Al-quran-dan-As-Sunnah</id>
    <updated>2017-11-18T00:00:00+07:00</updated>
    <content type="html">&lt;h2 id=&quot;doa-doa-dari-al-quran-&quot;&gt;Doa-Doa dari Al-Quran :&lt;/h2&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاء وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاء وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن تَشَاء بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ. &lt;/div&gt; &lt;div class=&quot;arx&quot;&gt; تُولِجُ اللَّيْلَ فِي الْنَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الَمَيَّتَ...</content>
  </entry>
@@ -35,8 +35,8 @@
 
  <entry>
    <title>Ringkasan Sifat Shalat</title>
-   <link href="https://abuisa.github.io/Ringkasan-Sifat-Shalat-Nabi-Shallallahu-Alaihi-Wa-Sallam"/>
-   <id>https://abuisa.github.io/Ringkasan-Sifat-Shalat-Nabi-Shallallahu-Alaihi-Wa-Sallam</id>
+   <link href="http://0.0.0.0:4000/Ringkasan-Sifat-Shalat-Nabi-Shallallahu-Alaihi-Wa-Sallam"/>
+   <id>http://0.0.0.0:4000/Ringkasan-Sifat-Shalat-Nabi-Shallallahu-Alaihi-Wa-Sallam</id>
    <updated>2017-11-16T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;daftar-isi-id&quot;&gt;Daftar Isi [ID]:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#babb1&quot;&gt;BAB 1. Menghadap Ka’bah &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb2&quot;&gt;BAB 2. Berdiri &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb3&quot;&gt;BAB 3. Niat &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb4&quot;&gt;BAB 4. Takbir &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb5&quot;&gt;BAB 5. Bacaan &lt;/a&gt; &lt;br /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;daftar-isi-ar-&quot;&gt;Daftar Isi [AR] :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#bab1&quot;&gt;BAB 1. استقبال الكعبة &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab2&quot;&gt;BAB 2. القيام...</content>
  </entry>
@@ -45,8 +45,8 @@
 
  <entry>
    <title>Dzikir dan Doa - Doa [vol-3]</title>
-   <link href="https://abuisa.github.io/Dzikir-dan-Doa-Doa-vol-3"/>
-   <id>https://abuisa.github.io/Dzikir-dan-Doa-Doa-vol-3</id>
+   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-Doa-vol-3"/>
+   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-Doa-vol-3</id>
    <updated>2017-11-16T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#doa1x&quot;&gt;Anjuran Ber-Doa dalam Al-Qur’an&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa2x&quot;&gt;Anjuran Ber-Doa dalam As-Sunnah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa3x&quot;&gt;Doa-Doa Terbaik dan Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa1&quot;&gt;Doa 1 : …اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa2&quot;&gt;Doa 2 : …رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa3&quot;&gt;Doa 3 : …اللَّهُمَّ إنِّي ظَلَمْتُ نَفْسِي...</content>
  </entry>
@@ -55,8 +55,8 @@
 
  <entry>
    <title>Dzikir dan Doa Sehari-Hari sesuai As-Sunnah</title>
-   <link href="https://abuisa.github.io/Dzikir-dan-Doa-harian-sesuai-Assunnah"/>
-   <id>https://abuisa.github.io/Dzikir-dan-Doa-harian-sesuai-Assunnah</id>
+   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-harian-sesuai-Assunnah"/>
+   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-harian-sesuai-Assunnah</id>
    <updated>2017-11-12T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar ISI :&lt;/h3&gt; &lt;div class=&quot;arx&quot;&gt; * &lt;a href=&quot;#dzikir1&quot;&gt;أذكار الصباح والمساء&lt;/a&gt; &lt;br /&gt; * &lt;a href=&quot;#dzikir2&quot;&gt;باب ما يقول إذا استيقَظ من منامه&lt;/a&gt; &lt;br /&gt; * &lt;a href=&quot;#dzikir3&quot;&gt;باب ما يقول إذا لبِس ثوبه&lt;/a&gt; &lt;br /&gt; * &lt;a href=&quot;#dzikir4&quot;&gt;باب كيفية لُبس الثو &lt;/a&gt; &lt;br /&gt; * &lt;a href=&quot;#dzikir5&quot;&gt;باب ما يقول إذا دخل...</content>
  </entry>
@@ -65,8 +65,8 @@
 
  <entry>
    <title>Dzikir dan Doa - Dzikir [vol-2]</title>
-   <link href="https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-2"/>
-   <id>https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-2</id>
+   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-2"/>
+   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-2</id>
    <updated>2017-11-10T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1x&quot;&gt;Anjuran Berdzikir dalam Al-Qur’an&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2x&quot;&gt;Anjuran Berdzikir dalam As-Sunnah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3x&quot;&gt;Dzikir-Dzikir Terbaik dan Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Dzikir 1 : .لَا إِلَهَ إِلَّا اللَّهُ &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Dzikir 2 : .سُبْحَانَ اللَّهِ وَبِحَمْدِهِ &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Dzikir 3 : .سُبْحَانَ اللَّهِ وَبِحَمْدِهِ, سُبْحَانَ اللَّهِ الْعَظِيمِ &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt;Dzikir...</content>
  </entry>
@@ -75,8 +75,8 @@
 
  <entry>
    <title>Dzikir dan Doa - Dzikir [vol-1]</title>
-   <link href="https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-1"/>
-   <id>https://abuisa.github.io/Dzikir-dan-Doa-Dzikir-vol-1</id>
+   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-1"/>
+   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-1</id>
    <updated>2017-11-06T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Dzikir yang paling Agung secara Mutlak&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1x&quot;&gt;Pendapat Ulama Tentang Dzikir yang paling Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Hadits tentang Surat &amp;amp; Ayat Agung dalam Al-Quran yang Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Surat Al-Fatihah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Surat Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt;Ayat Kursi&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir5&quot;&gt;Dua Ayat Akhir Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir6&quot;&gt;Surah Ali Imran&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
  </entry>
@@ -85,8 +85,8 @@
 
  <entry>
    <title>Sholat Sunnah Rawatib qabliyah dan badiyah</title>
-   <link href="https://abuisa.github.io/sholat-sunnah-rawatib"/>
-   <id>https://abuisa.github.io/sholat-sunnah-rawatib</id>
+   <link href="http://0.0.0.0:4000/sholat-sunnah-rawatib"/>
+   <id>http://0.0.0.0:4000/sholat-sunnah-rawatib</id>
    <updated>2017-07-27T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;Ringkasan sholat sunnah rawatib Muakkadn dan Ghoiru Muakkad qabliyah dan ba’diyah :&lt;/p&gt; &lt;table&gt; &lt;tr&gt; &lt;th&gt;&lt;/th&gt; &lt;th&gt;Qabliyah Muakkad&lt;/th&gt; &lt;th&gt;Ba'diyah Muakkad&lt;/th&gt; &lt;th&gt;GhoiruMuakkad&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;b&gt;Subuh&lt;/b&gt;&lt;/td&gt; &lt;td&gt;2 Raka'at&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;b&gt;Dzuhur&lt;/b&gt;&lt;/td&gt; &lt;td&gt;2 atau 4 Raka'at&lt;/td&gt; &lt;td&gt;2 Raka'at&lt;/td&gt; &lt;td&gt;2 Raka'at Ba'diyah&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;b&gt;Ashar&lt;/b&gt;&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;-&lt;/td&gt; &lt;td&gt;4 Raka'at Qabliyah&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;&lt;b&gt;Maghrib&lt;/b&gt;&lt;/td&gt;...</content>
  </entry>
@@ -95,8 +95,8 @@
 
  <entry>
    <title>Waktu imsak dan mulai puasa</title>
-   <link href="https://abuisa.github.io/waktu-imsak-dan-mulai-puasa"/>
-   <id>https://abuisa.github.io/waktu-imsak-dan-mulai-puasa</id>
+   <link href="http://0.0.0.0:4000/waktu-imsak-dan-mulai-puasa"/>
+   <id>http://0.0.0.0:4000/waktu-imsak-dan-mulai-puasa</id>
    <updated>2017-06-08T00:00:00+07:00</updated>
    <content type="html">&lt;blockquote&gt; &lt;p&gt;Saya tidak mengetahui adanya dalil tentang penetapan waktu imsak 15 menit sebelum adzan shubuh. Bahkan yang sesuai dengan dalil Al Qur’an dan As Sunnah, imsak (yaitu menahan diri dari makan dan minum, -pen) adalah mulai terbitnya fajar (masuknya waktu shubuh). &lt;code class=&quot;highlighter-rouge&quot;&gt;Abdul Aziz bin ‘Abdillah bin Baz&lt;/code&gt;.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;b&gt;Pertanyaan...</content>
  </entry>
@@ -105,8 +105,8 @@
 
  <entry>
    <title>Makna Islam</title>
-   <link href="https://abuisa.github.io/makna-islam"/>
-   <id>https://abuisa.github.io/makna-islam</id>
+   <link href="http://0.0.0.0:4000/makna-islam"/>
+   <id>http://0.0.0.0:4000/makna-islam</id>
    <updated>2017-06-08T00:00:00+07:00</updated>
    <content type="html">&lt;blockquote&gt; &lt;p&gt;Makna Islam: Islam maknanya berserah diri kepada Allah dengan mentauhidkan-Nya, dan taat serta patuh kepada-Nya, dengan penuh ketundukan dan perendahan diri.(muslim.or.id)&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Syaikh Abdul Aziz bin Baz rahimahullah&lt;/p&gt; &lt;p&gt;Islam maknanya,&lt;/p&gt; &lt;div class=&quot;ar&quot;&gt; الاستسلام لله بالتوحيد، والانقياد له بالطاعة، إذلالا وخضوعا &lt;/div&gt; &lt;div class=&quot;id&quot;&gt; “berserah diri kepada Allah dengan mentauhidkan-Nya,...</content>
  </entry>
