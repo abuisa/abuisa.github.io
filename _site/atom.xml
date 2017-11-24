@@ -4,12 +4,22 @@
  <title>IkhwanElyas Page</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <id>http://0.0.0.0:4000</id>
- <updated>2017-11-24T00:05:51+07:00</updated>
+ <updated>2017-11-24T09:25:43+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Praktek menggunakan FIND dan SED dan</title>
+   <link href="http://0.0.0.0:4000/menggunakan-grep-dan-sed"/>
+   <id>http://0.0.0.0:4000/menggunakan-grep-dan-sed</id>
+   <updated>2017-11-24T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;cari-dan-replace-string&quot;&gt;Cari dan Replace String&lt;/h3&gt; &lt;blockquote&gt; &lt;p&gt;find . -type f -exec sed -i ‘s/\/css/css/g’ {} +&lt;/p&gt; &lt;/blockquote&gt; &lt;ul&gt; &lt;li&gt;Perintah diatas &lt;code class=&quot;highlighter-rouge&quot;&gt;find . -type f &lt;/code&gt; adalah perintah untuk mencari file dengan hanya mencari file tanpa directory.&lt;/li&gt; &lt;li&gt;Sedangkan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;sed -i 's/\/css/css/g'&lt;/code&gt; diatas untuk mencari string &lt;code class=&quot;highlighter-rouge&quot;&gt;/css&lt;/code&gt; untuk...</content>
+ </entry>
 
  
 
@@ -99,16 +109,6 @@
    <id>http://0.0.0.0:4000/waktu-imsak-dan-mulai-puasa</id>
    <updated>2017-06-08T00:00:00+07:00</updated>
    <content type="html">&lt;blockquote&gt; &lt;p&gt;Saya tidak mengetahui adanya dalil tentang penetapan waktu imsak 15 menit sebelum adzan shubuh. Bahkan yang sesuai dengan dalil Al Qur’an dan As Sunnah, imsak (yaitu menahan diri dari makan dan minum, -pen) adalah mulai terbitnya fajar (masuknya waktu shubuh). &lt;code class=&quot;highlighter-rouge&quot;&gt;Abdul Aziz bin ‘Abdillah bin Baz&lt;/code&gt;.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;&lt;b&gt;Pertanyaan...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Makna Islam</title>
-   <link href="http://0.0.0.0:4000/makna-islam"/>
-   <id>http://0.0.0.0:4000/makna-islam</id>
-   <updated>2017-06-08T00:00:00+07:00</updated>
-   <content type="html">&lt;blockquote&gt; &lt;p&gt;Makna Islam: Islam maknanya berserah diri kepada Allah dengan mentauhidkan-Nya, dan taat serta patuh kepada-Nya, dengan penuh ketundukan dan perendahan diri.(muslim.or.id)&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Syaikh Abdul Aziz bin Baz rahimahullah&lt;/p&gt; &lt;p&gt;Islam maknanya,&lt;/p&gt; &lt;div class=&quot;ar&quot;&gt; الاستسلام لله بالتوحيد، والانقياد له بالطاعة، إذلالا وخضوعا &lt;/div&gt; &lt;div class=&quot;id&quot;&gt; “berserah diri kepada Allah dengan mentauhidkan-Nya,...</content>
  </entry>
 
  
