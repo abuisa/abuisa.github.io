@@ -1,6 +1,6 @@
 #!/bin/bash
 echo -e "Start to Clear......"
-find . -type f -exec sed -i 's/\csscss/g' {} + # Replace string
+find . -type f -exec sed -i 's/\/css/css/g' {} + # Replace string
 echo -e "css \t\t: Clear....."
 find . -type f -exec sed -i 's/https:\/\/abuisa.github.io\///g' {} + # Replace string
 echo -e "remove hostname \t: Clear....."
