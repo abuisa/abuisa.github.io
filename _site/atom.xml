@@ -4,12 +4,52 @@
  <title>IkhwanElyas Page</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <id>http://0.0.0.0:4000</id>
- <updated>2017-11-30T10:45:57+07:00</updated>
+ <updated>2017-12-02T18:34:14+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>WGET for Download same webpage name to N times</title>
+   <link href="http://0.0.0.0:4000/wget-to-download-web-page-n-times"/>
+   <id>http://0.0.0.0:4000/wget-to-download-web-page-n-times</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h2 id=&quot;wget-for-download-same-webpage-name-to-n-times&quot;&gt;WGET for Download same webpage name to N times&lt;/h2&gt; &lt;p&gt;Bash Script untuk mendowload halaman web yang memiliki kesamaan nama dan hanya dibedakan dengan angka, dapat menggunakan script ini untuk mendowload halaman tersebut, berikut script tersebut yang menggunakan tool wget untuk melakukannya :&lt;/p&gt; &lt;h3 id=&quot;script-use-wget-to-download-web-page-&quot;&gt;Script use wget to download web...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>The Art of Command Line</title>
+   <link href="http://0.0.0.0:4000/the-art-of-command-line"/>
+   <id>http://0.0.0.0:4000/the-art-of-command-line</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;the-art-of-command-line&quot;&gt;The Art of Command Line&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#meta&quot;&gt;Meta&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#basics&quot;&gt;Basics&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#everyday-use&quot;&gt;Everyday use&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#processing-files-and-data&quot;&gt;Processing files and data&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#system-debugging&quot;&gt;System debugging&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#one-liners&quot;&gt;One-liners&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#obscure-but-useful&quot;&gt;Obscure but useful&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#os-x-only&quot;&gt;OS X only&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#windows-only&quot;&gt;Windows only&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#more-resources&quot;&gt;More resources&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#disclaimer&quot;&gt;Disclaimer&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Fluency on the command line is a skill often...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Book for Free to Study and Trainig LINUX</title>
+   <link href="http://0.0.0.0:4000/book-for-free-to-study-linux"/>
+   <id>http://0.0.0.0:4000/book-for-free-to-study-linux</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;artikel--e-book-di-copy-dari-linux-trainingbe&quot;&gt;Artikel &amp;amp; E-Book di-Copy dari &lt;a href=&quot;http://linux-training.be/&quot; target=&quot;_blank&quot;&gt;linux-training.be&lt;/a&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;reff/linux/linux_training_be/linuxfun.pdf&quot; target=&quot;_blank&quot;&gt;Linux Fundamentals.pdf&lt;/a&gt; teaches you the very fundamentals of Linux (or Unix!). This book is for beginners, novices, anyone who wants to become a Linux developer or Linux system administrator. It contains basic knowledge, but advanced users will also...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Raspberry-Pi</title>
+   <link href="http://0.0.0.0:4000/Raspberry-Pi"/>
+   <id>http://0.0.0.0:4000/Raspberry-Pi</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;raspberry-pi&quot;&gt;Raspberry-Pi&lt;/h1&gt; &lt;p&gt;Raspberry Pi A to Z List &lt;strong&gt;Basics Raspberry Pi&lt;/strong&gt; The Raspberry Pi was originally designed for educational purposes to use in schools and universities, and to make class and study more interesting. Unfortunately, the practical use of the Raspberry Pi or a comparable single-board computer in Germany, Austria...</content>
+ </entry>
 
  
 
@@ -69,46 +109,6 @@
    <id>http://0.0.0.0:4000/Ringkasan-Sifat-Shalat-Nabi-Shallallahu-Alaihi-Wa-Sallam</id>
    <updated>2017-11-16T00:00:00+07:00</updated>
    <content type="html">&lt;h4 id=&quot;daftar-isi-id&quot;&gt;Daftar Isi [ID]:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#babb1&quot;&gt;BAB 1. Menghadap Ka’bah &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb2&quot;&gt;BAB 2. Berdiri &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb3&quot;&gt;BAB 3. Niat &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb4&quot;&gt;BAB 4. Takbir &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb5&quot;&gt;BAB 5. Bacaan &lt;/a&gt; &lt;br /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;daftar-isi-ar-&quot;&gt;Daftar Isi [AR] :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#bab1&quot;&gt;BAB 1. استقبال الكعبة &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab2&quot;&gt;BAB 2. القيام...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Dzikir dan Doa - Doa [vol-3]</title>
-   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-Doa-vol-3"/>
-   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-Doa-vol-3</id>
-   <updated>2017-11-16T00:00:00+07:00</updated>
-   <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#doa1x&quot;&gt;Anjuran Ber-Doa dalam Al-Qur’an&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa2x&quot;&gt;Anjuran Ber-Doa dalam As-Sunnah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa3x&quot;&gt;Doa-Doa Terbaik dan Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa1&quot;&gt;Doa 1 : …اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa2&quot;&gt;Doa 2 : …رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#doa3&quot;&gt;Doa 3 : …اللَّهُمَّ إنِّي ظَلَمْتُ نَفْسِي...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Dzikir dan Doa Sehari-Hari sesuai As-Sunnah</title>
-   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-harian-sesuai-Assunnah"/>
-   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-harian-sesuai-Assunnah</id>
-   <updated>2017-11-12T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar ISI :&lt;/h3&gt; &lt;div class=&quot;arx&quot;&gt; * &lt;a href=&quot;#dzikir1&quot;&gt;أذكار الصباح والمساء&lt;/a&gt; &lt;br /&gt; * &lt;a href=&quot;#dzikir2&quot;&gt;باب ما يقول إذا استيقَظ من منامه&lt;/a&gt; &lt;br /&gt; * &lt;a href=&quot;#dzikir3&quot;&gt;باب ما يقول إذا لبِس ثوبه&lt;/a&gt; &lt;br /&gt; * &lt;a href=&quot;#dzikir4&quot;&gt;باب كيفية لُبس الثو &lt;/a&gt; &lt;br /&gt; * &lt;a href=&quot;#dzikir5&quot;&gt;باب ما يقول إذا دخل...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Dzikir dan Doa - Dzikir [vol-2]</title>
-   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-2"/>
-   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-2</id>
-   <updated>2017-11-10T00:00:00+07:00</updated>
-   <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1x&quot;&gt;Anjuran Berdzikir dalam Al-Qur’an&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2x&quot;&gt;Anjuran Berdzikir dalam As-Sunnah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3x&quot;&gt;Dzikir-Dzikir Terbaik dan Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Dzikir 1 : .لَا إِلَهَ إِلَّا اللَّهُ &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Dzikir 2 : .سُبْحَانَ اللَّهِ وَبِحَمْدِهِ &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Dzikir 3 : .سُبْحَانَ اللَّهِ وَبِحَمْدِهِ, سُبْحَانَ اللَّهِ الْعَظِيمِ &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt;Dzikir...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Dzikir dan Doa - Dzikir [vol-1]</title>
-   <link href="http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-1"/>
-   <id>http://0.0.0.0:4000/Dzikir-dan-Doa-Dzikir-vol-1</id>
-   <updated>2017-11-06T00:00:00+07:00</updated>
-   <content type="html">&lt;h4 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1&quot;&gt;Dzikir yang paling Agung secara Mutlak&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir1x&quot;&gt;Pendapat Ulama Tentang Dzikir yang paling Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Hadits tentang Surat &amp;amp; Ayat Agung dalam Al-Quran yang Agung&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir2&quot;&gt;Surat Al-Fatihah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir3&quot;&gt;Surat Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir4&quot;&gt;Ayat Kursi&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir5&quot;&gt;Dua Ayat Akhir Al-Baqarah&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#dzikir6&quot;&gt;Surah Ali Imran&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
  </entry>
 
  

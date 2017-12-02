@@ -110,6 +110,8 @@
 	  
 	    
 	  
+	    
+	  
     
 
 	</div>
@@ -200,6 +202,8 @@
 	    
 	      
 	    
+	      
+	    
       
     </span>
   </div>
@@ -254,22 +258,32 @@
 16
 17
 18
-19</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+19
+20
+21
+22
+23
+24</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+<span class="nb">echo</span> -e <span class="s2">"Start to Copy......"</span>
+cp -r ../abuisa.github.io/_site/ ./
+<span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: Copy Success......"</span>
 <span class="nb">echo</span> -e <span class="s2">"Start to Clear......"</span>
-find . -type f -exec sed -i <span class="s1">'s/\/css/css/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="nb">echo</span> -e <span class="s2">"css </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
-find . -type f -exec sed -i <span class="s1">'s/https:\/\/abuisa.github.io\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="nb">echo</span> -e <span class="s2">"remove hostname </span><span class="se">\t</span><span class="s2">: Clear....."</span>
-find . -type f -exec sed -i <span class="s1">'s/"\/categories"/"categories.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="nb">echo</span> -e <span class="s2">"categories </span><span class="se">\t</span><span class="s2">: Clear....."</span>
-find . -type f -exec sed -i <span class="s1">'s/"\/linkcolection"/"linkcolection.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="nb">echo</span> -e <span class="s2">"linkcolection </span><span class="se">\t</span><span class="s2">: Clear....."</span>
-find . -type f -exec sed -i <span class="s1">'s/"\/penelitian"/"penelitian.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="nb">echo</span> -e <span class="s2">"penelitian </span><span class="se">\t</span><span class="s2">: Clear....."</span>
-find . -type f -exec sed -i <span class="s1">'s/"\/me"/"me.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="nb">echo</span> -e <span class="s2">"me </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
-find . -type f -exec sed -i <span class="s1">'s/src="\/js/src="js/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="nb">echo</span> -e <span class="s2">"Js </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
+find _site/ -type f -exec sed -i <span class="s1">'s/\/css/css/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="nb">echo</span> -e <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: Clear....."</span>
+find _site/ -type f -exec sed -i <span class="s1">'s/https:\/\/abuisa.github.io\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="nb">echo</span> -e <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: Clear....."</span>
+find _site/ -type f -exec sed -i <span class="s1">'s/http:\/\/0.0.0.0:4000\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="nb">echo</span> -e <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: Clear....."</span>
+find _site/ -type f -exec sed -i <span class="s1">'s/"\/categories"/"categories.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="nb">echo</span> -e <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
+find _site/ -type f -exec sed -i <span class="s1">'s/"\/linkcolection"/"linkcolection.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="nb">echo</span> -e <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
+find _site/ -type f -exec sed -i <span class="s1">'s/"\/penelitian"/"penelitian.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="nb">echo</span> -e <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
+find _site/ -type f -exec sed -i <span class="s1">'s/"\/me"/"me.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="nb">echo</span> -e <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: Clear....."</span>
+find _site/ -type f -exec sed -i <span class="s1">'s/src="\/js/src="js/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="nb">echo</span> -e <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: Clear....."</span>
 rm .fuse_hidden00<span class="k">*</span>
 <span class="nb">echo</span> -e <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: Clear....."</span>
 <span class="nb">echo</span> -e <span class="s2">"Clear Finished !..."</span><span class="w">

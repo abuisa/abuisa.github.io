@@ -33,7 +33,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 
 ### Ayat 1 : Al Qur'an tiada keraguan didalamnya dan Sebagai Petunjuk
 <div class="gdiv">
-<div class="arx">
+<div class="ar">
 ذَلِكَ الْكِتَابُ لاَ رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ.
 </div>
 <div class="id">
@@ -42,7 +42,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 </div>
 ### Ayat 2 : Al Qur'an Adalah Cahaya
 <div class="gdiv">
-<div class="arx">
+<div class="ar">
  يَا أَيُّهَا النَّاسُ قَدْ جَاءكُم بُرْهَانٌ مِّن رَّبِّكُمْ وَأَنزَلْنَا إِلَيْكُمْ نُوراً مُّبِيناً.
 </div>
 <div class="id">
@@ -52,7 +52,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 
 ### Ayat 3 : Al Qur'an dengan membawa kebenaran
 <div class="gdiv">
-<div class="arx">
+<div class="ar">
 وَأَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقاً لِّمَا بَيْنَ يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِناً عَلَيْهِ...
 </div>
 <div class="id">
@@ -62,7 +62,7 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 
 ### Ayat 4 : Perniagaan yang tidak akan merugi
 <div class="gdiv">
-<div class="arx">
+<div class="ar">
  إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرّاً وَعَلَانِيَةً يَرْجُونَ تِجَارَةً لَّن تَبُورَ.
 </div>
 <div class="id">
@@ -75,17 +75,17 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 
 ### Hadits 1 :
 <div class="gdiv">
-<div class="arx">
+<div class="ar">
 ...فَإِنَّ خَيْرَ الْحَدِيثِ كِتَابُ اللَّهِ وَخَيْرُ الْهُدَى هُدَى مُحَمَّدٍ وَشَرُّ الْأُمُورِ مُحْدَثَاتُهَا وَكُلُّ بِدْعَةٍ ضَلَالَةٌ...
 </div>
-<div class="idx">
+<div class="id">
 <b>Muslim - No.1435 </b>: Sesungguhnya sebaik-baik perkataan adalah Kitabullah, sebaik-baik petunjuk adalah petunjuk Muhammad shallallahu 'alaihi wasallam. Seburuk-buruk perkara adalah perkara yang diada-adakan dan setiap bid'ah adalah sesat...
 </div>
 </div>
 
 ### Hadits 2 :
 <div class="gdiv">
-<div class="arx">
+<div class="ar">
 عَنْ عُثْمَانَ رَضِيَ اللَّهُ عَنْهُعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ.
 </div>
 <div class="id">
@@ -95,20 +95,20 @@ Nomor Hadits dari awal sampai akhir sama dengan nomor hadits yang terdapat di Da
 
 ### Hadits 3 :
 <div class="gdiv">
-<div class="arx">
+<div class="ar">
 عَبْدَ اللَّهِ بْنَ مَسْعُودٍ يَقُولُ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ قَرَأَ حَرْفًا مِنْ كِتَابِ اللَّهِ فَلَهُ بِهِ حَسَنَةٌ وَالْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا لَا أَقُولُ الم حَرْفٌ وَلَكِنْ أَلِفٌ حَرْفٌ وَلَامٌ حَرْفٌ وَمِيمٌ حَرْفٌ.
 </div>
-<div class="idx">
+<div class="id">
 <b>Tirmidzi - No.2835</b> : Abdullah bin Mas'ud berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membaca satu huruf dari Kitabullah (Al Qur`an), maka baginya satu pahala kebaikan dan satu pahala kebaikan akan dilipat gandakan menjadi sepuluh kali, aku tidak mengatakan ALIF LAAM MIIM itu satu huruf, akan tetapi ALIF satu huruf, LAAM satu huruf dan MIIM satu huruf."
 </div>
 </div>
 
 ### Hadits 4 :
 <div class="gdiv">
-<div class="arx">
+<div class="ar">
 عَنْ عَائِشَةَ قَالَتْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَاهِرُ بِالْقُرْآنِ مَعَ السَّفَرَةِ الْكِرَامِ الْبَرَرَةِ وَالَّذِي يَقْرَأُ الْقُرْآنَ وَيَتَتَعْتَعُ فِيهِ وَهُوَ عَلَيْهِ شَاقٌّ لَهُ أَجْرَانِ.
 </div>
-<div class="idx">
+<div class="id">
 <b>Muslim - No.1329</b> : dari 'Aisyah ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang mukmin yang mahir membaca Al Qur'an, maka kedudukannya di akhirat ditemani oleh para malaikat yang mulia. Dan orang yang membaca Al Qur'an dengan gagap, ia sulit dalam membacanya, maka ia mendapat dua pahala."
 </div>
 </div>

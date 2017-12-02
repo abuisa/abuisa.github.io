@@ -1,19 +1,24 @@
 #!/bin/bash
+echo -e "Start to Copy......"
+cp -r ../abuisa.github.io/_site/ ./
+echo -e "Copy \t\t\t: Copy Success......"
 echo -e "Start to Clear......"
-find . -type f -exec sed -i 's/\/css/css/g' {} + # Replace string
-echo -e "css \t\t: Clear....."
-find . -type f -exec sed -i 's/https:\/\/abuisa.github.io\///g' {} + # Replace string
-echo -e "remove hostname \t: Clear....."
-find . -type f -exec sed -i 's/"\/categories"/"categories.html"/g' {} + # Replace string 
-echo -e "categories \t: Clear....."
-find . -type f -exec sed -i 's/"\/linkcolection"/"linkcolection.html"/g' {} + # Replace string 
-echo -e "linkcolection \t: Clear....."
-find . -type f -exec sed -i 's/"\/penelitian"/"penelitian.html"/g' {} + # Replace string 
-echo -e "penelitian \t: Clear....."
-find . -type f -exec sed -i 's/"\/me"/"me.html"/g' {} + # Replace string 
-echo -e "me \t\t: Clear....."
-find . -type f -exec sed -i 's/src="\/js/src="js/g' {} + # Replace string
-echo -e "Js \t\t: Clear....."
+find _site/ -type f -exec sed -i 's/\/css/css/g' {} + # Replace string
+echo -e "css \t\t\t: Clear....."
+find _site/ -type f -exec sed -i 's/https:\/\/abuisa.github.io\///g' {} + # Replace string
+echo -e "remove hostname 1\t: Clear....."
+find _site/ -type f -exec sed -i 's/http:\/\/0.0.0.0:4000\///g' {} + # Replace string
+echo -e "remove hostname 2\t: Clear....."
+find _site/ -type f -exec sed -i 's/"\/categories"/"categories.html"/g' {} + # Replace string 
+echo -e "categories \t\t: Clear....."
+find _site/ -type f -exec sed -i 's/"\/linkcolection"/"linkcolection.html"/g' {} + # Replace string 
+echo -e "linkcolection \t\t: Clear....."
+find _site/ -type f -exec sed -i 's/"\/penelitian"/"penelitian.html"/g' {} + # Replace string 
+echo -e "penelitian \t\t: Clear....."
+find _site/ -type f -exec sed -i 's/"\/me"/"me.html"/g' {} + # Replace string 
+echo -e "me \t\t\t: Clear....."
+find _site/ -type f -exec sed -i 's/src="\/js/src="js/g' {} + # Replace string
+echo -e "Js \t\t\t: Clear....."
 rm .fuse_hidden00*
 echo -e "Remove .fuse_hidden00* \t: Clear....."
 echo -e "Clear Finished !..."
