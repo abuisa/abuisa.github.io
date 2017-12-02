@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>Command Line Working with Files and Directories [Vol-2]</title>
+  <meta name="description" content="Command Line Working with Files and Directories [Vol-2]">
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="/css/main.css">
+
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="img/cantik-icon.png">
+
+ <!-- Tambahan include JQuery -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/hijricalendar-kuwaiti.js"></script>
+	<script src="js/modulku.js"></script>
+
+	<!-- Begin Jekyll SEO tag v2.2.0 -->
+<title>Command Line Working with Files and Directories [Vol-2] | IkhwanElyas Page</title>
+<meta property="og:title" content="Command Line Working with Files and Directories [Vol-2]" />
+<meta name="author" content="Ikhwan Elyas" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Command Line Working with Files and Directories [Vol-2]" />
+<meta property="og:description" content="Command Line Working with Files and Directories [Vol-2]" />
+<link rel="canonical" href="http://0.0.0.0:4000//working-with-files-and-directories-v2" />
+<meta property="og:url" content="http://0.0.0.0:4000//working-with-files-and-directories-v2" />
+<meta property="og:site_name" content="IkhwanElyas Page" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-12-02T00:00:00+07:00" />
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "BlogPosting",
+"headline": "Command Line Working with Files and Directories [Vol-2]",
+"author": {"@type": "Person",
+"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
+"datePublished": "2017-12-02T00:00:00+07:00",
+"description": "Command Line Working with Files and Directories [Vol-2]",
+"mainEntityOfPage": {"@type": "WebPage",
+"@id": "http://0.0.0.0:4000//working-with-files-and-directories-v2"},
+"url": "http://0.0.0.0:4000//working-with-files-and-directories-v2"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+
+<body>
+	<div id="wrap">
+	  	
+	  	<!-- Navigation -->
+	  	<nav id="nav">
+	<div id="nav-list">
+		<a href="http://0.0.0.0:4000/">Home</a>
+
+    <!-- Nav links -->
+	  <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+	<!-- Nav pages -->
+	  
+	    
+	  
+	    
+	  
+	    
+	      <a href="/categories" title="All Post">All Post</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/linkcolection" title="Links">Links</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/me" title="About">About</a> 
+	    
+	  
+	    
+	      <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+    
+
+	</div>
+  
+  <!-- Nav footer -->
+	
+	  <footer>
+	
+	<span>version 1.0.0</span>
+
+</footer>
+	
+
+</nav>
+
+    
+    <!-- Icon menu -->
+	  <a id="nav-menu">
+	  	<div id="menu"></div>
+	  </a>
+
+      <!-- Header -->
+      
+        <header id="header" class="parent justify-spaceBetween">
+  <div class="inner w100 relative">
+<!--
+    <span class="f-left">  
+      <a href="//">
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+-->
+    <span class="f-left">  
+      <a href="http://0.0.0.0:4000/"> <!-- |site.baseurl : / | site.url : http://0.0.0.0:4000 -->
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+    <span id="nav-links" class="absolute right bottom">
+      <!-- Nav links -->
+	    <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+      <!-- Nav pages -->
+	    
+	      
+	    
+	      
+	    
+	      
+	        <a href="/categories" title="All Post">All Post</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/linkcolection" title="Links">Links</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/me" title="About">About</a> 
+	      
+	    
+	      
+	        <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+      
+    </span>
+  </div>
+</header>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+
+
+      
+
+    <!-- Main content -->
+	  <div id="container">
+		  
+		<main>
+
+			<article id="post-page">
+	<h2>Command Line Working with Files and Directories [Vol-2]</h2>		
+	<time datetime="2017-12-02T00:00:00+07:00" class="by-line">02 Dec 2017 | Linux</time>
+	<div class="content">
+
+		<h1 id="files-and-directories"><a name="files-and-directories"></a>Files and Directories</h1>
+
+<ul>
+  <li><a href="#pwd">pwd</a></li>
+  <li><a href="#clear">clear</a></li>
+  <li><a href="#ls">ls</a></li>
+  <li><a href="#cd">cd</a></li>
+  <li><a href="#mkdir">mkdir</a></li>
+  <li><a href="#touch">touch</a></li>
+  <li><a href="#rm">rm</a></li>
+  <li><a href="#cp">cp</a></li>
+  <li><a href="#mv">mv</a></li>
+  <li><a href="#rename">rename</a></li>
+  <li><a href="#ln">ln</a></li>
+  <li><a href="#tar-and-gzip">tar and gzip</a></li>
+</ul>
+
+<p>Let’s look at commonly used commands to move around directories, create and modify files and folders. For certain commands, a list of commonly used options are also given<br />
+Make it a habit to use <code class="highlighter-rouge">man</code> command to read about a new command - for example <code class="highlighter-rouge">man ls</code></p>
+
+<p>Short descriptions shown for a command are taken from <code class="highlighter-rouge">whatis</code> or <code class="highlighter-rouge">help -d</code></p>
+
+<p><br /></p>
+
+<h3 id="pwd"><a name="pwd"></a>pwd</h3>
+
+<blockquote>
+  <p>print name of current/working directory</p>
+</blockquote>
+
+<p>Apart from knowing your current working directory, often used to copy the absolute path to be pasted elsewhere, like in a script</p>
+
+<p><br /></p>
+
+<h3 id="clear"><a name="clear"></a>clear</h3>
+
+<blockquote>
+  <p>clear the terminal screen</p>
+</blockquote>
+
+<ul>
+  <li>Use <code class="highlighter-rouge">Ctrl+l</code> to clear the terminal screen and retain already typed text (if any) on command prompt</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="ls"><a name="ls"></a>ls</h3>
+
+<blockquote>
+  <p>list directory contents</p>
+</blockquote>
+
+<p><strong>Options</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">-a</code> list hidden files also</li>
+  <li><code class="highlighter-rouge">-A</code> like <code class="highlighter-rouge">-a</code> but excluding <code class="highlighter-rouge">.</code> and <code class="highlighter-rouge">..</code></li>
+  <li><code class="highlighter-rouge">-1</code> list in single column (number one, not lowercase of letter L)</li>
+  <li><code class="highlighter-rouge">-l</code> list contents with extra details about the files (lowercase of letter L, not number one)</li>
+  <li><code class="highlighter-rouge">-h</code> display file sizes in human readable format</li>
+  <li><code class="highlighter-rouge">-t</code> sort based on time</li>
+  <li><code class="highlighter-rouge">-r</code> reverse sorting order</li>
+  <li><code class="highlighter-rouge">-R</code> recursively display sub-directories</li>
+  <li><code class="highlighter-rouge">-S</code> sort by file size
+    <ul>
+      <li>directory is treated as file and doesn’t display actual size used by directory, use <code class="highlighter-rouge">du</code> command if directory size is also needed</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">-d</code> list directory entries instead of contents</li>
+  <li><code class="highlighter-rouge">-q</code> prints ? instead of non-graphic characters like <code class="highlighter-rouge">\n</code> (Linux file names can use any character other than <code class="highlighter-rouge">/</code> and null character)</li>
+  <li><code class="highlighter-rouge">-F</code> Append a character to each file name indicating the file type (other than regular files)
+    <ul>
+      <li><code class="highlighter-rouge">/</code> for directories</li>
+      <li><code class="highlighter-rouge">*</code> for executable files</li>
+      <li><code class="highlighter-rouge">@</code> for symbolic links</li>
+      <li><code class="highlighter-rouge">|</code> for FIFOs</li>
+      <li><code class="highlighter-rouge">=</code> for sockets</li>
+      <li><code class="highlighter-rouge">&gt;</code> for doors</li>
+      <li>the indicator details are described in <code class="highlighter-rouge">info ls</code>, not in <code class="highlighter-rouge">man ls</code></li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">--color=auto</code> list contents with different color for directories, executables, etc</li>
+</ul>
+
+<p><strong>Examples</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">ls</code> list contents of current directory when argument is not given</li>
+  <li><code class="highlighter-rouge">ls /home</code> list contents of directory home present under the root directory (absolute path specified)</li>
+  <li><code class="highlighter-rouge">ls ../</code> list contents of directory one hierarchy above (relative path specified)</li>
+  <li><code class="highlighter-rouge">ls -ltr</code> list files of current directory with details sorted such that latest created/modified file is displayed last</li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/ls?sort=votes&amp;pageSize=15">ls Q&amp;A on unix stackexchange</a></li>
+  <li><a href="https://stackoverflow.com/questions/tagged/ls?sort=votes&amp;pageSize=15">ls Q&amp;A on stackoverflow</a></li>
+  <li><a href="http://mywiki.wooledge.org/ParsingLs">avoid parsing output of ls</a></li>
+  <li><a href="https://unix.stackexchange.com/questions/128985/why-not-parse-ls">why not parse ls?</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="cd"><a name="cd"></a>cd</h3>
+
+<blockquote>
+  <p>Change the shell working directory</p>
+</blockquote>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>whatis <span class="nb">cd
+cd</span>: nothing appropriate.
+<span class="gp">$ </span><span class="nb">type cd
+cd </span>is a shell <span class="nb">builtin</span>
+<span class="gp">$ </span><span class="nb">help</span> -d <span class="nb">cd
+cd</span> - Change the shell working directory.
+</code></pre>
+</div>
+
+<p><strong>Examples</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">cd /etc</code> go to ‘etc’ directory under root folder (absolute path specified)</li>
+  <li><code class="highlighter-rouge">cd -</code> switch back to previous working directory</li>
+  <li><code class="highlighter-rouge">cd ~/</code> or <code class="highlighter-rouge">cd ~</code> or <code class="highlighter-rouge">cd</code> go to home directory
+    <ul>
+      <li>as specified by <code class="highlighter-rouge">HOME</code> environment variable</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">cd ..</code> go one hierarchy back (relative path specified)</li>
+  <li><code class="highlighter-rouge">cd ../..</code> two hierarchy back (relative path specified)</li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/cd-command?sort=votes&amp;pageSize=15">cd Q&amp;A on unix stackexchange</a></li>
+  <li><a href="https://stackoverflow.com/questions/tagged/cd?sort=votes&amp;pageSize=15">cd Q&amp;A on stackoverflow</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="mkdir"><a name="mkdir"></a>mkdir</h3>
+
+<blockquote>
+  <p>make directories</p>
+</blockquote>
+
+<p><strong>Examples</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">mkdir project_adder</code> create folder project_adder in current directory</li>
+  <li><code class="highlighter-rouge">mkdir project_adder/report</code> create folder report in project_adder directory</li>
+  <li><code class="highlighter-rouge">mkdir -p project_adder/report</code> create both project_adder and report directories in one shot
+    <ul>
+      <li>if project_adder already exists, it won’t be affected</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">mkdir /home/guest1</code> add a home directory for user guest1</li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/mkdir?sort=votes&amp;pageSize=15">mkdir Q&amp;A on unix stackexchange</a></li>
+  <li><a href="https://stackoverflow.com/questions/tagged/mkdir?sort=votes&amp;pageSize=15">mkdir Q&amp;A on stackoverflow</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="touch"><a name="touch"></a>touch</h3>
+
+<blockquote>
+  <p>change file timestamps</p>
+</blockquote>
+
+<p>When a filename is passed as argument to <code class="highlighter-rouge">touch</code> command that doesn’t exist, it creates an empty file<br />
+More info on this command is covered in a later chapter</p>
+
+<ul>
+  <li><code class="highlighter-rouge">touch error.log</code> creates an empty file error.log in current directory if it doesn’t exist</li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/touch?sort=votes&amp;pageSize=15">touch Q&amp;A on unix stackexchange</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="rm"><a name="rm"></a>rm</h3>
+
+<blockquote>
+  <p>remove files and directories</p>
+</blockquote>
+
+<p><strong>Options</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">-r</code> remove recursively, used for removing directories</li>
+  <li><code class="highlighter-rouge">-f</code> force remove without prompt for non-existing files and write protected files (provided user has appropriate permissions)</li>
+  <li><code class="highlighter-rouge">-i</code> prompt before every removal</li>
+  <li><code class="highlighter-rouge">-d</code> remove empty directories</li>
+</ul>
+
+<p><strong>Examples</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">rm project_adder/power.log</code> remove file power.log from project_adder directory</li>
+  <li><code class="highlighter-rouge">rm -r project_adder</code> remove folder project_adder from current directory even if non-empty</li>
+  <li><code class="highlighter-rouge">rm -d project_tmp</code> remove project_tmp folder provided it is empty
+    <ul>
+      <li><code class="highlighter-rouge">rmdir project_tmp</code> can also be used</li>
+    </ul>
+  </li>
+  <li>If available, use <code class="highlighter-rouge">gvfs-trash</code> command to send items to trash instead of permanent deletion</li>
+  <li>Files removed using <code class="highlighter-rouge">rm</code> can still be recovered with time/skill. Use <code class="highlighter-rouge">shred</code> command to overwrite files
+    <ul>
+      <li><a href="https://unix.stackexchange.com/questions/80270/unix-linux-undelete-recover-deleted-files">recover deleted files</a></li>
+      <li><a href="https://unix.stackexchange.com/questions/2677/recovering-accidentally-deleted-files">recovering accidentally deleted files</a></li>
+      <li><a href="https://wiki.archlinux.org/index.php/Securely_wipe_disk">Securely wipe disk</a></li>
+    </ul>
+  </li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/rm?sort=votes&amp;pageSize=15">rm Q&amp;A on unix stackexchange</a></li>
+  <li><a href="https://stackoverflow.com/questions/tagged/rm?sort=votes&amp;pageSize=15">rm Q&amp;A on stackoverflow</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="cp"><a name="cp"></a>cp</h3>
+
+<blockquote>
+  <p>copy files and directories</p>
+</blockquote>
+
+<p>The destination path is always specified as the last argument. More than one source file/folder can be specified if destination is a directory</p>
+
+<p><strong>Options</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">-r</code> copy recursively, used for copying directories</li>
+  <li><code class="highlighter-rouge">-i</code> prompt before overwriting</li>
+  <li><code class="highlighter-rouge">-u</code> copy files only if newer than existing file in destination location or if file doesn’t exist in destination</li>
+</ul>
+
+<p><strong>Examples</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">cp /home/raja/Raja_resume.doc Ravi_resume.doc</code> create a copy of file Raja_resume.doc as Ravi_resume.doc in your current directory</li>
+  <li><code class="highlighter-rouge">cp /home/raja/Raja_resume.doc .</code> create a copy of file Raja_resume.doc in your current directory - name not changed in this case
+    <ul>
+      <li><code class="highlighter-rouge">.</code> represents current directory and <code class="highlighter-rouge">..</code> represents one hierarchy above</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">cp -r /home/guest1/proj_matlab ~/proj_matlab_bug_test</code> copy proj_matlab to your home directory as proj_matlab_bug_test</li>
+  <li><code class="highlighter-rouge">cp report/output.log report/timing.log .</code> copy files output.log and timing.log to current directory</li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/cp?sort=votes&amp;pageSize=15">cp Q&amp;A on unix stackexchange</a></li>
+  <li><a href="https://stackoverflow.com/questions/tagged/cp?sort=votes&amp;pageSize=15">cp Q&amp;A on stackoverflow</a></li>
+</ul>
+
+<p>Also check out</p>
+
+<ul>
+  <li><code class="highlighter-rouge">rsync</code> a fast, versatile, remote (and local) file-copying tool</li>
+  <li><a href="http://www.tutorialspoint.com/articles/rsync-command-examples-on-linux">rsync examples</a></li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/rsync?sort=votes&amp;pageSize=15">rsync Q&amp;A on unix stackexchange</a></li>
+  <li><a href="https://stackoverflow.com/questions/tagged/rsync?sort=votes&amp;pageSize=15">rsync Q&amp;A on stackoverflow</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="mv"><a name="mv"></a>mv</h3>
+
+<blockquote>
+  <p>move (rename) files</p>
+</blockquote>
+
+<p>The destination path is always specified as the last argument. More than one source file/folder can be specified if destination is a directory</p>
+
+<p><strong>Options</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">-f</code> don’t prompt for overwriting and moving write protected files (provided user has appropriate permissions)</li>
+  <li><code class="highlighter-rouge">-i</code> prompt before overwriting</li>
+</ul>
+
+<p><strong>Examples</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">mv project_adder project_lowpower_adder</code> rename file or folder</li>
+  <li><code class="highlighter-rouge">mv power.log timing.log area.log project_multiplier/result/</code> move the specified files to result directory</li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/mv?sort=votes&amp;pageSize=15">mv Q&amp;A on unix stackexchange</a></li>
+  <li><a href="https://stackoverflow.com/questions/tagged/mv?sort=votes&amp;pageSize=15">mv Q&amp;A on stackoverflow</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="rename"><a name="rename"></a>rename</h3>
+
+<blockquote>
+  <p>renames multiple files</p>
+</blockquote>
+
+<p>Note: The <code class="highlighter-rouge">perl</code> based <code class="highlighter-rouge">rename</code> is presented here and different from <a href="https://linux.die.net/man/1/rename">util-linux-ng version</a>. Check <code class="highlighter-rouge">man rename</code> for details</p>
+
+<p><strong>Options</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">-f</code> overwrite existing files</li>
+  <li><code class="highlighter-rouge">-n</code> dry run without actually renaming files</li>
+</ul>
+
+<p><strong>Examples</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">rename 's/\.JPG$/.jpg/' *JPG</code> change the file extension from ‘.JPG’ to ‘.jpg’</li>
+  <li><code class="highlighter-rouge">rename 's/ /_/g' *</code> replace all ‘space’ characters in filenames with ‘_’</li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/rename?sort=votes&amp;pageSize=15">rename Q&amp;A on unix stackexchange</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="ln"><a name="ln"></a>ln</h3>
+
+<blockquote>
+  <p>make links between files</p>
+</blockquote>
+
+<p>Create hard or soft link of file or folder. Soft link is similar to short-cuts created in Windows. Hard link is like same file with different name, same timestamp and permissions of original file. Hard links can be moved to another directory after creation, will still have content even when original file is deleted. On the other hand, soft links have their own timestamps and permissions, it cannot be moved to another folder unless the link creation was done using full path and of course becomes a dead link when original file is deleted. More differences <a href="https://askubuntu.com/questions/108771/what-is-the-difference-between-a-hard-link-and-a-symbolic-link">here</a></p>
+
+<p><strong>Examples</strong></p>
+
+<ul>
+  <li><code class="highlighter-rouge">ln -s results/report.log .</code> create a symbolic link of report.log from results folder to current directory</li>
+  <li><code class="highlighter-rouge">ln results/report.log report.log</code> create a hard link of report.log from results folder to current directory, will not lose content even if results/report.log file is deleted</li>
+  <li><code class="highlighter-rouge">unlink report.log</code> delete link
+    <ul>
+      <li><code class="highlighter-rouge">rm report.log</code> can also be used</li>
+    </ul>
+  </li>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/ln?sort=votes&amp;pageSize=15">ln Q&amp;A on unix stackexchange</a></li>
+  <li><a href="https://stackoverflow.com/questions/tagged/ln?sort=votes&amp;pageSize=15">ln Q&amp;A on stackoverflow</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="tar-and-gzip"><a name="tar-and-gzip"></a>tar and gzip</h3>
+
+<p><code class="highlighter-rouge">tar</code> is archiving utility. The archived file is same size as combined sizes of archived files<br />
+Usually so often combined with compression utility like <code class="highlighter-rouge">gzip</code> that there is a way to do it just using the <code class="highlighter-rouge">tar</code> command.</p>
+
+<p><strong>Examples</strong></p>
+
+<p>Archive and Compression</p>
+
+<ul>
+  <li><code class="highlighter-rouge">tar -cvf backup_mar15.tar project results</code> create backup_mar15.tar of files/folders project and results
+    <ul>
+      <li><code class="highlighter-rouge">-v</code> option stands for verbose, i.e displays all the files and directories being archived</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">gzip backup_mar15.tar</code> overwrites backup_mar15.tar with backup_mar15.tar.gz, a compressed version</li>
+  <li><code class="highlighter-rouge">tar cvfz backup_mar15.tar.gz project results</code> create backup_mar15.tar and overwrite with backup_mar15.tar.gz</li>
+</ul>
+
+<p>Extract archive and Decompression</p>
+
+<ul>
+  <li><code class="highlighter-rouge">gunzip backup_mar15.tar.gz</code> decompress and overwrite as backup_mar15.tar</li>
+  <li><code class="highlighter-rouge">tar -xvf backup_mar15.tar</code> extract archived files to current directory</li>
+  <li><code class="highlighter-rouge">tar xvfz backup_mar15.tar.gz</code> decompress and extract archived files to current directory</li>
+</ul>
+
+<p>z commands</p>
+
+<ul>
+  <li><code class="highlighter-rouge">zcat story.txt.gz</code> display file contents of compressed file on standard output</li>
+  <li><code class="highlighter-rouge">zless story.txt.gz</code> display file contents of compressed file one screenful at a time</li>
+  <li>There are other commands as well like <code class="highlighter-rouge">zgrep</code>, <code class="highlighter-rouge">zdiff</code>, <code class="highlighter-rouge">zcmp</code> etc to work on compressed files</li>
+</ul>
+
+<p><strong>Further Reading</strong></p>
+
+<ul>
+  <li><a href="https://unix.stackexchange.com/questions/tagged/tar?sort=votes&amp;pageSize=15">tar Q&amp;A on unix stackexchange</a></li>
+  <li><a href="https://stackoverflow.com/questions/tagged/tar?sort=votes&amp;pageSize=15">tar Q&amp;A on stackoverflow</a></li>
+</ul>
+
+		
+	</div>
+</article>
+
+
+
+	  </main>
+		
+		  <!-- Pagination links -->
+      
+
+	  </div>
+	    
+	    <!-- Footer -->
+	    <footer><span>@2017 -  <a href="http://0.0.0.0:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+</footer>
+
+
+<!-- original script :
+| <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+<footer><span>@2017 -  <a href="//">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+</footer>
+-->
+
+
+	    <!-- Script -->
+      <script src="/js/main.js"></script>	
+
+
+	</div>
+</body>
+</html>

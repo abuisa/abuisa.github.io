@@ -1,11 +1,12 @@
 ---
-title: Raspberry-Pi
-description: Raspberry-Pi
-header: Raspberry-Pi
+title: All About Raspberry-Pi
+description: All About Raspberry-Pi
+header: All About Raspberry-Pi
 categories: DigitalForensik
 ---
 
-# Raspberry-Pi
+# All About Raspberry-Pi
+
 Raspberry Pi A to Z List
 **Basics Raspberry Pi**
 The Raspberry Pi was originally designed for educational purposes to use in schools and universities, and to make class and study more interesting.

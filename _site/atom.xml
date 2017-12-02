@@ -4,7 +4,7 @@
  <title>IkhwanElyas Page</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <id>http://0.0.0.0:4000</id>
- <updated>2017-12-02T18:34:14+07:00</updated>
+ <updated>2017-12-03T00:54:22+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -14,11 +14,31 @@
  
 
  <entry>
+   <title>Command Line Working with Files and Directories [Vol-2]</title>
+   <link href="http://0.0.0.0:4000/working-with-files-and-directories-v2"/>
+   <id>http://0.0.0.0:4000/working-with-files-and-directories-v2</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;files-and-directories&quot;&gt;&lt;a name=&quot;files-and-directories&quot;&gt;&lt;/a&gt;Files and Directories&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#pwd&quot;&gt;pwd&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#clear&quot;&gt;clear&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#ls&quot;&gt;ls&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cd&quot;&gt;cd&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#mkdir&quot;&gt;mkdir&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#touch&quot;&gt;touch&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#rm&quot;&gt;rm&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cp&quot;&gt;cp&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#mv&quot;&gt;mv&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#rename&quot;&gt;rename&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#ln&quot;&gt;ln&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#tar-and-gzip&quot;&gt;tar and gzip&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Let’s look at commonly used commands to move around directories, create and modify files and folders. For...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Command Line Working with Files and Directories [Vol-1]</title>
+   <link href="http://0.0.0.0:4000/working-with-files-and-directories-v1"/>
+   <id>http://0.0.0.0:4000/working-with-files-and-directories-v1</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;files-and-directories&quot;&gt;&lt;a name=&quot;files-and-directories&quot;&gt;&lt;/a&gt;Files and Directories&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#pwd&quot;&gt;pwd&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#clear&quot;&gt;clear&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#ls&quot;&gt;ls&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cd&quot;&gt;cd&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#mkdir&quot;&gt;mkdir&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#touch&quot;&gt;touch&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#rm&quot;&gt;rm&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cp&quot;&gt;cp&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#mv&quot;&gt;mv&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#rename&quot;&gt;rename&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#ln&quot;&gt;ln&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#tar-and-gzip&quot;&gt;tar and gzip&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Let’s look at commonly used commands to move around directories, create and modify files and folders. For...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>WGET for Download same webpage name to N times</title>
    <link href="http://0.0.0.0:4000/wget-to-download-web-page-n-times"/>
    <id>http://0.0.0.0:4000/wget-to-download-web-page-n-times</id>
    <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h2 id=&quot;wget-for-download-same-webpage-name-to-n-times&quot;&gt;WGET for Download same webpage name to N times&lt;/h2&gt; &lt;p&gt;Bash Script untuk mendowload halaman web yang memiliki kesamaan nama dan hanya dibedakan dengan angka, dapat menggunakan script ini untuk mendowload halaman tersebut, berikut script tersebut yang menggunakan tool wget untuk melakukannya :&lt;/p&gt; &lt;h3 id=&quot;script-use-wget-to-download-web-page-&quot;&gt;Script use wget to download web...</content>
+   <content type="html">&lt;p&gt;Bash Script untuk mendowload halaman web yang memiliki kesamaan nama dan hanya dibedakan dengan angka, dapat menggunakan script ini untuk mendowload halaman tersebut, berikut script tersebut yang menggunakan tool wget untuk melakukannya :&lt;/p&gt; &lt;h3 id=&quot;script-use-wget-to-download-web-page-&quot;&gt;Script use wget to download web page :&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;...</content>
  </entry>
 
  
@@ -34,81 +54,61 @@
  
 
  <entry>
+   <title>Linux Command Line Text Processing</title>
+   <link href="http://0.0.0.0:4000/linux-command-line-text-processing"/>
+   <id>http://0.0.0.0:4000/linux-command-line-text-processing</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;text-processing&quot;&gt;&lt;a name=&quot;text-processing&quot;&gt;&lt;/a&gt;Text Processing&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#sort&quot;&gt;sort&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#uniq&quot;&gt;uniq&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#comm&quot;&gt;comm&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cmp&quot;&gt;cmp&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#diff&quot;&gt;diff&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#tr&quot;&gt;tr&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#sed&quot;&gt;sed&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#awk&quot;&gt;awk&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#perl&quot;&gt;perl&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cut&quot;&gt;cut&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#paste&quot;&gt;paste&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#column&quot;&gt;column&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#pr&quot;&gt;pr&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The rich set of text processing commands is comprehensive and time saving. Knowing even their existence is enough...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Linux Command Line Shell</title>
+   <link href="http://0.0.0.0:4000/linux-command-line-shell"/>
+   <id>http://0.0.0.0:4000/linux-command-line-shell</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;shell&quot;&gt;&lt;a name=&quot;shell&quot;&gt;&lt;/a&gt;Shell&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#what-is-shell&quot;&gt;What is Shell?&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#popular-shells&quot;&gt;Popular Shells&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#wildcards&quot;&gt;Wildcards&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#redirection&quot;&gt;Redirection&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#process-control&quot;&gt;Process Control&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#running-jobs-in-background&quot;&gt;Running jobs in background&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;what-is-shell&quot;&gt;&lt;a name=&quot;what-is-shell&quot;&gt;&lt;/a&gt;What is Shell?&lt;/h3&gt; &lt;p&gt;Quoting from &lt;a href=&quot;https://en.wikipedia.org/wiki/Unix_shell&quot;&gt;wikipedia&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;A Unix shell is a command-line interpreter or shell that provides a traditional Unix-like...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Linux Command Line Shell Scripting</title>
+   <link href="http://0.0.0.0:4000/linux-command-line-shell-Scripting"/>
+   <id>http://0.0.0.0:4000/linux-command-line-shell-Scripting</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;shell-scripting&quot;&gt;&lt;a name=&quot;shell-scripting&quot;&gt;&lt;/a&gt;Shell Scripting&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#need-for-scripting&quot;&gt;Need for scripting&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#hello-script&quot;&gt;Hello script&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#sourcing-script&quot;&gt;Sourcing script&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#command-line-arguments&quot;&gt;Command Line Arguments&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#variables-and-comparisons&quot;&gt;Variables and Comparisons&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#accepting-user-input-interactively&quot;&gt;Accepting User Input interactively&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#if-then-else&quot;&gt;if then else&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#for-loop&quot;&gt;for loop&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#while-loop&quot;&gt;while loop&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#reading-file&quot;&gt;Reading a file&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#debugging&quot;&gt;Debugging&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#real-world-use-case&quot;&gt;Real world use case&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Linux Command Line Shell Customization</title>
+   <link href="http://0.0.0.0:4000/linux-command-line-shell-Customization"/>
+   <id>http://0.0.0.0:4000/linux-command-line-shell-Customization</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;shell-customization&quot;&gt;&lt;a name=&quot;shell-customization&quot;&gt;&lt;/a&gt;Shell Customization&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#variables&quot;&gt;Variables&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#config-files&quot;&gt;Config files&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#emac-mode-readline-shortcuts&quot;&gt;Emac mode Readline shortcuts&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;variables&quot;&gt;&lt;a name=&quot;variables&quot;&gt;&lt;/a&gt;Variables&lt;/h3&gt; &lt;p&gt;Quoting from &lt;a href=&quot;http://www.tricksofthetrades.net/2015/06/14/notes-bash-env-variables/&quot;&gt;article on BASH Environment &amp;amp; Shell Variables&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Variables provide a simple way to share configuration settings between multiple applications and processes in Linux, and are...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Linux Command Line introduction</title>
+   <link href="http://0.0.0.0:4000/linux-command-line-introduction"/>
+   <id>http://0.0.0.0:4000/linux-command-line-introduction</id>
+   <updated>2017-12-02T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;command-line-introduction&quot;&gt;&lt;a name=&quot;command-line-introduction&quot;&gt;&lt;/a&gt;Command Line introduction&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#file-system&quot;&gt;File System&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#command-line-interface&quot;&gt;Command Line Interface&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#command-help&quot;&gt;Command Help&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#do-one-thing-well&quot;&gt;Do one thing and do it well&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;For any thing that is repetitive or programmable, there likely is a relevant command. Ask your peers or search online before you start writing a...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Book for Free to Study and Trainig LINUX</title>
    <link href="http://0.0.0.0:4000/book-for-free-to-study-linux"/>
    <id>http://0.0.0.0:4000/book-for-free-to-study-linux</id>
    <updated>2017-12-02T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;artikel--e-book-di-copy-dari-linux-trainingbe&quot;&gt;Artikel &amp;amp; E-Book di-Copy dari &lt;a href=&quot;http://linux-training.be/&quot; target=&quot;_blank&quot;&gt;linux-training.be&lt;/a&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;reff/linux/linux_training_be/linuxfun.pdf&quot; target=&quot;_blank&quot;&gt;Linux Fundamentals.pdf&lt;/a&gt; teaches you the very fundamentals of Linux (or Unix!). This book is for beginners, novices, anyone who wants to become a Linux developer or Linux system administrator. It contains basic knowledge, but advanced users will also...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Raspberry-Pi</title>
-   <link href="http://0.0.0.0:4000/Raspberry-Pi"/>
-   <id>http://0.0.0.0:4000/Raspberry-Pi</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h1 id=&quot;raspberry-pi&quot;&gt;Raspberry-Pi&lt;/h1&gt; &lt;p&gt;Raspberry Pi A to Z List &lt;strong&gt;Basics Raspberry Pi&lt;/strong&gt; The Raspberry Pi was originally designed for educational purposes to use in schools and universities, and to make class and study more interesting. Unfortunately, the practical use of the Raspberry Pi or a comparable single-board computer in Germany, Austria...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Manusia hanya Berusaha, Allah yang Memenuhi Segalanya</title>
-   <link href="http://0.0.0.0:4000/manusia-berusaha-Allah-yang-menentukan"/>
-   <id>http://0.0.0.0:4000/manusia-berusaha-Allah-yang-menentukan</id>
-   <updated>2017-11-28T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Dalam Hadist Qudsi-Nya, Allah berfirman, “Wahai Anak Adam, engkau lah yang mengisi (buku catatan amalmu) dan Aku yang mencatatnya. &lt;br /&gt;&lt;/p&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;ar&quot;&gt; وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ -١٠- كِرَاماً كَاتِبِينَ -١١- يَعْلَمُونَ مَا تَفْعَلُونَ -١٢- &lt;/div&gt; &lt;div class=&quot;id&quot;&gt; “Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu), yang mulia...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Hal-Hal Seputar Munafiq dan Orang Munafik</title>
-   <link href="http://0.0.0.0:4000/hal-seputar-munafiq-dan-orang-munafiq"/>
-   <id>http://0.0.0.0:4000/hal-seputar-munafiq-dan-orang-munafiq</id>
-   <updated>2017-11-28T00:00:00+07:00</updated>
-   <content type="html">&lt;div class=&quot;tocContainer&quot;&gt; &lt;div class=&quot;tocContainer&quot;&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;ar&quot;&gt; النفاق هو عملية تزييف للأخلاق ويدلّ على الصفات الحقيقية، وهو صفة مكروهةٌ في ديننا ومنهي عنها. أتمنى لكم حياة جميلة خالية من النفاق والمنافقين، وهنا بعض من أقوال عن النفاق والمنافقين. &lt;/div&gt; &lt;div class=&quot;arxx&quot;&gt; أقوال عن النفاق والمنافقين &lt;/div&gt; &lt;div class=&quot;ar&quot;&gt; &lt;ol&gt;...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Praktek menggunakan FIND dan SED dan</title>
-   <link href="http://0.0.0.0:4000/menggunakan-grep-dan-sed"/>
-   <id>http://0.0.0.0:4000/menggunakan-grep-dan-sed</id>
-   <updated>2017-11-24T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;cari-dan-replace-string&quot;&gt;Cari dan Replace String&lt;/h3&gt; &lt;blockquote&gt; &lt;p&gt;find . -type f -exec sed -i ‘s/\/css/css/g’ {} +&lt;/p&gt; &lt;/blockquote&gt; &lt;ul&gt; &lt;li&gt;Perintah diatas &lt;code class=&quot;highlighter-rouge&quot;&gt;find . -type f &lt;/code&gt; adalah perintah untuk mencari file dengan hanya mencari file tanpa directory.&lt;/li&gt; &lt;li&gt;Sedangkan perintah &lt;code class=&quot;highlighter-rouge&quot;&gt;sed -i 's/\/css/css/g'&lt;/code&gt; diatas untuk mencari string &lt;code class=&quot;highlighter-rouge&quot;&gt;/css&lt;/code&gt; untuk...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Sunnah dan Keutamaan Hari Jum'at</title>
-   <link href="http://0.0.0.0:4000/tentang-hari-jumat"/>
-   <id>http://0.0.0.0:4000/tentang-hari-jumat</id>
-   <updated>2017-11-19T00:00:00+07:00</updated>
-   <content type="html">&lt;h2 id=&quot;sunnah-sunnah-di-hari-jumat-&quot;&gt;Sunnah-Sunnah di hari jum’at :&lt;/h2&gt; &lt;p&gt;&lt;br /&gt; &lt;img src=&quot;img/agama/jumat_02.jpg&quot; alt=&quot;fdisk-l&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;banyak-pahala-kebaikan-yang-bisa-kawan-perolah-di-hari-jumat-berikut-ini-beberapa-amalan-istimewa-di-hari-jumat&quot;&gt;Banyak pahala kebaikan yang bisa kawan perolah di hari Jum’at. Berikut ini beberapa amalan istimewa di hari Jum’at:&lt;/h3&gt; &lt;ol&gt; &lt;li&gt; &lt;p&gt;Membaca surat al-Kahfi pada malam Jum’at. Dibolehkan membacanya di siang hari bila tidak sempat membacanya di malam...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Doa-Doa dari Al-quran dan As-Sunnah</title>
-   <link href="http://0.0.0.0:4000/Doa-Doa-dari-Al-quran-dan-As-Sunnah"/>
-   <id>http://0.0.0.0:4000/Doa-Doa-dari-Al-quran-dan-As-Sunnah</id>
-   <updated>2017-11-18T00:00:00+07:00</updated>
-   <content type="html">&lt;h2 id=&quot;doa-doa-dari-al-quran-&quot;&gt;Doa-Doa dari Al-Quran :&lt;/h2&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاء وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاء وَتُعِزُّ مَن تَشَاء وَتُذِلُّ مَن تَشَاء بِيَدِكَ الْخَيْرُ إِنَّكَ عَلَىَ كُلِّ شَيْءٍ قَدِيرٌ. &lt;/div&gt; &lt;div class=&quot;arx&quot;&gt; تُولِجُ اللَّيْلَ فِي الْنَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الَمَيَّتَ...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Ringkasan Sifat Shalat</title>
-   <link href="http://0.0.0.0:4000/Ringkasan-Sifat-Shalat-Nabi-Shallallahu-Alaihi-Wa-Sallam"/>
-   <id>http://0.0.0.0:4000/Ringkasan-Sifat-Shalat-Nabi-Shallallahu-Alaihi-Wa-Sallam</id>
-   <updated>2017-11-16T00:00:00+07:00</updated>
-   <content type="html">&lt;h4 id=&quot;daftar-isi-id&quot;&gt;Daftar Isi [ID]:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#babb1&quot;&gt;BAB 1. Menghadap Ka’bah &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb2&quot;&gt;BAB 2. Berdiri &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb3&quot;&gt;BAB 3. Niat &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb4&quot;&gt;BAB 4. Takbir &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#babb5&quot;&gt;BAB 5. Bacaan &lt;/a&gt; &lt;br /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;daftar-isi-ar-&quot;&gt;Daftar Isi [AR] :&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#bab1&quot;&gt;BAB 1. استقبال الكعبة &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab2&quot;&gt;BAB 2. القيام...</content>
  </entry>
 
  

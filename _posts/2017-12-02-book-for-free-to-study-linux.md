@@ -14,7 +14,11 @@ categories: Linux
 * [Linux Security.pdf](reff/linux/linux_training_be/linuxsec.pdf){:target="_blank"} focuses on all topics related to security such as file permissions, acls, SELinux, users and passwords, and more.
 * [Linux Networking.pdf](reff/linux/linux_training_be/linuxnet.pdf){:target="_blank"} (soon) will focus on all things related to Linux in a network.
 
-
+### E-Book Lainnya : 
+* [The Linux Command Line.pdf - by: William E. Shotts Jr.](reff/linux/linux_training_be/TheLinuxCommandLine.pdf){:target="_blank"}
+* [GNU/Linux Command−Line Tools Summary.pdf - by: Gareth Anderson](reff/linux/linux_training_be/GNU-Linux-Tools-Summary.pdf){:target="_blank"}
+* [Linux for Dummies 9th Edition.pdf - by: Richard Blum & Dee-Ann LeBlanc](reff/linux/linux_training_be/Linux-Dummies-9th.pdf){:target="_blank"}
+* [Linux Bible 9th Edition.pdf - by: Christopher Negus](reff/linux/linux_training_be/Linux-Bible-9th-Edition.pdf){:target="_blank"}
 <br />
 <hr />
 Post by : Admin.

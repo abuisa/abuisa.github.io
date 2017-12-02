@@ -112,6 +112,8 @@
 	  
 	    
 	  
+	    
+	  
     
 
 	</div>
@@ -204,6 +206,8 @@
 	    
 	      
 	    
+	      
+	    
       
     </span>
   </div>
@@ -224,8 +228,7 @@
 	<time datetime="2017-12-02T00:00:00+07:00" class="by-line">02 Dec 2017 | Linux</time>
 	<div class="content">
 
-		<h2 id="wget-for-download-same-webpage-name-to-n-times">WGET for Download same webpage name to N times</h2>
-<p>Bash Script untuk mendowload halaman web yang memiliki kesamaan nama dan hanya dibedakan dengan angka, dapat menggunakan script ini untuk mendowload halaman tersebut, berikut script tersebut yang menggunakan tool wget untuk melakukannya :</p>
+		<p>Bash Script untuk mendowload halaman web yang memiliki kesamaan nama dan hanya dibedakan dengan angka, dapat menggunakan script ini untuk mendowload halaman tersebut, berikut script tersebut yang menggunakan tool wget untuk melakukannya :</p>
 
 <h3 id="script-use-wget-to-download-web-page-">Script use wget to download web page :</h3>
 
@@ -248,26 +251,40 @@
 17
 18
 19
-20</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+20
+21
+22
+23
+24
+25
+26
+27</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
 <span class="k">for</span> <span class="o">((</span> <span class="nv">c</span><span class="o">=</span>1; c&lt;<span class="o">=</span>6; c++ <span class="o">))</span>
 <span class="k">do  
 	</span>wget http://linux-training.be/storage/pt0<span class="nv">$c</span>.html
 	<span class="nb">echo</span> <span class="s2">"http://linux-training.be/storage/pt0</span><span class="nv">$c</span><span class="s2">.html"</span>
 	<span class="c">#   echo "Welcome $c times"</span>
-<span class="k">done
+<span class="k">done</span>
+<span class="c">### --- OR ---  : Hapus tanda '#' untuk mengaktifkan perintah</span>
+<span class="c">### wget http://linux-training.be/storage/pt0{1..4}.html #</span>
 
-for</span> <span class="o">((</span> <span class="nv">c</span><span class="o">=</span>1; c&lt;<span class="o">=</span>9; c++ <span class="o">))</span>
+<span class="k">for</span> <span class="o">((</span> <span class="nv">c</span><span class="o">=</span>1; c&lt;<span class="o">=</span>9; c++ <span class="o">))</span>
 <span class="k">do  
 	</span>wget http://linux-training.be/storage/ch0<span class="nv">$c</span>.html
 	<span class="nb">echo</span> <span class="s2">"http://linux-training.be/storage/ch0</span><span class="nv">$c</span><span class="s2">.html"</span>
 	<span class="c">#   echo "Welcome $c times"</span>
-<span class="k">done
-for</span> <span class="o">((</span> <span class="nv">c</span><span class="o">=</span>10; c&lt;<span class="o">=</span>26; c++ <span class="o">))</span>
+<span class="k">done</span>
+<span class="c">### --- OR --- : Hapus tanda '#' untuk mengaktifkan perintah</span>
+<span class="c">### wget http://linux-training.be/storage/ch0{1..9}.html # </span>
+
+<span class="k">for</span> <span class="o">((</span> <span class="nv">c</span><span class="o">=</span>10; c&lt;<span class="o">=</span>26; c++ <span class="o">))</span>
 <span class="k">do  
 	</span>wget http://linux-training.be/storage/ch<span class="nv">$c</span>.html
 	<span class="nb">echo</span> <span class="s2">"http://linux-training.be/storage/ch</span><span class="nv">$c</span><span class="s2">.html"</span>
 	<span class="c">#   echo "Welcome $c times"</span>
-<span class="k">done</span><span class="w">
+<span class="k">done</span>
+<span class="c">### --- OR --- : Hapus tanda '#' untuk mengaktifkan perintah</span>
+<span class="c">### wget http://linux-training.be/storage/ch{10..26}.html #</span><span class="w">
 </span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="contoh-hasil-screenshot-">Contoh Hasil Screenshot :</h3>

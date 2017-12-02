@@ -5,7 +5,7 @@ header: WGET for Download same webpage name to N times
 categories: Linux
 ---
 
-## WGET for Download same webpage name to N times 
+ 
 Bash Script untuk mendowload halaman web yang memiliki kesamaan nama dan hanya dibedakan dengan angka, dapat menggunakan script ini untuk mendowload halaman tersebut, berikut script tersebut yang menggunakan tool wget untuk melakukannya : 
 
 ### Script use wget to download web page : 
@@ -19,6 +19,8 @@ do
 	echo "http://linux-training.be/storage/pt0$c.html"
 	#   echo "Welcome $c times"
 done
+### --- OR ---  : Hapus tanda '#' untuk mengaktifkan perintah
+### wget http://linux-training.be/storage/pt0{1..4}.html #
 
 for (( c=1; c<=9; c++ ))
 do  
@@ -26,12 +28,17 @@ do
 	echo "http://linux-training.be/storage/ch0$c.html"
 	#   echo "Welcome $c times"
 done
+### --- OR --- : Hapus tanda '#' untuk mengaktifkan perintah
+### wget http://linux-training.be/storage/ch0{1..9}.html # 
+
 for (( c=10; c<=26; c++ ))
 do  
 	wget http://linux-training.be/storage/ch$c.html
 	echo "http://linux-training.be/storage/ch$c.html"
 	#   echo "Welcome $c times"
 done
+### --- OR --- : Hapus tanda '#' untuk mengaktifkan perintah
+### wget http://linux-training.be/storage/ch{10..26}.html #
 
 {% endhighlight %}
 

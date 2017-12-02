@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>Linux Command Line introduction</title>
+  <meta name="description" content="Linux Command Line introduction">
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="/css/main.css">
+
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="img/cantik-icon.png">
+
+ <!-- Tambahan include JQuery -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/hijricalendar-kuwaiti.js"></script>
+	<script src="js/modulku.js"></script>
+
+	<!-- Begin Jekyll SEO tag v2.2.0 -->
+<title>Linux Command Line introduction | IkhwanElyas Page</title>
+<meta property="og:title" content="Linux Command Line introduction" />
+<meta name="author" content="Ikhwan Elyas" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Linux Command Line introduction" />
+<meta property="og:description" content="Linux Command Line introduction" />
+<link rel="canonical" href="http://0.0.0.0:4000//linux-command-line-introduction" />
+<meta property="og:url" content="http://0.0.0.0:4000//linux-command-line-introduction" />
+<meta property="og:site_name" content="IkhwanElyas Page" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-12-02T00:00:00+07:00" />
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "BlogPosting",
+"headline": "Linux Command Line introduction",
+"author": {"@type": "Person",
+"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
+"datePublished": "2017-12-02T00:00:00+07:00",
+"description": "Linux Command Line introduction",
+"mainEntityOfPage": {"@type": "WebPage",
+"@id": "http://0.0.0.0:4000//linux-command-line-introduction"},
+"url": "http://0.0.0.0:4000//linux-command-line-introduction"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+
+<body>
+	<div id="wrap">
+	  	
+	  	<!-- Navigation -->
+	  	<nav id="nav">
+	<div id="nav-list">
+		<a href="http://0.0.0.0:4000/">Home</a>
+
+    <!-- Nav links -->
+	  <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+	<!-- Nav pages -->
+	  
+	    
+	  
+	    
+	  
+	    
+	      <a href="/categories" title="All Post">All Post</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/linkcolection" title="Links">Links</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/me" title="About">About</a> 
+	    
+	  
+	    
+	      <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+    
+
+	</div>
+  
+  <!-- Nav footer -->
+	
+	  <footer>
+	
+	<span>version 1.0.0</span>
+
+</footer>
+	
+
+</nav>
+
+    
+    <!-- Icon menu -->
+	  <a id="nav-menu">
+	  	<div id="menu"></div>
+	  </a>
+
+      <!-- Header -->
+      
+        <header id="header" class="parent justify-spaceBetween">
+  <div class="inner w100 relative">
+<!--
+    <span class="f-left">  
+      <a href="//">
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+-->
+    <span class="f-left">  
+      <a href="http://0.0.0.0:4000/"> <!-- |site.baseurl : / | site.url : http://0.0.0.0:4000 -->
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+    <span id="nav-links" class="absolute right bottom">
+      <!-- Nav links -->
+	    <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+      <!-- Nav pages -->
+	    
+	      
+	    
+	      
+	    
+	      
+	        <a href="/categories" title="All Post">All Post</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/linkcolection" title="Links">Links</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/me" title="About">About</a> 
+	      
+	    
+	      
+	        <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+      
+    </span>
+  </div>
+</header>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+
+
+      
+
+    <!-- Main content -->
+	  <div id="container">
+		  
+		<main>
+
+			<article id="post-page">
+	<h2>Linux Command Line introduction</h2>		
+	<time datetime="2017-12-02T00:00:00+07:00" class="by-line">02 Dec 2017 | Linux</time>
+	<div class="content">
+
+		<h1 id="command-line-introduction"><a name="command-line-introduction"></a>Command Line introduction</h1>
+
+<ul>
+  <li><a href="#file-system">File System</a></li>
+  <li><a href="#command-line-interface">Command Line Interface</a></li>
+  <li><a href="#command-help">Command Help</a></li>
+  <li><a href="#do-one-thing-well">Do one thing and do it well</a></li>
+</ul>
+
+<p>For any thing that is repetitive or programmable, there likely is a relevant command. Ask your peers or search online before you start writing a script. Just remember that Unix was first introduced in late 1960s - there is likely to be a command for what you need</p>
+
+<p>Starting trouble with command line (for those accustomed to GUI) is the sudden trouble of interacting with the computer using just text commands. After using for a week or so, things will seem very systematic and GUI feels ill suited for frequent tasks. With continuous use, recalling various commands becomes easier. Short-cuts, history, aliases and tab-completion help in the process</p>
+
+<p>If you’ve used a scientific calculator, you’d know that it is handy with too many functionalities cramped into tiny screen and plethora of multi-purpose buttons. Commands and short-cuts pack much more punch than that on a terminal.</p>
+
+<ul>
+  <li>Commands presented here are GNU/Linux specific and generally behave similarly across distros</li>
+  <li>Commands in GNU/Linux usually have a few different options and syntax than <a href="http://en.wikipedia.org/wiki/POSIX">POSIX</a> specification
+    <ul>
+      <li><code class="highlighter-rouge">man</code> and <code class="highlighter-rouge">info</code> pages of commands come in handy</li>
+    </ul>
+  </li>
+  <li>If any command is not found in a particular distro, either it has to be manually installed or not available for that distro</li>
+  <li>The <strong>bash</strong> shell version 4+ is used throughout this material
+    <ul>
+      <li><a href="http://wiki.bash-hackers.org/scripting/bashchanges">rough overview of changes to Bash over time</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="file-system"><a name="file-system"></a>File System</h3>
+
+<p>Before we dive into ocean of commands, lets get a brief on Linux file system. If you’ve used Windows, you would be familiar with <code class="highlighter-rouge">C:</code> <code class="highlighter-rouge">D:</code> etc.<br />
+In Linux, directory structure starts with <code class="highlighter-rouge">/</code> symbol, which is referred as the <code class="highlighter-rouge">root</code> directory</p>
+
+<ul>
+  <li><code class="highlighter-rouge">man hier</code> gives description of the filesystem hierarchy. A few examples:
+    <ul>
+      <li><code class="highlighter-rouge">/</code> This is the root directory. This is where the whole tree starts.</li>
+      <li><code class="highlighter-rouge">/bin</code> This directory contains executable programs which are needed in single user mode and to bring the system up or repair it.</li>
+      <li><code class="highlighter-rouge">/home</code> On machines with home directories for users, these are usually beneath this directory, directly or not. The structure of this directory depends on local administration decisions.</li>
+      <li><code class="highlighter-rouge">/tmp</code> This directory contains temporary files which may be deleted with no notice, such as by a regular job or at system boot up.</li>
+      <li><code class="highlighter-rouge">/usr</code> This directory is usually mounted from a separate partition. It should hold only sharable, read-only data, so that it can be mounted by various machines running Linux.</li>
+      <li><code class="highlighter-rouge">/usr/bin</code> This is the primary directory for executable programs. Most programs executed by normal users which are not needed for booting or for repairing the system and which are not installed locally should be placed in this directory.</li>
+      <li><code class="highlighter-rouge">/usr/share</code> This directory contains subdirectories with specific application data, that can be shared among different architectures of the same OS. Often one finds stuff here that used to live in /usr/doc or /usr/lib or /usr/man.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Absolute and Relative paths</strong></p>
+
+<p>Quoting <a href="https://en.wikipedia.org/wiki/Path_%28computing%29#Absolute_and_relative_paths">wikipedia</a></p>
+
+<blockquote>
+  <p>An <strong>absolute or full path</strong> points to the same location in a file system regardless of the current working directory. To do that, it must contain the root directory.</p>
+</blockquote>
+
+<blockquote>
+  <p>By contrast, a <strong>relative path</strong> starts from some given working directory, avoiding the need to provide the full absolute path. A filename can be considered as a relative path based at the current working directory. If the working directory is not the file’s parent directory, a file not found error will result if the file is addressed by its name.</p>
+</blockquote>
+
+<ul>
+  <li><code class="highlighter-rouge">/home/learnbyexample</code> absolute path</li>
+  <li><code class="highlighter-rouge">../design</code> relative path</li>
+  <li><a href="https://unix.stackexchange.com/questions/221970/is-documents-a-relative-or-an-absolute-path">~/Documents is a relative or an absolute path?</a></li>
+</ul>
+
+<p><strong>Further Reading</strong></p>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=HIXzJ3Rz9po">Learning the Linux File System - video tutorial</a></li>
+  <li><a href="http://tldp.org/LDP/intro-linux/html/sect_03_01.html">Overview of file system</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="command-line-interface"><a name="command-line-interface"></a>Command Line Interface</h3>
+
+<p>Command Line Interface (CLI) allows us interact with computer using text commands<br />
+For example: opening a Terminal, typing <code class="highlighter-rouge">ls</code> and pressing <strong>Enter</strong> key - the <code class="highlighter-rouge">ls</code> command lists the contents of a directory. To do the same thing in GUI, you double-click on the directory to view its content</p>
+
+<p>Shell and Terminal are sometimes interchangeably used to mean the same thing - a prompt where user enters and executes commands. They are <a href="https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con">quite different</a></p>
+
+<ul>
+  <li><strong>Shell</strong> command line interpreter</li>
+  <li><strong>Terminal</strong> text input/output environment</li>
+  <li><code class="highlighter-rouge">cat /etc/shells</code> to know which shells are available</li>
+  <li><code class="highlighter-rouge">echo "$SHELL"</code> to know which is your login-shell</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="command-help"><a name="command-help"></a>Command Help</h3>
+
+<ul>
+  <li><code class="highlighter-rouge">man man</code> get help about manual pages
+    <ul>
+      <li>usually displayed using <code class="highlighter-rouge">less</code> command, press <code class="highlighter-rouge">q</code> key to quit the man page and <code class="highlighter-rouge">h</code> key to get help</li>
+      <li>for GNU/Linux commands, the <code class="highlighter-rouge">info</code> command has more detailed documentation</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">man bash</code> manual page for <code class="highlighter-rouge">bash</code>
+    <ul>
+      <li><code class="highlighter-rouge">gvim &lt;(man bash)</code> open the manual page in text editor instead of displaying in terminal</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">man -k printf</code> search manual pages for <code class="highlighter-rouge">printf</code>
+    <ul>
+      <li><code class="highlighter-rouge">man -k</code> is equivalent for <code class="highlighter-rouge">apropos</code> command</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">type</code> Display information about command type
+    <ul>
+      <li><code class="highlighter-rouge">type cd</code> cd is a shell builtin</li>
+      <li><code class="highlighter-rouge">type sed</code> sed is /bin/sed</li>
+      <li><code class="highlighter-rouge">type ls</code> ls is aliased to <code class="highlighter-rouge">ls --color=auto</code></li>
+    </ul>
+  </li>
+  <li>Use <code class="highlighter-rouge">help</code> for builtin commands
+    <ul>
+      <li><code class="highlighter-rouge">help help</code> help page on <code class="highlighter-rouge">help</code> command</li>
+      <li><code class="highlighter-rouge">help -m cd</code> display usage in pseudo-manpage format for <code class="highlighter-rouge">cd</code> command</li>
+      <li><code class="highlighter-rouge">help -d compgen</code> use -d option to output short description for each topic</li>
+      <li><code class="highlighter-rouge">help</code> display all shell commands that are defined internally</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">whatis</code> display one-line manual page descriptions
+    <ul>
+      <li><code class="highlighter-rouge">whatis grep</code> print lines matching a pattern</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">whereis</code> locate the binary, source, and manual page files for a command
+    <ul>
+      <li><code class="highlighter-rouge">whereis awk</code> awk: /usr/bin/awk /usr/bin/X11/awk /usr/share/awk /usr/share/man/man1/awk.1.gz</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">history</code> Display or manipulate the history list</li>
+</ul>
+
+<p><strong>Further Reading</strong></p>
+
+<ul>
+  <li>Excellent resource: <a href="https://unix.stackexchange.com/questions/193815/how-do-i-use-man-pages-to-learn-how-to-use-commands">How do I use man pages to learn how to use commands?</a></li>
+  <li><a href="http://explainshell.com/">explainshell</a> write down a command line to see the help text that matches each argument
+    <ul>
+      <li>example: <a href="http://explainshell.com/explain?cmd=find%20.%20-type%20f%20-print0">find . -type f -print0</a></li>
+      <li><a href="https://github.com/learnbyexample/command_help">ch</a> similar functionality from command line, doesn’t have all features of explainshell though</li>
+    </ul>
+  </li>
+  <li><a href="http://www.thegeekstuff.com/2013/04/linux-which-whatis-whereis/">which, whatis, whereis examples</a></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="do-one-thing-and-do-it-well"><a name="do-one-thing-well"></a>Do one thing and do it well</h3>
+
+<p><a href="https://en.wikipedia.org/wiki/Unix_philosophy">Unix Philosophy</a></p>
+
+<blockquote>
+  <p>Write programs that do one thing and do it well.</p>
+</blockquote>
+
+<blockquote>
+  <p>Write programs to work together.</p>
+</blockquote>
+
+<blockquote>
+  <p>Write programs to handle text streams, because that is a universal interface.</p>
+</blockquote>
+
+<p>Examples given below are for demonstration purposes only, more detail in later chapters</p>
+
+<p><strong>Command Structure</strong></p>
+
+<p>only the command</p>
+
+<ul>
+  <li><code class="highlighter-rouge">clear</code> clear the terminal screen</li>
+  <li><code class="highlighter-rouge">top</code> display Linux processes</li>
+</ul>
+
+<p>command with options</p>
+
+<ul>
+  <li><code class="highlighter-rouge">ls -l</code> list directory contents, use a long listing format</li>
+  <li><code class="highlighter-rouge">df -h</code> report file system disk space usage, print sizes in human readable format (e.g., 1K 234M 2G)</li>
+</ul>
+
+<p>command with arguments</p>
+
+<ul>
+  <li><code class="highlighter-rouge">mkdir project</code> create directory named ‘project’ in current working directory</li>
+  <li><code class="highlighter-rouge">man sort</code> manual page for <code class="highlighter-rouge">sort</code> command</li>
+  <li><code class="highlighter-rouge">wget http://s.ntnu.no/bashguide.pdf</code> download file from internet</li>
+</ul>
+
+<p>command with options and arguments</p>
+
+<ul>
+  <li><code class="highlighter-rouge">rm -r project</code> remove ‘project’ directory</li>
+  <li><code class="highlighter-rouge">find . -name '*log*'</code> print files in current directory (and its sub-directories) whose name contains the string ‘log’</li>
+</ul>
+
+<p>single quotes vs double quotes</p>
+
+<ul>
+  <li><strong>single quotes</strong> preserves the literal value of each character within the quotes</li>
+  <li><strong>double quotes</strong> preserves the literal value of all characters within the quotes, with the exception of ‘$’, ‘`’, ‘', and, when history expansion is enabled, ‘!’</li>
+  <li><a href="https://stackoverflow.com/questions/6697753/difference-between-single-and-double-quotes-in-bash">Difference between single and double quotes</a></li>
+</ul>
+
+<p>Example:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span><span class="nb">echo</span> <span class="s1">'$SHELL'</span>
+<span class="nv">$SHELL</span>
+<span class="gp">$ </span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$SHELL</span><span class="s2">"</span>
+/bin/bash
+</code></pre>
+</div>
+
+<p><strong>Command Network</strong></p>
+
+<p>Redirecting output of a command</p>
+
+<ul>
+  <li>to another command
+    <ul>
+      <li><code class="highlighter-rouge">du -sh * | sort -h</code> calculate size of files/folders, display size in human-readable format which is then sorted</li>
+    </ul>
+  </li>
+  <li>to a file (instead of displaying on terminal)
+    <ul>
+      <li><code class="highlighter-rouge">grep -i 'pass' *.log &gt; pass_list.txt</code> writes/overwrites to file</li>
+      <li><code class="highlighter-rouge">grep -i 'error' *.log &gt;&gt; errors.txt</code> appends to file</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Redirecting input</p>
+
+<ul>
+  <li><code class="highlighter-rouge">wc -l &lt; file.txt</code> in this case, useful to get just the number of lines, without displaying file name</li>
+</ul>
+
+<p>Redirecting error</p>
+
+<ul>
+  <li><code class="highlighter-rouge">xyz 2&gt; cmderror.log</code> assuming a non-existent command <code class="highlighter-rouge">xyz</code>, it would give an error and gets redirected to specified file</li>
+</ul>
+
+<p>Redirecting output of command as input file</p>
+
+<ul>
+  <li><code class="highlighter-rouge">comm -23 &lt;(sort file1.txt) &lt;(sort file2.txt)</code> allows to create named pipes, effectively avoiding need to create temporary files</li>
+</ul>
+
+<p>Combining output of several commands</p>
+
+<ul>
+  <li><code class="highlighter-rouge">(head -5 ~/.vimrc ; tail -5 ~/.vimrc) &gt; vimrc_snippet.txt</code> multiple commands can be grouped in <code class="highlighter-rouge">()</code> and redirected as if single command output</li>
+</ul>
+
+<p>Command substitution</p>
+
+<ul>
+  <li><code class="highlighter-rouge">sed -i "s|^|$(basename $PWD)/|" dir_list.txt</code> add current directory path and forward-slash character at the start of every line
+    <ul>
+      <li>Note the use of double quotes</li>
+    </ul>
+  </li>
+</ul>
+
+<p>stdin, stdout and stderr</p>
+
+<ul>
+  <li><code class="highlighter-rouge">&lt;</code> or <code class="highlighter-rouge">0&lt;</code> is stdin filehandle</li>
+  <li><code class="highlighter-rouge">&gt;</code> or <code class="highlighter-rouge">1&gt;</code> is stdout filehandle</li>
+  <li><code class="highlighter-rouge">2&gt;</code> is stderr filehandle</li>
+  <li><a href="https://stackoverflow.com/questions/3385201/confused-about-stdin-stdout-and-stderr">read more</a></li>
+</ul>
+
+<p>More detailed discussion in <a href="./Shell.md">Shell</a> chapter</p>
+
+
+		
+	</div>
+</article>
+
+
+
+	  </main>
+		
+		  <!-- Pagination links -->
+      
+
+	  </div>
+	    
+	    <!-- Footer -->
+	    <footer><span>@2017 -  <a href="http://0.0.0.0:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+</footer>
+
+
+<!-- original script :
+| <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+<footer><span>@2017 -  <a href="//">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+</footer>
+-->
+
+
+	    <!-- Script -->
+      <script src="/js/main.js"></script>	
+
+
+	</div>
+</body>
+</html>
