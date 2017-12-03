@@ -4,12 +4,32 @@
  <title>IkhwanElyas Page</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <id>http://0.0.0.0:4000</id>
- <updated>2017-12-03T00:54:22+07:00</updated>
+ <updated>2017-12-03T20:13:47+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Hal yang Wajib, Rukun dan Sunnah Sholat</title>
+   <link href="http://0.0.0.0:4000/rukun-wajib-sunnah-Sholat"/>
+   <id>http://0.0.0.0:4000/rukun-wajib-sunnah-Sholat</id>
+   <updated>2017-12-03T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;daftar-pertanyaan-&quot;&gt;Daftar Pertanyaan :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#bab1&quot;&gt;BAB 1 : أركان الصلاة وواجباتها وسننها &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab2&quot;&gt;BAB 2 : كان يترك قراءة الفاتحة خلف الإمام فهل يعيد تلك الصلوات؟&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab3&quot;&gt;BAB 3 : قراءة الفاتحة في الصلاة&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab4&quot;&gt;BAB 4 : حكم قراءة أكثر من سورة في الركعة&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab5&quot;&gt;BAB 5...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Hukum Seputar Wudhu</title>
+   <link href="http://0.0.0.0:4000/Hukum-seputer-wudhu"/>
+   <id>http://0.0.0.0:4000/Hukum-seputer-wudhu</id>
+   <updated>2017-12-03T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;daftar-pertanyaan-&quot;&gt;Daftar Pertanyaan :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#soal1&quot;&gt;Soal 1 : صفة الوضوء &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal2&quot;&gt;Soal 2 : فرائض الوضوء وسننه&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal3&quot;&gt;Soal 3 : حكم التسمية في الوضوء&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal4&quot;&gt;Soal 4 : هل يجب مسح الأذنين في الوضوء ؟&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal5&quot;&gt;Soal 5 : صفة مسح الرأس في الوضوء&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal6&quot;&gt;Soal 6...</content>
+ </entry>
 
  
 
@@ -89,26 +109,6 @@
    <id>http://0.0.0.0:4000/linux-command-line-shell-Customization</id>
    <updated>2017-12-02T00:00:00+07:00</updated>
    <content type="html">&lt;h1 id=&quot;shell-customization&quot;&gt;&lt;a name=&quot;shell-customization&quot;&gt;&lt;/a&gt;Shell Customization&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#variables&quot;&gt;Variables&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#config-files&quot;&gt;Config files&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#emac-mode-readline-shortcuts&quot;&gt;Emac mode Readline shortcuts&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;variables&quot;&gt;&lt;a name=&quot;variables&quot;&gt;&lt;/a&gt;Variables&lt;/h3&gt; &lt;p&gt;Quoting from &lt;a href=&quot;http://www.tricksofthetrades.net/2015/06/14/notes-bash-env-variables/&quot;&gt;article on BASH Environment &amp;amp; Shell Variables&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Variables provide a simple way to share configuration settings between multiple applications and processes in Linux, and are...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Linux Command Line introduction</title>
-   <link href="http://0.0.0.0:4000/linux-command-line-introduction"/>
-   <id>http://0.0.0.0:4000/linux-command-line-introduction</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h1 id=&quot;command-line-introduction&quot;&gt;&lt;a name=&quot;command-line-introduction&quot;&gt;&lt;/a&gt;Command Line introduction&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#file-system&quot;&gt;File System&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#command-line-interface&quot;&gt;Command Line Interface&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#command-help&quot;&gt;Command Help&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#do-one-thing-well&quot;&gt;Do one thing and do it well&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;For any thing that is repetitive or programmable, there likely is a relevant command. Ask your peers or search online before you start writing a...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Book for Free to Study and Trainig LINUX</title>
-   <link href="http://0.0.0.0:4000/book-for-free-to-study-linux"/>
-   <id>http://0.0.0.0:4000/book-for-free-to-study-linux</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;artikel--e-book-di-copy-dari-linux-trainingbe&quot;&gt;Artikel &amp;amp; E-Book di-Copy dari &lt;a href=&quot;http://linux-training.be/&quot; target=&quot;_blank&quot;&gt;linux-training.be&lt;/a&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;reff/linux/linux_training_be/linuxfun.pdf&quot; target=&quot;_blank&quot;&gt;Linux Fundamentals.pdf&lt;/a&gt; teaches you the very fundamentals of Linux (or Unix!). This book is for beginners, novices, anyone who wants to become a Linux developer or Linux system administrator. It contains basic knowledge, but advanced users will also...</content>
  </entry>
 
  
