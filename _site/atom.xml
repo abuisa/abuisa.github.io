@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IkhwanElyas Page</title>
- <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
- <id>http://0.0.0.0:4000</id>
- <updated>2017-12-03T20:13:47+07:00</updated>
+ <link href="https://abuisa.github.io/atom.xml" rel="self"/>
+ <id>https://abuisa.github.io</id>
+ <updated>2017-12-08T17:39:52+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -14,101 +14,101 @@
  
 
  <entry>
+   <title>RM for Remove, Replace Multiple File_Name</title>
+   <link href="https://abuisa.github.io/rm-for-rename-remove-character"/>
+   <id>https://abuisa.github.io/rm-for-rename-remove-character</id>
+   <updated>2017-12-07T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;menggunakan-tool-rm-untuk-rename-remove-character-pada-nama-file&quot;&gt;Menggunakan tool RM untuk Rename, Remove Character pada nama file&lt;/h3&gt; &lt;h3 id=&quot;1-command-line--replace-_-with--&quot;&gt;1. Command Line : Replace “_” with “-“&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;file &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;.jpg; &lt;span class=&quot;k&quot;&gt;do &lt;/span&gt;mv &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>HTML+JS - Range Input dan Javascript untuk ubah IMG SRC</title>
+   <link href="https://abuisa.github.io/range-input-javascript-untuk-img-src"/>
+   <id>https://abuisa.github.io/range-input-javascript-untuk-img-src</id>
+   <updated>2017-12-07T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;mengubah-image-src-menggunakan-input-typerange-dan-js&quot;&gt;Mengubah Image SRC menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;input type=&quot;range&quot;&lt;/code&gt; dan JS&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Dalftar Images yang akan prose berada di dalam folder &lt;code class=&quot;highlighter-rouge&quot;&gt;img&lt;/code&gt;&lt;/li&gt; &lt;li&gt;Format Nama Image adalah : &lt;code class=&quot;highlighter-rouge&quot;&gt;1-img.jpg&lt;/code&gt;&lt;/li&gt; &lt;/ul&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1 2 3 4 5 6 7 8 9 10...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>PHP - Cari Hadits 9 Imam menggunakan Range Input dan Js</title>
+   <link href="https://abuisa.github.io/range-input-cari-no-hadits-9imam"/>
+   <id>https://abuisa.github.io/range-input-cari-no-hadits-9imam</id>
+   <updated>2017-12-07T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;1-contoh-hasil-screenshot-&quot;&gt;1. Contoh Hasil Screenshot :&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;img/programming/prog-2017-12-07-2-Cari-Hadits.png&quot; alt=&quot;image-title-here&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;2-file-file-sebagai-module&quot;&gt;2. File-File sebagai Module&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;File &lt;a href=&quot;reff/programming/conn.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;conn.php&lt;/code&gt;&lt;/a&gt; Untuk Konneksi Database.&lt;/li&gt; &lt;li&gt;File &lt;a href=&quot;reff/programming/conf.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;conf.php&lt;/code&gt;&lt;/a&gt; Untuk Module Fungsi-Fungsi.&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;3-file-lcariphp-untuk-form-input&quot;&gt;3. File &lt;a href=&quot;reff/programming/lcari.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;lcari.php&lt;/code&gt;&lt;/a&gt; Untuk Form Input&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php&quot; data-lang=&quot;php&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Kumpulan Kalimat Sholawat dari As-Sunnah</title>
+   <link href="https://abuisa.github.io/kumpulan-kalimat-sholawat-dari-assunnah"/>
+   <id>https://abuisa.github.io/kumpulan-kalimat-sholawat-dari-assunnah</id>
+   <updated>2017-12-07T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;&lt;b&gt;Note : &lt;/b&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Semua NOMOR Hadits di halaman ini sama dengan nomor hadits yang terdapat pada &lt;/code&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.saltanera.hadits&amp;amp;hl=en&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Applikasi Ensiklopedi Hadits 9 Imam&lt;/code&gt;&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;perintah-ber-sholawat-dalam-al-quran&quot;&gt;Perintah Ber-Sholawat dalam Al-Quran&lt;/h2&gt; &lt;h3 id=&quot;surat-33-al-ahzab-ayat-56&quot;&gt;Surat 33. Al-Ahzab, Ayat 56.&lt;/h3&gt; &lt;div class=&quot;ar&quot;&gt; ٥٦. إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>A-Z Linux Command Line with Examples</title>
+   <link href="https://abuisa.github.io/A-Z-Linux-Commands-Overview-with-Examples"/>
+   <id>https://abuisa.github.io/A-Z-Linux-Commands-Overview-with-Examples</id>
+   <updated>2017-12-07T00:00:00+07:00</updated>
+   <content type="html">&lt;iframe id=&quot;myframe&quot; src=&quot;reff/linux/A-Z-Linux-Commands-Overview-with-Examples.html&quot; scrolling=&quot;yes&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; style=&quot;overflow:visible; width:100%;&quot;&gt;&lt;/iframe&gt; &lt;!-- &lt;iframe frameborder=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; src=&quot;reff/linux/A-Z-Linux-Commands-Overview-with-Examples.html&quot;&gt;&lt;/iframe&gt; &lt;iframe id=&quot;myframe&quot; src=&quot;externalpage.htm&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; style=&quot;overflow:visible; width:100%; display:none&quot;&gt;&lt;/iframe&gt; &lt;!DOCTYPE html&gt; &lt;html class=&quot;no-js&quot; lang=&quot;en-US&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;link rel='stylesheet' id='fancybox-style-css' href='https://www.tecmint.com/wp-content/plugins/light/css/jquery.fancybox.css' type='text/css' media='all' /&gt; &lt;link rel='stylesheet' id='stcr-plugin-style-css' href='https://www.tecmint.com/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/stcr-plugin-style.css' type='text/css' media='all'...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Youtube Downloader - youtube-dl</title>
+   <link href="https://abuisa.github.io/youtube-dl-downloader-command-line"/>
+   <id>https://abuisa.github.io/youtube-dl-downloader-command-line</id>
+   <updated>2017-12-06T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/rg3/youtube-dl&quot;&gt;&lt;img src=&quot;https://travis-ci.org/rg3/youtube-dl.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;youtube-dl - download videos from youtube.com or other video platforms&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#installation&quot;&gt;INSTALLATION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#description&quot;&gt;DESCRIPTION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#options&quot;&gt;OPTIONS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#configuration&quot;&gt;CONFIGURATION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#output-template&quot;&gt;OUTPUT TEMPLATE&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#format-selection&quot;&gt;FORMAT SELECTION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#video-selection&quot;&gt;VIDEO SELECTION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#faq&quot;&gt;FAQ&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#developer-instructions&quot;&gt;DEVELOPER INSTRUCTIONS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#embedding-youtube-dl&quot;&gt;EMBEDDING YOUTUBE-DL&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bugs&quot;&gt;BUGS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#copyright&quot;&gt;COPYRIGHT&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#examples&quot;&gt;EXAMPLES&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Serial Tafsir Al-Qur'an [vol-1]</title>
+   <link href="https://abuisa.github.io/serial-tafsir-alquran-v1"/>
+   <id>https://abuisa.github.io/serial-tafsir-alquran-v1</id>
+   <updated>2017-12-06T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#ayat1&quot;&gt;Tafsir Ibnu Katsir : Surat Al-Baqarah 112&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;!-- - &lt;a href=&quot;#ayat2&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#ayat3&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#ayat4&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#ayat5&quot;&gt;&lt;/a&gt; --&gt; &lt;hr /&gt; &lt;p&gt;&lt;a name=&quot;ayat1&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;tafsir-ibnu-katsir--surat-al-baqarah-112&quot;&gt;Tafsir Ibnu Katsir : Surat Al-Baqarah 112&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Kumpulan Perkataan Para Ulama</title>
+   <link href="https://abuisa.github.io/kumpulan-perkataan-ulama"/>
+   <id>https://abuisa.github.io/kumpulan-perkataan-ulama</id>
+   <updated>2017-12-06T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#qoul1&quot;&gt;Yang Banyak dan Yang Sedikit dalam Al-Quran&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;!-- - &lt;a href=&quot;#qoul2&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#qoul3&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#qoul4&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#qoul5&quot;&gt;&lt;/a&gt; --&gt; &lt;hr /&gt; &lt;p&gt;&lt;a name=&quot;qoul1&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;yang-banyak-dan-yang-sedikit-dalam-al-quran&quot;&gt;Yang Banyak dan Yang Sedikit dalam Al-Quran&lt;/h3&gt; &lt;div class=&quot;ar&quot;&gt; 🍃أعجبني: &lt;br /&gt; كلمة &quot;أكثر الناس&quot; وكلمة (أكثرهم)...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Urutan Dzikir Setelah Sholat ?</title>
+   <link href="https://abuisa.github.io/Urutan-Dzikir-setelah-Sholat"/>
+   <id>https://abuisa.github.io/Urutan-Dzikir-setelah-Sholat</id>
+   <updated>2017-12-04T00:00:00+07:00</updated>
+   <content type="html">&lt;div class=&quot;ar&quot;&gt; بيان فضل ترتيب الأذكار الواردة بعد الصلاة &lt;br /&gt; هل يجب ترتيب الأذكار الواردة بعد الصلاة &lt;br /&gt; 🔻 الأفضل أن يأتي بها حسب ما وردت عن النبي صلى الله عليه وسلم ، والنبي صلى الله عليه وسلم فيما ثبت عنه كان يبدأ &lt;br /&gt;&lt;br /&gt; 1⃣ أولا...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Hal yang Wajib, Rukun dan Sunnah Sholat</title>
-   <link href="http://0.0.0.0:4000/rukun-wajib-sunnah-Sholat"/>
-   <id>http://0.0.0.0:4000/rukun-wajib-sunnah-Sholat</id>
+   <link href="https://abuisa.github.io/rukun-wajib-sunnah-Sholat"/>
+   <id>https://abuisa.github.io/rukun-wajib-sunnah-Sholat</id>
    <updated>2017-12-03T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;daftar-pertanyaan-&quot;&gt;Daftar Pertanyaan :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#bab1&quot;&gt;BAB 1 : أركان الصلاة وواجباتها وسننها &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab2&quot;&gt;BAB 2 : كان يترك قراءة الفاتحة خلف الإمام فهل يعيد تلك الصلوات؟&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab3&quot;&gt;BAB 3 : قراءة الفاتحة في الصلاة&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab4&quot;&gt;BAB 4 : حكم قراءة أكثر من سورة في الركعة&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab5&quot;&gt;BAB 5...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Hukum Seputar Wudhu</title>
-   <link href="http://0.0.0.0:4000/Hukum-seputer-wudhu"/>
-   <id>http://0.0.0.0:4000/Hukum-seputer-wudhu</id>
-   <updated>2017-12-03T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;daftar-pertanyaan-&quot;&gt;Daftar Pertanyaan :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#soal1&quot;&gt;Soal 1 : صفة الوضوء &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal2&quot;&gt;Soal 2 : فرائض الوضوء وسننه&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal3&quot;&gt;Soal 3 : حكم التسمية في الوضوء&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal4&quot;&gt;Soal 4 : هل يجب مسح الأذنين في الوضوء ؟&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal5&quot;&gt;Soal 5 : صفة مسح الرأس في الوضوء&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#soal6&quot;&gt;Soal 6...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Command Line Working with Files and Directories [Vol-2]</title>
-   <link href="http://0.0.0.0:4000/working-with-files-and-directories-v2"/>
-   <id>http://0.0.0.0:4000/working-with-files-and-directories-v2</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h1 id=&quot;files-and-directories&quot;&gt;&lt;a name=&quot;files-and-directories&quot;&gt;&lt;/a&gt;Files and Directories&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#pwd&quot;&gt;pwd&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#clear&quot;&gt;clear&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#ls&quot;&gt;ls&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cd&quot;&gt;cd&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#mkdir&quot;&gt;mkdir&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#touch&quot;&gt;touch&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#rm&quot;&gt;rm&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cp&quot;&gt;cp&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#mv&quot;&gt;mv&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#rename&quot;&gt;rename&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#ln&quot;&gt;ln&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#tar-and-gzip&quot;&gt;tar and gzip&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Let’s look at commonly used commands to move around directories, create and modify files and folders. For...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Command Line Working with Files and Directories [Vol-1]</title>
-   <link href="http://0.0.0.0:4000/working-with-files-and-directories-v1"/>
-   <id>http://0.0.0.0:4000/working-with-files-and-directories-v1</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h1 id=&quot;files-and-directories&quot;&gt;&lt;a name=&quot;files-and-directories&quot;&gt;&lt;/a&gt;Files and Directories&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#pwd&quot;&gt;pwd&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#clear&quot;&gt;clear&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#ls&quot;&gt;ls&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cd&quot;&gt;cd&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#mkdir&quot;&gt;mkdir&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#touch&quot;&gt;touch&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#rm&quot;&gt;rm&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cp&quot;&gt;cp&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#mv&quot;&gt;mv&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#rename&quot;&gt;rename&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#ln&quot;&gt;ln&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#tar-and-gzip&quot;&gt;tar and gzip&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Let’s look at commonly used commands to move around directories, create and modify files and folders. For...</content>
- </entry>
-
- 
-
- <entry>
-   <title>WGET for Download same webpage name to N times</title>
-   <link href="http://0.0.0.0:4000/wget-to-download-web-page-n-times"/>
-   <id>http://0.0.0.0:4000/wget-to-download-web-page-n-times</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Bash Script untuk mendowload halaman web yang memiliki kesamaan nama dan hanya dibedakan dengan angka, dapat menggunakan script ini untuk mendowload halaman tersebut, berikut script tersebut yang menggunakan tool wget untuk melakukannya :&lt;/p&gt; &lt;h3 id=&quot;script-use-wget-to-download-web-page-&quot;&gt;Script use wget to download web page :&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;...</content>
- </entry>
-
- 
-
- <entry>
-   <title>The Art of Command Line</title>
-   <link href="http://0.0.0.0:4000/the-art-of-command-line"/>
-   <id>http://0.0.0.0:4000/the-art-of-command-line</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h1 id=&quot;the-art-of-command-line&quot;&gt;The Art of Command Line&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#meta&quot;&gt;Meta&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#basics&quot;&gt;Basics&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#everyday-use&quot;&gt;Everyday use&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#processing-files-and-data&quot;&gt;Processing files and data&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#system-debugging&quot;&gt;System debugging&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#one-liners&quot;&gt;One-liners&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#obscure-but-useful&quot;&gt;Obscure but useful&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#os-x-only&quot;&gt;OS X only&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#windows-only&quot;&gt;Windows only&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#more-resources&quot;&gt;More resources&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#disclaimer&quot;&gt;Disclaimer&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Fluency on the command line is a skill often...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Linux Command Line Text Processing</title>
-   <link href="http://0.0.0.0:4000/linux-command-line-text-processing"/>
-   <id>http://0.0.0.0:4000/linux-command-line-text-processing</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h1 id=&quot;text-processing&quot;&gt;&lt;a name=&quot;text-processing&quot;&gt;&lt;/a&gt;Text Processing&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#sort&quot;&gt;sort&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#uniq&quot;&gt;uniq&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#comm&quot;&gt;comm&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cmp&quot;&gt;cmp&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#diff&quot;&gt;diff&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#tr&quot;&gt;tr&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#sed&quot;&gt;sed&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#awk&quot;&gt;awk&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#perl&quot;&gt;perl&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cut&quot;&gt;cut&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#paste&quot;&gt;paste&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#column&quot;&gt;column&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#pr&quot;&gt;pr&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The rich set of text processing commands is comprehensive and time saving. Knowing even their existence is enough...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Linux Command Line Shell</title>
-   <link href="http://0.0.0.0:4000/linux-command-line-shell"/>
-   <id>http://0.0.0.0:4000/linux-command-line-shell</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h1 id=&quot;shell&quot;&gt;&lt;a name=&quot;shell&quot;&gt;&lt;/a&gt;Shell&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#what-is-shell&quot;&gt;What is Shell?&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#popular-shells&quot;&gt;Popular Shells&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#wildcards&quot;&gt;Wildcards&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#redirection&quot;&gt;Redirection&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#process-control&quot;&gt;Process Control&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#running-jobs-in-background&quot;&gt;Running jobs in background&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;what-is-shell&quot;&gt;&lt;a name=&quot;what-is-shell&quot;&gt;&lt;/a&gt;What is Shell?&lt;/h3&gt; &lt;p&gt;Quoting from &lt;a href=&quot;https://en.wikipedia.org/wiki/Unix_shell&quot;&gt;wikipedia&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;A Unix shell is a command-line interpreter or shell that provides a traditional Unix-like...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Linux Command Line Shell Scripting</title>
-   <link href="http://0.0.0.0:4000/linux-command-line-shell-Scripting"/>
-   <id>http://0.0.0.0:4000/linux-command-line-shell-Scripting</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h1 id=&quot;shell-scripting&quot;&gt;&lt;a name=&quot;shell-scripting&quot;&gt;&lt;/a&gt;Shell Scripting&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#need-for-scripting&quot;&gt;Need for scripting&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#hello-script&quot;&gt;Hello script&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#sourcing-script&quot;&gt;Sourcing script&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#command-line-arguments&quot;&gt;Command Line Arguments&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#variables-and-comparisons&quot;&gt;Variables and Comparisons&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#accepting-user-input-interactively&quot;&gt;Accepting User Input interactively&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#if-then-else&quot;&gt;if then else&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#for-loop&quot;&gt;for loop&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#while-loop&quot;&gt;while loop&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#reading-file&quot;&gt;Reading a file&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#debugging&quot;&gt;Debugging&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#real-world-use-case&quot;&gt;Real world use case&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Linux Command Line Shell Customization</title>
-   <link href="http://0.0.0.0:4000/linux-command-line-shell-Customization"/>
-   <id>http://0.0.0.0:4000/linux-command-line-shell-Customization</id>
-   <updated>2017-12-02T00:00:00+07:00</updated>
-   <content type="html">&lt;h1 id=&quot;shell-customization&quot;&gt;&lt;a name=&quot;shell-customization&quot;&gt;&lt;/a&gt;Shell Customization&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#variables&quot;&gt;Variables&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#config-files&quot;&gt;Config files&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#emac-mode-readline-shortcuts&quot;&gt;Emac mode Readline shortcuts&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;variables&quot;&gt;&lt;a name=&quot;variables&quot;&gt;&lt;/a&gt;Variables&lt;/h3&gt; &lt;p&gt;Quoting from &lt;a href=&quot;http://www.tricksofthetrades.net/2015/06/14/notes-bash-env-variables/&quot;&gt;article on BASH Environment &amp;amp; Shell Variables&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Variables provide a simple way to share configuration settings between multiple applications and processes in Linux, and are...</content>
  </entry>
 
  

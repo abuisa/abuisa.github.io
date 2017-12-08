@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  Akses MySql dan Operasi menggunakan Python
+title: Python - Akses MySql dan Operasi menggunakan Python
+description: Python - Akses MySql dan Operasi menggunakan Python
+header: Python - Akses MySql dan Operasi menggunakan Python
 date:   2017-05-25 08:20:01 +0700
 categories: Programming
 ---

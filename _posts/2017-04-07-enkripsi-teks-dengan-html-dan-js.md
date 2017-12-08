@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  Enkripsi teks dengan HTML dan JS
+title: HTML+JS - Enkripsi teks dengan HTML dan JS
+description: HTML+JS - Enkripsi teks dengan HTML dan JS
+header: HTML+JS - Enkripsi teks dengan HTML dan JS
 date:   2017-04-07 08:20:01 +0700
 categories: Programming
 ---

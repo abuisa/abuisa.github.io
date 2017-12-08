@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cari Hadits</title>
+<?php
+/*
+ * Halaman ini dugunakan untuk mencari hadits secara langsung bedasarkan Nomor Hadits
+ * Link Halaman ini ada di halaman ../index.php
+ * Halaman ini tidak terhubung secara langsung dengan halaman hadits9.php
+ * Halaman ini hanya menggunakan file conf.php sebagai modulnya.
+ *  
+ */
+	header('Content-Type: text/html; charset=utf-8');
+	include 'conf.php';
+?>
+<style>
+	html {
+	  background-color: #FFFFFF;
+	  font-size: 16px;
+	  line-height: 1.5;
+	  color: #333333; }
+	  @media (min-width: 940px) {
+		html {
+		  font-size: 18px; } }
+	body {
+		font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 17px;
+		color: #333; 
+		margin:10px;
+		padding:0px;
+		width:80%;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	.bx{
+		//color:crimson;
+		font-weight: 700;
+		font-size: 22px;
+		border-top:0.5px solid #C0C0C0;
+		border-bottom:0.5px solid #C0C0C0;
+		unicode-bidi:embed;
+		//====================	
+		margin-left:0px;
+		margin-bottom:10px;
+		background-color:#f2f2f2;
+		padding:20px 18px;	
+	}
+
+	input[type='range'] {		
+		height:4px;
+		width:60%;
+		background: #ddd;
+	}
+	input[type='text'] {		
+		//height:20px;
+		width:50px;
+	}
+</style>
+</head>
+<body>
+
+<form name="myForm" action="lcaritmp.php" method="POST" target="main" />
+	<select name="a" onchange="this.form.submit()" >
+	  <option value="0">Pilih Imam !</option>
+	  <option value="1" onclick="this.form.submit()">Bukhari - [<?= gtotal(1); ?>]</option>
+	  <option value="2" onclick="this.form.submit()">Muslim - [<?= gtotal(2); ?>]</option>
+	  <option value="3" onclick="this.form.submit()">Abu Daud - [<?= gtotal(3); ?>]</option>
+	  <option value="4" onclick="this.form.submit()">Tirmidzi - [<?= gtotal(4); ?>]</option>
+	  <option value="5" onclick="this.form.submit()">Nasai - [<?= gtotal(5); ?>]</option>
+	  <option value="6" onclick="this.form.submit()">Ibnu Majah - [<?= gtotal(6); ?>]</option>
+	  <option value="7" onclick="this.form.submit()">Ahmad - [<?= gtotal(7); ?>]</option>
+	  <option value="8" onclick="this.form.submit()">Malik - [<?= gtotal(8); ?>]</option>
+	  <option value="9" onclick="this.form.submit()">Darimi - [<?= gtotal(9); ?>]</option>
+	</select>
+&nbsp;&nbsp;
+No Hadits : 
+<input type="text" name="b" id="b" value="1" />
+
+<!--
+onchange vs. oninput
+onchange : Perubahan setelah selesai 
+oninput  : Perubahan langsung terjadi
+-->
+
+<input type="range" min="1" max="26000" step="1" value="1" id="bb" name="bb" oninput='document.getElementById("b").value =  document.getElementById("bb").value;this.form.submit()'/>
+</form>
+<hr />
+<?php
+	if (isset($_GET['a'], $_GET['b'])) 
+	{
+		$a = $_GET["a"];
+		$b = $_GET["b"];	
+?>
+		<iframe name="main" src="lcaritmp.php?a=<?= $a ?>&b=<?= $b ?>" style="border: none; " width="100%" onload="this.style.height=this.contentDocument.body.scrollHeight + 30 +'px';"></iframe>
+<?php
+}else{
+?>
+		<iframe name="main" src="lcaritmp.php" style="border: none; " width="100%" onload="this.style.height=this.contentDocument.body.scrollHeight + 30 +'px';"></iframe>
+<?php
+}
+?>
+</body>
+</html>

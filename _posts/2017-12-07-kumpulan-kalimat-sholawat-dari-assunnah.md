@@ -1,0 +1,233 @@
+---
+title: Kumpulan Kalimat Sholawat dari As-Sunnah
+description: Kumpulan Kalimat Sholawat dari As-Sunnah
+header: Kumpulan Kalimat Sholawat dari As-Sunnah
+categories: Agama
+---
+<b>Note : </b> `Semua NOMOR Hadits di halaman ini sama dengan nomor hadits yang terdapat pada `[`Applikasi Ensiklopedi Hadits 9 Imam`](https://play.google.com/store/apps/details?id=com.saltanera.hadits&hl=en){:target="_blank"}
+
+## Perintah Ber-Sholawat dalam Al-Quran
+### Surat 33. Al-Ahzab, Ayat 56.
+<div class="ar">
+ ٥٦. إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيماً 
+</div>
+<div class="id">
+56. Sesungguhnya Allah dan malaikat-malaikat-Nya bershalawat untuk Nabi . Hai orang-orang yang beriman, bershalawatlah kamu untuk Nabi dan ucapkanlah salam penghormatan kepadanya .
+</div>
+
+## Perintah Ber-Sholawat dalam As-Sunnah
+### Hadits Abu Daud - No.883
+<div class="ar">
+حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ عَنْ أَبِي الْأَشْعَثِ الصَّنْعَانِيِّ عَنْ أَوْسِ بْنِ أَوْسٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ مِنْ أَفْضَلِ أَيَّامِكُمْ يَوْمَ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ وَفِيهِ قُبِضَ وَفِيهِ النَّفْخَةُ وَفِيهِ الصَّعْقَةُ فَأَكْثِرُوا عَلَيَّ مِنْ الصَّلَاةِ فِيهِ فَإِنَّ صَلَاتَكُمْ مَعْرُوضَةٌ عَلَيَّ قَالَ قَالُوا يَا رَسُولَ اللَّهِ وَكَيْفَ تُعْرَضُ صَلَاتُنَا عَلَيْكَ وَقَدْ أَرِمْتَ يَقُولُونَ بَلِيتَ فَقَالَ إِنَّ اللَّهَ عَزَّ وَجَلَّ حَرَّمَ عَلَى الْأَرْضِ أَجْسَادَ الْأَنْبِيَاءِ.
+</div>
+<div class="id">
+<b>Abu Daud - No.883 :</b> Telah menceritakan kepada kami Harun bin Abdullah telah menceritakan kepada kami Husain bin Ali dari Abdurrahman bin Yazid bin Jabir dari Abu Al Asy'Ats Tsauri Ash Shan'ani dari Aus bin Aus dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di antara hari-harimu yang paling utama adalah hari Jum'at, pada hari itu Adam di ciptakan, pada hari itu beliau wafat, pada hari itu juga ditiup (sangkakala) dan pada hari itu juga mereka pingsan. Maka perbanyaklah shalawat kepadaku -karena- shalawat kalian akan disampaikan kepadaku." Aus bin Aus berkata; para sahabat bertanya; "Wahai Rasulullah Shalallahu, bagaimana mungkin shalawat kami bisa disampaikan kepadamu, sementara anda telah tiada (meninggal)? -atau mereka berkata; "Telah hancur (menjadi tulang) "- Beliau bersabda: "Sesungguhnya Allah Azza wa Jalla mengharamkan bumi untuk memakan jasad para Nabi."
+</div>
+
+### Hadits Nasa'i -	No.1357
+<div class="ar">
+أَخْبَرَنَا إِسْحَقُ بْنُ مَنْصُورٍ قَالَ حَدَّثَنَا حُسَيْنٌ الْجُعْفِيُّ عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ عَنْ أَبِي الْأَشْعَثِ الصَّنْعَانِيِّ عَنْ أَوْسِ بْنِ أَوْسٍعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّ مِنْ أَفْضَلِ أَيَّامِكُمْ يَوْمَ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ عَلَيْهِ السَّلَام وَفِيهِ قُبِضَ وَفِيهِ النَّفْخَةُ وَفِيهِ الصَّعْقَةُ فَأَكْثِرُوا عَلَيَّ مِنْ الصَّلَاةِ فَإِنَّ صَلَاتَكُمْ مَعْرُوضَةٌ عَلَيَّ قَالُوا يَا رَسُولَ اللَّهِ وَكَيْفَ تُعْرَضُ صَلَاتُنَا عَلَيْكَ وَقَدْ أَرَمْتَ أَيْ يَقُولُونَ قَدْ بَلِيتَ قَالَ إِنَّ اللَّهَ عَزَّ وَجَلَّ قَدْ حَرَّمَ عَلَى الْأَرْضِ أَنْ تَأْكُلَ أَجْسَادَ الْأَنْبِيَاءِ عَلَيْهِمْ السَّلَام.
+</div>
+<div class="id">
+<b>Nasa'i -	No.1357 :</b> Telah mengabarkan kepada kami Ishaq bin Manshur dia berkata; telah menceritakan kepada kami Husain Al Ju'fi dari 'Abdurrahman bin Yazid bin Jabir dari Abul Asy'ats Ash Shan'ani dari Aus bin Aus dari Nabi Shalallahu 'Alaihi Wa Sallam beliau bersabda: "Hari kalian yang paling utama adalah hari Jum'at -karena- pada hari itu Nabi Adam dicipta, pada hari itu beliau diwafatkan, pada hari itu ditiupnya terompet (menjelang kiamat), dan pada hari (mereka) dijadikan pingsan. Maka perbanyaklah shalawat kepadaku -karena- shalawat kalian disampaikan kepadaku." Mereka (para sahabat) berkata; "Wahai Rasulullah Shalallahu 'Alaihi Wa Sallam, bagaimana mungkin shalawat kami bisa disampaikan kepada engkau, sedangkan engkau telah meninggal? -atau mereka berkata; "Telah hancur (tulangnya) "- Beliau Shalallahu 'Alaihi Wa Sallam lalu berkata: "Allah Azza wa Jalla mengharamkan tanah untuk memakan jasad para Nabi 'Alaihimus Salam."
+</div>
+
+### Hadits Ahmad - No.15575
+<div class="ar">
+قَالَ حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ الْجُعْفِيُّ عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ عَنْ أَبِي الْأَشْعَثِ الصَّنْعَانِيِّ عَنْ أَوْسِ بْنِ أَوْسٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْ أَفْضَلِ أَيَّامِكُمْ يَوْمُ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ وَفِيهِ قُبِضَ وَفِيهِ النَّفْخَةُ وَفِيهِ الصَّعْقَةُ فَأَكْثِرُوا عَلَيَّ مِنْ الصَّلَاةِ فِيهِ فَإِنَّ صَلَاتَكُمْ مَعْرُوضَةٌ عَلَيَّ فَقَالُوا يَا رَسُولَ اللَّهِ وَكَيْفَ تُعْرَضُ عَلَيْكَ صَلَاتُنَا وَقَدْ أَرِمْتَ يَعْنِي وَقَدْ بَلِيتَ قَالَ إِنَّ اللَّهَ عَزَّ وَجَلَّ حَرَّمَ عَلَى الْأَرْضِ أَنْ تَأْكُلَ أَجْسَادَ الْأَنْبِيَاءِ صَلَوَاتُ اللَّهِ عَلَيْهِمْ.
+</div>
+<div class="id">
+<b>Ahmad - No.15575 :</b> (Ahmad bin hanbal) berkata; telah menceritakan kepada kami Husain bin 'Ali Al Ju'fi dari Abdurrahman bin Yazid bin Jabir dari Abu Al Asy'ats As-Shan'ani dari Aus bin Aus berkata; Rasulullah Shallallahu'alaihiwasallam bersabda: "Hari yang paling utama di antara kalian adalah Hari Jumat, karena pada hari itu Adam dicipta, diwafatkan, ditiupkan ruh, dan pingsan, maka perbanyaklah pada hari itu dengan shalawat terhadapku. Sesungguhnya shalawat kalian sampai kepadaku." Kami berkata; "Wahai Rasulullah, bagaimana shalawat kami sampai kepada engkau sedangkan engkau telah hancur?". Beliau bersabda: "Sesungguhnya Allah AzzaWaJalla mengharamkan bumi untuk memakan jasad para Nabi Shallallahu'alaihiwasallam."
+</div>
+
+
+## Kalimat Sholawat
+### Sholawat ke 1 : Bukhari - No.3119 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا قَيْسُ بْنُ حَفْصٍ وَمُوسَى بْنُ إِسْمَاعِيلَ قَالَا حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ حَدَّثَنَا أَبُو فَرْوَةَ مُسْلِمُ بْنُ سَالِمٍ الْهَمْدَانِيُّ قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عِيسَى سَمِعَ عَبْدَ الرَّحْمَنِ بْنَ أَبِي لَيْلَى قَالَ لَقِيَنِي كَعْبُ بْنُ عُجْرَةَ فَقَالَأَلَا أُهْدِي لَكَ هَدِيَّةً سَمِعْتُهَا مِنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقُلْتُ بَلَى فَأَهْدِهَا لِي فَقَالَ سَأَلْنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقُلْنَا يَا رَسُولَ اللَّهِ كَيْفَ الصَّلَاةُ عَلَيْكُمْ أَهْلَ الْبَيْتِ فَإِنَّ اللَّهَ قَدْ عَلَّمَنَا كَيْفَ نُسَلِّمُ عَلَيْكُمْ قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="id">
+<b>Bukhari - No.3119 :</b> Telah bercerita kepada kami Qais bin Hafsh dan Musa bin Isma'il keduanya berkata telah bercerita kepada kami 'Abdul Wahid bin Ziyad telah bercerita kepada kami Abu Farwah Muslim bin Salim Al Hamdaniy berkata telah bercerita kepadaku 'Abdullah bin 'Isa dia mendengar 'Abdur Rahman bi Abi Laila berkata; Ka'ab bin 'Ujrah menemui aku lalu berkata; "Maukah kamu aku hadiahkan suatu hadiah yang aku mendengarnya dari Nabi shallallahu 'alaihi wasallam". Aku jawab; "Ya, hadiahkanlah aku". Lalu dia berkata; "Kami pernah bertanya kepada Rasulullah shallallahu 'alaihi wasallam; "Wahai Rasulullah, bagaimana caranya kami bershalawat kepada tuan-tuan kalangan Ahlul Bait sementara Allah telah mengajarkan kami bagaimana cara menyampaikan salam kepada kalian?". Maka Beliau bersabda: "Ucapkanlah; Allahumma shalli 'alaa Muhammadin wa 'alaa aali Muhammad kamaa shollaita 'alaa Ibrahiim wa 'alaa aali Ibrahim innaka hamiidun majid. Allahumma baarik 'alaa Muhammadin wa 'alaa aali Muhammadin kamaa baarakta 'alaa Ibrahiim wa 'alaa aali Ibrahim innaka hamiidun majiid" (Ya Allah berilah shalawat kepada Muhammad dan kepada keluarga Muhammad sebagaimana Engkau telah memberi shalawat kepada Ibrahiim dan kepada keluarga Ibrahim, sesungguhnya Engkah Maha Terpuji dan Maha Mulia. Ya Allah berilah barakah kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberi barakah kepada Ibrahim dan kepada keluarga Ibrahim, sesungguhnya Engkah Maha Terpuji dan Maha Mulia) ".
+</div>
+</div>
+
+
+### Sholawat ke 2 : Bukhari - No.4423 :
+<div class="gdiv">
+<div class="arx">
+ اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنِي سَعِيدُ بْنُ يَحْيَى بْنِ سَعِيدٍ حَدَّثَنَا أَبِي حَدَّثَنَا مِسْعَرٌ عَنْ الْحَكَمِ عَنْ ابْنِ أَبِي لَيْلَى عَنْ كَعْبِ بْنِ عُجْرَةَ رَضِيَ اللَّهُ عَنْهُ قِيلَيَا رَسُولَ اللَّهِ أَمَّا السَّلَامُ عَلَيْكَ فَقَدْ عَرَفْنَاهُ فَكَيْفَ الصَّلَاةُ عَلَيْكَ قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="id">
+<b>Bukhari - No.4423 :</b> Telah menceritakan kepadaku Sa'id bin Yahya bin Sa'id Telah menceritakan kepada kami Bapakku Telah menceritakan kepada kami Mis'ar dari Al Hakam dari Ibnu Abu Laila dari Ka'ab bin 'Ujrah radliallahu 'anhu ketika dikatakan; Wahai Rasulullah, kami telah mengetahui salam kepadamu, lalu bagaimanakah caranya bershalawat kepadamu? Beliau menjawab: "Ucapkanlah; ALLAHUMMA SHALLI 'ALAA MUHAMMAD WA 'ALAA AALI MUHAMMAD KAMAA SHALLAITA 'ALAA AALII IBRAAHIM INNAKA HAMIIDUM MAJIID. ALLAAHUMMA BAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAARAKTA 'ALAA 'AALI IBRAHIIMA INNAKA HAMIIDUM MAJIID."
+</div>
+</div>
+
+### Sholawat ke 3 : Bukhari - No.3118 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ أَخْبَرَنَا مَالِكُ بْنُ أَنَسٍ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ عَنْ أَبِيهِ عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ أَخْبَرَنِي أَبُو حُمَيْدٍ السَّاعِدِيُّ رَضِيَ اللَّهُ عَنْهُ أَنَّهُمْقَالُوا يَا رَسُولَ اللَّهِ كَيْفَ نُصَلِّي عَلَيْكَ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ
+</div>
+<div class="id">
+<b>Bukhari - No.3118 :</b> Telah bercerita kepada kami 'Abdullah bin Yusuf telah mengabarkan kepada kami Malik bin Anas dari 'Abdullah bin Abi Bakr bin Muhammad bin 'Amru bin Hazm dari bapaknya dari 'Amru bin Sulaim Az Zuraqiy telah mengabarkan kepadaku Abu Humaid as-Sa'idiy radliallahu 'anhu bahwa mereka berkata; "Wahai Rasulullah, bagaimana caranya kami bershalawat kepada baginda?". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ucapkanlah; Allahumma shalli 'alaa Muhammadin wa azwaajihi wa dzurriyyatihii kamaa shollaita 'alaa aali Ibrahim wa baarik 'alaa Muhammadin wa azwaajihi wa dzurriyyatihii kamaa baarakta 'alaa aali Ibrahim innaka hamiidun majiid" (Ya Allah berilah shalawat kepada Muhammad, istri-istrinya dan anak keturunannya sebagaimana Engkau telah memberi shalawat kepada keluarga Ibrahim dan berilah barakah kepada Muhammad, istri-istrinya dan anak keturunannya sebagaimana Engkau telah memberi barakah kepada keluarga Ibrahim. Sesungguhnya Engkah Maha Terpuji dan Maha Mulia) ".
+</div>
+</div>
+
+### Sholawat ke 4 : Bukhari - No.5880 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا آدَمُ حَدَّثَنَا شُعْبَةُ حَدَّثَنَا الْحَكَمُ قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ أَبِي لَيْلَى قَالَ لَقِيَنِي كَعْبُ بْنُ عُجْرَةَ فَقَالَأَلَا أُهْدِي لَكَ هَدِيَّةً إِنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَرَجَ عَلَيْنَا فَقُلْنَا يَا رَسُولَ اللَّهِ قَدْ عَلِمْنَا كَيْفَ نُسَلِّمُ عَلَيْكَ فَكَيْفَ نُصَلِّي عَلَيْكَ قَالَ فَقُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="id">
+<b>Bukhari - No.5880 :</b> Telah menceritakan kepada kami Adam telah menceritakan kepada kami Syu'bah telah menceritakan kepada kami Al Hakam dia berkata; saya mendengar Abdurrahman bin Abu Laila dia berkata; Ka'b bin 'Ujrah pernah menemuiku, lalu dia berkata; "Maukah kamu aku beri petunjuk? Sesungguhnya Nabi Shallallahu 'alahi wasallam pernah keluar menemui kami, lalu kami bertanya; "Wahai Rasulullah, kami telah mengetahui salam kepadamu, lalu bagaimanakah caranya bershalawat kepadamu? Beliau menjawab: "Ucapkanlah; ALLAHUMMA SHALLI 'ALAA MUHAMMAD WA 'ALAA AALI MUHAMMAD KAMAA SHALLAITA 'ALAA AALII IBRAAHIM INNAKA HAMIIDUM MAJIID. ALLAAHUMMA BAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAARAKTA 'ALAA 'AALI IBRAHIIMA INNAKA HAMIIDUM MAJIID (Ya Allah berilah shalawat kepada Muhammad dan kepada keluarga Muhammad sebagaimana Engkau telah memberi shalawat kepada Ibrahiim, sesungguhnya Engkah Maha Terpuji dan Maha Mulia. Ya Allah berilah barakah kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberi barakah kepada Ibrahim, sesungguhnya Engkah Maha Terpuji dan Maha Mulia)."
+</div>
+</div>
+
+### Sholawat ke 5 : Bukhari - No.5881 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَآلِ إِبْرَاهِيمَ.
+</div>
+<div class="ar">
+حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ حَدَّثَنَا ابْنُ أَبِي حَازِمٍ وَالدَّرَاوَرْدِيُّ عَنْ يَزِيدَ عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَقُلْنَا يَا رَسُولَ اللَّهِ هَذَا السَّلَامُ عَلَيْكَ فَكَيْفَ نُصَلِّي قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَآلِ إِبْرَاهِيمَ.
+</div>
+<div class="id">
+<b>Bukhari - No.5881 :</b> Telah menceritakan kepada kami Ibrahim bin Hamzah telah menceritakan kepada kami Ibnu Abu Hazim dan Ad Darawardi dari Yazid dari Abdullah bin Khabbab dari Abu Sa'id Al Khudri dia berkata; kami bertanya; "Wahai Rasulullah, kami telah mengetahui salam kepadamu, lalu bagaimanakah kami bershalawat?" beliau menjawab: "Ucapkanlah; ALLAHUMMA SHALLI 'ALAA MUHAMMAD 'ABDIKA WARASUULIKA KAMAA SHALLAITA 'ALAA IBRAAHIM WA BAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAARAKTA 'ALAA IBRAHIIM WA 'ALAA AALI IBRAHIIMA (Ya Allah berilah shalawat kepada Muhammad hamba dan utusan-Mu sebagaimana Engkau telah memberi shalawat kepada Ibrahiim, dan berilah barakah kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberi barakah kepada Ibrahim, dan keluarga Ibrahim)."
+</div>
+</div>
+
+### Sholawat ke 6 : Bukhari - No.5883 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ عَنْ مَالِكٍ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ عَنْ أَبِيهِ عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ قَالَ أَخْبَرَنِي أَبُو حُمَيْدٍ السَّاعِدِيُّأَنَّهُمْ قَالُوا يَا رَسُولَ اللَّهِ كَيْفَ نُصَلِّي عَلَيْكَ قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="id">
+<b>Bukhari - No.5883 :</b> Telah menceritakan kepada kami Abdullah bin Maslamah dari Malik dari Abdullah bin Abu Bakr dari Ayahnya dari 'Amru bin Sulaim Az Zuraqi dia berkata; telah mengabarkan kepadaku Abu Humaid As Sa'idi bahwa mereka berkata; "Wahai Rasulullah, bagaimana kita bershalawat kepadamu?" beliau bersabda: "Ucapkanlah; ALLAHUMMA SHALLI 'ALAA MUHAMMADIN WA AZWAAJIHI WA DZURRIYYATIHII KAMAA SHALLAITA 'ALAA AALI IBRAHIM WA BAARIK 'ALAA MUHAMMADIN WA AZWAAJIHI WA DZURRIYYATIHII KAMAA BAARAKTA 'ALAA AALI IBRAHIM INNAKA HAMIIDUN MAJIID" (Ya Allah berilah shalawat kepada Muhammad, istri-istrinya dan anak keturunannya sebagaimana Engkau telah memberi shalawat kepada keluarga Ibrahim dan berilah barakah kepada Muhammad, istri-istrinya dan anak keturunannya sebagaimana Engkau telah memberi barakah kepada keluarga Ibrahim. Sesungguhnya Engkah Maha Terpuji dan Maha Mulia)."
+</div>
+</div>
+
+### Sholawat ke 7 : Muslim - No.613 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نُعَيْمِ بْنِ عَبْدِ اللَّهِ الْمُجْمِرِ أَنَّ مُحَمَّدَ بْنَ عَبْدِ اللَّهِ بْنِ زَيْدٍ الْأَنْصَارِيَّ وَعَبْدُ اللَّهِ بْنُ زَيْدٍ هُوَ الَّذِي كَانَ أُرِيَ النِّدَاءَ بِالصَّلَاةِ أَخْبَرَهُ عَنْ أَبِي مَسْعُودٍ الْأَنْصَارِيِّ قَالَأَتَانَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَنَحْنُ فِي مَجْلِسِ سَعْدِ بْنِ عُبَادَةَ فَقَالَ لَهُ بَشِيرُ بْنُ سَعْدٍ أَمَرَنَا اللَّهُ تَعَالَى أَنَّ نُصَلِّيَ عَلَيْكَ يَا رَسُولَ اللَّهِ فَكَيْفَ نُصَلِّي عَلَيْكَ قَالَ فَسَكَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى تَمَنَّيْنَا أَنَّهُ لَمْ يَسْأَلْهُ ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ وَالسَّلَامُ كَمَا قَدْ عَلِمْتُمْ.
+</div>
+<div class="id">
+<b>Muslim - No.613 :</b> Telah menceritakan kepada kami Yahya bin Yahya at-Tamimi dia berkata, saya membaca di hadapan Malik dari Nu'aim bin Abdullah al-Mujmir bahwa Muhammad bin Abdullah bin Zaid al-Anshari dan Abdullah bin Zaid yang dia adalah orang yang diberi petunjuk dalam hal panggilan untuk shalat (adzan), dia telah menceritakannya dari Abu Mas'ud al-Anshari dia berkata, "Rasulullah shallallahu 'alaihi wasallam mendatangi kami sedangkan kami berada dalam majlis Sa'd bin Ubadah, maka Basyir bin Sa'ad berkata kepadanya, 'Allah memerintahkan kami untuk mengucapkan shalawat atasmu wahai Rasulullah, lalu bagaimana cara bershalawat atasmu? ' Perawi berkata, "Lalu Rasulullah shallallahu 'alaihi wasallam diam hingga kami berangan-angan bahwa dia tidak menanyakannya kepada beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda, "Katakanlah, 'ALLOOHUMMA SHOLLI 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD, KAMAA SHOLLAITA 'ALAA AALI IBROOHIIMA WABAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAAROKTA 'ALAA AALI IBROOHIIMA FIL'AALAMIINA INNAKA HAMIIDUN MAJIID." Ya Allah, berilah shalawat atas Muhammad dan keluarga Muhammad sebagaimana Engkau memberi shalawat atas keluarga Ibrahim, dan berilah berkah atas Muhammad dan keluarga Muhammad sebagaimana Engkau memberi berkah kepada keluarga Ibrahim di dunia. Engkau Maha Terpuji dan Maha Mulia.' Dan salam sebagaimana yang telah kamu ketahui."
+</div>
+</div>
+
+### Sholawat ke 8 : Muslim - No.614 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى وَمُحَمَّدُ بْنُ بَشَّارٍ وَاللَّفْظُ لِابْنِ الْمُثَنَّى قَالَا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ عَنْ الْحَكَمِ قَالَ سَمِعْتُ ابْنَ أَبِي لَيْلَى قَالَلَقِيَنِي كَعْبُ بْنُ عُجْرَةَ فَقَالَ أَلَا أُهْدِي لَكَ هَدِيَّةً خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقُلْنَا قَدْ عَرَفْنَا كَيْفَ نُسَلِّمُ عَلَيْكَ فَكَيْفَ نُصَلِّي عَلَيْكَ قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ وَأَبُو كُرَيْبٍ قَالَا حَدَّثَنَا وَكِيعٌ عَنْ شُعْبَةَ وَمِسْعَرٍ عَنْ الْحَكَمِ بِهَذَا الْإِسْنَادِ مِثْلَهُ وَلَيْسَ فِي حَدِيثِ مِسْعَرٍ أَلَا أُهْدِي لَكَ هَدِيَّةً حَدَّثَنَا مُحَمَّدُ بْنُ بَكَّارٍ حَدَّثَنَا إِسْمَعِيلُ بْنُ زَكَرِيَّاءَ عَنْ الْأَعْمَشِ وَعَنْ مِسْعَرٍ وَعَنْ مَالِكِ بْنِ مِغْوَلٍ كُلُّهُمْ عَنْ الْحَكَمِ بِهَذَا الْإِسْنَادِ مِثْلَهُ غَيْرَ أَنَّهُ قَالَ وَبَارِكْ عَلَى مُحَمَّدٍ وَلَمْ يَقُلْ اللَّهُمَّ.
+</div>
+<div class="id">
+<b>Muslim - No.614 :</b> Telah menceritakan kepada kami Muhammad bin al-Mutsanna dan Muhammad bin Basysyar dan lafazh tersebut milik al-Mutsanna, keduanya berkata, telah menceritakan kepada kami Muhammad bin Ja'far telah menceritakan kepada kami Syu'bah dari al-Hakam dia berkata, Saya mendengar Ibnu Abi Laila berkata, Ka'ab bin Ujrah menemuiku seraya berkata, "Maukah kalian aku beri hadiah ketika Rasululllah shallallahu 'alaihi wasallam keluar melewati kami, maka kami berkata, 'Sungguh kami telah mengetahui bagaimana mengucapkan selamat atasmu, dan bagaimana bershalawat atasmu.' Beliau bersabda, 'Kalian katakanlah, 'ALLOOHUMMA SHOLLI 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD, KAMAA SHOLLAITA 'ALAA AALI IBROOHIIMA INNAKA HAMIIDUN MAJIID, ALLOOHUMMA BAARIK 'ALAA MUHAMMADIN WA'ALAA AALI MUHAMMADIN KAMAA BAAROKTA 'ALAA AALI IBROOHIIMA INNAKA HAMIIDUN MAJIID "Ya Allah, berilah shalawat atas Muhammad dan keluarga Muhammad sebagaimana Engkau memberi shalawat atas keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji dan Maha Mulia. Ya Allah, berilah berkah atas Muhammad dan keluarga Muhammad sebagaimana Engkau memberi berkah kepada keluarga Ibrahim. Engkau Maha Terpuji dan Maha Mulia'." Telah menceritakan kepada kami Zuhair bin Harb dan Abu Kuraib keduanya berkata, telah menceritakan kepada kami Waki' dari Syu'bah dan Mis'ar dari al-Hakam dengan isnad ini yang semisalnya dan dalam hadits Mis'ar tidak ada, "Maukah kalian agar aku beri hadiah." Telah menceritakan kepada kami Muhammad bin Bakkar telah menceritakan kepada kami Ismail bin Zakariya' dari al-A'masy dari Mis'ar dan dari Malik bin Mighwal semuanya meriwayatkan dari al-Hakam dengan isnad ini yang semisalnya, hanya saja dia berkata, "Dan keberkahan atas Muhammad, " dan tidak mengatakan, "Allahumma."
+</div>
+</div>
+
+### Sholawat ke 9 : Muslim - No.615 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ حَدَّثَنَا رَوْحٌ وَعَبْدُ اللَّهِ بْنُ نَافِعٍ ح و حَدَّثَنَا إِسْحَقُ بْنُ إِبْرَاهِيمَ وَاللَّفْظُ لَهُ قَالَ أَخْبَرَنَا رَوْحٌ عَنْ مَالِكِ بْنِ أَنَسٍ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ عَنْ أَبِيهِ عَنْ عَمْرِو بْنِ سُلَيْمٍ أَخْبَرَنِي أَبُو حُمَيْدٍ السَّاعِدِيُّأَنَّهُمْ قَالُوا يَا رَسُولَ اللَّهِ كَيْفَ نُصَلِّي عَلَيْكَ قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="id">
+<b>Muslim - No.615 :</b> Telah menceritakan kepada kami Muhammad bin Abdullah bin Numair telah menceritakan kepada kami Rauh dan Abdullah bin Nafi' --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami Ishaq bin Ibrahim dan lafazh tersebut miliknya, dia berkata, telah mengabarkan kepada kami Rauh dari Malik bin Anas dari Abdullah bin Abi Bakar dari bapaknya dari Amru bin Sulaim telah mengabarkan kepadaku Abu Humaid as-Sa'idi bahwasanya mereka mengatakan, "Wahai Rasulullah Shallallahu'alaihiwasallam, bagaimana kami bershalawat atasmu?" Beliau bersabda, "AALLOOHUMMA SHOLLI 'ALAA MUHAMMAD WA'ALAA AZWAAJIHI WADZURRIYATIHI KAMAA SHOLLAITA 'ALAA AALI IBROOHIIMA, WABAARIK 'ALAA MUHAMMAD WA'ALAA AZWAAJIHI WADZURRIYATIHI KAMAA BAAROKTA 'ALAA AALI IBROOHIIMA, INNAKA HAMIIDUN MAJIID" Katakanlah, ya Allah, berikanlah shalawat atas Muhammad, istri-istrinya, dan keturunannya sebagaimana Engkau memberikan shalawat atas keluarga Ibrahim. Berilah berkah atas Muhammad, istri dan keturunannya, sebagaimana Engkau memberikan keberkahan kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji dan Maha Mulia'."
+</div>
+</div>
+
+### Sholawat ke 10 : Abu Daud - No.830 :
+<div class="gdiv">
+<div class="arx">
+1. اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+<br />
+2. اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا حَفْصُ بْنُ عُمَرَ حَدَّثَنَا شُعْبَةُ عَنْ الْحَكَمِ عَنْ ابْنِ أَبِي لَيْلَى عَنْ كَعْبِ بْنِ عُجْرَةَ قَالَ قُلْنَا أَوْقَالُوا يَا رَسُولَ اللَّهِ أَمَرْتَنَا أَنْ نُصَلِّيَ عَلَيْكَ وَأَنْ نُسَلِّمَ عَلَيْكَ فَأَمَّا السَّلَامُ فَقَدْ عَرَفْنَاهُ فَكَيْفَ نُصَلِّي عَلَيْكَ قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌحَدَّثَنَا مُسَدَّدٌ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ حَدَّثَنَا شُعْبَةُ بِهَذَا الْحَدِيثِ قَالَ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلَاءِ حَدَّثَنَا ابْنُ بِشْرٍ عَنْ مِسْعَرٍ عَنْ الْحَكَمِ بِإِسْنَادِهِ بِهَذَا قَالَ اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ قَالَ أَبُو دَاوُد رَوَاهُ الزُّبَيْرُ بْنُ عَدِيٍّ عَنْ ابْنِ أَبِي لَيْلَى كَمَا رَوَاهُ مِسْعَرٌ إِلَّا أَنَّهُ قَالَ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ وَبَارِكْ عَلَى مُحَمَّدٍ وَسَاقَ مِثْلَهُ.
+</div>
+<div class="id">
+<b>Abu Daud - No.830 :</b> Telah menceritakan kepada kami Hafsh bin Umar telah menceritakan kepada kami Syu'bah dari Al Hakam dari Ibnu Abu Laila dari Ka'b bin 'Ujrah dia berkata; kami bertanya -atau- mereka bertanya; "Wahai Rasulullah, Anda memerintahkan kami untuk bershalawat dan salam kepada anda, kami telah mengetahui tentang salam, lalu bagaimana cara kami bershalawat kepada anda?" beliau bersabda: "Ucapkanlah; 'Allahumma shalli 'ala Muhammadin wa'alaa aalii Muhammad, kamaa shallaita 'alaa Ibrahim. Wabaarik 'alaa Muhammad wa'alaa aali Muhammad, kamaa barakta 'alaa Ibrahim fil 'alamiina innaka hamidum-majiid (Ya Allah, curahkanlah kesejahteraan kepada Muhammad dan keluarga Muhammad sebagaimana Engkau curahkan kepada keluarga Ibrahim. Ya Allah, curahkanlah keberkahan kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau curahkan keberkahan kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji Lagi Maha Agung)." Telah menceritakan kepada kami Musaddad telah menceritakan kepada kami Yazid bin Zurai' telah menceritakan kepada kami Syu'bah seperti hadits ini, sabdanya; "Shalli 'alaa muhammad wa 'alaa aali Muhammad kamaa shallait a'alaa ibraahiim (curahkanlah kesejahteraan kepada Muhammad dan keluarga Muhammad sebagaimana Engkau curahkan kepada keluarga Ibrahim)." Telah menceritakan kepada kami Muhammad bin Al 'Ala` telah menceritakan kepada kami Ibnu Bisyr dari Mis'ar dari Al Hakam dengan isnad ini, beliau bersabda: "'Allahumma shalli 'ala Muhammadin wa'alaa aalii Muhammad, kamaa shallaita 'alaa Ibrahim innaka hamiidum majiid. Allahumma baarik 'alaa Muhammad wa'alaa aali Muhammad, kamaa barakta 'alaa Ibrahim fil 'alamiina innaka hamidum-majiid (Ya Allah, curahkanlah kesejahteraan kepada Muhammad dan keluarga Muhammad sebagaimana Engkau curahkan kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji Lagi Maha Agung. Ya Allah, curahkanlah keberkahan kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau curahkan keberkahan kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji Lagi Maha Agung)." Abu Daud berkata; "(Hadits ini) juga di riwayatkan oleh Az Zubair bin 'Adi dari Ibnu Abu Laila sebagaimana yang di riwayatkan Mis'ar namun ia mengatakan; "kamaa shallaita 'alaa aali Ibrahim innaka hamiidum majiid, wa baarik 'alaa Muhammad …" kemudian ia melanjutkan hadits seperti itu.
+</div>
+</div>
+
+### Sholawat ke 11 : Abu Daud - No.831 :
+<div class="gdiv">
+<div class="arx">
+1. اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+<br />
+2. اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ النَّبِيِّ الْأُمِّيِّ وَعَلَى آلِ مُحَمَّدٍ.
+</div>
+<div class="ar">
+حَدَّثَنَا الْقَعْنَبِيُّ عَنْ مَالِكٍ ح و حَدَّثَنَا ابْنُ السَّرْحِ أَخْبَرَنَا ابْنُ وَهْبٍ أَخْبَرَنِي مَالِكٌ عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ عَنْ أَبِيهِ عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ أَنَّهُ قَالَ أَخْبَرَنِي أَبُو حُمَيْدٍ السَّاعِدِيُّ أَنَّهُمْ قَالُوا يَا رَسُولَ اللَّهِ كَيْفَ نُصَلِّي عَلَيْكَ قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌحَدَّثَنَا الْقَعْنَبِيُّ عَنْ مَالِكٍ عَنْ نُعَيْمِ بْنِ عَبْدِ اللَّهِ الْمُجْمِرِ أَنَّ مُحَمَّدَ بْنَ عَبْدِ اللَّهِ بْنِ زَيْدٍ وَعَبْدُ اللَّهِ بْنُ زَيْدٍ هُوَ الَّذِي أُرِيَ النِّدَاءَ بِالصَّلَاةِ أَخْبَرَهُ عَنْ أَبِي مَسْعُودٍ الْأَنْصَارِيِّ أَنَّهُ قَالَ أَتَانَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي مَجْلِسِ سَعْدِ بْنِ عُبَادَةَ فَقَالَ لَهُ بَشِيرُ بْنُ سَعْدٍ أَمَرَنَا اللَّهُ أَنْ نُصَلِّيَ عَلَيْكَ يَا رَسُولَ اللَّهِ فَكَيْفَ نُصَلِّي عَلَيْكَ فَسَكَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى تَمَنَّيْنَا أَنَّهُ لَمْ يَسْأَلْهُ ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قُولُوا فَذَكَرَ مَعْنَى حَدِيثِ كَعْبِ بْنِ عُجْرَةَ زَادَ فِي آخِرِهِ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ حَدَّثَنَا زُهَيْرٌ حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَقَ حَدَّثَنَا مُحَمَّدُ بْنُ إِبْرَاهِيمَ بْنِ الْحَارِثِ عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ زَيْدٍ عَنْ عُقْبَةَ بْنِ عَمْرٍو بِهَذَا الْخَبَرِ قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ النَّبِيِّ الْأُمِّيِّ وَعَلَى آلِ مُحَمَّدٍ.
+</div>
+<div class="id">
+<b>Abu Daud - No.831 :</b> Telah menceritakan kepada kami Al Qa'nabi dari Malik. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami Ibnu As Sarh telah mengabarkan kepada kami Ibnu Wahb telah mengabarkan kepadaku Malik dari Abdullah bin Abu Bakr bin Muhammad bin 'Amru bin Hazm dari ayahnya dari 'Amru bin Sulaim Az Zuraqi bahwa dia berkata; telah mengabarkan kepadaku Abu Humaid As Sa'idi bahwa mereka bertanya; "Wahai Rasulullah, bagaimana cara kami bershalawat kepadamu?" beliau bersabda: 'Ucapkanlah oleh kalian; "'Allahumma shalli 'ala Muhammadin wa azwajihi wa dzurriyatihi, kamaa shallaita 'alaa aali Ibrahim. Wabaarik 'alaa Muhammad wa azwajihi wa dzurriyatihi, kamaa baarakta 'alaa aali Ibrahim fil 'alamiina innaka hamiidum-majiid (Ya Allah, curahkanlah kesejahteraan kepada Muhammad, para isterinya dan keturunannya sebagaimana Engkau curahkan kepada keluarga Ibrahim. Ya Allah, curahkanlah keberkahan kepada Muhammad, isteri-isterinya dan keturunannya, sebagaimana Engkau curahkan keberkahan kepada keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji Lagi Maha Agung)." Telah menceritakan kepada kami Al Qa'nabi dari Malik dari Nu'aim bin Abdullah al Mujmir bahwa Muhammad bin Abdullah bin Zaid, Abdullah bin Zaid yang aku ketahui dia seorang yang mengumandangkan adzan untuk shalat, dia telah mengabarkan kepadanya, dari Abu Mas'ud Al Anshari bahwa dia berkata; "Rasulullah shallallahu 'alaihi wasallam menemui kami di Majlisnya Sa'd bin 'Ubadah, maka Bisyr bin Sa'd bertanya kepada beliau; "Wahai Rasulullah, Allah telah memerintahkan kepada kami untuk bershalawat kepada anda, lalu bagaimana caranya kami bershalawat kepada anda?" namun Rasulullah shallallahu 'alaihi wasallam diam, sehingga kami berharap supaya Bisyr tidak bertanya ulang kepada beliau, setelah itu Rasulullah shallallahu 'alaihi wasallam bersabda: "Ucapkanlah oleh kalian …" kemudian ia menyebutkan makna hadits Ka'b bin 'Ujrah, di akhir hadits ia menambahkan; "fil 'aalamiina innaka hamiidum majiid." Telah menceritakan kepada kami Ahmad bin Yunus telah menceritakan kepada kami Zuhair telah menceritakan kepada kami Muhammad bin Ishaq telah menceritakan kepada kami Muhammad bin Ibrahim bin Al Harits dari Muhammad bin Abdullah bin Zaid dari 'Uqbah bin 'Amru seperti hadits ini, beliau bersabda: "Ucapkanlah oleh kalian; "Allahumma shalli 'alaa Muhammad An Nabiyyil Ummi wa 'alaa aali Muhammad (Ya Allah, limpahkanlah kesejahteraan kepada Muhammad, Nabi yang Ummi (buta huruf) dan kepada keluarga Muhammad)."
+</div>
+</div>
+
+### Sholawat ke 12 : Abu Daud - No.832 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ أُمَّهَاتِ الْمُؤْمِنِينَ وَذُرِّيَّتِهِ وَأَهْلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا مُوسَى بْنُ إِسْمَعِيلَ حَدَّثَنَا حِبَّانُ بْنُ يَسَارٍ الْكِلَابِيُّ حَدَّثَنِي أَبُو مُطَرِّفٍ عُبَيْدُ اللَّهِ بْنُ طَلْحَةَ بْنِ عُبَيْدِ اللَّهِ بْنِ كَرِيزٍ حَدَّثَنِي مُحَمَّدُ بْنُ عَلِيٍّ الْهَاشِمِيُّ عَنْ الْمُجْمِرِ عَنْ أَبِي هُرَيْرَةَعَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَنْ سَرَّهُ أَنْ يَكْتَالَ بِالْمِكْيَالِ الْأَوْفَى إِذَا صَلَّى عَلَيْنَا أَهْلَ الْبَيْتِ فَلْيَقُلْ اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَأَزْوَاجِهِ أُمَّهَاتِ الْمُؤْمِنِينَ وَذُرِّيَّتِهِ وَأَهْلِ بَيْتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="id">
+<b>Abu Daud - No.832 :</b> Telah menceritakan kepada kami Musa bin Isma'il telah menceritakan kepada kami Hibban bin Yasar Al Kilabi telah menceritakan kepadaku Abu Mutharif 'Ubaidullah bin Thlhah bin Kariz telah menceritakan kepadaku Muhammad bin Ali Al Hasyimi dari Al Mujmir dari Abu Hurairah dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Barangsiapa ingin di timbang dengan timbangan yang sempurna, maka apabila bershalawat kepada kami yaitu ahlul bait, hendaklah dia mengucapkan "Allahumma shalli 'ala muhammadin waazwajihi ummahatul mu'minin wadzurriyyatihi wa ahla baitihi kama shallaita 'ala ali Ibrahim innaka hamidun majid" (Ya Allah limpahkanlah kesejahteraan kepada Muhammad, para istrinya yaitu ibu bagi orang-orang yang beriman, keturunannya dan ahlu baitnya sebagaimana Engkau limpahkan kesejahteraan kepada keluarga Ibrahim, sesungguhnya Engkau Maha Terpuji lagi Maha Agung)."
+</div>
+</div>
+
+### Sholawat ke 13 : Tirmidzi -	No.445 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا مَحْمُودُ بْنُ غَيْلَانَ حَدَّثَنَا أَبُو أُسَامَةَ عَنْ مِسْعَرٍ وَالْأَجْلَحِ وَمَالِكِ بْنِ مِغْوَلٍ عَنْ الْحَكَمِ بْنِ عُتَيْبَةَ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى عَنْ كَعْبِ بْنِ عُجْرَةَ قَالَقُلْنَا يَا رَسُولَ اللَّهِ هَذَا السَّلَامُ عَلَيْكَ قَدْ عَلِمْنَا فَكَيْفَ الصَّلَاةُ عَلَيْكَ قَالَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌقَالَ مَحْمُودٌ قَالَ أَبُو أُسَامَةَ وَزَادَنِي زَائِدَةُ عَنْ الْأَعْمَشِ عَنْ الْحَكَمِ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى قَالَ وَنَحْنُ نَقُولُ وَعَلَيْنَا مَعَهُمْ قَالَ وَفِي الْبَاب عَنْ عَلِيٍّ وَأَبِي حُمَيْدٍ وَأَبِي مَسْعُودٍ وَطَلْحَةَ وَأَبِي سَعِيدٍ وَبُرَيْدَةَ وَزَيْدِ بْنِ خَارِجَةَ وَيُقَالُ ابْنُ جَارِيَةَ وَأَبِي هُرَيْرَةَ قَالَ أَبُو عِيسَى حَدِيثُ كَعْبِ بْنِ عُجْرَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ وَعَبْدُ الرَّحْمَنِ بْنُ أَبِي لَيْلَى كُنْيَتُهُ أَبُو عِيسَى وَأَبُو لَيْلَى اسْمُهُ يَسَارٌ.
+</div>
+<div class="id">
+<b> :</b> Telah menceritakan kepada kami Mahmud bin Ghailan telah menceritakan kepada kami Abu Usamah dari Mis'ar dan Ajlah dan Malik bin Mighwal dari Al Hakam bin 'Utaibah dari Abdurrahman bin Abu Laila dari Ka'ab bin 'Ujrah dia berkata, kami bertanya, wahai Rasulullah, kami telah mengetahui salam keatasmu, lalu bagaimanakah caranya bershalawat keatasmu? Beliau menjawab: "Ucapkanlah ALLAHUMMA SHALLI 'ALAA MUHAMMAD WA 'ALAA AALI MUHAMMAD KAMAA SHALLAITA 'ALAA IBRADLIALLAHU 'ANHAHIIMA INNAKA HAMIIDUM MAJIID WA BAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAARAKTA 'ALAA IBRAHIIMA INNAKA HAMIIDUM MAJIID. Mahmud berkata, Abu Usamah berkata, dan dia menambahkan kepadaku beberapa tambahan dari Al A'masy dari Al Hakam dari Abdurrahman bin Abu Laila dia berkata, sedangkan kami mengatakan "dan kami bersama mereka." (perawi) berkata, dalam bab ini (ada juga riwayat -pent) dari Ali, Abu Humaid, Abu Mas'ud Thalhah, Abu sa'id, Buraidah dan Zaid bin Kharijah, dikatakan pula Ibnu Jariyah dan Abu Hurairah. Abu Isa berkata, hadits Ka'ab bin 'Ujrahh adalah hadits hasan shahih, kunyahnya Abdurrahman bin Abu Laila adalah Abu Isa, sedangkan namanya Abu Laila adalah Yasar.
+</div>
+</div>
+
+### Sholawat ke 14 : Tirmidzi - No.3144 :
+<div class="gdiv">
+<div class="arx">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ.
+</div>
+<div class="ar">
+حَدَّثَنَا إِسْحَقُ بْنُ مُوسَى الْأَنْصَارِيُّ حَدَّثَنَا مَعْنٌ حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ عَنْ نُعَيْمِ بْنِ عَبْدِ اللَّهِ الْمُجْمِرِ أَنَّ مُحَمَّدَ بْنَ عَبْدِ اللَّهِ بْنِ زَيْدٍ الْأَنْصَارِيَّ وَعَبْدَ اللَّهِ بْنَ زَيْدٍ الَّذِي كَانَ أُرِيَ النِّدَاءَ بِالصَّلَاةِ أَخْبَرَهُ عَنْ أَبِي مَسْعُودٍ الْأَنْصَارِيِّ أَنَّهُ قَالَأَتَانَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَنَحْنُ فِي مَجْلِسِ سَعْدِ بْنِ عُبَادَةَ فَقَالَ لَهُ بَشِيرُ بْنُ سَعْدٍ أَمَرَنَا اللَّهُ أَنْ نُصَلِّيَ عَلَيْكَ فَكَيْفَ نُصَلِّي عَلَيْكَ قَالَ فَسَكَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى تَمَنَّيْنَا أَنَّهُ لَمْ يَسْأَلْهُ ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قُولُوا اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ وَالسَّلَامُ كَمَا قَدْ عُلِّمْتُمْوَفِي الْبَاب عَنْ عَلِيٍّ وَأَبِي حُمَيْدٍ وَكَعْبِ بْنِ عُجْرَةَ وَطَلْحَةَ بْنِ عُبَيْدِ اللَّهِ وَأَبِي سَعِيدٍ وَزَيْدِ بْنِ خَارِجَةَ وَيُقَالُ ابْنُ جَارِيَةَ وَبُرَيْدَةَ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ.
+</div>
+<div class="id">
+<b> :</b> Telah menceritakan kepada kami Ishaq bin Musa Al Anshari telah menceritakan kepada kami Ma'an telah menceritakan kepada kami Malik bin Anas dari Nu'aim bin Abdullah Al Mujmir bahwa Muhammad bin Abdullah bin Zaid Al Anshari dan Abdullah bin Zaid yang memimpikan adzan shalat memberitahunya dari Abu Mas'ud Al Anshari berkata: Rasulullah Shallallahu 'alaihi wa Salam mendatangi kami saat kami di majlis Sa'ad bin Ubadah lalu Basyir bin Sa'ad berkata pada beliau: Allah memerintahkan kami untuk mendoakan baginda, lalu bagaimana (cara) kami mendoakan baginda. Rasulullah Shallallahu 'alaihi wa Salam diam hingga kami berharap (andai) dia tidak bertanya. Setelah itu Rasulullah Shallallahu 'alaihi wa Salam bersabda: "Ucapkan: ALLOOHUMMA SHOLLI 'ALAA MUHAMMAD, WA'ALAA AALI MUHAMMAD, KAMAA SHOLLAITA 'ALAA IBROOHIIMA WA'ALAA AALI IBROOHIIMA WABAARIK 'ALAA MUHAMMAD WA'ALAA AALI MUHAMMAD KAMAA BAAROKTA 'ALAA IBROOHIIMA WA'ALAA AALI IBROOHIIMA FIL'AALAMIINA INNAKA HAMIIDUN MAJIID "Ya Allah, limpahkan kesejahteraan kepada Muhammad dan keluarga Muhammad seperti Kau melimpahkan kesejahteraan kepada Ibrahim dan keluarga Ibrahim, berkahilah Muhammad dan keluarga Muhammad seperti Engkau memberkahi Ibrahim dan keluarga Ibrahim dalam seluruh alam, sesungguhnya Engkau Maha Terpuji lagi Luhur, dan salam seperti yang telah diajarkan pada kalian." Dalam hal ini ada hadits serupa dari Ali, Abu Humaid, Ka'ab bin Ujrah, Thalhah bin Ubaidullah, Abu Sa'id, Zaid bin Kharijah dan disebut Ibnu Jariyah. Abu Isa berkata: Hadits ini hasan shahih.
+</div>
+</div>
+
+
+
