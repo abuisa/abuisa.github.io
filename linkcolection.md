@@ -178,6 +178,8 @@ header: Links
 			<li><a href="https://www.garyshood.com/virus/" target="_blank"> www.garyshood.com</a></li>
 			<li><a href="https://virusdesk.kaspersky.com/" target="_blank"> virusdesk.kaspersky.com</a></li>
 			<li><a href="https://www.virustotal.com/" target="_blank"> www.virustotal.com</a></li>
+			<li><a href="https://virusscan.jotti.org/en" target="_blank">virusscan.jotti.org</a></li>
+			<li><a href="http://www.virscan.org/" target="_blank">virscan.org</a></li>
 		</ul>
 
 	<h3> Malware Analys System</h3>

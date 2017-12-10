@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IkhwanElyas Page</title>
- <link href="https://abuisa.github.io/atom.xml" rel="self"/>
- <id>https://abuisa.github.io</id>
- <updated>2017-12-08T17:39:52+07:00</updated>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <id>http://0.0.0.0:4000</id>
+ <updated>2017-12-11T00:58:44+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -15,8 +15,8 @@
 
  <entry>
    <title>RM for Remove, Replace Multiple File_Name</title>
-   <link href="https://abuisa.github.io/rm-for-rename-remove-character"/>
-   <id>https://abuisa.github.io/rm-for-rename-remove-character</id>
+   <link href="http://0.0.0.0:4000/rm-for-rename-remove-character"/>
+   <id>http://0.0.0.0:4000/rm-for-rename-remove-character</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;menggunakan-tool-rm-untuk-rename-remove-character-pada-nama-file&quot;&gt;Menggunakan tool RM untuk Rename, Remove Character pada nama file&lt;/h3&gt; &lt;h3 id=&quot;1-command-line--replace-_-with--&quot;&gt;1. Command Line : Replace “_” with “-“&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;file &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;.jpg; &lt;span class=&quot;k&quot;&gt;do &lt;/span&gt;mv &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span...</content>
  </entry>
@@ -25,8 +25,8 @@
 
  <entry>
    <title>HTML+JS - Range Input dan Javascript untuk ubah IMG SRC</title>
-   <link href="https://abuisa.github.io/range-input-javascript-untuk-img-src"/>
-   <id>https://abuisa.github.io/range-input-javascript-untuk-img-src</id>
+   <link href="http://0.0.0.0:4000/range-input-javascript-untuk-img-src"/>
+   <id>http://0.0.0.0:4000/range-input-javascript-untuk-img-src</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;mengubah-image-src-menggunakan-input-typerange-dan-js&quot;&gt;Mengubah Image SRC menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;input type=&quot;range&quot;&lt;/code&gt; dan JS&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Dalftar Images yang akan prose berada di dalam folder &lt;code class=&quot;highlighter-rouge&quot;&gt;img&lt;/code&gt;&lt;/li&gt; &lt;li&gt;Format Nama Image adalah : &lt;code class=&quot;highlighter-rouge&quot;&gt;1-img.jpg&lt;/code&gt;&lt;/li&gt; &lt;/ul&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1 2 3 4 5 6 7 8 9 10...</content>
  </entry>
@@ -35,8 +35,8 @@
 
  <entry>
    <title>PHP - Cari Hadits 9 Imam menggunakan Range Input dan Js</title>
-   <link href="https://abuisa.github.io/range-input-cari-no-hadits-9imam"/>
-   <id>https://abuisa.github.io/range-input-cari-no-hadits-9imam</id>
+   <link href="http://0.0.0.0:4000/range-input-cari-no-hadits-9imam"/>
+   <id>http://0.0.0.0:4000/range-input-cari-no-hadits-9imam</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;1-contoh-hasil-screenshot-&quot;&gt;1. Contoh Hasil Screenshot :&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;img/programming/prog-2017-12-07-2-Cari-Hadits.png&quot; alt=&quot;image-title-here&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;2-file-file-sebagai-module&quot;&gt;2. File-File sebagai Module&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;File &lt;a href=&quot;reff/programming/conn.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;conn.php&lt;/code&gt;&lt;/a&gt; Untuk Konneksi Database.&lt;/li&gt; &lt;li&gt;File &lt;a href=&quot;reff/programming/conf.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;conf.php&lt;/code&gt;&lt;/a&gt; Untuk Module Fungsi-Fungsi.&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;3-file-lcariphp-untuk-form-input&quot;&gt;3. File &lt;a href=&quot;reff/programming/lcari.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;lcari.php&lt;/code&gt;&lt;/a&gt; Untuk Form Input&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php&quot; data-lang=&quot;php&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter...</content>
  </entry>
@@ -44,19 +44,29 @@
  
 
  <entry>
-   <title>Kumpulan Kalimat Sholawat dari As-Sunnah</title>
-   <link href="https://abuisa.github.io/kumpulan-kalimat-sholawat-dari-assunnah"/>
-   <id>https://abuisa.github.io/kumpulan-kalimat-sholawat-dari-assunnah</id>
+   <title>Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah</title>
+   <link href="http://0.0.0.0:4000/kumpulan-kalimat-tasyahud-sholat-dari-assunnah"/>
+   <id>http://0.0.0.0:4000/kumpulan-kalimat-tasyahud-sholat-dari-assunnah</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;&lt;b&gt;Note : &lt;/b&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Semua NOMOR Hadits di halaman ini sama dengan nomor hadits yang terdapat pada &lt;/code&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.saltanera.hadits&amp;amp;hl=en&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Applikasi Ensiklopedi Hadits 9 Imam&lt;/code&gt;&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;perintah-ber-sholawat-dalam-al-quran&quot;&gt;Perintah Ber-Sholawat dalam Al-Quran&lt;/h2&gt; &lt;h3 id=&quot;surat-33-al-ahzab-ayat-56&quot;&gt;Surat 33. Al-Ahzab, Ayat 56.&lt;/h3&gt; &lt;div class=&quot;ar&quot;&gt; ٥٦. إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا...</content>
+   <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;h3 id=&quot;kumpulan-tasyahud-dari-as-sunnah&quot;&gt;Kumpulan Tasyahud dari As-Sunnah&lt;/h3&gt; &lt;p&gt;&lt;a name=&quot;bab22&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;tasyahud-ke-1--bukhari---no6833-&quot;&gt;Tasyahud ke 1 : Bukhari - No.6833 :&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Kumpulan Kalimat Sholawat dari As-Sunnah</title>
+   <link href="http://0.0.0.0:4000/kumpulan-kalimat-sholawat-dari-assunnah"/>
+   <id>http://0.0.0.0:4000/kumpulan-kalimat-sholawat-dari-assunnah</id>
+   <updated>2017-12-07T00:00:00+07:00</updated>
+   <content type="html">&lt;!-- &lt;script src=&quot;js/w3.js&quot;&gt;&lt;/script&gt; * [Perintah Ber-Sholawat dalam Al-Quran](#bab1) * [Kalimat Sholawat](&quot;#bab2&quot;) * [Sholawat ke 1 : Bukhari - No.3119](&quot;#bab2&quot;1) * [Sholawat ke 2 : Bukhari - No.4423](&quot;#bab2&quot;2) * [Sholawat ke 3 : Bukhari - No.3118](&quot;#bab2&quot;3) * [Sholawat ke 4 : Bukhari - No.5880](&quot;#bab2&quot;4) * [Sholawat ke 5 : Bukhari -...</content>
  </entry>
 
  
 
  <entry>
    <title>A-Z Linux Command Line with Examples</title>
-   <link href="https://abuisa.github.io/A-Z-Linux-Commands-Overview-with-Examples"/>
-   <id>https://abuisa.github.io/A-Z-Linux-Commands-Overview-with-Examples</id>
+   <link href="http://0.0.0.0:4000/A-Z-Linux-Commands-Overview-with-Examples"/>
+   <id>http://0.0.0.0:4000/A-Z-Linux-Commands-Overview-with-Examples</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;iframe id=&quot;myframe&quot; src=&quot;reff/linux/A-Z-Linux-Commands-Overview-with-Examples.html&quot; scrolling=&quot;yes&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; style=&quot;overflow:visible; width:100%;&quot;&gt;&lt;/iframe&gt; &lt;!-- &lt;iframe frameborder=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; src=&quot;reff/linux/A-Z-Linux-Commands-Overview-with-Examples.html&quot;&gt;&lt;/iframe&gt; &lt;iframe id=&quot;myframe&quot; src=&quot;externalpage.htm&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; style=&quot;overflow:visible; width:100%; display:none&quot;&gt;&lt;/iframe&gt; &lt;!DOCTYPE html&gt; &lt;html class=&quot;no-js&quot; lang=&quot;en-US&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;link rel='stylesheet' id='fancybox-style-css' href='https://www.tecmint.com/wp-content/plugins/light/css/jquery.fancybox.css' type='text/css' media='all' /&gt; &lt;link rel='stylesheet' id='stcr-plugin-style-css' href='https://www.tecmint.com/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/stcr-plugin-style.css' type='text/css' media='all'...</content>
  </entry>
@@ -65,8 +75,8 @@
 
  <entry>
    <title>Youtube Downloader - youtube-dl</title>
-   <link href="https://abuisa.github.io/youtube-dl-downloader-command-line"/>
-   <id>https://abuisa.github.io/youtube-dl-downloader-command-line</id>
+   <link href="http://0.0.0.0:4000/youtube-dl-downloader-command-line"/>
+   <id>http://0.0.0.0:4000/youtube-dl-downloader-command-line</id>
    <updated>2017-12-06T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/rg3/youtube-dl&quot;&gt;&lt;img src=&quot;https://travis-ci.org/rg3/youtube-dl.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;youtube-dl - download videos from youtube.com or other video platforms&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#installation&quot;&gt;INSTALLATION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#description&quot;&gt;DESCRIPTION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#options&quot;&gt;OPTIONS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#configuration&quot;&gt;CONFIGURATION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#output-template&quot;&gt;OUTPUT TEMPLATE&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#format-selection&quot;&gt;FORMAT SELECTION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#video-selection&quot;&gt;VIDEO SELECTION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#faq&quot;&gt;FAQ&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#developer-instructions&quot;&gt;DEVELOPER INSTRUCTIONS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#embedding-youtube-dl&quot;&gt;EMBEDDING YOUTUBE-DL&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bugs&quot;&gt;BUGS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#copyright&quot;&gt;COPYRIGHT&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#examples&quot;&gt;EXAMPLES&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1...</content>
  </entry>
@@ -75,8 +85,8 @@
 
  <entry>
    <title>Serial Tafsir Al-Qur'an [vol-1]</title>
-   <link href="https://abuisa.github.io/serial-tafsir-alquran-v1"/>
-   <id>https://abuisa.github.io/serial-tafsir-alquran-v1</id>
+   <link href="http://0.0.0.0:4000/serial-tafsir-alquran-v1"/>
+   <id>http://0.0.0.0:4000/serial-tafsir-alquran-v1</id>
    <updated>2017-12-06T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#ayat1&quot;&gt;Tafsir Ibnu Katsir : Surat Al-Baqarah 112&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;!-- - &lt;a href=&quot;#ayat2&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#ayat3&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#ayat4&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#ayat5&quot;&gt;&lt;/a&gt; --&gt; &lt;hr /&gt; &lt;p&gt;&lt;a name=&quot;ayat1&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;tafsir-ibnu-katsir--surat-al-baqarah-112&quot;&gt;Tafsir Ibnu Katsir : Surat Al-Baqarah 112&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ...</content>
  </entry>
@@ -85,8 +95,8 @@
 
  <entry>
    <title>Kumpulan Perkataan Para Ulama</title>
-   <link href="https://abuisa.github.io/kumpulan-perkataan-ulama"/>
-   <id>https://abuisa.github.io/kumpulan-perkataan-ulama</id>
+   <link href="http://0.0.0.0:4000/kumpulan-perkataan-ulama"/>
+   <id>http://0.0.0.0:4000/kumpulan-perkataan-ulama</id>
    <updated>2017-12-06T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#qoul1&quot;&gt;Yang Banyak dan Yang Sedikit dalam Al-Quran&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;!-- - &lt;a href=&quot;#qoul2&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#qoul3&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#qoul4&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#qoul5&quot;&gt;&lt;/a&gt; --&gt; &lt;hr /&gt; &lt;p&gt;&lt;a name=&quot;qoul1&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;yang-banyak-dan-yang-sedikit-dalam-al-quran&quot;&gt;Yang Banyak dan Yang Sedikit dalam Al-Quran&lt;/h3&gt; &lt;div class=&quot;ar&quot;&gt; 🍃أعجبني: &lt;br /&gt; كلمة &quot;أكثر الناس&quot; وكلمة (أكثرهم)...</content>
  </entry>
@@ -95,20 +105,10 @@
 
  <entry>
    <title>Urutan Dzikir Setelah Sholat ?</title>
-   <link href="https://abuisa.github.io/Urutan-Dzikir-setelah-Sholat"/>
-   <id>https://abuisa.github.io/Urutan-Dzikir-setelah-Sholat</id>
+   <link href="http://0.0.0.0:4000/Urutan-Dzikir-setelah-Sholat"/>
+   <id>http://0.0.0.0:4000/Urutan-Dzikir-setelah-Sholat</id>
    <updated>2017-12-04T00:00:00+07:00</updated>
    <content type="html">&lt;div class=&quot;ar&quot;&gt; بيان فضل ترتيب الأذكار الواردة بعد الصلاة &lt;br /&gt; هل يجب ترتيب الأذكار الواردة بعد الصلاة &lt;br /&gt; 🔻 الأفضل أن يأتي بها حسب ما وردت عن النبي صلى الله عليه وسلم ، والنبي صلى الله عليه وسلم فيما ثبت عنه كان يبدأ &lt;br /&gt;&lt;br /&gt; 1⃣ أولا...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Hal yang Wajib, Rukun dan Sunnah Sholat</title>
-   <link href="https://abuisa.github.io/rukun-wajib-sunnah-Sholat"/>
-   <id>https://abuisa.github.io/rukun-wajib-sunnah-Sholat</id>
-   <updated>2017-12-03T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;daftar-pertanyaan-&quot;&gt;Daftar Pertanyaan :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#bab1&quot;&gt;BAB 1 : أركان الصلاة وواجباتها وسننها &lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab2&quot;&gt;BAB 2 : كان يترك قراءة الفاتحة خلف الإمام فهل يعيد تلك الصلوات؟&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab3&quot;&gt;BAB 3 : قراءة الفاتحة في الصلاة&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab4&quot;&gt;BAB 4 : حكم قراءة أكثر من سورة في الركعة&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bab5&quot;&gt;BAB 5...</content>
  </entry>
 
  

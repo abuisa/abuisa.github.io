@@ -201,6 +201,7 @@
 //--- END fungsi ganti video ---
 //--- =================================== ---
 //---
+//--- Exp Use : onclick="sdiv('upp');" # upp is id name exp : <a id="upp">
 function sdiv(id) {
    var e = document.getElementById(id);
    if(e.style.display == 'block')
@@ -209,12 +210,13 @@ function sdiv(id) {
       e.style.display = 'block';
 }
 
-function showhide(id) {
+//--- Exp Use : onclick="sdiv('upp');" # upp is id name exp : <a id="upp">
+function showhide(id) { 
 	 var e = document.getElementById(id);
 	 e.style.display = (e.style.display == 'block') ? 'none' : 'block';
 }
 
-
+//--- Kedua Fungsi diatas : sdiv(id) dan showhide(id) bekerja OK.
 //--- ================================
 
 //--- TAMBAHAN UNTUK BUTTON  GO-TO-TOP ----
@@ -236,3 +238,17 @@ function showhide(id) {
 		document.documentElement.scrollTop = 0;
 	}
 //======End Fungsi go-to-top===========
+//--- Fungsi ini belum digunakan 
+//--- Fungsi w3 mengambil dari js/w3.js 
+//--- Fungsi w3 dapat melakukan show-hide element berdasar pada ID, CLASS dan TAG name
+//--- EXP : ID --> w3.hide('#id_name')
+//--- EXP : CLASS --> w3.hide('.CLASS_name')
+//--- EXP : TAG --> w3.hide('h3')
+//--- EXP USE : <div onclick="w3.hide('.class_name')"></div>
+
+function w3showhide(a){
+	var ea = document.getElementById("id_name").
+	alert('Hasil : '+a);
+	w3.show(a)
+	
+}

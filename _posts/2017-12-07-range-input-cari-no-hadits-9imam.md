@@ -139,7 +139,6 @@ oninput  : Perubahan langsung terjadi
 * Perubahan Input Text 
 
 {% highlight html linenos %}
-
 <input type="text" name="b" id="b" value="1"  oninput="msg(document.getElementById('b').value);this.form.submit()" /> 
 <!--   OR   -->
 <input type="text" name="b" id="b" value="1"  oninput="msg(this.value);this.form.submit()" />

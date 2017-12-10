@@ -117,6 +117,13 @@
 	font-size: 28px;
 }
 //======untuk tulisan Arab=====
+.divr{
+	direction:RTL;
+	padding-top: 14px;
+	padding-right: 40px;
+	font-size: 18px;
+	border-top: 1px solid grey;
+}
 .ar{
 	font-size: 22px;
 }
@@ -174,23 +181,33 @@ a {
 #myBtn {
   display: none;
   position: fixed;
-  bottom: 15px;
-  right: 20px;
-  z-index: 99;
+  bottom: 4px;
+  right: 2px;
   border: none;
   outline: none;
   background-color: gray;
-  opacity:0.3;
+  opacity:0.6;
   color: black;
-  cursor: pointer;
-  padding: 10px;
+  cursor: pointer;  
   border-radius: 7px;
+
 }
 
 #myBtn:hover {
   	background-color: darkgray;
 	opacity:0.8;
 }
+
+#imgMyBtn{
+	padding: 2px;	
+	align:auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+
+}
+
 //--- UNTUK BOX DIV --------
 .gdiv{
 	background-color:#eee;
