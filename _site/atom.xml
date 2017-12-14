@@ -4,12 +4,42 @@
  <title>IkhwanElyas Page</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <id>http://0.0.0.0:4000</id>
- <updated>2017-12-11T00:58:44+07:00</updated>
+ <updated>2017-12-14T00:56:57+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>khilafah sebagai sistem pemerintahan di dalam Al Qur'an dan Hadits</title>
+   <link href="http://0.0.0.0:4000/khilafah-sebagai-sistem-pemerintahan-di-dalam-Al-Quran-dan-Hadits"/>
+   <id>http://0.0.0.0:4000/khilafah-sebagai-sistem-pemerintahan-di-dalam-Al-Quran-dan-Hadits</id>
+   <updated>2017-12-12T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;(Arrahmah.com) – Tantangan debat yang dilontarkan Prof. Mahfud MD, soal sistem baku menegakkan Khilafah, telah mengguncang atmosfir pemikiran Islam di Indonesia. Tidak terkecuali, mereka yang tadinya pejuang khilafah mulai ragu. Simak tantangan Mahfud:&lt;/p&gt; &lt;p&gt;“Saya nantang siapa saja, dimana saja, di dalam forum terbuka. Yang bisa menunjukkan kepada saya, tentang adanya...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>HTML+JS - Gregorian-Hijri Convert Calendar</title>
+   <link href="http://0.0.0.0:4000/convert-calendar-gregorian-hijri"/>
+   <id>http://0.0.0.0:4000/convert-calendar-gregorian-hijri</id>
+   <updated>2017-12-12T00:00:00+07:00</updated>
+   <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;js/hijri-test.js&quot;&gt;&lt;/script&gt; &lt;p&gt;&lt;a onclick=&quot;tes_cal_hj();&quot;&gt;Test Click&lt;/a&gt;&lt;/p&gt; &lt;div id=&quot;cl1&quot; onclick=&quot;tes1()&quot;&gt;&lt;a&gt;Tanggal Sekarang&lt;/a&gt;&lt;/div&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;p&gt;&lt;input id=&quot;gy&quot; onclick=&quot;&quot; value=&quot;1&quot; /&gt; &lt;input id=&quot;gm&quot; onclick=&quot;&quot; value=&quot;1&quot; /&gt; &lt;input id=&quot;gd&quot; onclick=&quot;&quot; value=&quot;1&quot; /&gt;&lt;/p&gt; &lt;hr /&gt; &lt;p&gt;&lt;input id=&quot;hy&quot; value=&quot;1&quot; /&gt; &lt;input id=&quot;hm&quot; value=&quot;1&quot; /&gt; &lt;input id=&quot;hd&quot; value=&quot;1&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;table&gt; &lt;tr&gt; &lt;td width=&quot;100px&quot;&gt;Year : &lt;/td&gt;&lt;td width=&quot;80%&quot;&gt;&lt;input...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah</title>
+   <link href="http://0.0.0.0:4000/kumpulan-kalimat-tasyahud-sholat-dari-assunnah"/>
+   <id>http://0.0.0.0:4000/kumpulan-kalimat-tasyahud-sholat-dari-assunnah</id>
+   <updated>2017-12-11T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;div&gt; &lt;ul&gt; &lt;/ul&gt; &lt;/div&gt; &lt;h3 id=&quot;kumpulan-tasyahud-dari-as-sunnah&quot;&gt;Kumpulan Tasyahud dari As-Sunnah&lt;/h3&gt; &lt;p&gt;&lt;a name=&quot;bab21&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;tasyahud-ke-1--bukhari---no6833-&quot;&gt;Tasyahud ke 1 : Bukhari - No.6833 :&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا...</content>
+ </entry>
 
  
 
@@ -44,21 +74,11 @@
  
 
  <entry>
-   <title>Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah</title>
-   <link href="http://0.0.0.0:4000/kumpulan-kalimat-tasyahud-sholat-dari-assunnah"/>
-   <id>http://0.0.0.0:4000/kumpulan-kalimat-tasyahud-sholat-dari-assunnah</id>
-   <updated>2017-12-07T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;h3 id=&quot;kumpulan-tasyahud-dari-as-sunnah&quot;&gt;Kumpulan Tasyahud dari As-Sunnah&lt;/h3&gt; &lt;p&gt;&lt;a name=&quot;bab22&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;tasyahud-ke-1--bukhari---no6833-&quot;&gt;Tasyahud ke 1 : Bukhari - No.6833 :&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا...</content>
- </entry>
-
- 
-
- <entry>
    <title>Kumpulan Kalimat Sholawat dari As-Sunnah</title>
    <link href="http://0.0.0.0:4000/kumpulan-kalimat-sholawat-dari-assunnah"/>
    <id>http://0.0.0.0:4000/kumpulan-kalimat-sholawat-dari-assunnah</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
-   <content type="html">&lt;!-- &lt;script src=&quot;js/w3.js&quot;&gt;&lt;/script&gt; * [Perintah Ber-Sholawat dalam Al-Quran](#bab1) * [Kalimat Sholawat](&quot;#bab2&quot;) * [Sholawat ke 1 : Bukhari - No.3119](&quot;#bab2&quot;1) * [Sholawat ke 2 : Bukhari - No.4423](&quot;#bab2&quot;2) * [Sholawat ke 3 : Bukhari - No.3118](&quot;#bab2&quot;3) * [Sholawat ke 4 : Bukhari - No.5880](&quot;#bab2&quot;4) * [Sholawat ke 5 : Bukhari -...</content>
+   <content type="html">&lt;!-- &lt;script src=&quot;js/w3.js&quot;&gt;&lt;/script&gt; &lt;hr /&gt; --&gt; &lt;h3 id=&quot;daftar-isi---urutan-berdasar-imam-&quot;&gt;&lt;a onclick=&quot;sdiv('ubi');&quot;&gt;Daftar Isi - Urutan berdasar Imam&lt;/a&gt; :&lt;/h3&gt; &lt;div class=&quot;divr&quot; id=&quot;ubi&quot; style=&quot;display:block&quot;&gt; &lt;ol&gt; &lt;li&gt;&lt;a href=&quot;#bab21&quot;&gt;اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى...</content>
  </entry>
 
  
@@ -89,26 +109,6 @@
    <id>http://0.0.0.0:4000/serial-tafsir-alquran-v1</id>
    <updated>2017-12-06T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#ayat1&quot;&gt;Tafsir Ibnu Katsir : Surat Al-Baqarah 112&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;!-- - &lt;a href=&quot;#ayat2&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#ayat3&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#ayat4&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#ayat5&quot;&gt;&lt;/a&gt; --&gt; &lt;hr /&gt; &lt;p&gt;&lt;a name=&quot;ayat1&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;tafsir-ibnu-katsir--surat-al-baqarah-112&quot;&gt;Tafsir Ibnu Katsir : Surat Al-Baqarah 112&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Kumpulan Perkataan Para Ulama</title>
-   <link href="http://0.0.0.0:4000/kumpulan-perkataan-ulama"/>
-   <id>http://0.0.0.0:4000/kumpulan-perkataan-ulama</id>
-   <updated>2017-12-06T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#qoul1&quot;&gt;Yang Banyak dan Yang Sedikit dalam Al-Quran&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;!-- - &lt;a href=&quot;#qoul2&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#qoul3&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#qoul4&quot;&gt;&lt;/a&gt; - &lt;a href=&quot;#qoul5&quot;&gt;&lt;/a&gt; --&gt; &lt;hr /&gt; &lt;p&gt;&lt;a name=&quot;qoul1&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;yang-banyak-dan-yang-sedikit-dalam-al-quran&quot;&gt;Yang Banyak dan Yang Sedikit dalam Al-Quran&lt;/h3&gt; &lt;div class=&quot;ar&quot;&gt; 🍃أعجبني: &lt;br /&gt; كلمة &quot;أكثر الناس&quot; وكلمة (أكثرهم)...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Urutan Dzikir Setelah Sholat ?</title>
-   <link href="http://0.0.0.0:4000/Urutan-Dzikir-setelah-Sholat"/>
-   <id>http://0.0.0.0:4000/Urutan-Dzikir-setelah-Sholat</id>
-   <updated>2017-12-04T00:00:00+07:00</updated>
-   <content type="html">&lt;div class=&quot;ar&quot;&gt; بيان فضل ترتيب الأذكار الواردة بعد الصلاة &lt;br /&gt; هل يجب ترتيب الأذكار الواردة بعد الصلاة &lt;br /&gt; 🔻 الأفضل أن يأتي بها حسب ما وردت عن النبي صلى الله عليه وسلم ، والنبي صلى الله عليه وسلم فيما ثبت عنه كان يبدأ &lt;br /&gt;&lt;br /&gt; 1⃣ أولا...</content>
  </entry>
 
  

@@ -1,252 +1,21 @@
-<!DOCTYPE html>
-<html>
+---
+title: Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah
+description: Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah
+header: Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah
+categories: Agama
+---
 
-<head>
-	<!-- Meta -->
-	<meta charset="UTF-8"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-	<meta name="generator" content="Jekyll">
-
-	<title>Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah</title>
-  <meta name="description" content="Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah">
-
-	<!-- CSS & fonts -->
-	<link rel="stylesheet" href="/css/main.css">
-
-
-	<!-- RSS -->
-	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
-
-  <!-- Favicon -->
-  <link rel="shortcut icon" type="image/png" href="img/cantik-icon.png">
-
- <!-- Tambahan include JQuery -->
-	<script src="js/jquery.min.js"></script>
-	<script src="js/hijricalendar-kuwaiti.js"></script>
-	<script src="js/modulku.js"></script>
-
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
-<title>Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah | IkhwanElyas Page</title>
-<meta property="og:title" content="Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah" />
-<meta name="author" content="Ikhwan Elyas" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah" />
-<meta property="og:description" content="Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah" />
-<link rel="canonical" href="http://0.0.0.0:4000//kumpulan-kalimat-tasyahud-sholat-dari-assunnah" />
-<meta property="og:url" content="http://0.0.0.0:4000//kumpulan-kalimat-tasyahud-sholat-dari-assunnah" />
-<meta property="og:site_name" content="IkhwanElyas Page" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2017-12-11T00:00:00+07:00" />
-<script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-12-11T00:00:00+07:00",
-"description": "Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "http://0.0.0.0:4000//kumpulan-kalimat-tasyahud-sholat-dari-assunnah"},
-"url": "http://0.0.0.0:4000//kumpulan-kalimat-tasyahud-sholat-dari-assunnah"}</script>
-<!-- End Jekyll SEO tag -->
-
-
-</head>
-
-
-<body>
-	<div id="wrap">
-	  	
-	  	<!-- Navigation -->
-	  	<nav id="nav">
-	<div id="nav-list">
-		<a href="http://0.0.0.0:4000/">Home</a>
-
-    <!-- Nav links -->
-	  <!--
-<a href="https://github.com/abuisa/web">Github</a> 
-<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
-
-<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
-<a href="/home.md">Home</a>
--->
- 
-
-	<!-- Nav pages -->
-	  
-	    
-	  
-	    
-	  
-	    
-	      <a href="/categories" title="All Post">All Post</a> 
-	    
-	  
-	    
-	  
-	    
-	      <a href="/linkcolection" title="Links">Links</a> 
-	    
-	  
-	    
-	  
-	    
-	      <a href="/me" title="About">About</a> 
-	    
-	  
-	    
-	      <a href="/penelitian" title="Penelitian">Penelitian</a> 
-	    
-	  
-	    
-	  
-	    
-	  
-	    
-	  
-	    
-	  
-	    
-	  
-	    
-	  
-	    
-	  
-	    
-	  
-	    
-	  
-	    
-	  
-    
-
-	</div>
-  
-  <!-- Nav footer -->
-	
-	  <footer>
-	
-	<span>version 1.0.0</span>
-
-</footer>
-	
-
-</nav>
-
-    
-    <!-- Icon menu -->
-	  <a id="nav-menu">
-	  	<div id="menu"></div>
-	  </a>
-
-      <!-- Header -->
-      
-        <header id="header" class="parent justify-spaceBetween">
-  <div class="inner w100 relative">
-<!--
-    <span class="f-left">  
-      <a href="//">
-        <h1>
-          Ikhwan<span>Elyas</span> 
-        </h1>
-      </a>
-    </span>
--->
-    <span class="f-left">  
-      <a href="http://0.0.0.0:4000/"> <!-- |site.baseurl : / | site.url : http://0.0.0.0:4000 -->
-        <h1>
-          Ikhwan<span>Elyas</span> 
-        </h1>
-      </a>
-    </span>
-    <span id="nav-links" class="absolute right bottom">
-      <!-- Nav links -->
-	    <!--
-<a href="https://github.com/abuisa/web">Github</a> 
-<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
-
-<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
-<a href="/home.md">Home</a>
--->
- 
-
-      <!-- Nav pages -->
-	    
-	      
-	    
-	      
-	    
-	      
-	        <a href="/categories" title="All Post">All Post</a> 
-	      
-	    
-	      
-	    
-	      
-	        <a href="/linkcolection" title="Links">Links</a> 
-	      
-	    
-	      
-	    
-	      
-	        <a href="/me" title="About">About</a> 
-	      
-	    
-	      
-	        <a href="/penelitian" title="Penelitian">Penelitian</a> 
-	      
-	    
-	      
-	    
-	      
-	    
-	      
-	    
-	      
-	    
-	      
-	    
-	      
-	    
-	      
-	    
-	      
-	    
-	      
-	    
-	      
-	    
-      
-    </span>
-  </div>
-</header>
-<div onclick="topFunction()" id="myBtn" title="Go to top" >
-<img id="imgMyBtn" src="img/top-icon-25-512.png" height="36px" width="36px"></div>
-
-
-
-      
-
-    <!-- Main content -->
-	  <div id="container">
-		  
-		<main>
-
-			<article id="post-page">
-	<h2>Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah</h2>		
-	<time datetime="2017-12-11T00:00:00+07:00" class="by-line">11 Dec 2017 | Agama</time>
-	<div class="content">
-
-		<h3 id="daftar-isi-">Daftar Isi :</h3>
-<div>
+### Daftar Isi : 
+<div >
 <ul>
 
 </ul>
 </div>
 
-<h3 id="kumpulan-tasyahud-dari-as-sunnah">Kumpulan Tasyahud dari As-Sunnah</h3>
-<p><a name="bab21"></a></p>
-<h3 id="tasyahud-ke-1--bukhari---no6833-">Tasyahud ke 1 : Bukhari - No.6833 :</h3>
+
+### Kumpulan Tasyahud dari As-Sunnah
+<a name="bab21"></a>
+### Tasyahud ke 1 : Bukhari - No.6833 :
 <div class="gdiv">
 <div class="arx">
 التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.
@@ -259,8 +28,8 @@
 </div>
 </div>
 
-<p><a name="bab22"></a></p>
-<h3 id="tasyahud-ke-2--bukhari---no1127-">Tasyahud ke 2 : Bukhari - No.1127 :</h3>
+<a name="bab22"></a>
+### Tasyahud ke 2 : Bukhari - No.1127 :
 <div class="gdiv">
 <div class="arx">
 التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.
@@ -273,8 +42,8 @@
 </div>
 </div>
 
-<p><a name="bab23"></a></p>
-<h3 id="tasyahud-ke-3--bukhari---no791-">Tasyahud ke 3 : Bukhari - No.791 :</h3>
+<a name="bab23"></a>
+### Tasyahud ke 3 : Bukhari - No.791 :
 <div class="gdiv">
 <div class="arx">
 التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ. 
@@ -288,8 +57,8 @@
 </div>
 </div>
 
-<p><a name="bab24"></a></p>
-<h3 id="tasyahud-ke-4--bukhari---no788-">Tasyahud ke 4 : Bukhari - No.788 :</h3>
+<a name="bab24"></a>
+### Tasyahud ke 4 : Bukhari - No.788 :
 <div class="gdiv">
 <div class="arx">
 التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.
@@ -302,8 +71,8 @@
 </div>
 </div>
 
-<p><a name="bab25"></a></p>
-<h3 id="tasyahud-ke-5--bukhari---no5794-">Tasyahud ke 5 : Bukhari - No.5794 :</h3>
+<a name="bab25"></a>
+### Tasyahud ke 5 : Bukhari - No.5794 :
 <div class="gdiv">
 <div class="arx">
 التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.
@@ -317,8 +86,8 @@
 </div>
 </div>
 
-<p><a name="bab26"></a></p>
-<h3 id="tasyahud-ke-6--bukhari---no5762-">Tasyahud ke 6 : Bukhari - No.5762 :</h3>
+<a name="bab26"></a>
+### Tasyahud ke 6 : Bukhari - No.5762 :
 <div class="gdiv">
 <div class="arx">
 التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ. 
@@ -334,8 +103,8 @@ Catatan
 </div>
 </div>
 
-<p><a name="bab27"></a></p>
-<h3 id="tasyahud-ke-7--muslim---no609-">Tasyahud ke 7 : Muslim - No.609 :</h3>
+<a name="bab27"></a>
+### Tasyahud ke 7 : Muslim - No.609 :
 <div class="gdiv">
 <div class="arx">
 التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.
@@ -349,8 +118,8 @@ Catatan
 </div>
 </div>
 
-<p><a name="bab28"></a></p>
-<h3 id="tasyahud-ke-8--muslim---no610-">Tasyahud ke 8 : Muslim - No.610 :</h3>
+<a name="bab28"></a>
+### Tasyahud ke 8 : Muslim - No.610 :
 <div class="gdiv">
 <div class="arx">
 التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ.
@@ -364,8 +133,8 @@ Catatan
 </div>
 </div>
 
-<p><a name="bab29"></a></p>
-<h3 id="tasyahud-ke-9--muslim---no612-">Tasyahud ke 9 : Muslim - No.612 :</h3>
+<a name="bab29"></a>
+### Tasyahud ke 9 : Muslim - No.612 :
 <div class="gdiv">
 <div class="arx">
 التَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ لِلَّهِ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ.
@@ -379,8 +148,8 @@ Catatan
 </div>
 </div>
 
-<p><a name="bab22"></a></p>
-<h3 id="tasyahud-ke-2-">Tasyahud ke 2 :</h3>
+<a name="bab22"></a>
+### Tasyahud ke 2 :
 <div class="gdiv">
 <div class="arx">
 
@@ -394,35 +163,4 @@ Catatan
 </div>
 
 
-		
-	</div>
-</article>
 
-
-
-	  </main>
-		
-		  <!-- Pagination links -->
-      
-
-	  </div>
-	    
-	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="http://0.0.0.0:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
-</footer>
-
-
-<!-- original script :
-| <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
-<footer><span>@2017 -  <a href="//">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
-</footer>
--->
-
-
-	    <!-- Script -->
-      <script src="/js/main.js"></script>	
-
-
-	</div>
-</body>
-</html>

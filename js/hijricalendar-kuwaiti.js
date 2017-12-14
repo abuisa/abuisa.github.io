@@ -96,5 +96,17 @@ function writeIslamicDate(adjustment) {
 	return outputIslamicDate;
 }
 
+//--- Ini Untuk Latihan Convert Gregorian to Hijri ----
+function wiDate(adjustment) {
+	var wdNames = new Array("Ahad","Ithnin","Thulatha","Arbaa","Khams","Jumuah","Sabt");
+	var iMonthNames = new Array("Muharram","Safar","Rabi'ul Awwal","Rabi'ul Akhir",
+	"Jumadal Ula","Jumadal Akhira","Rajab","Sha'ban",
+	"Ramadan","Shawwal","Dhul Qa'ada","Dhul Hijja");
+	var iDate = kuwaiticalendar(adjustment);
+	var outputIslamicDate = wdNames[iDate[4]] + ", " 
+	+ iDate[5] + " " + iMonthNames[iDate[6]] + " " + iDate[7] + " Hijriah";
+	return outputIslamicDate;
+}
+
 //--- http://stackoverflow.com/questions/5177598/converting-gregorian-date-to-hijri-date
 //--- http://www.al-habib.info/islamic-calendar/hijricalendartext.htm
