@@ -14,6 +14,9 @@ categories: Agama
 - <a href="#doa4">Doa 4 : ...اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ الْهَمِّ وَالْحَزَنِ </a>
 - <a href="#doa5">Doa 5 : ... يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ</a>
 - <a href="#doa6">Doa 6 : ...اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا</a>
+- <a href="#doa7">Doa 7 : ...اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ </a>
+
+
 
 <!--
 - <a href="#doa7">Doa 7 : </a>
@@ -365,5 +368,44 @@ Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang baik dan amal y
 
 -->
 
+<a name="doa7"></a>
+### Doa 7 :
+<div class="gdiv">
+<div class="arx">
+
+1. اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ ، وَأَسْتَغْفِرُكَ لما لا أعلم.
+<br />
+2. اللَّهُمَّ إِنَّا نَعُوذُ بِكَ مِنْ أَنْ نُشْرِكَ بِكَ شَيْئًا نَعْلَمُهُ وَنَسْتَغْفِرُكَ لِمَا لَا نَعْلَمُ.
+</div>
+<div class="idx">
+1. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari menyekutukan-Mu sedangkan kami mengetahuinya dan aku meminta ampun kepada-Mu terhadap apa yang aku tidak ketahui.
+<br />
+2. Ya Allah, sesungguhnya kami berlindung kepada-Mu dari menyekutukan-Mu dengan sesuatu yang kami mengetahuinya dan kami meminta ampun kepada-Mu terhadap apa yang kami tidak ketahui
+</div>
+<div class="ar">
+حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ حَدَّثَنَا عَبْدُ الْمَلِكِ يَعْنِي ابْنَ أَبِي سُلَيْمَانَ الْعَزْرَمِيَّ عَنْ أَبِي عَلِيٍّ رَجُلٍ مِنْ بَنِي كَاهِلٍ قَالَخَطَبَنَا أَبُو مُوسَى الْأَشْعَرِيُّ فَقَالَ يَا أَيُّهَا النَّاسُ اتَّقُوا هَذَا الشِّرْكَ فَإِنَّهُ أَخْفَى مِنْ دَبِيبِ النَّمْلِ فَقَامَ إِلَيْهِ عَبْدُ اللَّهِ بْنُ حَزْنٍ وَقَيْسُ بْنُ المُضَارِبِ فَقَالَا وَاللَّهِ لَتَخْرُجَنَّ مِمَّا قُلْتَ أَوْ لَنَأْتِيَنَّ عُمَرَ مَأْذُونٌ لَنَا أَوْ غَيْرُ مَأْذُونٍ قَالَ بَلْ أَخْرُجُ مِمَّا قُلْتُ خَطَبَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ فَقَالَ أَيُّهَا النَّاسُ اتَّقُوا هَذَا الشِّرْكَ فَإِنَّهُ أَخْفَى مِنْ دَبِيبِ النَّمْلِ فَقَالَ لَهُ مَنْ شَاءَ اللَّهُ أَنْ يَقُولَ وَكَيْفَ نَتَّقِيهِ وَهُوَ أَخْفَى مِنْ دَبِيبِ النَّمْلِ يَا رَسُولَ اللَّهِ قَالَ قُولُوا اللَّهُمَّ إِنَّا نَعُوذُ بِكَ مِنْ أَنْ نُشْرِكَ بِكَ شَيْئًا نَعْلَمُهُ وَنَسْتَغْفِرُكَ لِمَا لَا نَعْلَمُ.
+</div>
+<div class="id">
+<b>Ahmad - No.18781 :</b> Telah menceritakan kepada kami Abdullah bin Numair Telah menceritakan kepada kami Abdul Malik yakni Ibnu Abu Sulaiman Al 'Azrani, dari Abu Ali seorang laki-laki dari Bani Kahil, ia berkata; Abu Musa Al Asy'ari berkhutbah di hadpan kami, "Wahai manusia takutklah kalian akan perbuatan syirik, karena dia lebih halus dari langkah semut." Kemudian berdirilah Abdullah bin Hazn dan Qais bin Mudharib dan berkata: "Demi Allah, kamu jelaskan semua apa yang kamu telah katakan atau kami benar-benar akan mendatangi Umar baik diizinkah atau tidak." Abu Musa berkata; Bahkan, aku akan jelaskan apa yang telah aku katakan. Pada suatu hari Rasulullah shallallahu 'alaihi wasallam berkhutbah di hadapan kami, beliau bersabda: "Wahai sekalian manusia, takutlah kalian terhadap syirik karena dia lebih halus dari langkah semut." Kemudian seseorang bertanya, "Wahai Rasulallah, bagaimana kami harus menghindarinya, sementara dia lebih halus dari langkah semut?" Maka beliau menjawab: "Bedo'alah dengan membaca, 'ALLAHUMMA INNAA NA'UUDZU BIKA MIN AN NUSYRIKA BIKA SYAIAN NA'LAMUHU WA NASTAGHFIRUKA LIMAA LAA NA'LAMUHU (Ya Allah, sesungguhnya kami berlindung kepada-Mu dari menyekutukan-Mu dengan sesuatu yang kami mengetahuinya dan kami meminta ampun kepada-Mu terhadap apa yang kami tidak ketahui).'"
+</div>
+
+<div class="ar">
+- وروى البخاري في " الأدب المفرد " (716) أن النبي صلى الله عليه وسلم قال لأبي بكر رضي الله عنه : ( وَالَّذِي نَفْسِي بِيَدِهِ لَلشِّرْكُ أَخْفَى مِنْ دَبِيبِ النَّمْلِ ، أَلَا أَدُلُّكَ عَلَى شَيْءٍ إِذَا قُلْتَهُ ذَهَبَ عَنْكَ قَلِيلُهُ وَكَثِيرُهُ ؟ قَالَ : قُلِ: اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ ، وَأَسْتَغْفِرُكَ لما لا أعلم ) ، وصححه الألباني في " صحيح الأدب المفرد "
+</div>
+<div class="id">
+<b></b> 
+
+
+<b>Sumber :<b> <br />
+<ul>
+	<li><a href="https://islamqa.info/ar/225137">https://islamqa.info/ar/225137</a></li>
+
+	<li><a href="https://kalemtayeb.com/safahat/item/3153">https://kalemtayeb.com/safahat/item/3153</a></li>
+	<li><a href="http://www.ahlalhdeeth.com/vb/showthread.php?t=154818">http://www.ahlalhdeeth.com/vb/showthread.php?t=154818</a></li>
+	<li><a href=""></a></li>
+</ul>
+	
+</div>
+</div>
 
 
