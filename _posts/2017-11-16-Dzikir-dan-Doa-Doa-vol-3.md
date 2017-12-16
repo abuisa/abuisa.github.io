@@ -402,7 +402,6 @@ Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang baik dan amal y
 
 	<li><a href="https://kalemtayeb.com/safahat/item/3153">https://kalemtayeb.com/safahat/item/3153</a></li>
 	<li><a href="http://www.ahlalhdeeth.com/vb/showthread.php?t=154818">http://www.ahlalhdeeth.com/vb/showthread.php?t=154818</a></li>
-	<li><a href=""></a></li>
 </ul>
 	
 </div>
