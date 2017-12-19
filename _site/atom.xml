@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>IkhwanElyas Page</title>
- <link href="http://0.0.0.0:4001/atom.xml" rel="self"/>
- <id>http://0.0.0.0:4001</id>
- <updated>2017-12-19T00:57:42+07:00</updated>
+ <link href="https://abuisa.github.io/atom.xml" rel="self"/>
+ <id>https://abuisa.github.io</id>
+ <updated>2017-12-19T23:52:40+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -14,9 +14,19 @@
  
 
  <entry>
+   <title>Dzikir Pagi dan Petang</title>
+   <link href="https://abuisa.github.io/Dzikir-pagi-dan-petang"/>
+   <id>https://abuisa.github.io/Dzikir-pagi-dan-petang</id>
+   <updated>2017-12-19T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;1-ayat-kursy&quot;&gt;1. Ayat Kursy&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; ٢٥٥. اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Python - Get md5 & sha256 Hash</title>
-   <link href="http://0.0.0.0:4001/python-get-md5-and-hsa256-hash"/>
-   <id>http://0.0.0.0:4001/python-get-md5-and-hsa256-hash</id>
+   <link href="https://abuisa.github.io/python-get-md5-and-hsa256-hash"/>
+   <id>https://abuisa.github.io/python-get-md5-and-hsa256-hash</id>
    <updated>2017-12-18T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;contoh-screenshot-&quot;&gt;Contoh Screenshot :&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;img/programming/python-get-md5-sha-hash-0.png&quot; alt=&quot;image-title-here&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;python-script-&quot;&gt;Python Script :&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;hashlib&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sha256&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span...</content>
  </entry>
@@ -25,8 +35,8 @@
 
  <entry>
    <title>khilafah sebagai sistem pemerintahan di dalam Al Qur'an dan Hadits</title>
-   <link href="http://0.0.0.0:4001/khilafah-sebagai-sistem-pemerintahan-di-dalam-Al-Quran-dan-Hadits"/>
-   <id>http://0.0.0.0:4001/khilafah-sebagai-sistem-pemerintahan-di-dalam-Al-Quran-dan-Hadits</id>
+   <link href="https://abuisa.github.io/khilafah-sebagai-sistem-pemerintahan-di-dalam-Al-Quran-dan-Hadits"/>
+   <id>https://abuisa.github.io/khilafah-sebagai-sistem-pemerintahan-di-dalam-Al-Quran-dan-Hadits</id>
    <updated>2017-12-12T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;(Arrahmah.com) – Tantangan debat yang dilontarkan Prof. Mahfud MD, soal sistem baku menegakkan Khilafah, telah mengguncang atmosfir pemikiran Islam di Indonesia. Tidak terkecuali, mereka yang tadinya pejuang khilafah mulai ragu. Simak tantangan Mahfud:&lt;/p&gt; &lt;p&gt;“Saya nantang siapa saja, dimana saja, di dalam forum terbuka. Yang bisa menunjukkan kepada saya, tentang adanya...</content>
  </entry>
@@ -35,8 +45,8 @@
 
  <entry>
    <title>HTML+JS - Gregorian-Hijri Convert Calendar</title>
-   <link href="http://0.0.0.0:4001/convert-calendar-gregorian-hijri"/>
-   <id>http://0.0.0.0:4001/convert-calendar-gregorian-hijri</id>
+   <link href="https://abuisa.github.io/convert-calendar-gregorian-hijri"/>
+   <id>https://abuisa.github.io/convert-calendar-gregorian-hijri</id>
    <updated>2017-12-12T00:00:00+07:00</updated>
    <content type="html">&lt;script type=&quot;text/javascript&quot; src=&quot;js/hijri-test.js&quot;&gt;&lt;/script&gt; &lt;p&gt;&lt;a onclick=&quot;tes_cal_hj();&quot;&gt;Test Click&lt;/a&gt;&lt;/p&gt; &lt;div id=&quot;cl1&quot; onclick=&quot;tes1()&quot;&gt;&lt;a&gt;Tanggal Sekarang&lt;/a&gt;&lt;/div&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;p&gt;&lt;input id=&quot;gy&quot; onclick=&quot;&quot; value=&quot;1&quot; /&gt; &lt;input id=&quot;gm&quot; onclick=&quot;&quot; value=&quot;1&quot; /&gt; &lt;input id=&quot;gd&quot; onclick=&quot;&quot; value=&quot;1&quot; /&gt;&lt;/p&gt; &lt;hr /&gt; &lt;p&gt;&lt;input id=&quot;hy&quot; value=&quot;1&quot; /&gt; &lt;input id=&quot;hm&quot; value=&quot;1&quot; /&gt; &lt;input id=&quot;hd&quot; value=&quot;1&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;table&gt; &lt;tr&gt; &lt;td width=&quot;100px&quot;&gt;Year : &lt;/td&gt;&lt;td width=&quot;80%&quot;&gt;&lt;input...</content>
  </entry>
@@ -45,8 +55,8 @@
 
  <entry>
    <title>Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah</title>
-   <link href="http://0.0.0.0:4001/kumpulan-kalimat-tasyahud-sholat-dari-assunnah"/>
-   <id>http://0.0.0.0:4001/kumpulan-kalimat-tasyahud-sholat-dari-assunnah</id>
+   <link href="https://abuisa.github.io/kumpulan-kalimat-tasyahud-sholat-dari-assunnah"/>
+   <id>https://abuisa.github.io/kumpulan-kalimat-tasyahud-sholat-dari-assunnah</id>
    <updated>2017-12-11T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;daftar-isi-&quot;&gt;Daftar Isi :&lt;/h3&gt; &lt;div&gt; &lt;ul&gt; &lt;/ul&gt; &lt;/div&gt; &lt;h3 id=&quot;kumpulan-tasyahud-dari-as-sunnah&quot;&gt;Kumpulan Tasyahud dari As-Sunnah&lt;/h3&gt; &lt;p&gt;&lt;a name=&quot;bab21&quot;&gt;&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;tasyahud-ke-1--bukhari---no6833-&quot;&gt;Tasyahud ke 1 : Bukhari - No.6833 :&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا...</content>
  </entry>
@@ -55,8 +65,8 @@
 
  <entry>
    <title>RM for Remove, Replace Multiple File_Name</title>
-   <link href="http://0.0.0.0:4001/rm-for-rename-remove-character"/>
-   <id>http://0.0.0.0:4001/rm-for-rename-remove-character</id>
+   <link href="https://abuisa.github.io/rm-for-rename-remove-character"/>
+   <id>https://abuisa.github.io/rm-for-rename-remove-character</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;menggunakan-tool-rm-untuk-rename-remove-character-pada-nama-file&quot;&gt;Menggunakan tool RM untuk Rename, Remove Character pada nama file&lt;/h3&gt; &lt;h3 id=&quot;1-command-line--replace-_-with--&quot;&gt;1. Command Line : Replace “_” with “-“&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;file &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;.jpg; &lt;span class=&quot;k&quot;&gt;do &lt;/span&gt;mv &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;${&lt;/span&gt;&lt;span...</content>
  </entry>
@@ -65,8 +75,8 @@
 
  <entry>
    <title>HTML+JS - Range Input dan Javascript untuk ubah IMG SRC</title>
-   <link href="http://0.0.0.0:4001/range-input-javascript-untuk-img-src"/>
-   <id>http://0.0.0.0:4001/range-input-javascript-untuk-img-src</id>
+   <link href="https://abuisa.github.io/range-input-javascript-untuk-img-src"/>
+   <id>https://abuisa.github.io/range-input-javascript-untuk-img-src</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;mengubah-image-src-menggunakan-input-typerange-dan-js&quot;&gt;Mengubah Image SRC menggunakan &lt;code class=&quot;highlighter-rouge&quot;&gt;input type=&quot;range&quot;&lt;/code&gt; dan JS&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Dalftar Images yang akan prose berada di dalam folder &lt;code class=&quot;highlighter-rouge&quot;&gt;img&lt;/code&gt;&lt;/li&gt; &lt;li&gt;Format Nama Image adalah : &lt;code class=&quot;highlighter-rouge&quot;&gt;1-img.jpg&lt;/code&gt;&lt;/li&gt; &lt;/ul&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1 2 3 4 5 6 7 8 9 10...</content>
  </entry>
@@ -75,8 +85,8 @@
 
  <entry>
    <title>PHP - Cari Hadits 9 Imam menggunakan Range Input dan Js</title>
-   <link href="http://0.0.0.0:4001/range-input-cari-no-hadits-9imam"/>
-   <id>http://0.0.0.0:4001/range-input-cari-no-hadits-9imam</id>
+   <link href="https://abuisa.github.io/range-input-cari-no-hadits-9imam"/>
+   <id>https://abuisa.github.io/range-input-cari-no-hadits-9imam</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;1-contoh-hasil-screenshot-&quot;&gt;1. Contoh Hasil Screenshot :&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;img/programming/prog-2017-12-07-2-Cari-Hadits.png&quot; alt=&quot;image-title-here&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;2-file-file-sebagai-module&quot;&gt;2. File-File sebagai Module&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;File &lt;a href=&quot;reff/programming/conn.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;conn.php&lt;/code&gt;&lt;/a&gt; Untuk Konneksi Database.&lt;/li&gt; &lt;li&gt;File &lt;a href=&quot;reff/programming/conf.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;conf.php&lt;/code&gt;&lt;/a&gt; Untuk Module Fungsi-Fungsi.&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;3-file-lcariphp-untuk-form-input&quot;&gt;3. File &lt;a href=&quot;reff/programming/lcari.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;lcari.php&lt;/code&gt;&lt;/a&gt; Untuk Form Input&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php&quot; data-lang=&quot;php&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter...</content>
  </entry>
@@ -85,8 +95,8 @@
 
  <entry>
    <title>Kumpulan Kalimat Sholawat dari As-Sunnah</title>
-   <link href="http://0.0.0.0:4001/kumpulan-kalimat-sholawat-dari-assunnah"/>
-   <id>http://0.0.0.0:4001/kumpulan-kalimat-sholawat-dari-assunnah</id>
+   <link href="https://abuisa.github.io/kumpulan-kalimat-sholawat-dari-assunnah"/>
+   <id>https://abuisa.github.io/kumpulan-kalimat-sholawat-dari-assunnah</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;!-- &lt;script src=&quot;js/w3.js&quot;&gt;&lt;/script&gt; &lt;hr /&gt; --&gt; &lt;h3 id=&quot;daftar-isi---urutan-berdasar-imam-&quot;&gt;&lt;a onclick=&quot;sdiv('ubi');&quot;&gt;Daftar Isi - Urutan berdasar Imam&lt;/a&gt; :&lt;/h3&gt; &lt;div class=&quot;divr&quot; id=&quot;ubi&quot; style=&quot;display:block&quot;&gt; &lt;ol&gt; &lt;li&gt;&lt;a href=&quot;#bab21&quot;&gt;اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى...</content>
  </entry>
@@ -95,20 +105,10 @@
 
  <entry>
    <title>A-Z Linux Command Line with Examples</title>
-   <link href="http://0.0.0.0:4001/A-Z-Linux-Commands-Overview-with-Examples"/>
-   <id>http://0.0.0.0:4001/A-Z-Linux-Commands-Overview-with-Examples</id>
+   <link href="https://abuisa.github.io/A-Z-Linux-Commands-Overview-with-Examples"/>
+   <id>https://abuisa.github.io/A-Z-Linux-Commands-Overview-with-Examples</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;iframe id=&quot;myframe&quot; src=&quot;reff/linux/A-Z-Linux-Commands-Overview-with-Examples.html&quot; scrolling=&quot;yes&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; style=&quot;overflow:visible; width:100%;&quot;&gt;&lt;/iframe&gt; &lt;!-- &lt;iframe frameborder=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; src=&quot;reff/linux/A-Z-Linux-Commands-Overview-with-Examples.html&quot;&gt;&lt;/iframe&gt; &lt;iframe id=&quot;myframe&quot; src=&quot;externalpage.htm&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; style=&quot;overflow:visible; width:100%; display:none&quot;&gt;&lt;/iframe&gt; &lt;!DOCTYPE html&gt; &lt;html class=&quot;no-js&quot; lang=&quot;en-US&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;link rel='stylesheet' id='fancybox-style-css' href='https://www.tecmint.com/wp-content/plugins/light/css/jquery.fancybox.css' type='text/css' media='all' /&gt; &lt;link rel='stylesheet' id='stcr-plugin-style-css' href='https://www.tecmint.com/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/stcr-plugin-style.css' type='text/css' media='all'...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Youtube Downloader - youtube-dl</title>
-   <link href="http://0.0.0.0:4001/youtube-dl-downloader-command-line"/>
-   <id>http://0.0.0.0:4001/youtube-dl-downloader-command-line</id>
-   <updated>2017-12-06T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/rg3/youtube-dl&quot;&gt;&lt;img src=&quot;https://travis-ci.org/rg3/youtube-dl.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;youtube-dl - download videos from youtube.com or other video platforms&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#installation&quot;&gt;INSTALLATION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#description&quot;&gt;DESCRIPTION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#options&quot;&gt;OPTIONS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#configuration&quot;&gt;CONFIGURATION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#output-template&quot;&gt;OUTPUT TEMPLATE&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#format-selection&quot;&gt;FORMAT SELECTION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#video-selection&quot;&gt;VIDEO SELECTION&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#faq&quot;&gt;FAQ&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#developer-instructions&quot;&gt;DEVELOPER INSTRUCTIONS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#embedding-youtube-dl&quot;&gt;EMBEDDING YOUTUBE-DL&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bugs&quot;&gt;BUGS&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#copyright&quot;&gt;COPYRIGHT&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#examples&quot;&gt;EXAMPLES&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1...</content>
  </entry>
 
  
