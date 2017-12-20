@@ -4,7 +4,7 @@
  <title>IkhwanElyas Page</title>
  <link href="https://abuisa.github.io/atom.xml" rel="self"/>
  <id>https://abuisa.github.io</id>
- <updated>2017-12-19T23:52:40+07:00</updated>
+ <updated>2017-12-20T11:18:34+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -18,7 +18,7 @@
    <link href="https://abuisa.github.io/Dzikir-pagi-dan-petang"/>
    <id>https://abuisa.github.io/Dzikir-pagi-dan-petang</id>
    <updated>2017-12-19T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;1-ayat-kursy&quot;&gt;1. Ayat Kursy&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; ٢٥٥. اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ...</content>
+   <content type="html">&lt;h3 id=&quot;1-ayat-kursy&quot;&gt;1. Ayat Kursy&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot; onclick=&quot;sdiv('d1');&quot;&gt; ٢٥٥. اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء...</content>
  </entry>
 
  

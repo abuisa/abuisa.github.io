@@ -825,7 +825,8 @@ footer {
   font-size: 22px; }
 
 .arx {
-  font-size: 26px; }
+  font-size: 26px;
+  cursor: pointer; }
 
 .arxx {
   font-size: 30px; }
