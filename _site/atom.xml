@@ -4,7 +4,7 @@
  <title>IkhwanElyas Page</title>
  <link href="https://abuisa.github.io/atom.xml" rel="self"/>
  <id>https://abuisa.github.io</id>
- <updated>2017-12-20T11:18:34+07:00</updated>
+ <updated>2017-12-21T07:45:30+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
@@ -14,11 +14,21 @@
  
 
  <entry>
+   <title>Kumpulan Kalimat Ta'awudz</title>
+   <link href="https://abuisa.github.io/Kumpulan-kalimat-taawudz"/>
+   <id>https://abuisa.github.io/Kumpulan-kalimat-taawudz</id>
+   <updated>2017-12-21T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;ringkasan-jawaban-dari-islamqa&quot;&gt;Ringkasan Jawaban dari &lt;a href=&quot;https://islamqa.info/ar/9062&quot; target=&quot;_blank&quot;&gt;islamqa&lt;/a&gt;&lt;/h1&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot;&gt; هل يجب أن يقول الإنسان &quot; أعوذ بالله من الشيطان الرجيم &quot; في كل ركعة ؟ أم تكفي أول ركعة ؟. &lt;/div&gt; &lt;div class=&quot;ar&quot;&gt; الحمد لله &lt;br /&gt; &lt;br /&gt; أولاً : &lt;br /&gt; أمر الله بالاستعاذة من الشيطان...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>Dzikir Pagi dan Petang</title>
    <link href="https://abuisa.github.io/Dzikir-pagi-dan-petang"/>
    <id>https://abuisa.github.io/Dzikir-pagi-dan-petang</id>
    <updated>2017-12-19T00:00:00+07:00</updated>
-   <content type="html">&lt;h3 id=&quot;1-ayat-kursy&quot;&gt;1. Ayat Kursy&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot; onclick=&quot;sdiv('d1');&quot;&gt; ٢٥٥. اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء...</content>
+   <content type="html">&lt;div class=&quot;arx&quot;&gt; أعوذ بالله من الشيطان الرجيم. &lt;/div&gt; &lt;h3 id=&quot;1-ayat-kursy&quot;&gt;1. Ayat Kursy&lt;/h3&gt; &lt;div class=&quot;gdiv&quot;&gt; &lt;div class=&quot;arx&quot; onclick=&quot;sdiv('d1');&quot;&gt; ٢٥٥. اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ...</content>
  </entry>
 
  
@@ -99,16 +109,6 @@
    <id>https://abuisa.github.io/kumpulan-kalimat-sholawat-dari-assunnah</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;!-- &lt;script src=&quot;js/w3.js&quot;&gt;&lt;/script&gt; &lt;hr /&gt; --&gt; &lt;h3 id=&quot;daftar-isi---urutan-berdasar-imam-&quot;&gt;&lt;a onclick=&quot;sdiv('ubi');&quot;&gt;Daftar Isi - Urutan berdasar Imam&lt;/a&gt; :&lt;/h3&gt; &lt;div class=&quot;divr&quot; id=&quot;ubi&quot; style=&quot;display:block&quot;&gt; &lt;ol&gt; &lt;li&gt;&lt;a href=&quot;#bab21&quot;&gt;اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى...</content>
- </entry>
-
- 
-
- <entry>
-   <title>A-Z Linux Command Line with Examples</title>
-   <link href="https://abuisa.github.io/A-Z-Linux-Commands-Overview-with-Examples"/>
-   <id>https://abuisa.github.io/A-Z-Linux-Commands-Overview-with-Examples</id>
-   <updated>2017-12-07T00:00:00+07:00</updated>
-   <content type="html">&lt;iframe id=&quot;myframe&quot; src=&quot;reff/linux/A-Z-Linux-Commands-Overview-with-Examples.html&quot; scrolling=&quot;yes&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; style=&quot;overflow:visible; width:100%;&quot;&gt;&lt;/iframe&gt; &lt;!-- &lt;iframe frameborder=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; src=&quot;reff/linux/A-Z-Linux-Commands-Overview-with-Examples.html&quot;&gt;&lt;/iframe&gt; &lt;iframe id=&quot;myframe&quot; src=&quot;externalpage.htm&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; style=&quot;overflow:visible; width:100%; display:none&quot;&gt;&lt;/iframe&gt; &lt;!DOCTYPE html&gt; &lt;html class=&quot;no-js&quot; lang=&quot;en-US&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;link rel='stylesheet' id='fancybox-style-css' href='https://www.tecmint.com/wp-content/plugins/light/css/jquery.fancybox.css' type='text/css' media='all' /&gt; &lt;link rel='stylesheet' id='stcr-plugin-style-css' href='https://www.tecmint.com/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/stcr-plugin-style.css' type='text/css' media='all'...</content>
  </entry>
 
  

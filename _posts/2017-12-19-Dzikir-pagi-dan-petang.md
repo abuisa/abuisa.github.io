@@ -4,6 +4,10 @@ description: Dzikir Pagi dan Petang
 header: Dzikir Pagi dan Petang
 categories: Agama
 ---
+<div class="arx">
+أعوذ بالله من الشيطان الرجيم.
+</div>
+
 ### 1. Ayat Kursy
 <div class="gdiv">
 <div class="arx" onclick="sdiv('d1');">
@@ -29,7 +33,7 @@ categories: Agama
 ### 3. Surah Al-Ikhlash 3x
 <div class="gdiv">
 <div class="arx" onclick="sdiv('d3');">
- ١. قُلْ هُوَ اللَّهُ أَحَدٌ.  ٢. اللَّهُ الصَّمَدُ.  ٣. لَمْ يَلِدْ وَلَمْ يُولَدْ.  ٤. وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ.    
+بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ,   ١. قُلْ هُوَ اللَّهُ أَحَدٌ.  ٢. اللَّهُ الصَّمَدُ.  ٣. لَمْ يَلِدْ وَلَمْ يُولَدْ.  ٤. وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ.    
 </div>
 <div class="id" id="d3" style="display:none">
 1. Katakanlah: "Dia-lah Allah, Yang Maha Esa. 2. Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu. 3. Dia tiada beranak dan tidak pula diperanakkan, 4. dan tidak ada seorangpun yang setara dengan Dia".
@@ -39,7 +43,7 @@ categories: Agama
 ### 4. Surah Al-Falaq 3x
 <div class="gdiv">
 <div class="arx" onclick="sdiv('d4');">
- ١. قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ.  ٢. مِن شَرِّ مَا خَلَقَ.  ٣. وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ.  ٤. وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ.  ٥. وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ.     
+بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ,   ١. قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ.  ٢. مِن شَرِّ مَا خَلَقَ.  ٣. وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ.  ٤. وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ.  ٥. وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ.     
 </div>
 <div class="id" id="d4" style="display:none">
 1. Katakanlah: "Aku berlindung kepada Tuhan Yang Menguasai subuh, 2. dari kejahatan makhluk-Nya, 3. dan dari kejahatan malam apabila telah gelap gulita, 4. dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul, 5. dan dari kejahatan pendengki bila ia dengki". 
@@ -50,7 +54,7 @@ categories: Agama
 ### 5. Surah AN-Naas 3x
 <div class="gdiv">
 <div class="arx" onclick="sdiv('d5');">
- ١. قُلْ أَعُوذُ بِرَبِّ النَّاسِ.  ٢. مَلِكِ النَّاسِ.  ٣. إِلَهِ النَّاسِ.  ٤. مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ.  ٥. الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ.  ٦. مِنَ الْجِنَّةِ وَ النَّاسِ.    
+بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ,   ١. قُلْ أَعُوذُ بِرَبِّ النَّاسِ.  ٢. مَلِكِ النَّاسِ.  ٣. إِلَهِ النَّاسِ.  ٤. مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ.  ٥. الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ.  ٦. مِنَ الْجِنَّةِ وَ النَّاسِ.    
 </div>
 <div class="id" id="d5" style="display:none">
 1. Katakanlah: "Aku berlidung kepada Tuhan (yang memelihara dan menguasai) manusia. 2. Raja manusia. 3. Sembahan manusia. 4. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi, 5. yang membisikkan (kejahatan) ke dalam dada manusia, 6. dari jin dan manusia.
@@ -188,10 +192,21 @@ Dengan nama Allah yang tidak ada sesuatu pun di bumi dan di langit yang bisa mem
 ### 18. Doa 12
 <div class="gdiv">
 <div class="arx" onclick="sdiv('d18');">
+1. سُبْحَانَ اللَّهِ عَدَدَ خَلْقِهِ سُبْحَانَ اللَّهِ رِضَا نَفْسِهِ سُبْحَانَ اللَّهِ زِنَةَ عَرْشِهِ سُبْحَانَ اللَّهِ مِدَادَ كَلِمَاتِهِ. <br />
+2. سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ.
+</div>
+<div class="id" id="d18" style="display:none">
+Maha suci Allah sebanyak hitungan makhluk-Nya. Maha Suci Allah menurut keridlaan-Nya. Maha Suci Allah menurut kebesaran arasy-Nya. Maha Suci Allah sebanyak paparan kelimat-Nya.
+</div>
+</div>
+
+### 19. Doa 13
+<div class="gdiv">
+<div class="arx" onclick="sdiv('d19');">
 📌  رَضِينَا بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا.<br />
 📌  رَضِينَا بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَسُولًا نَعُوذُ بِاللَّهِ مِنْ الْفِتَنِ.
 </div>
-<div class="id" id="d18" style="display:none">
+<div class="id" id="d19" style="display:none">
 Kami ridha Allah sebagai Tuhan, Islam sebagai agama, dan Muhammad shallallahu 'alaihi wasallam sebagai utusan, kami berlindung kepada Allah dari fitnah.
 </div>
 </div>

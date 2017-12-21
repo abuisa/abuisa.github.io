@@ -220,7 +220,7 @@ function showhide(id) {
 //--- ================================
 
 //--- TAMBAHAN UNTUK BUTTON  GO-TO-TOP ----
-	//========Ini Fungsi Untuk Show Button go-to-top========
+//========Ini Fungsi Untuk Show Button go-to-top========
 
 	window.onscroll = function() {scrollFunction()};
 	
