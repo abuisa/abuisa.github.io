@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Praktek menggunakan FIND dan SED dan 
-description: Praktek menggunakan FIND dan SED
-header: Praktek menggunakan FIND dan SED
+title: BackUp Web ini ke Offline dengan FIND dan SED
+description: BackUp Web ini ke Offline dengan FIND dan SED
+header: BackUp Web ini ke Offline dengan FIND dan SED
 categories: Linux
 ---
 ### Cari dan Replace String
@@ -52,6 +52,106 @@ echo -e "Clear Finished !..."
 * Seletelah selesai, halaman sudah bisa diakses dengan tampilah yang sama sebagaimana Online.
 
 
+### Script Versi Terbaru : 
 
-----
+{% highlight bash linenos %}
+
+#!/bin/bash
+echo -e "Start to Copy......"
+if cp -ru ../abuisa.github.io/_site/ ./ 
+then 
+	#notify-send "Copy Data Suksess" -i info
+	echo -e "Copy \t\t\t: OK, Copy Success......"
+else
+	echo -e "Copy \t\t\t: GAGAL Copy  !"
+fi
+
+echo -e "Start to Clear......"
+if find _site/*.html -type f -exec sed -i 's/\/css/css/g' {} + # Replace string
+then 
+	echo -e "css \t\t\t: OK, Clear....."
+else
+	echo -e "css \t\t\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/https:\/\/abuisa.github.io\///g' {} + # Replace string
+then 
+	echo -e "remove hostname 1\t: OK, Clear....."
+else
+	echo -e "remove hostname 1\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/http:\/\/0.0.0.0:4000\///g' {} + # Replace string
+then 
+	echo -e "remove hostname 2\t: OK, Clear....."
+else
+	echo -e "remove hostname 2\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/"\/categories"/"categories.html"/g' {} + # Replace string 
+then 
+	echo -e "categories \t\t: OK, Clear....."
+else
+	echo -e "categories \t\t: GAGAL Clear  !"
+fi 
+	
+if find _site/*.html -type f -exec sed -i 's/"\/linkcolection"/"linkcolection.html"/g' {} + # Replace string 
+then 
+	echo -e "linkcolection \t\t: OK, Clear....."
+else
+	echo -e "linkcolection \t\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/"\/penelitian"/"penelitian.html"/g' {} + # Replace string 
+then
+	echo -e "penelitian \t\t: OK, Clear....."
+else
+	echo -e "penelitian \t\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/"\/me"/"me.html"/g' {} + # Replace string 
+then
+	echo -e "me \t\t\t: OK, Clear....."
+else
+	echo -e "me \t\t\t: GAGAL Clear  !"
+fi
+
+
+if find _site/*.html -type f -exec sed -i 's/src="\/js/src="js/g' {} + # Replace string
+then
+	echo -e "Js \t\t\t: OK, Clear....."
+else
+	echo -e "Js \t\t\t: GAGAL Clear  !"
+fi
+
+ix=$(find . -name ".fuse_hidden00*"|wc -l);
+if [ "$ix" == "0" ]
+then 
+	echo -e "Remove .fuse_hidden00* \t: GAGAL, File Not Found !"
+else
+	echo "Aada "
+	if rm .fuse_hidden00*
+	then
+		echo -e "Remove .fuse_hidden00* \t: OK, Clear....."
+	fi
+fi
+
+pt=$(zenity --entry --title="Copyt File" --text="Input Destination Path : ");
+if sudo cp -rfu _site/ "$pt"
+then 
+	echo -e "Copy \t\t\t: OK, Copy to '$pt' Success......"
+else
+	echo -e "Copy \t\t\t: GAGAL Copy to '$pt'  !"
+fi
+
+echo -e "Clear Finished !..."
+##--- Dengan menampilkan Notifikasi di layar desktop ---
+notify-send "Selesai On_Web to Off_Web !" -i text-x-script
+zenity --display :0 --info --width=150 --height=100 --title "BackUp Finished !" --text "Selesai Menyalin Web_on To Web_Off" # OK,
+
+{% endhighlight %}
+
+- Versi terberu diatas diupload pada 22,12,2017.
+
+<hr />
 Post by : admin
