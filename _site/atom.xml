@@ -4,12 +4,22 @@
  <title>IkhwanElyas Page</title>
  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
  <id>http://0.0.0.0:4000</id>
- <updated>2017-12-23T22:03:42+07:00</updated>
+ <updated>2017-12-25T00:00:12+07:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Python - Check If Server Up or Down</title>
+   <link href="http://0.0.0.0:4000/chek-if-server-up-or-down"/>
+   <id>http://0.0.0.0:4000/chek-if-server-up-or-down</id>
+   <updated>2017-12-24T00:00:00+07:00</updated>
+   <content type="html">&lt;h1 id=&quot;python-script&quot;&gt;Python Script&lt;/h1&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;os&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;time&lt;/span&gt;...</content>
+ </entry>
 
  
 
@@ -99,16 +109,6 @@
    <id>http://0.0.0.0:4000/range-input-cari-no-hadits-9imam</id>
    <updated>2017-12-07T00:00:00+07:00</updated>
    <content type="html">&lt;h3 id=&quot;1-contoh-hasil-screenshot-&quot;&gt;1. Contoh Hasil Screenshot :&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;img/programming/prog-2017-12-07-2-Cari-Hadits.png&quot; alt=&quot;image-title-here&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;2-file-file-sebagai-module&quot;&gt;2. File-File sebagai Module&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;File &lt;a href=&quot;reff/programming/conn.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;conn.php&lt;/code&gt;&lt;/a&gt; Untuk Konneksi Database.&lt;/li&gt; &lt;li&gt;File &lt;a href=&quot;reff/programming/conf.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;conf.php&lt;/code&gt;&lt;/a&gt; Untuk Module Fungsi-Fungsi.&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;3-file-lcariphp-untuk-form-input&quot;&gt;3. File &lt;a href=&quot;reff/programming/lcari.php.txt&quot; target=&quot;_blank&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;lcari.php&lt;/code&gt;&lt;/a&gt; Untuk Form Input&lt;/h3&gt; &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-php&quot; data-lang=&quot;php&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Kumpulan Kalimat Sholawat dari As-Sunnah</title>
-   <link href="http://0.0.0.0:4000/kumpulan-kalimat-sholawat-dari-assunnah"/>
-   <id>http://0.0.0.0:4000/kumpulan-kalimat-sholawat-dari-assunnah</id>
-   <updated>2017-12-07T00:00:00+07:00</updated>
-   <content type="html">&lt;!-- &lt;script src=&quot;js/w3.js&quot;&gt;&lt;/script&gt; &lt;hr /&gt; --&gt; &lt;h3 id=&quot;daftar-isi---urutan-berdasar-imam-&quot;&gt;&lt;a onclick=&quot;sdiv('ubi');&quot;&gt;Daftar Isi - Urutan berdasar Imam&lt;/a&gt; :&lt;/h3&gt; &lt;div class=&quot;divr&quot; id=&quot;ubi&quot; style=&quot;display:block&quot;&gt; &lt;ol&gt; &lt;li&gt;&lt;a href=&quot;#bab21&quot;&gt;اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى...</content>
  </entry>
 
  

@@ -136,6 +136,7 @@ else
 	fi
 fi
 
+if [ $1
 pt=$(zenity --entry --title="Copyt File" --text="Input Destination Path : ");
 if sudo cp -rfu _site/ "$pt"
 then 

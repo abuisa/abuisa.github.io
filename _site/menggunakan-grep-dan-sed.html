@@ -404,7 +404,8 @@ rm .fuse_hidden00<span class="k">*</span>
 89
 90
 91
-92</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+92
+93</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
 <span class="nb">echo</span> -e <span class="s2">"Start to Copy......"</span>
 <span class="k">if </span>cp -ru ../abuisa.github.io/_site/ ./ 
 <span class="k">then</span> 
@@ -484,7 +485,8 @@ if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span cl
 	<span class="k">fi
 fi
 
-</span><span class="nv">pt</span><span class="o">=</span><span class="k">$(</span>zenity --entry --title<span class="o">=</span><span class="s2">"Copyt File"</span> --text<span class="o">=</span><span class="s2">"Input Destination Path : "</span><span class="k">)</span>;
+if</span> <span class="o">[</span> <span class="nv">$1</span>
+<span class="nv">pt</span><span class="o">=</span><span class="k">$(</span>zenity --entry --title<span class="o">=</span><span class="s2">"Copyt File"</span> --text<span class="o">=</span><span class="s2">"Input Destination Path : "</span><span class="k">)</span>;
 <span class="k">if </span>sudo cp -rfu _site/ <span class="s2">"</span><span class="nv">$pt</span><span class="s2">"</span>
 <span class="k">then 
 	</span><span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: OK, Copy to '</span><span class="nv">$pt</span><span class="s2">' Success......"</span>
