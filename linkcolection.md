@@ -127,9 +127,21 @@ header: Links
 			<li><a href="http://accessdata.com/product-download/" target="_blank"> accessdata.com/ftk</a></li>
 			<li><a href="https://sourceforge.net/projects/dc3dd/" target="_blank"> sourceforge.net/dc3dd</a></li>
 			<li><a href="http://www.sdcomputingservice.com/" target="_blank"> www.sdcomputingservice.com</a></li>
-
 		</ul>
 
+	<h3> Tool Image Forensik</h3>
+		<ul>
+			<li><a href="http://www.getghiro.org/" target="_blank">www.getghiro.org </a></li>
+			<li><a href="http://fotoforensics.com/" target="_blank">fotoforensics.com </a></li>
+			<li><a href="http://www.imageforensic.org/show/f6d91366f3711845ec1c52518e355e28/9c712936-b65a-45e3-af67-4846170c2bda" target="_blank">www.imageforensic.org  </a></li>
+			<li><a href="https://29a.ch/photo-forensics/#forensic-magnifier" target="_blank">29a.ch/photo-forensics </a></li>
+			<li><a href="http://headt.eu/detect-image-manipulations/" target="_blank">headt.eu/detect-image-manipulations </a></li>
+			<li><a href="http://www.izitru.com/" target="_blank">www.izitru.com </a></li>
+			<li><a href="http://metainventions.com/products.html" target="_blank">metainventions.com </a></li>
+			<li><a href="http://forensic.kaist.ac.kr/ForensicTool/WebContent/EN/Main.jsp" target="_blank">forensic.kaist.ac.kr </a></li>
+			<li><a href="https://ampedsoftware.com/authenticate" target="_blank">ampedsoftware.com </a></li>
+		</ul>
+	
 	<h3> Forensik Distro</h3>
 		<ul>
 			<li><a href="https://www.kali.org/" target="_blank">www.kali.org</a></li>
@@ -182,10 +194,14 @@ header: Links
 			<li><a href="http://www.virscan.org/" target="_blank">virscan.org</a></li>
 		</ul>
 
-	<h3> Malware Analys System</h3>
+	<h3> Malware dan Forensik Analys System</h3>
 		<ul>
 			<li><a href="https://cuckoosandbox.org/" target="_blank"> cuckoosandbox.org</a></li>
+			<li><a href="https://remnux.org/" target="_blank">remnux.org</a></li>
+			<li><a href="https://santoku-linux.com/" target="_blank">santoku-linux.com</a></li>			
 		</ul>
+
+
 
 	<h3> Programming Reference</h3>
 		<ul>

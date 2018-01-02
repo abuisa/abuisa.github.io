@@ -52,7 +52,8 @@ echo -e "Clear Finished !..."
 * Seletelah selesai, halaman sudah bisa diakses dengan tampilah yang sama sebagaimana Online.
 
 
-### Script Versi Terbaru : 
+### Script Versi 1.1 : 
+- Versi 1.1 dibawah diupload pada 22,12,2017.
 
 {% highlight bash linenos %}
 
@@ -152,7 +153,132 @@ zenity --display :0 --info --width=150 --height=100 --title "BackUp Finished !" 
 
 {% endhighlight %}
 
-- Versi terberu diatas diupload pada 22,12,2017.
+
+
+### Script Versi 1.2 :
+- Versi 1.2 dibawah diupload pada 25,12,2017.
+{% highlight bash linenos %}
+
+#!/bin/bash
+echo -e "Start to Copy......"
+if cp -rf ../abuisa.github.io/_site/ ./ 
+then echo -e "Copy \t\t\t: OK, Copy Success......"
+else echo -e "Copy \t\t\t: GAGAL Copy  !"
+fi
+
+echo -e "Start to Clear......"
+if find _site/*.html -type f -exec sed -i 's/\/css/css/g' {} + # Replace string
+then echo -e "css \t\t\t: OK, Clear....."
+else echo -e "css \t\t\t: GAGAL Clear  !"
+fi
+
+
+if sed -i 's/<li><a href="https:\/\/abuisa.github.io\//<li><a href="/g' _site/categories.html
+then echo -e "categories 1\t\t: OK, Clear....."
+else echo -e "categories 1\t\t: GAGAL Clear  !"
+fi
+
+if sed -i 's/<li><a href="http:\/\/0.0.0.0:4000\//<li><a href="/g' _site/categories.html
+then echo -e "categories 2\t\t: OK, Clear....."
+else echo -e "categories 2\t\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/https:\/\/abuisa.github.io\//index.html/g' {} + # Replace string
+then echo -e "remove hostname 1\t: OK, Clear....."
+else echo -e "remove hostname 1\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/http:\/\/0.0.0.0:4000\//index.html/g' {} + # Replace string
+then echo -e "remove hostname 2\t: OK, Clear....."
+else echo -e "remove hostname 2\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/"\/categories"/"categories.html"/g' {} + # Replace string 
+then echo -e "categories \t\t: OK, Clear....."
+else echo -e "categories \t\t: GAGAL Clear  !"
+fi 
+	
+if find _site/*.html -type f -exec sed -i 's/"\/linkcolection"/"linkcolection.html"/g' {} + # Replace string 
+then echo -e "linkcolection \t\t: OK, Clear....."
+else echo -e "linkcolection \t\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/"\/penelitian"/"penelitian.html"/g' {} + # Replace string 
+then echo -e "penelitian \t\t: OK, Clear....."
+else echo -e "penelitian \t\t: GAGAL Clear  !"
+fi
+
+if find _site/*.html -type f -exec sed -i 's/"\/me"/"me.html"/g' {} + # Replace string 
+then echo -e "me \t\t\t: OK, Clear....."
+else echo -e "me \t\t\t: GAGAL Clear  !"
+fi
+
+
+if find _site/*.html -type f -exec sed -i 's/src="\/js/src="js/g' {} + # Replace string
+then echo -e "Js \t\t\t: OK, Clear....."
+else echo -e "Js \t\t\t: GAGAL Clear  !"
+fi
+
+if find _site/* -type f -name 'index.html'|xargs sed -i 's/<h2><a href="\//<h2><a href="/g' 
+then echo -e "Index.html \t\t: OK, Clear....."
+else echo -e "Index.html \t\t: GAGAL Clear  !"
+fi
+
+if find _site/* -type f -name 'index.html'|xargs sed -i 's/<a href="\/page/<a href="page/g'
+then echo -e "Page \t\t\t: OK, Clear....."
+else echo -e "Page \t\t\t: GAGAL Clear  !"
+fi
+
+if find _site/page* -type f -name 'index.html'|xargs sed -i 's/src="\/js\/main.js"/src="..\/js\/main.js"/g'
+then echo -e "Page header 1\t\t: OK, Clear....."
+else echo -e "Page header 1\t\t: GAGAL Clear  !"
+fi
+
+if find _site/page* -type f -name 'index.html'|xargs sed -i 's/src="js\/jquery.min.js/src="..\/js\/jquery.min.js/g'
+then echo -e "Page header 2\t\t: OK, Clear....."
+else echo -e "Page header 2\t\t: GAGAL Clear  !"
+fi
+
+if find _site/page* -type f -name 'index.html'|xargs sed -i 's/src="js\/hijricalendar-kuwaiti.js/src="..\/js\/hijricalendar-kuwaiti.js/g'
+then echo -e "Page header 3\t\t: OK, Clear....."
+else echo -e "Page header 3\t\t: GAGAL Clear  !"
+fi
+
+if find _site/page* -type f -name 'index.html'|xargs sed -i 's/src="js\/modulku.js/src="..\/js\/modulku.js/g'
+then echo -e "Page header 4\t\t: OK, Clear....."
+else echo -e "Page header 4\t\t: GAGAL Clear  !"
+fi
+
+ix=$(find . -name ".fuse_hidden00*"|wc -l);
+if [ "$ix" == "0" ]
+then 
+	echo -e "Remove .fuse_hidden00* \t: GAGAL, File Not Found !"
+else
+	echo "Aada "
+	if rm .fuse_hidden00*
+	then
+		echo -e "Remove .fuse_hidden00* \t: OK, Clear....."
+	fi
+fi
+
+if [ "$1" == "-" ]
+then
+	pt=$(zenity --entry --title="Copyt File" --text="Input Destination Path : ");
+	if sudo cp -rfu _site/ "$pt"
+	then 
+		echo -e "Copy \t\t\t: OK, Copy to '$pt' Success......"
+	else
+		echo -e "Copy \t\t\t: GAGAL Copy to '$pt'  !"
+	fi
+fi
+
+echo -e "BackUp Finished !..."
+##--- Dengan menampilkan Notifikasi di layar desktop ---
+notify-send "Selesai On_Web to Off_Web !" -i text-x-script
+zenity --display :0 --info --width=150 --height=100 --title "BackUp Finished !" --text "Selesai Menyalin Web_on To Web_Off" # OK,
+
+
+{% endhighlight %}
 
 <hr />
 Post by : admin
