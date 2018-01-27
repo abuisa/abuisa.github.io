@@ -15,7 +15,7 @@ header: Links
 			<li><a href="https://sunnah.com/" target="_blank">sunnah.com</a></li>
 			<li><a href="http://tanzil.net/#19:1" target="_blank">tanzil.net </a></li>
 			<li><a href="http://tanzil.net/download" target="_blank">Download Quran DB</a></li>
-			
+			<li><a href="http://tafsir.learn-quran.co/id/search#" target="_blank">tafsir.learn-quran.co</a></li>
 		</ul>
 	<h3>Ormas dan Berita Islam</h3>
 		<ul>
@@ -151,6 +151,8 @@ header: Links
 			<li><a href="http://www.caine-live.net/" target="_blank">www.caine-live.net</a></li>
 			<li><a href="http://www.deftlinux.net/" target="_blank">www.deftlinux.net</a></li>
 			<li><a href="http://urix.us/" target="_blank">urix.us</a></li>
+			<li><a href="http://www.deftlinux.net/" target="_blank">www.deftlinux.net</a></li>			
+			<li><a href="https://manjaro.org/" target="_blank">manjaro.org </a></li>
 <!--
 			<li><a href=" " target="_blank"> </a></li>
 			<li><a href=" " target="_blank"> </a></li>

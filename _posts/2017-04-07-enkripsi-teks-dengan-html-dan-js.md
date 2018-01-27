@@ -298,7 +298,7 @@ Berikut merupakan script pendukung untuk melengkapi penggunaan kedua script diat
 </script>
 {% endhighlight %}
 
-lebih mudahnya anda bisa langsung mengunjungi scripnya yang terdapat di [github](https://github.com/abuisa/ikhwanelyas/blob/master/index.html).
+lebih mudahnya anda bisa langsung mengunjungi scripnya yang terdapat di [github](https://github.com/abuisa/ikhwanelyas/blob/master/index.html){:target="_blank"}.
 
 ______
 post by : Admin

@@ -4,6 +4,12 @@ description: Dzikir Pagi dan Petang
 header: Dzikir Pagi dan Petang
 categories: Agama
 ---
+<style>
+.arx {
+	//font-size: 26px;
+	cursor: pointer;
+}
+</style>
 <div class="arx">
 أعوذ بالله من الشيطان الرجيم.
 </div>
