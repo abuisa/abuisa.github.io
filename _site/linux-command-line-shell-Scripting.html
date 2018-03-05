@@ -31,29 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
+	<!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>Linux Command Line Shell Scripting | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="Linux Command Line Shell Scripting" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Linux Command Line Shell Scripting" />
 <meta property="og:description" content="Linux Command Line Shell Scripting" />
-<link rel="canonical" href="https://abuisa.github.io//linux-command-line-shell-scripting" />
-<meta property="og:url" content="https://abuisa.github.io//linux-command-line-shell-scripting" />
+<link rel="canonical" href="http://localhost:4000/linux-command-line-shell-Scripting" />
+<meta property="og:url" content="http://localhost:4000/linux-command-line-shell-Scripting" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-12-02T00:00:00+07:00" />
 <script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "Linux Command Line Shell Scripting",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-12-02T00:00:00+07:00",
-"description": "Linux Command Line Shell Scripting",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "https://abuisa.github.io//linux-command-line-shell-scripting"},
-"url": "https://abuisa.github.io//linux-command-line-shell-scripting"}</script>
+{"description":"Linux Command Line Shell Scripting","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/linux-command-line-shell-Scripting","headline":"Linux Command Line Shell Scripting","dateModified":"2017-12-02T00:00:00+07:00","datePublished":"2017-12-02T00:00:00+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/linux-command-line-shell-Scripting"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -66,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="https://abuisa.github.io/">Home</a>
+		<a href="http://localhost:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -159,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -284,17 +276,16 @@
 
 <h3 id="hello-script"><a name="hello-script"></a>Hello script</h3>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
 <span class="c"># Print greeting message</span>
 <span class="nb">echo</span> <span class="s2">"Hello </span><span class="nv">$USER</span><span class="s2">"</span>
 <span class="c"># Print day of week</span>
-<span class="nb">echo</span> <span class="s2">"Today is </span><span class="k">$(</span>date -u +%A<span class="k">)</span><span class="s2">"</span>
+<span class="nb">echo</span> <span class="s2">"Today is </span><span class="k">$(</span><span class="nb">date</span> <span class="nt">-u</span> +%A<span class="k">)</span><span class="s2">"</span>
 
 <span class="c"># use single quotes for literal strings</span>
 <span class="nb">echo</span> <span class="s1">'Have a nice day'</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>The first line has two parts</p>
 
@@ -338,22 +329,20 @@
   <li><a href="https://unix.stackexchange.com/questions/tagged/echo?sort=votes&amp;pageSize=15">echo Q&amp;A on unix stackexchange</a></li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>chmod +x hello_script.sh
-<span class="gp">$ </span>./hello_world.sh 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">chmod</span> +x hello_script.sh
+<span class="nv">$ </span>./hello_world.sh 
 Hello learnbyexample
 Today is Wednesday
-Have a nice day
-</code></pre>
-</div>
+Have a <span class="nb">nice </span>day
+</code></pre></div></div>
 
 <p><br /></p>
 
 <h3 id="sourcing-script"><a name="sourcing-script"></a>Sourcing script</h3>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span><span class="nb">help</span> -d <span class="nb">source
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">help</span> <span class="nt">-d</span> <span class="nb">source
 source</span> - Execute commands from a file <span class="k">in </span>the current shell.
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <ul>
   <li>If script should be executed in current shell environment instead of sub-shell, use the <code class="highlighter-rouge">.</code> or <code class="highlighter-rouge">source</code> command
@@ -363,38 +352,35 @@ source</span> - Execute commands from a file <span class="k">in </span>the curre
   </li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span><span class="c"># contents of prev_cmd.sh</span>
-<span class="nv">prev</span><span class="o">=</span><span class="k">$(</span><span class="nb">fc</span> -ln -2 | sed <span class="s1">'s/^[ \t]*//;q'</span><span class="k">)</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="c"># contents of prev_cmd.sh</span>
+<span class="nv">prev</span><span class="o">=</span><span class="k">$(</span><span class="nb">fc</span> <span class="nt">-ln</span> <span class="nt">-2</span> | <span class="nb">sed</span> <span class="s1">'s/^[ \t]*//;q'</span><span class="k">)</span>
 <span class="nb">echo</span> <span class="s2">"</span><span class="nv">$prev</span><span class="s2">"</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <ul>
   <li>For example, to access history of current interactive shell from within script</li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span><span class="nb">printf</span> <span class="s1">'hi there\n'</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">printf</span> <span class="s1">'hi there\n'</span>
 hi there
-<span class="gp">$ </span>bash prev_cmd.sh 
+<span class="nv">$ </span>bash prev_cmd.sh 
 
-<span class="gp">$ </span><span class="nb">printf</span> <span class="s1">'hi there\n'</span>
+<span class="nv">$ </span><span class="nb">printf</span> <span class="s1">'hi there\n'</span>
 hi there
-<span class="gp">$ </span><span class="nb">source </span>prev_cmd.sh
+<span class="nv">$ </span><span class="nb">source </span>prev_cmd.sh
 <span class="nb">printf</span> <span class="s1">'hi there\n'</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><br /></p>
 
 <h3 id="command-line-arguments"><a name="command-line-arguments"></a>Command Line Arguments</h3>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
 <span class="c"># Print line count of files given as command line argument</span>
-<span class="nb">echo</span> <span class="s2">"No of lines in '</span><span class="nv">$1</span><span class="s2">' is </span><span class="k">$(</span>wc -l &lt; <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span><span class="k">)</span><span class="s2">"</span>
-<span class="nb">echo</span> <span class="s2">"No of lines in '</span><span class="nv">$2</span><span class="s2">' is </span><span class="k">$(</span>wc -l &lt; <span class="s2">"</span><span class="nv">$2</span><span class="s2">"</span><span class="k">)</span><span class="s2">"</span>
-</code></pre>
-</div>
+<span class="nb">echo</span> <span class="s2">"No of lines in '</span><span class="nv">$1</span><span class="s2">' is </span><span class="k">$(</span><span class="nb">wc</span> <span class="nt">-l</span> &lt; <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span><span class="k">)</span><span class="s2">"</span>
+<span class="nb">echo</span> <span class="s2">"No of lines in '</span><span class="nv">$2</span><span class="s2">' is </span><span class="k">$(</span><span class="nb">wc</span> <span class="nt">-l</span> &lt; <span class="s2">"</span><span class="nv">$2</span><span class="s2">"</span><span class="k">)</span><span class="s2">"</span>
+</code></pre></div></div>
 
 <ul>
   <li>Command line arguments are saved in positional variables starting with <code class="highlighter-rouge">$1 $2 $3</code> etc</li>
@@ -410,11 +396,10 @@ hi there
   <li><a href="https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables/5163260#5163260">bash special parameters reference</a></li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>./command_line_arguments.sh hello_script.sh <span class="nb">test</span><span class="se">\ </span>file.txt 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>./command_line_arguments.sh hello_script.sh <span class="nb">test</span><span class="se">\ </span>file.txt 
 No of lines <span class="k">in</span> <span class="s1">'hello_script.sh'</span> is 9
 No of lines <span class="k">in</span> <span class="s1">'test file.txt'</span> is 5
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><br /></p>
 
@@ -450,16 +435,15 @@ No of lines <span class="k">in</span> <span class="s1">'test file.txt'</span> is
 
 <h3 id="accepting-user-input-interactively"><a name="accepting-user-input-interactively"></a>Accepting User Input interactively</h3>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
 <span class="c"># Get user input</span>
 <span class="nb">echo</span> <span class="s1">'Hi there! This script returns the sum of two numbers'</span>
-<span class="nb">read</span> -p <span class="s1">'Enter two numbers separated by spaces: '</span> number1 number2
+<span class="nb">read</span> <span class="nt">-p</span> <span class="s1">'Enter two numbers separated by spaces: '</span> number1 number2
 
-<span class="nb">echo</span> -e <span class="s2">"</span><span class="se">\n</span><span class="nv">$number1</span><span class="s2"> + </span><span class="nv">$number2</span><span class="s2"> = </span><span class="k">$((</span>number1 <span class="o">+</span> number2<span class="k">))</span><span class="s2">"</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"</span><span class="se">\n</span><span class="nv">$number1</span><span class="s2"> + </span><span class="nv">$number2</span><span class="s2"> = </span><span class="k">$((</span>number1 <span class="o">+</span> number2<span class="k">))</span><span class="s2">"</span>
 <span class="nb">echo</span> <span class="s1">'Thank you for using the script, Have a nice day :)'</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <ul>
   <li><code class="highlighter-rouge">help -d read</code> Read a line from the standard input and split it into fields</li>
@@ -469,22 +453,21 @@ No of lines <span class="k">in</span> <span class="s1">'test file.txt'</span> is
   <li><a href="http://ryanstutorials.net/bash-scripting-tutorial/bash-input.php">More examples with read and getting input from stdin</a></li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>./user_input.sh 
-Hi there! This script returns the sum of two numbers
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>./user_input.sh 
+Hi there! This script returns the <span class="nb">sum </span>of two numbers
 Enter two numbers separated by spaces: 7 42
 
 7 + 42 <span class="o">=</span> 49
-Thank you <span class="k">for </span>using the script, Have a nice day :<span class="o">)</span>
-</code></pre>
-</div>
+Thank you <span class="k">for </span>using the script, Have a <span class="nb">nice </span>day :<span class="o">)</span>
+</code></pre></div></div>
 
 <p><br /></p>
 
 <h3 id="if-then-else"><a name="if-then-else"></a>if then else</h3>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
-<span class="k">if</span> <span class="o">((</span> <span class="nv">$# </span>!<span class="o">=</span> 2 <span class="o">))</span>
+<span class="k">if</span> <span class="o">((</span> <span class="nv">$# </span><span class="o">!=</span> 2 <span class="o">))</span>
 <span class="k">then
     </span><span class="nb">echo</span> <span class="s2">"Error!! Please provide two file names"</span>
     <span class="c"># simple convention for exit values is '0' for success and '1' for error</span>
@@ -493,18 +476,17 @@ Thank you <span class="k">for </span>using the script, Have a nice day :<span cl
     <span class="c"># Use ; to combine multiple commands in same line</span>
     <span class="c"># -f option checks if file exists, ! negates the value</span>
     <span class="c"># white-space around [[ and ]] is necessary</span>
-    <span class="k">if</span> <span class="o">[[</span> ! -f <span class="nv">$1</span> <span class="o">]]</span> ; <span class="k">then
-        </span><span class="nb">echo</span> <span class="s2">"Error!! '</span><span class="nv">$1</span><span class="s2">' is not a valid filename"</span> ; <span class="nb">exit </span>1
+    <span class="k">if</span> <span class="o">[[</span> <span class="o">!</span> <span class="nt">-f</span> <span class="nv">$1</span> <span class="o">]]</span> <span class="p">;</span> <span class="k">then
+        </span><span class="nb">echo</span> <span class="s2">"Error!! '</span><span class="nv">$1</span><span class="s2">' is not a valid filename"</span> <span class="p">;</span> <span class="nb">exit </span>1
     <span class="k">else
-        </span><span class="nb">echo</span> <span class="s2">"No of lines in '</span><span class="nv">$1</span><span class="s2">' is </span><span class="k">$(</span>wc -l &lt; <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span><span class="k">)</span><span class="s2">"</span>
+        </span><span class="nb">echo</span> <span class="s2">"No of lines in '</span><span class="nv">$1</span><span class="s2">' is </span><span class="k">$(</span><span class="nb">wc</span> <span class="nt">-l</span> &lt; <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span><span class="k">)</span><span class="s2">"</span>
     <span class="k">fi</span>
 
     <span class="c"># Conditional Execution</span>
-    <span class="o">[[</span> ! -f <span class="nv">$2</span> <span class="o">]]</span> <span class="o">&amp;&amp;</span> <span class="nb">echo</span> <span class="s2">"Error!! '</span><span class="nv">$2</span><span class="s2">' is not a valid filename"</span> <span class="o">&amp;&amp;</span> <span class="nb">exit </span>1
-    <span class="nb">echo</span> <span class="s2">"No of lines in '</span><span class="nv">$2</span><span class="s2">' is </span><span class="k">$(</span>wc -l &lt; <span class="s2">"</span><span class="nv">$2</span><span class="s2">"</span><span class="k">)</span><span class="s2">"</span>
+    <span class="o">[[</span> <span class="o">!</span> <span class="nt">-f</span> <span class="nv">$2</span> <span class="o">]]</span> <span class="o">&amp;&amp;</span> <span class="nb">echo</span> <span class="s2">"Error!! '</span><span class="nv">$2</span><span class="s2">' is not a valid filename"</span> <span class="o">&amp;&amp;</span> <span class="nb">exit </span>1
+    <span class="nb">echo</span> <span class="s2">"No of lines in '</span><span class="nv">$2</span><span class="s2">' is </span><span class="k">$(</span><span class="nb">wc</span> <span class="nt">-l</span> &lt; <span class="s2">"</span><span class="nv">$2</span><span class="s2">"</span><span class="k">)</span><span class="s2">"</span>
 <span class="k">fi</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <ul>
   <li>When handling user provided arguments, it is always advisable to check the sanity of arguments. A simple check can reduce hours of frustrating debug when things go wrong</li>
@@ -527,74 +509,71 @@ Thank you <span class="k">for </span>using the script, Have a nice day :<span cl
   <li><a href="http://mywiki.wooledge.org/BashGuide/TestsAndConditionals#Conditional_Blocks_.28if.2C_test_and_.5B.5B.29">More examples for if conditional block</a></li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>./if_then_else.sh 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>./if_then_else.sh 
 Error!! Please provide two file names
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 1
 
-<span class="gp">$ </span>./if_then_else.sh hello_script.sh 
+<span class="nv">$ </span>./if_then_else.sh hello_script.sh 
 Error!! Please provide two file names
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 1
 
-<span class="gp">$ </span>./if_then_else.sh hello_script.sh xyz.tzt
+<span class="nv">$ </span>./if_then_else.sh hello_script.sh xyz.tzt
 No of lines <span class="k">in</span> <span class="s1">'hello_script.sh'</span> is 9
 Error!! <span class="s1">'xyz.tzt'</span> is not a valid filename
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 1
 
-<span class="gp">$ </span>./if_then_else.sh hello_script.sh <span class="s1">'test file.txt'</span> 
+<span class="nv">$ </span>./if_then_else.sh hello_script.sh <span class="s1">'test file.txt'</span> 
 No of lines <span class="k">in</span> <span class="s1">'hello_script.sh'</span> is 9
 No of lines <span class="k">in</span> <span class="s1">'test file.txt'</span> is 5
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 0
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><strong>Combining if with exit status of command executed</strong></p>
 
 <p>Sometimes one needs to know if intended command operation was successful or not and then take action depending on outcome. Exit status of <code class="highlighter-rouge">0</code> is considered as successful condition when used with <code class="highlighter-rouge">if</code> statement. When avaiable, use appropriate options to suppress stdout/stderr of command being used, otherwise redirection might be needed to avoid cluttering output on terminal</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>grep <span class="s1">'echo'</span> hello_script.sh 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">grep</span> <span class="s1">'echo'</span> hello_script.sh 
 <span class="nb">echo</span> <span class="s2">"Hello </span><span class="nv">$USER</span><span class="s2">"</span>
-<span class="nb">echo</span> <span class="s2">"Today is </span><span class="k">$(</span>date -u +%A<span class="k">)</span><span class="s2">"</span>
+<span class="nb">echo</span> <span class="s2">"Today is </span><span class="k">$(</span><span class="nb">date</span> <span class="nt">-u</span> +%A<span class="k">)</span><span class="s2">"</span>
 <span class="nb">echo</span> <span class="s1">'Have a nice day'</span>
 
-<span class="gp">$ </span><span class="c"># do not write anything to standard output</span>
-<span class="gp">$ </span>grep -q <span class="s1">'echo'</span> hello_script.sh 
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="c"># do not write anything to standard output</span>
+<span class="nv">$ </span><span class="nb">grep</span> <span class="nt">-q</span> <span class="s1">'echo'</span> hello_script.sh 
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 0
 
-<span class="gp">$ </span>grep -q <span class="s1">'echo'</span> xyz.txt
-grep: xyz.txt: No such file or directory
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="nb">grep</span> <span class="nt">-q</span> <span class="s1">'echo'</span> xyz.txt
+<span class="nb">grep</span>: xyz.txt: No such file or directory
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 2
-<span class="gp">$ </span><span class="c"># Suppress error messages about nonexistent or unreadable files</span>
-<span class="gp">$ </span>grep -qs <span class="s1">'echo'</span> xyz.txt
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="c"># Suppress error messages about nonexistent or unreadable files</span>
+<span class="nv">$ </span><span class="nb">grep</span> <span class="nt">-qs</span> <span class="s1">'echo'</span> xyz.txt
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 2
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Example</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
-<span class="k">if </span>grep -q <span class="s1">'echo'</span> hello_script.sh ; <span class="k">then</span>
+<span class="k">if </span><span class="nb">grep</span> <span class="nt">-q</span> <span class="s1">'echo'</span> hello_script.sh <span class="p">;</span> <span class="k">then</span>
     <span class="c"># do something</span>
     <span class="nb">echo</span> <span class="s2">"string found"</span>
 <span class="k">else</span>
     <span class="c"># do something else</span>
     <span class="nb">echo</span> <span class="s2">"string not found"</span>
 <span class="k">fi</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><br /></p>
 
 <h3 id="for-loop"><a name="for-loop"></a>for loop</h3>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
 <span class="c"># Ensure atleast one argument is provided</span>
 <span class="o">((</span> <span class="nv">$# </span><span class="o">==</span> 0 <span class="o">))</span> <span class="o">&amp;&amp;</span> <span class="nb">echo</span> <span class="s2">"Error!! Please provide atleast one file name"</span> <span class="o">&amp;&amp;</span> <span class="nb">exit </span>1
@@ -607,79 +586,74 @@ grep: xyz.txt: No such file or directory
 <span class="k">do</span>
     <span class="c"># Let wc show its error message if file doesn't exist</span>
     <span class="c"># terminate the script if wc command exit status is not 0</span>
-    <span class="nv">no_of_lines</span><span class="o">=</span><span class="k">$(</span>wc -l &lt; <span class="s2">"</span><span class="nv">$file</span><span class="s2">"</span><span class="k">)</span> <span class="o">||</span> <span class="nb">exit </span>1
+    <span class="nv">no_of_lines</span><span class="o">=</span><span class="k">$(</span><span class="nb">wc</span> <span class="nt">-l</span> &lt; <span class="s2">"</span><span class="nv">$file</span><span class="s2">"</span><span class="k">)</span> <span class="o">||</span> <span class="nb">exit </span>1
     <span class="nb">echo</span> <span class="s2">"No of lines in '</span><span class="nv">$file</span><span class="s2">' is </span><span class="nv">$no_of_lines</span><span class="s2">"</span>
     <span class="o">((</span>file_count++<span class="o">))</span>
     <span class="o">((</span>total_lines <span class="o">=</span> total_lines + no_of_lines<span class="o">))</span>
 <span class="k">done
 
-</span><span class="nb">echo</span> -e <span class="s2">"</span><span class="se">\n</span><span class="s2">Total Number of files = </span><span class="nv">$file_count</span><span class="s2">"</span>
+</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">Total Number of files = </span><span class="nv">$file_count</span><span class="s2">"</span>
 <span class="nb">echo</span> <span class="s2">"Total Number of lines = </span><span class="nv">$total_lines</span><span class="s2">"</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <ul>
   <li>This form of <code class="highlighter-rouge">for</code> loop is useful if we need only element of an array, without having to iterate over length of an array and using an index for each iteration to get array elements</li>
   <li>In this example we use the control operator <code class="highlighter-rouge">||</code> to stop the script if <code class="highlighter-rouge">wc</code> fails i.e ‘exit status’ other than <code class="highlighter-rouge">0</code></li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>./for_loop.sh 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>./for_loop.sh 
 Error!! Please provide atleast one file name
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 1
 
-<span class="gp">$ </span>./for_loop.sh hello_script.sh if_then_else.sh command_line_arguments.sh
+<span class="nv">$ </span>./for_loop.sh hello_script.sh if_then_else.sh command_line_arguments.sh
 No of lines <span class="k">in</span> <span class="s1">'hello_script.sh'</span> is 9
 No of lines <span class="k">in</span> <span class="s1">'if_then_else.sh'</span> is 21
 No of lines <span class="k">in</span> <span class="s1">'command_line_arguments.sh'</span> is 5
 
 Total Number of files <span class="o">=</span> 3
 Total Number of lines <span class="o">=</span> 35
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 0
 
-<span class="gp">$ </span>./for_loop.sh hello_script.sh xyz.tzt
+<span class="nv">$ </span>./for_loop.sh hello_script.sh xyz.tzt
 No of lines <span class="k">in</span> <span class="s1">'hello_script.sh'</span> is 9
 ./for_loop.sh: line 14: xyz.tzt: No such file or directory
-<span class="gp">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$?</span>
 1
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><strong>Index based for loop</strong></p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
 <span class="c"># Print 0 to 4</span>
-<span class="k">for</span> <span class="o">((</span>i <span class="o">=</span> 0; i &lt; 5; i++<span class="o">))</span>
+<span class="k">for</span> <span class="o">((</span>i <span class="o">=</span> 0<span class="p">;</span> i &lt; 5<span class="p">;</span> i++<span class="o">))</span>
 <span class="k">do
     </span><span class="nb">echo</span> <span class="nv">$i</span>
 <span class="k">done</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><strong>Iterating over used defined array</strong></p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span><span class="nv">files</span><span class="o">=(</span><span class="s1">'report.log'</span> <span class="s1">'pass_list.txt'</span><span class="o">)</span>
-<span class="gp">$ </span><span class="k">for </span>f <span class="k">in</span> <span class="s2">"</span><span class="k">${</span><span class="nv">files</span><span class="p">[@]</span><span class="k">}</span><span class="s2">"</span>; <span class="k">do </span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$f</span><span class="s2">"</span>; <span class="k">done
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ files</span><span class="o">=(</span><span class="s1">'report.log'</span> <span class="s1">'pass_list.txt'</span><span class="o">)</span>
+<span class="nv">$ </span><span class="k">for </span>f <span class="k">in</span> <span class="s2">"</span><span class="k">${</span><span class="nv">files</span><span class="p">[@]</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">do </span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$f</span><span class="s2">"</span><span class="p">;</span> <span class="k">done
 </span>report.log
 pass_list.txt
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><strong>Files specified by glob pattern</strong></p>
 
 <p>A common mistake is to use output of <code class="highlighter-rouge">ls</code> command which is error prone and needless. Instead, the arguments can be directly used.</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>ls
-pass_list.txt  power.log  report.txt
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">ls
+</span>pass_list.txt  power.log  report.txt
 
-<span class="gp">$ </span><span class="k">for </span>f <span class="k">in </span>power.log <span class="k">*</span>.txt; <span class="k">do </span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$f</span><span class="s2">"</span>; <span class="k">done
+<span class="nv">$ </span><span class="k">for </span>f <span class="k">in </span>power.log <span class="k">*</span>.txt<span class="p">;</span> <span class="k">do </span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$f</span><span class="s2">"</span><span class="p">;</span> <span class="k">done
 </span>power.log
 pass_list.txt
 report.txt
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <ul>
   <li><a href="http://ryanstutorials.net/bash-scripting-tutorial/bash-loops.php">more examples and use of continue/break</a></li>
@@ -689,30 +663,28 @@ report.txt
 
 <h3 id="while-loop"><a name="while-loop"></a>while loop</h3>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
 <span class="c"># Print 5 to 1</span>
 <span class="o">((</span> i <span class="o">=</span> 5 <span class="o">))</span>
-<span class="k">while</span> <span class="o">((</span> i !<span class="o">=</span> 0 <span class="o">))</span>
+<span class="k">while</span> <span class="o">((</span> i <span class="o">!=</span> 0 <span class="o">))</span>
 <span class="k">do
     </span><span class="nb">echo</span> <span class="nv">$i</span>
     <span class="o">((</span>i--<span class="o">))</span>
 <span class="k">done</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <ul>
   <li>Use <code class="highlighter-rouge">while</code> when you need to execute commands according to a specified condition</li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>./while_loop.sh 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>./while_loop.sh 
 5
 4
 3
 2
 1
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><br /></p>
 
@@ -720,14 +692,13 @@ report.txt
 
 <p>Reading line by line</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
-<span class="k">while </span><span class="nv">IFS</span><span class="o">=</span> <span class="nb">read</span> -r line; <span class="k">do</span>
+<span class="k">while </span><span class="nv">IFS</span><span class="o">=</span> <span class="nb">read</span> <span class="nt">-r</span> line<span class="p">;</span> <span class="k">do</span>
     <span class="c"># do something with each line</span>
     <span class="nb">echo</span> <span class="s2">"</span><span class="nv">$line</span><span class="s2">"</span>
 <span class="k">done</span> &lt; <span class="s1">'files.txt'</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <ul>
   <li><code class="highlighter-rouge">IFS</code> is used to specify field separator which is by default whitespace. <code class="highlighter-rouge">IFS=</code> will clear the default value and prevent stripping of leading and trailing whitespace of lines</li>
@@ -735,14 +706,13 @@ report.txt
   <li>Last line from input won’t be read if not properly terminated by newline character</li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>cat files.txt 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">cat </span>files.txt 
 hello_script.sh
 if_then_else.sh
-<span class="gp">$ </span>./while_read_file.sh 
+<span class="nv">$ </span>./while_read_file.sh 
 hello_script.sh
 if_then_else.sh
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Reading line as different fields</p>
 
@@ -751,44 +721,42 @@ if_then_else.sh
   <li>Specify a different one by setting <code class="highlighter-rouge">IFS</code></li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>cat read_file_field.sh
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">cat </span>read_file_field.sh
 <span class="c">#!/bin/bash</span>
 
-<span class="k">while </span><span class="nv">IFS</span><span class="o">=</span>: <span class="nb">read</span> -r genre name; <span class="k">do
-    </span><span class="nb">echo</span> -e <span class="s2">"</span><span class="nv">$genre</span><span class="se">\t</span><span class="s2">:: </span><span class="nv">$name</span><span class="s2">"</span>
+<span class="k">while </span><span class="nv">IFS</span><span class="o">=</span>: <span class="nb">read</span> <span class="nt">-r</span> genre name<span class="p">;</span> <span class="k">do
+    </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"</span><span class="nv">$genre</span><span class="se">\t</span><span class="s2">:: </span><span class="nv">$name</span><span class="s2">"</span>
 <span class="k">done</span> &lt; <span class="s1">'books.txt'</span>
-<span class="gp">$ </span>cat books.txt 
+<span class="nv">$ </span><span class="nb">cat </span>books.txt 
 fantasy:Harry Potter
 sci-fi:The Martian
 mystery:Sherlock Holmes
 
-<span class="gp">$ </span>./read_file_field.sh 
+<span class="nv">$ </span>./read_file_field.sh 
 fantasy :: Harry Potter
 sci-fi  :: The Martian
 mystery :: Sherlock Holmes
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Reading ‘n’ characters at a time</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span><span class="k">while </span><span class="nb">read</span> -n1 char; <span class="k">do </span><span class="nb">echo</span> <span class="s2">"Character read is: </span><span class="nv">$char</span><span class="s2">"</span>; <span class="k">done</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="se">\w</span><span class="s2">ord"</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="k">while </span><span class="nb">read</span> <span class="nt">-n1</span> char<span class="p">;</span> <span class="k">do </span><span class="nb">echo</span> <span class="s2">"Character read is: </span><span class="nv">$char</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="se">\w</span><span class="s2">ord"</span>
 Character <span class="nb">read </span>is: w
 Character <span class="nb">read </span>is: o
 Character <span class="nb">read </span>is: r
 Character <span class="nb">read </span>is: d
 Character <span class="nb">read </span>is: 
 
-<span class="gp">$ </span><span class="c"># if ending newline character is not desirable</span>
-<span class="gp">$ </span><span class="k">while </span><span class="nb">read</span> -n1 char; <span class="k">do </span><span class="nb">echo</span> <span class="s2">"Character read is: </span><span class="nv">$char</span><span class="s2">"</span>; <span class="k">done</span> &lt; &lt;<span class="o">(</span><span class="nb">echo</span> -n <span class="s2">"hi"</span><span class="o">)</span>
+<span class="nv">$ </span><span class="c"># if ending newline character is not desirable</span>
+<span class="nv">$ </span><span class="k">while </span><span class="nb">read</span> <span class="nt">-n1</span> char<span class="p">;</span> <span class="k">do </span><span class="nb">echo</span> <span class="s2">"Character read is: </span><span class="nv">$char</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span> &lt; &lt;<span class="o">(</span><span class="nb">echo</span> <span class="nt">-n</span> <span class="s2">"hi"</span><span class="o">)</span>
 Character <span class="nb">read </span>is: h
 Character <span class="nb">read </span>is: i
 
-<span class="gp">$ </span><span class="k">while </span><span class="nb">read</span> -r -n2 chars; <span class="k">do </span><span class="nb">echo</span> <span class="s2">"Characters read: </span><span class="nv">$chars</span><span class="s2">"</span>; <span class="k">done</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="se">\w</span><span class="s2">ord"</span>
+<span class="nv">$ </span><span class="k">while </span><span class="nb">read</span> <span class="nt">-r</span> <span class="nt">-n2</span> chars<span class="p">;</span> <span class="k">do </span><span class="nb">echo</span> <span class="s2">"Characters read: </span><span class="nv">$chars</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span> <span class="o">&lt;&lt;&lt;</span> <span class="s2">"</span><span class="se">\w</span><span class="s2">ord"</span>
 Characters <span class="nb">read</span>: <span class="se">\w</span>
 Characters <span class="nb">read</span>: or
 Characters <span class="nb">read</span>: d
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><br /></p>
 
@@ -800,18 +768,17 @@ Characters <span class="nb">read</span>: d
   <li><code class="highlighter-rouge">set -xv</code> use this command to enable debugging from within script itself</li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>bash -x hello_script.sh 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bash <span class="nt">-x</span> hello_script.sh 
 + <span class="nb">echo</span> <span class="s1">'Hello learnbyexample'</span>
 Hello learnbyexample
-++ date -u +%A
+++ <span class="nb">date</span> <span class="nt">-u</span> +%A
 + <span class="nb">echo</span> <span class="s1">'Today is Friday'</span>
 Today is Friday
 + <span class="nb">echo</span> <span class="s1">'Have a nice day'</span>
-Have a nice day
-</code></pre>
-</div>
+Have a <span class="nb">nice </span>day
+</code></pre></div></div>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>bash -xv hello_script.sh 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bash <span class="nt">-xv</span> hello_script.sh 
 <span class="c">#!/bin/bash</span>
 
 <span class="c"># Print greeting message</span>
@@ -819,18 +786,17 @@ Have a nice day
 + <span class="nb">echo</span> <span class="s1">'Hello learnbyexample'</span>
 Hello learnbyexample
 <span class="c"># Print day of week</span>
-<span class="nb">echo</span> <span class="s2">"Today is </span><span class="k">$(</span>date -u +%A<span class="k">)</span><span class="s2">"</span>
-date -u +%A
-++ date -u +%A
+<span class="nb">echo</span> <span class="s2">"Today is </span><span class="k">$(</span><span class="nb">date</span> <span class="nt">-u</span> +%A<span class="k">)</span><span class="s2">"</span>
+<span class="nb">date</span> <span class="nt">-u</span> +%A
+++ <span class="nb">date</span> <span class="nt">-u</span> +%A
 + <span class="nb">echo</span> <span class="s1">'Today is Friday'</span>
 Today is Friday
 
 <span class="c"># use single quotes for literal strings</span>
 <span class="nb">echo</span> <span class="s1">'Have a nice day'</span>
 + <span class="nb">echo</span> <span class="s1">'Have a nice day'</span>
-Have a nice day
-</code></pre>
-</div>
+Have a <span class="nb">nice </span>day
+</code></pre></div></div>
 
 <p><br /></p>
 
@@ -838,7 +804,7 @@ Have a nice day
 
 <p>With so much copy-paste of commands and their output involved in creating these chapters, mistakes do happen. So a script to check correctness comes in handy. Consider the below markdown file</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>## &lt;a name="some-heading"&gt;&lt;/a&gt;Some heading
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>## &lt;a name="some-heading"&gt;&lt;/a&gt;Some heading
 
 Some explanation
 
@@ -864,8 +830,7 @@ $ a=5
 $ printf "$a\n"
 5
 ```
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <ul>
   <li>The whole file is read into an array so that index of next line to be read can be controlled dynamically</li>
@@ -880,59 +845,57 @@ $ printf "$a\n"
   <li>See <a href="http://mywiki.wooledge.org/BashGuide/Parameters#Parameter_Expansion">Parameter Expansion</a> for examples and explanations on string processing constructs</li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
 
 <span class="nv">cb_start</span><span class="o">=</span>0
-readarray -t lines &lt; <span class="s1">'sample.md'</span>
+readarray <span class="nt">-t</span> lines &lt; <span class="s1">'sample.md'</span>
 
-<span class="k">for</span> <span class="o">((</span>i <span class="o">=</span> 0; i &lt; <span class="k">${#</span><span class="nv">lines</span><span class="p">[@]</span><span class="k">}</span>; i++<span class="o">))</span>; <span class="k">do</span>
+<span class="k">for</span> <span class="o">((</span>i <span class="o">=</span> 0<span class="p">;</span> i &lt; <span class="k">${#</span><span class="nv">lines</span><span class="p">[@]</span><span class="k">}</span><span class="p">;</span> i++<span class="o">))</span><span class="p">;</span> <span class="k">do</span>
     <span class="c"># mark start/end of command block</span>
     <span class="c"># Line starting with $ to be verified only between ```bash and ``` block end</span>
     <span class="o">[[</span> <span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">]</span>:0:7<span class="k">}</span> <span class="o">==</span> <span class="s1">'```bash'</span> <span class="o">]]</span> <span class="o">&amp;&amp;</span> <span class="o">((</span><span class="nv">cb_start</span><span class="o">=</span>1<span class="o">))</span> <span class="o">&amp;&amp;</span> <span class="k">continue</span>
     <span class="o">[[</span> <span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">]</span>:0:3<span class="k">}</span> <span class="o">==</span> <span class="s1">'```'</span> <span class="o">]]</span> <span class="o">&amp;&amp;</span> <span class="o">((</span><span class="nv">cb_start</span><span class="o">=</span>0<span class="o">))</span> <span class="o">&amp;&amp;</span> <span class="k">continue
 
-    if</span> <span class="o">[[</span> <span class="nv">$cb_start</span> <span class="o">==</span> 1 <span class="o">&amp;&amp;</span> <span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">]</span>:0:2<span class="k">}</span> <span class="o">==</span> <span class="s1">'$ '</span> <span class="o">]]</span>; <span class="k">then
+    if</span> <span class="o">[[</span> <span class="nv">$cb_start</span> <span class="o">==</span> 1 <span class="o">&amp;&amp;</span> <span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">]</span>:0:2<span class="k">}</span> <span class="o">==</span> <span class="s1">'$ '</span> <span class="o">]]</span><span class="p">;</span> <span class="k">then
         </span><span class="nv">cmd</span><span class="o">=</span><span class="s2">"</span><span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">]</span>:2<span class="k">}</span><span class="s2">"</span>
 
         <span class="c"># collect command output lines until line starting with $ or ``` block end</span>
         <span class="nv">cmp_str</span><span class="o">=</span><span class="s1">''</span>
         <span class="nv">j</span><span class="o">=</span>1
-        <span class="k">while</span> <span class="o">[[</span> <span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">+</span><span class="nv">$j</span><span class="p">]</span>:0:2<span class="k">}</span> !<span class="o">=</span> <span class="s1">'$ '</span> <span class="o">&amp;&amp;</span> <span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">+</span><span class="nv">$j</span><span class="p">]</span>:0:3<span class="k">}</span> !<span class="o">=</span> <span class="s1">'```'</span> <span class="o">]]</span>; <span class="k">do
+        <span class="k">while</span> <span class="o">[[</span> <span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">+</span><span class="nv">$j</span><span class="p">]</span>:0:2<span class="k">}</span> <span class="o">!=</span> <span class="s1">'$ '</span> <span class="o">&amp;&amp;</span> <span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">+</span><span class="nv">$j</span><span class="p">]</span>:0:3<span class="k">}</span> <span class="o">!=</span> <span class="s1">'```'</span> <span class="o">]]</span><span class="p">;</span> <span class="k">do
             </span>cmp_str+<span class="o">=</span><span class="s2">"</span><span class="k">${</span><span class="nv">lines</span><span class="p">[</span><span class="nv">$i</span><span class="p">+</span><span class="nv">$j</span><span class="p">]</span><span class="k">}</span><span class="s2">"</span>
             <span class="o">((</span>j++<span class="o">))</span>
         <span class="k">done</span>
         <span class="o">((</span>i+<span class="o">=</span>j-1<span class="o">))</span>
 
         <span class="nv">cmd_op</span><span class="o">=</span><span class="k">$(</span><span class="nb">eval</span> <span class="s2">"</span><span class="nv">$cmd</span><span class="s2">"</span><span class="k">)</span>
-        <span class="k">if</span> <span class="o">[[</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cmd_op</span><span class="p">//</span><span class="nv">$'</span><span class="p">\n</span><span class="s1">'}" == "${cmp_str//$'</span><span class="p">\n</span><span class="s1">'}" ]]; then
-            echo "Pass: $cmd"
-        else
-            echo "Fail: $cmd"
-        fi
+        <span class="k">if</span> <span class="o">[[</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cmd_op</span><span class="p">//</span><span class="s1">$'</span><span class="se">\n</span><span class="s1">'</span><span class="k">}</span><span class="s2">"</span> <span class="o">==</span> <span class="s2">"</span><span class="k">${</span><span class="nv">cmp_str</span><span class="p">//</span><span class="s1">$'</span><span class="se">\n</span><span class="s1">'</span><span class="k">}</span><span class="s2">"</span> <span class="o">]]</span><span class="p">;</span> <span class="k">then
+            </span><span class="nb">echo</span> <span class="s2">"Pass: </span><span class="nv">$cmd</span><span class="s2">"</span>
+        <span class="k">else
+            </span><span class="nb">echo</span> <span class="s2">"Fail: </span><span class="nv">$cmd</span><span class="s2">"</span>
+        <span class="k">fi
     fi
-done
-</span></code></pre>
-</div>
+done</span>
+</code></pre></div></div>
 
 <ul>
   <li>Note how sourcing the script is helpful to take into consideration commands dependent on previous commands</li>
 </ul>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>./verify_cmds.sh 
-Pass: seq 3
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>./verify_cmds.sh 
+Pass: <span class="nb">seq </span>3
 Pass: <span class="nb">printf</span> <span class="s1">'hi there!\n'</span>
-Pass: <span class="nb">help</span> -d readarray
+Pass: <span class="nb">help</span> <span class="nt">-d</span> readarray
 Pass: <span class="nv">a</span><span class="o">=</span>5
 Fail: <span class="nb">printf</span> <span class="s2">"</span><span class="nv">$a</span><span class="se">\n</span><span class="s2">"</span>
 
-<span class="gp">$ </span><span class="nb">source </span>verify_cmds.sh 
-Pass: seq 3
+<span class="nv">$ </span><span class="nb">source </span>verify_cmds.sh 
+Pass: <span class="nb">seq </span>3
 Pass: <span class="nb">printf</span> <span class="s1">'hi there!\n'</span>
-Pass: <span class="nb">help</span> -d readarray
+Pass: <span class="nb">help</span> <span class="nt">-d</span> readarray
 Pass: <span class="nv">a</span><span class="o">=</span>5
 Pass: <span class="nb">printf</span> <span class="s2">"</span><span class="nv">$a</span><span class="se">\n</span><span class="s2">"</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><br /></p>
 
@@ -1014,7 +977,7 @@ Pass: <span class="nb">printf</span> <span class="s2">"</span><span class="nv">$
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 

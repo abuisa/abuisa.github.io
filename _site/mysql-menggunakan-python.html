@@ -31,29 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
+	<!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>Python - Akses MySql dan Operasi menggunakan Python | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="Python - Akses MySql dan Operasi menggunakan Python" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Python - Akses MySql dan Operasi menggunakan Python" />
 <meta property="og:description" content="Python - Akses MySql dan Operasi menggunakan Python" />
-<link rel="canonical" href="https://abuisa.github.io//mysql-menggunakan-python" />
-<meta property="og:url" content="https://abuisa.github.io//mysql-menggunakan-python" />
+<link rel="canonical" href="http://localhost:4000/mysql-menggunakan-python" />
+<meta property="og:url" content="http://localhost:4000/mysql-menggunakan-python" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-05-25T08:20:01+07:00" />
 <script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "Python - Akses MySql dan Operasi menggunakan Python",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-05-25T08:20:01+07:00",
-"description": "Python - Akses MySql dan Operasi menggunakan Python",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "https://abuisa.github.io//mysql-menggunakan-python"},
-"url": "https://abuisa.github.io//mysql-menggunakan-python"}</script>
+{"description":"Python - Akses MySql dan Operasi menggunakan Python","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/mysql-menggunakan-python","headline":"Python - Akses MySql dan Operasi menggunakan Python","dateModified":"2017-05-25T08:20:01+07:00","datePublished":"2017-05-25T08:20:01+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/mysql-menggunakan-python"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -66,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="https://abuisa.github.io/">Home</a>
+		<a href="http://localhost:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -159,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -255,7 +247,7 @@ $ masukkan password (password mysql anda):</p>
 
 <p>berikut struktur database lengkap, copy dan simpan dengan nama file tes-database-name.sql (atau menyesuaikan) :</p>
 
-<figure class="highlight"><pre><code class="language-sql" data-lang="sql"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<figure class="highlight"><pre><code class="language-sql" data-lang="sql"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
 2
 3
 4
@@ -333,7 +325,8 @@ $ masukkan password (password mysql anda):</p>
 76
 77
 78
-79</pre></td><td class="code"><pre><span class="c1">-- MySQL dump 10.13  Distrib 5.7.15, for Linux (x86_64)</span>
+79
+</pre></td><td class="code"><pre><span class="c1">-- MySQL dump 10.13  Distrib 5.7.15, for Linux (x86_64)</span>
 <span class="c1">--</span>
 <span class="c1">-- Host: localhost    Database: dbfilelist</span>
 <span class="c1">-- ------------------------------------------------------</span>
@@ -411,13 +404,12 @@ $ masukkan password (password mysql anda):</p>
 <span class="cm">/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */</span><span class="p">;</span>
 <span class="cm">/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */</span><span class="p">;</span>
 
-<span class="c1">-- Dump completed on 2017-05-25 20:53:25</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<span class="c1">-- Dump completed on 2017-05-25 20:53:25</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h2 id="python-script">Python Script</h2>
 <p>Berikut script python untuk malakukan koneksi, select, dan operasi lainnya yang bisa disesuaikan dengan kebutuhan dengan mengubah sendiri scripnya :</p>
 
-<figure class="highlight"><pre><code class="language-python" data-lang="python"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
 2
 3
 4
@@ -521,7 +513,8 @@ $ masukkan password (password mysql anda):</p>
 102
 103
 104
-105</pre></td><td class="code"><pre><span class="c">#!/usr/bin/python</span>
+105
+</pre></td><td class="code"><pre><span class="c">#!/usr/bin/python</span>
 <span class="kn">import</span> <span class="nn">os</span>
 <span class="kn">import</span> <span class="nn">hashlib</span>
 <span class="kn">import</span> <span class="nn">MySQLdb</span>
@@ -625,8 +618,7 @@ CONTOH DIBAWAH : masukkandata() dan masukkandata1().
 <span class="k">print</span> <span class="s">" -------------------------------------------------"</span>
 <span class="k">print</span> <span class="s">" Selesai.s...."</span>
 
-<span class="n">db</span><span class="o">.</span><span class="n">close</span><span class="p">()</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<span class="n">db</span><span class="o">.</span><span class="n">close</span><span class="p">()</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <p>Script lengkap dan terbaru dapat dilihat di <a href="https://github.com/abuisa/python-mysql/blob/master/mysql-python.py" target="_blank">github</a></p>
 
@@ -647,7 +639,7 @@ CONTOH DIBAWAH : masukkandata() dan masukkandata1().
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 

@@ -217,6 +217,20 @@ Kami ridha Allah sebagai Tuhan, Islam sebagai agama, dan Muhammad shallallahu 'a
 </div>
 </div>
 
+### 20. Doa 14
+<div class="gdiv">
+<div class="arx" onclick="sdiv('d20');">
+📌  اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ.<br />
+📌  اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ اصْرِفْ قُلُوبَنَا إِلَى طَاعَتِكَ.<br />
+📌  يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ
+
+</div>
+<div class="id" id="d20" style="display:none">
+1. Ya Allah, Dzat yang memalingkan hati, palingkanlah hati kami kepada ketaatan beribadah kepada-Mu! <br />
+2. Wahai DZAT yang membolak balikkan hati, teguhkanlah hatiku di atas agama-Mu!<br />
+</div>
+</div>
+
 <!--
 ### 3. Doa 
 <div class="gdiv">

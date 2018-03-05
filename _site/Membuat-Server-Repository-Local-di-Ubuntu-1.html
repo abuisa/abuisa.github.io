@@ -31,29 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
+	<!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>Membuat Server Repository Local di Ubuntu | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="Membuat Server Repository Local di Ubuntu" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Membuat Server Repository Local di Ubuntu" />
 <meta property="og:description" content="Membuat Server Repository Local di Ubuntu" />
-<link rel="canonical" href="https://abuisa.github.io//membuat-server-repository-local-di-ubuntu-1" />
-<meta property="og:url" content="https://abuisa.github.io//membuat-server-repository-local-di-ubuntu-1" />
+<link rel="canonical" href="http://localhost:4000/Membuat-Server-Repository-Local-di-Ubuntu-1" />
+<meta property="og:url" content="http://localhost:4000/Membuat-Server-Repository-Local-di-Ubuntu-1" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-04-09T00:00:00+07:00" />
 <script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "Membuat Server Repository Local di Ubuntu",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-04-09T00:00:00+07:00",
-"description": "Membuat Server Repository Local di Ubuntu",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "https://abuisa.github.io//membuat-server-repository-local-di-ubuntu-1"},
-"url": "https://abuisa.github.io//membuat-server-repository-local-di-ubuntu-1"}</script>
+{"description":"Membuat Server Repository Local di Ubuntu","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/Membuat-Server-Repository-Local-di-Ubuntu-1","headline":"Membuat Server Repository Local di Ubuntu","dateModified":"2017-04-09T00:00:00+07:00","datePublished":"2017-04-09T00:00:00+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/Membuat-Server-Repository-Local-di-Ubuntu-1"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -66,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="https://abuisa.github.io/">Home</a>
+		<a href="http://localhost:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -159,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -263,17 +255,17 @@
 
 <p>Setelah server Ubuntu 16.04 beroperasi. Aplikasi yang perlu diinstalasi untuk operasi repository local ini dapat dilakukan menggunakan perintah :</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
-2</pre></td><td class="code"><pre>	<span class="c"># Bash Command </span>
-	<span class="nv">$ </span>apt install debmirror apache2<span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="code"><pre>	<span class="c"># Bash Command </span>
+	<span class="nv">$ </span>apt <span class="nb">install </span>debmirror apache2</pre></td></tr></tbody></table></code></pre></figure>
 
 <p>Bagian yang paling tricky adalah (1) membuat mengcopy mirror keyring, dan (2) membuat folder yang dibutuhkan untuk menyimpan copy repository. Membuat mirror keyring dapat menggunakan perintah :</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
-2</pre></td><td class="code"><pre>	<span class="c"># Bash command</span>
-	<span class="nv">$ </span>mkdir /var/data <span class="o">&amp;&amp;</span> mkdir /var/data/mirrorkeyring<span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="code"><pre>	<span class="c"># Bash command</span>
+	<span class="nv">$ </span><span class="nb">mkdir</span> /var/data <span class="o">&amp;&amp;</span> <span class="nb">mkdir</span> /var/data/mirrorkeyring</pre></td></tr></tbody></table></code></pre></figure>
 
 <p>di lanjutkan menggunakan perintah gpg untuk membuat mirrorkeyring. Untuk jelasnya saya attach pada gambar dibawah.</p>
 
@@ -301,10 +293,10 @@
 $ mkdir /var/www/html/ubuntu
 Selanjutnya untuk menampilkan folder repo, dapat di bind menggunakan perintah :</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
-2</pre></td><td class="code"><pre>	<span class="c"># Bash Command</span>
-	<span class="nv">$ </span>mount --bind /var/data/repository/repo-16.04 /var/www/html/ubuntu<span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+</pre></td><td class="code"><pre>	<span class="c"># Bash Command</span>
+	<span class="nv">$ </span>mount <span class="nt">--bind</span> /var/data/repository/repo-16.04 /var/www/html/ubuntu</pre></td></tr></tbody></table></code></pre></figure>
 
 <p>Selesai sudah.</p>
 
@@ -332,7 +324,7 @@ dengan asumsi, repo ada di folder /var/data/repository/repo-16.04.</p>
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 

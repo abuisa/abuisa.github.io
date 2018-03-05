@@ -31,29 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
+	<!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>The Art of Command Line | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="The Art of Command Line" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="The Art of Command Line" />
 <meta property="og:description" content="The Art of Command Line" />
-<link rel="canonical" href="https://abuisa.github.io//the-art-of-command-line" />
-<meta property="og:url" content="https://abuisa.github.io//the-art-of-command-line" />
+<link rel="canonical" href="http://localhost:4000/the-art-of-command-line" />
+<meta property="og:url" content="http://localhost:4000/the-art-of-command-line" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-12-02T00:00:00+07:00" />
 <script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "The Art of Command Line",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-12-02T00:00:00+07:00",
-"description": "The Art of Command Line",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "https://abuisa.github.io//the-art-of-command-line"},
-"url": "https://abuisa.github.io//the-art-of-command-line"}</script>
+{"description":"The Art of Command Line","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/the-art-of-command-line","headline":"The Art of Command Line","dateModified":"2017-12-02T00:00:00+07:00","datePublished":"2017-12-02T00:00:00+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/the-art-of-command-line"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -66,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="https://abuisa.github.io/">Home</a>
+		<a href="http://localhost:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -159,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -358,10 +350,9 @@ but it has since moved to GitHub, where people more talented than the original a
     <p>If you are halfway through typing a command but change your mind, hit <strong>alt-#</strong> to add a <code class="highlighter-rouge">#</code> at the beginning and enter it as a comment (or use <strong>ctrl-a</strong>, <strong>#</strong>, <strong>enter</strong>). You can then return to it later via command history.</p>
   </li>
   <li>Use <code class="highlighter-rouge">xargs</code> (or <code class="highlighter-rouge">parallel</code>). It’s very powerful. Note you can control how many items execute per line (<code class="highlighter-rouge">-L</code>) as well as parallelism (<code class="highlighter-rouge">-P</code>). If you’re not sure if it’ll do the right thing, use <code class="highlighter-rouge">xargs echo</code> first. Also, <code class="highlighter-rouge">-I{}</code> is handy. Examples:
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>    find . -name <span class="s1">'*.py'</span> | xargs grep some_function
-    cat hosts | xargs -I<span class="o">{}</span> ssh root@<span class="o">{}</span> hostname
-</code></pre>
-    </div>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    find <span class="nb">.</span> <span class="nt">-name</span> <span class="s1">'*.py'</span> | xargs <span class="nb">grep </span>some_function
+    <span class="nb">cat </span>hosts | xargs <span class="nt">-I</span><span class="o">{}</span> ssh root@<span class="o">{}</span> <span class="nb">hostname</span>
+</code></pre></div>    </div>
   </li>
   <li>
     <p><code class="highlighter-rouge">pstree -p</code> is a helpful display of the process tree.</p>
@@ -400,35 +391,31 @@ but it has since moved to GitHub, where people more talented than the original a
     <p>Understand that care is needed when variables and filenames include whitespace. Surround your Bash variables with quotes, e.g. <code class="highlighter-rouge">"$FOO"</code>. Prefer the <code class="highlighter-rouge">-0</code> or <code class="highlighter-rouge">-print0</code> options to enable null characters to delimit filenames, e.g. <code class="highlighter-rouge">locate -0 pattern | xargs -0 ls -al</code> or <code class="highlighter-rouge">find / -print0 -type d | xargs -0 ls -al</code>. To iterate on filenames containing whitespace in a for loop, set your IFS to be a newline only using <code class="highlighter-rouge">IFS=$'\n'</code>.</p>
   </li>
   <li>In Bash scripts, use <code class="highlighter-rouge">set -x</code> (or the variant <code class="highlighter-rouge">set -v</code>, which logs raw input, including unexpanded variables and comments) for debugging output. Use strict modes unless you have a good reason not to: Use <code class="highlighter-rouge">set -e</code> to abort on errors (nonzero exit code). Use <code class="highlighter-rouge">set -u</code> to detect unset variable usages. Consider <code class="highlighter-rouge">set -o pipefail</code> too, to on errors within pipes, too (though read up on it more if you do, as this topic is a bit subtle). For more involved scripts, also use <code class="highlighter-rouge">trap</code> on EXIT or ERR. A useful habit is to start a script like this, which will make it detect and abort on common errors and print a message:
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>    <span class="nb">set</span> -euo pipefail
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="nb">set</span> <span class="nt">-euo</span> pipefail
     <span class="nb">trap</span> <span class="s2">"echo 'error: Script failed: see failed command above'"</span> ERR
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
   <li>In Bash scripts, subshells (written with parentheses) are convenient ways to group commands. A common example is to temporarily move to a different working directory, e.g.
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code>    <span class="c"># do something in current dir</span>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="c"># do something in current dir</span>
     <span class="o">(</span><span class="nb">cd</span> /some/other/dir <span class="o">&amp;&amp;</span> other-command<span class="o">)</span>
     <span class="c"># continue in original dir</span>
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
   <li>
-    <p>In Bash, note there are lots of kinds of variable expansion. Checking a variable exists: <code class="highlighter-rouge">${name:?error message}</code>. For example, if a Bash script requires a single argument, just write <code class="highlighter-rouge">input_file=${1:?usage: $0 input_file}</code>. Using a default value if a variable is empty: <code class="highlighter-rouge">${name:-default}</code>. If you want to have an additional (optional) parameter added to the previous example, you can use something like <code class="highlighter-rouge">output_file=${2:-logfile}</code>. If <code class="highlighter-rouge">$2</code> is omitted and thus empty, <code class="highlighter-rouge">output_file</code> will be set to <code class="highlighter-rouge">logfile</code>. Arithmetic expansion: <code class="highlighter-rouge">i=$(( (i + 1) % 5 ))</code>. Sequences: <code class="highlighter-rouge"><span class="p">{</span><span class="err">1..10</span><span class="p">}</span></code>. Trimming of strings: <code class="highlighter-rouge">${var%suffix}</code> and <code class="highlighter-rouge">${var#prefix}</code>. For example if <code class="highlighter-rouge">var=foo.pdf</code>, then <code class="highlighter-rouge">echo ${var%.pdf}.txt</code> prints <code class="highlighter-rouge">foo.txt</code>.</p>
+    <p>In Bash, note there are lots of kinds of variable expansion. Checking a variable exists: <code class="highlighter-rouge">${name:?error message}</code>. For example, if a Bash script requires a single argument, just write <code class="highlighter-rouge">input_file=${1:?usage: $0 input_file}</code>. Using a default value if a variable is empty: <code class="highlighter-rouge">${name:-default}</code>. If you want to have an additional (optional) parameter added to the previous example, you can use something like <code class="highlighter-rouge">output_file=${2:-logfile}</code>. If <code class="highlighter-rouge">$2</code> is omitted and thus empty, <code class="highlighter-rouge">output_file</code> will be set to <code class="highlighter-rouge">logfile</code>. Arithmetic expansion: <code class="highlighter-rouge">i=$(( (i + 1) % 5 ))</code>. Sequences: <code class="highlighter-rouge">{1..10}</code>. Trimming of strings: <code class="highlighter-rouge">${var%suffix}</code> and <code class="highlighter-rouge">${var#prefix}</code>. For example if <code class="highlighter-rouge">var=foo.pdf</code>, then <code class="highlighter-rouge">echo ${var%.pdf}.txt</code> prints <code class="highlighter-rouge">foo.txt</code>.</p>
   </li>
   <li>
-    <p>Brace expansion using <code class="highlighter-rouge"><span class="p">{</span></code>…<code class="highlighter-rouge">}</code> can reduce having to re-type similar text and automate combinations of items.  This is helpful in examples like <code class="highlighter-rouge">mv foo.{txt,pdf} some-dir</code> (which moves both files), <code class="highlighter-rouge">cp somefile{,.bak}</code> (which expands to <code class="highlighter-rouge">cp somefile somefile.bak</code>) or <code class="highlighter-rouge">mkdir -p test-{a,b,c}/subtest-{1,2,3}</code> (which expands all possible combinations and creates a directory tree).</p>
+    <p>Brace expansion using <code class="highlighter-rouge">{</code>…<code class="highlighter-rouge">}</code> can reduce having to re-type similar text and automate combinations of items.  This is helpful in examples like <code class="highlighter-rouge">mv foo.{txt,pdf} some-dir</code> (which moves both files), <code class="highlighter-rouge">cp somefile{,.bak}</code> (which expands to <code class="highlighter-rouge">cp somefile somefile.bak</code>) or <code class="highlighter-rouge">mkdir -p test-{a,b,c}/subtest-{1,2,3}</code> (which expands all possible combinations and creates a directory tree).</p>
   </li>
   <li>The output of a command can be treated like a file via <code class="highlighter-rouge">&lt;(some command)</code>. For example, compare local <code class="highlighter-rouge">/etc/hosts</code> with a remote one:
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    diff /etc/hosts &lt;<span class="o">(</span>ssh somehost cat /etc/hosts<span class="o">)</span>
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    diff /etc/hosts &lt;<span class="o">(</span>ssh somehost <span class="nb">cat</span> /etc/hosts<span class="o">)</span>
+</code></pre></div>    </div>
   </li>
   <li>When writing scripts you may want to put all of your code in curly braces. If the closing brace is missing, your script will be prevented from executing due to a syntax error. This makes sense when your script is going to be downloaded from the web, since it prevents partially downloaded scripts from executing:
-    <div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="o">{</span>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">{</span>
     <span class="c"># Your code here</span>
 <span class="o">}</span>
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
   <li>
     <p>Know about “here documents” in Bash, as in <code class="highlighter-rouge">cat &lt;&lt;EOF ...</code>.</p>
@@ -446,15 +433,14 @@ but it has since moved to GitHub, where people more talented than the original a
     <p>In ssh, knowing how to port tunnel with <code class="highlighter-rouge">-L</code> or <code class="highlighter-rouge">-D</code> (and occasionally <code class="highlighter-rouge">-R</code>) is useful, e.g. to access web sites from a remote server.</p>
   </li>
   <li>It can be useful to make a few optimizations to your ssh configuration; for example, this <code class="highlighter-rouge">~/.ssh/config</code> contains settings to avoid dropped connections in certain network environments, uses compression (which is helpful with scp over low-bandwidth connections), and multiplex channels to the same server with a local control file:
-    <div class="highlighter-rouge"><pre class="highlight"><code>    TCPKeepAlive=yes
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    TCPKeepAlive=yes
     ServerAliveInterval=15
     ServerAliveCountMax=6
     Compression=yes
     ControlMaster auto
     ControlPath /tmp/%r@%h:%p
     ControlPersist yes
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
   <li>
     <p>A few other options relevant to ssh are security sensitive and should be enabled with care, e.g. per subnet or host or in trusted networks: <code class="highlighter-rouge">StrictHostKeyChecking=no</code>, <code class="highlighter-rouge">ForwardAgent=yes</code></p>
@@ -463,9 +449,8 @@ but it has since moved to GitHub, where people more talented than the original a
     <p>Consider <a href="https://mosh.mit.edu/"><code class="highlighter-rouge">mosh</code></a> an alternative to ssh that uses UDP, avoiding dropped connections and adding convenience on the road (requires server-side setup).</p>
   </li>
   <li>To get the permissions on a file in octal form, which is useful for system configuration but not available in <code class="highlighter-rouge">ls</code> and easy to bungle, use something like
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    stat -c <span class="s1">'%A %a %n'</span> /etc/timezone
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="nb">stat</span> <span class="nt">-c</span> <span class="s1">'%A %a %n'</span> /etc/timezone
+</code></pre></div>    </div>
   </li>
   <li>
     <p>For interactive selection of values from the output of another command, use <a href="https://github.com/mooz/percol"><code class="highlighter-rouge">percol</code></a> or <a href="https://github.com/junegunn/fzf"><code class="highlighter-rouge">fzf</code></a>.</p>
@@ -487,10 +472,9 @@ but it has since moved to GitHub, where people more talented than the original a
     <p>Know about the <a href="https://wiki.debian.org/CommonErrorMessages/ArgumentListTooLong">128K limit</a> on command lines. This “Argument list too long” error is common when wildcard matching large numbers of files. (When this happens alternatives like <code class="highlighter-rouge">find</code> and <code class="highlighter-rouge">xargs</code> may help.)</p>
   </li>
   <li>For a basic calculator (and of course access to Python in general), use the <code class="highlighter-rouge">python</code> interpreter. For example,
-    <div class="highlighter-rouge"><pre class="highlight"><code>&gt;&gt;&gt; 2+3
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt;&gt;&gt; 2+3
 5
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
 </ul>
 
@@ -549,24 +533,21 @@ but it has since moved to GitHub, where people more talented than the original a
     <p>Know basic <code class="highlighter-rouge">awk</code> and <code class="highlighter-rouge">sed</code> for simple data munging. For example, summing all numbers in the third column of a text file: <code class="highlighter-rouge">awk '{ x += $3 } END { print x }'</code>. This is probably 3X faster and 3X shorter than equivalent Python.</p>
   </li>
   <li>To replace all occurrences of a string in place, in one or more files:
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    perl -pi.bak -e <span class="s1">'s/old-string/new-string/g'</span> my-files-<span class="k">*</span>.txt
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    perl <span class="nt">-pi</span>.bak <span class="nt">-e</span> <span class="s1">'s/old-string/new-string/g'</span> my-files-<span class="k">*</span>.txt
+</code></pre></div>    </div>
   </li>
   <li>To rename multiple files and/or search and replace within files, try <a href="https://github.com/jlevy/repren"><code class="highlighter-rouge">repren</code></a>. (In some cases the <code class="highlighter-rouge">rename</code> command also allows multiple renames, but be careful as its functionality is not the same on all Linux distributions.)
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    <span class="c"># Full rename of filenames, directories, and contents foo -&gt; bar:</span>
-    repren --full --preserve-case --from foo --to bar .
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="c"># Full rename of filenames, directories, and contents foo -&gt; bar:</span>
+    repren <span class="nt">--full</span> <span class="nt">--preserve-case</span> <span class="nt">--from</span> foo <span class="nt">--to</span> bar <span class="nb">.</span>
     <span class="c"># Recover backup files whatever.bak -&gt; whatever:</span>
-    repren --renames --from <span class="s1">'(.*)\.bak'</span> --to <span class="s1">'\1'</span> <span class="k">*</span>.bak
+    repren <span class="nt">--renames</span> <span class="nt">--from</span> <span class="s1">'(.*)\.bak'</span> <span class="nt">--to</span> <span class="s1">'\1'</span> <span class="k">*</span>.bak
     <span class="c"># Same as above, using rename, if available:</span>
     rename <span class="s1">'s/\.bak$//'</span> <span class="k">*</span>.bak
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
   <li>As the man page says, <code class="highlighter-rouge">rsync</code> really is a fast and extraordinarily versatile file copying tool. It’s known for synchronizing between machines but is equally useful locally. When security restrictions allow, using <code class="highlighter-rouge">rsync</code> instead of <code class="highlighter-rouge">scp</code> allows recovery of a transfer without restarting from scratch. It also is among the <a href="https://web.archive.org/web/20130929001850/http://linuxnote.net/jianingy/en/linux/a-fast-way-to-remove-huge-number-of-files.html">fastest ways</a> to delete large numbers of files:
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>mkdir empty <span class="o">&amp;&amp;</span> rsync -r --delete empty/ some-dir <span class="o">&amp;&amp;</span> rmdir some-dir
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mkdir </span>empty <span class="o">&amp;&amp;</span> rsync <span class="nt">-r</span> <span class="nt">--delete</span> empty/ some-dir <span class="o">&amp;&amp;</span> <span class="nb">rmdir </span>some-dir
+</code></pre></div>    </div>
   </li>
   <li>
     <p>Use <code class="highlighter-rouge">shuf</code> to shuffle or select random lines from a file.</p>
@@ -578,7 +559,7 @@ but it has since moved to GitHub, where people more talented than the original a
     <p>If you ever need to write a tab literal in a command line in Bash (e.g. for the -t argument to sort), press <strong>ctrl-v</strong> <strong>[Tab]</strong> or write <code class="highlighter-rouge">$'\t'</code> (the latter is better as you can copy/paste it).</p>
   </li>
   <li>
-    <p>The standard tools for patching source code are <code class="highlighter-rouge">diff</code> and <code class="highlighter-rouge">patch</code>. See also <code class="highlighter-rouge">diffstat</code> for summary statistics of a diff and <code class="highlighter-rouge">sdiff</code> for a side-by-side diff. Note <code class="highlighter-rouge"><span class="gh">diff -r</span></code> works for entire directories. Use <code class="highlighter-rouge"><span class="gh">diff -r tree1 tree2 | diffstat</span></code> for a summary of changes. Use <code class="highlighter-rouge">vimdiff</code> to compare and edit files.</p>
+    <p>The standard tools for patching source code are <code class="highlighter-rouge">diff</code> and <code class="highlighter-rouge">patch</code>. See also <code class="highlighter-rouge">diffstat</code> for summary statistics of a diff and <code class="highlighter-rouge">sdiff</code> for a side-by-side diff. Note <code class="highlighter-rouge">diff -r</code> works for entire directories. Use <code class="highlighter-rouge">diff -r tree1 tree2 | diffstat</code> for a summary of changes. Use <code class="highlighter-rouge">vimdiff</code> to compare and edit files.</p>
   </li>
   <li>
     <p>For binary files, use <code class="highlighter-rouge">hd</code>, <code class="highlighter-rouge">hexdump</code> or <code class="highlighter-rouge">xxd</code> for simple hex dumps and <code class="highlighter-rouge">bvi</code>, <code class="highlighter-rouge">hexedit</code> or <code class="highlighter-rouge">biew</code> for binary editing.</p>
@@ -590,9 +571,8 @@ but it has since moved to GitHub, where people more talented than the original a
     <p>For binary diffs (delta compression), use <code class="highlighter-rouge">xdelta3</code>.</p>
   </li>
   <li>To convert text encodings, try <code class="highlighter-rouge">iconv</code>. Or <code class="highlighter-rouge">uconv</code> for more advanced use; it supports some advanced Unicode things. For example, this command lowercases and removes all accents (by expanding and dropping them):
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    uconv -f utf-8 -t utf-8 -x <span class="s1">'::Any-Lower; ::Any-NFD; [:Nonspacing Mark:] &gt;; ::Any-NFC; '</span> &lt; input.txt &gt; output.txt
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    uconv <span class="nt">-f</span> utf-8 <span class="nt">-t</span> utf-8 <span class="nt">-x</span> <span class="s1">'::Any-Lower; ::Any-NFD; [:Nonspacing Mark:] &gt;; ::Any-NFC; '</span> &lt; input.txt <span class="o">&gt;</span> output.txt
+</code></pre></div>    </div>
   </li>
   <li>
     <p>To split files into pieces, see <code class="highlighter-rouge">split</code> (to split by size) and <code class="highlighter-rouge">csplit</code> (to split by a pattern).</p>
@@ -607,10 +587,9 @@ but it has since moved to GitHub, where people more talented than the original a
     <p>File attributes are settable via <code class="highlighter-rouge">chattr</code> and offer a lower-level alternative to file permissions. For example, to protect against accidental file deletion the immutable flag:  <code class="highlighter-rouge">sudo chattr +i /critical/directory/or/file</code></p>
   </li>
   <li>Use <code class="highlighter-rouge">getfacl</code> and <code class="highlighter-rouge">setfacl</code> to save and restore file permissions. For example:
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code> getfacl -R /some/path &gt; permissions.txt
- setfacl --restore<span class="o">=</span>permissions.txt
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code> getfacl <span class="nt">-R</span> /some/path <span class="o">&gt;</span> permissions.txt
+ setfacl <span class="nt">--restore</span><span class="o">=</span>permissions.txt
+</code></pre></div>    </div>
   </li>
   <li>To create empty files quickly, use <code class="highlighter-rouge">truncate</code> (creates <a href="https://en.wikipedia.org/wiki/Sparse_file">sparse file</a>), <code class="highlighter-rouge">fallocate</code> (ext4, xfs, btrfs and ocfs2 filesystems), <code class="highlighter-rouge">xfs_mkfile</code> (almost any filesystems, comes in xfsprogs package), <code class="highlighter-rouge">mkfile</code> (for Unix-like systems like Solaris, Mac OS).</li>
 </ul>
@@ -687,43 +666,38 @@ but it has since moved to GitHub, where people more talented than the original a
 
 <ul>
   <li>It is remarkably helpful sometimes that you can do set intersection, union, and difference of text files via <code class="highlighter-rouge">sort</code>/<code class="highlighter-rouge">uniq</code>. Suppose <code class="highlighter-rouge">a</code> and <code class="highlighter-rouge">b</code> are text files that are already uniqued. This is fast, and works on files of arbitrary size, up to many gigabytes. (Sort is not limited by memory, though you may need to use the <code class="highlighter-rouge">-T</code> option if <code class="highlighter-rouge">/tmp</code> is on a small root partition.) See also the note about <code class="highlighter-rouge">LC_ALL</code> above and <code class="highlighter-rouge">sort</code>’s <code class="highlighter-rouge">-u</code> option (left out for clarity below).
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    cat a b | sort | uniq &gt; c   <span class="c"># c is a union b</span>
-    cat a b | sort | uniq -d &gt; c   <span class="c"># c is a intersect b</span>
-    cat a b b | sort | uniq -u &gt; c   <span class="c"># c is set difference a - b</span>
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="nb">cat </span>a b | <span class="nb">sort</span> | <span class="nb">uniq</span> <span class="o">&gt;</span> c   <span class="c"># c is a union b</span>
+    <span class="nb">cat </span>a b | <span class="nb">sort</span> | <span class="nb">uniq</span> <span class="nt">-d</span> <span class="o">&gt;</span> c   <span class="c"># c is a intersect b</span>
+    <span class="nb">cat </span>a b b | <span class="nb">sort</span> | <span class="nb">uniq</span> <span class="nt">-u</span> <span class="o">&gt;</span> c   <span class="c"># c is set difference a - b</span>
+</code></pre></div>    </div>
   </li>
   <li>
     <p>Use <code class="highlighter-rouge">grep . *</code> to quickly examine the contents of all files in a directory (so each line is paired with the filename), or <code class="highlighter-rouge">head -100 *</code> (so each file has a heading). This can be useful for directories filled with config settings like those in <code class="highlighter-rouge">/sys</code>, <code class="highlighter-rouge">/proc</code>, <code class="highlighter-rouge">/etc</code>.</p>
   </li>
   <li>Summing all numbers in the third column of a text file (this is probably 3X faster and 3X less code than equivalent Python):
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    awk <span class="s1">'{ x += $3 } END { print x }'</span> myfile
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="nb">awk</span> <span class="s1">'{ x += $3 } END { print x }'</span> myfile
+</code></pre></div>    </div>
   </li>
   <li>To see sizes/dates on a tree of files, this is like a recursive <code class="highlighter-rouge">ls -l</code> but is easier to read than <code class="highlighter-rouge">ls -lR</code>:
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    find . -type f -ls
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    find <span class="nb">.</span> <span class="nt">-type</span> f <span class="nt">-ls</span>
+</code></pre></div>    </div>
   </li>
   <li>Say you have a text file, like a web server log, and a certain value that appears on some lines, such as an <code class="highlighter-rouge">acct_id</code> parameter that is present in the URL. If you want a tally of how many requests for each <code class="highlighter-rouge">acct_id</code>:
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    cat access.log | egrep -o <span class="s1">'acct_id=[0-9]+'</span> | cut -d<span class="o">=</span> -f2 | sort | uniq -c | sort -rn
-</code></pre>
-    </div>
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="nb">cat </span>access.log | egrep <span class="nt">-o</span> <span class="s1">'acct_id=[0-9]+'</span> | <span class="nb">cut</span> <span class="nt">-d</span><span class="o">=</span> <span class="nt">-f2</span> | <span class="nb">sort</span> | <span class="nb">uniq</span> <span class="nt">-c</span> | <span class="nb">sort</span> <span class="nt">-rn</span>
+</code></pre></div>    </div>
   </li>
   <li>
     <p>To continuously monitor changes, use <code class="highlighter-rouge">watch</code>, e.g. check changes to files in a directory with <code class="highlighter-rouge">watch -d -n 2 'ls -rtlh | tail'</code> or to network settings while troubleshooting your wifi settings with <code class="highlighter-rouge">watch -d -n 2 ifconfig</code>.</p>
   </li>
   <li>Run this function to get a random tip from this document (parses Markdown and extracts an item):
-    <div class="language-sh highlighter-rouge"><pre class="highlight"><code>    <span class="k">function </span>taocl<span class="o">()</span> <span class="o">{</span>
-      curl -s https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md |
-        pandoc -f markdown -t html |
-        xmlstarlet fo --html --dropdtd |
-        xmlstarlet sel -t -v <span class="s2">"(html/body/ul/li[count(p)&gt;0])[</span><span class="nv">$RANDOM</span><span class="s2"> mod last()+1]"</span> |
-        xmlstarlet unesc | fmt -80
+    <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="k">function </span>taocl<span class="o">()</span> <span class="o">{</span>
+      curl <span class="nt">-s</span> https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md |
+        pandoc <span class="nt">-f</span> markdown <span class="nt">-t</span> html |
+        xmlstarlet fo <span class="nt">--html</span> <span class="nt">--dropdtd</span> |
+        xmlstarlet sel <span class="nt">-t</span> <span class="nt">-v</span> <span class="s2">"(html/body/ul/li[count(p)&gt;0])[</span><span class="nv">$RANDOM</span><span class="s2"> mod last()+1]"</span> |
+        xmlstarlet unesc | <span class="nb">fmt</span> <span class="nt">-80</span>
     <span class="o">}</span>
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
 </ul>
 
@@ -1059,7 +1033,7 @@ but it has since moved to GitHub, where people more talented than the original a
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 

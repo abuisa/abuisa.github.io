@@ -31,29 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
+	<!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>Youtube Downloader - youtube-dl | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="Youtube Downloader - youtube-dl" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Youtube Downloader - youtube-dl" />
 <meta property="og:description" content="Youtube Downloader - youtube-dl" />
-<link rel="canonical" href="https://abuisa.github.io//youtube-dl-downloader-command-line" />
-<meta property="og:url" content="https://abuisa.github.io//youtube-dl-downloader-command-line" />
+<link rel="canonical" href="http://localhost:4000/youtube-dl-downloader-command-line" />
+<meta property="og:url" content="http://localhost:4000/youtube-dl-downloader-command-line" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-12-06T00:00:00+07:00" />
 <script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "Youtube Downloader - youtube-dl",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-12-06T00:00:00+07:00",
-"description": "Youtube Downloader - youtube-dl",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "https://abuisa.github.io//youtube-dl-downloader-command-line"},
-"url": "https://abuisa.github.io//youtube-dl-downloader-command-line"}</script>
+{"description":"Youtube Downloader - youtube-dl","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/youtube-dl-downloader-command-line","headline":"Youtube Downloader - youtube-dl","dateModified":"2017-12-06T00:00:00+07:00","datePublished":"2017-12-06T00:00:00+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/youtube-dl-downloader-command-line"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -66,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="https://abuisa.github.io/">Home</a>
+		<a href="http://localhost:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -159,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -269,51 +261,45 @@
 
 <p>To install it right away for all UNIX users (Linux, OS X, etc.), type:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
 sudo chmod a+rx /usr/local/bin/youtube-dl
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>If you do not have curl, you can alternatively use a recent wget:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
 sudo chmod a+rx /usr/local/bin/youtube-dl
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Windows users can <a href="https://yt-dl.org/latest/youtube-dl.exe">download an .exe file</a> and place it in any location on their <a href="https://en.wikipedia.org/wiki/PATH_%28variable%29">PATH</a> except for <code class="highlighter-rouge">%SYSTEMROOT%\System32</code> (e.g. <strong>do not</strong> put in <code class="highlighter-rouge">C:\Windows\System32</code>).</p>
 
 <p>You can also use pip:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo -H pip install --upgrade youtube-dl
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo -H pip install --upgrade youtube-dl
+</code></pre></div></div>
 
 <p>This command will update youtube-dl if you have already installed it. See the <a href="https://pypi.python.org/pypi/youtube_dl">pypi page</a> for more information.</p>
 
 <p>OS X users can install youtube-dl with <a href="https://brew.sh/">Homebrew</a>:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>brew install youtube-dl
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>brew install youtube-dl
+</code></pre></div></div>
 
 <p>Or with <a href="https://www.macports.org/">MacPorts</a>:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo port install youtube-dl
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo port install youtube-dl
+</code></pre></div></div>
 
 <p>Alternatively, refer to the <a href="#developer-instructions">developer instructions</a> for how to check out and work with the git repository. For further options, including PGP signatures, see the <a href="https://rg3.github.io/youtube-dl/download.html">youtube-dl Download Page</a>.</p>
 
 <h1 id="description">DESCRIPTION</h1>
 <p><strong>youtube-dl</strong> is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter, version 2.6, 2.7, or 3.2+, and it is not platform specific. It should work on your Unix box, on Windows or on Mac OS X. It is released to the public domain, which means you can modify it, redistribute it or use it however you like.</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>youtube-dl [OPTIONS] URL [URL...]
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>youtube-dl [OPTIONS] URL [URL...]
+</code></pre></div></div>
 
 <h1 id="options">OPTIONS</h1>
-<div class="highlighter-rouge"><pre class="highlight"><code>-h, --help                       Print this help text and exit
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-h, --help                       Print this help text and exit
 --version                        Print program version and exit
 -U, --update                     Update this program to latest version. Make
                                  sure that you have sufficient permissions
@@ -352,11 +338,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 --mark-watched                   Mark videos watched (YouTube only)
 --no-mark-watched                Do not mark videos watched (YouTube only)
 --no-color                       Do not emit color codes in output
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="network-options">Network Options:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>--proxy URL                      Use the specified HTTP/HTTPS/SOCKS proxy.
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>--proxy URL                      Use the specified HTTP/HTTPS/SOCKS proxy.
                                  To enable experimental SOCKS proxy, specify
                                  a proper scheme. For example
                                  socks5://127.0.0.1:1080/. Pass in an empty
@@ -365,11 +350,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 --source-address IP              Client-side IP address to bind to
 -4, --force-ipv4                 Make all connections via IPv4
 -6, --force-ipv6                 Make all connections via IPv6
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="geo-restriction">Geo Restriction:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>--geo-verification-proxy URL     Use this proxy to verify the IP address for
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>--geo-verification-proxy URL     Use this proxy to verify the IP address for
                                  some geo-restricted sites. The default
                                  proxy specified by --proxy (or none, if the
                                  options is not present) is used for the
@@ -382,11 +366,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 --geo-bypass-country CODE        Force bypass geographic restriction with
                                  explicitly provided two-letter ISO 3166-2
                                  country code (experimental)
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="video-selection">Video Selection:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>--playlist-start NUMBER          Playlist video to start at (default is 1)
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>--playlist-start NUMBER          Playlist video to start at (default is 1)
 --playlist-end NUMBER            Playlist video to end at (default is last)
 --playlist-items ITEM_SPEC       Playlist video items to download. Specify
                                  indices of the videos in the playlist
@@ -444,11 +427,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
                                  downloaded videos in it.
 --include-ads                    Download advertisements as well
                                  (experimental)
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="download-options">Download Options:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>-r, --limit-rate RATE            Maximum download rate in bytes per second
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-r, --limit-rate RATE            Maximum download rate in bytes per second
                                  (e.g. 50K or 4.2M)
 -R, --retries RETRIES            Number of retries (default is 10), or
                                  "infinite".
@@ -485,11 +467,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
                                  aria2c,avconv,axel,curl,ffmpeg,httpie,wget
 --external-downloader-args ARGS  Give these arguments to the external
                                  downloader
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="filesystem-options">Filesystem Options:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>-a, --batch-file FILE            File containing URLs to download ('-' for
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-a, --batch-file FILE            File containing URLs to download ('-' for
                                  stdin)
 --id                             Use only video ID in file name
 -o, --output TEMPLATE            Output filename template, see the "OUTPUT
@@ -529,19 +510,17 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
                                  may change.
 --no-cache-dir                   Disable filesystem caching
 --rm-cache-dir                   Delete all filesystem cache files
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="thumbnail-images">Thumbnail images:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>--write-thumbnail                Write thumbnail image to disk
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>--write-thumbnail                Write thumbnail image to disk
 --write-all-thumbnails           Write all thumbnail image formats to disk
 --list-thumbnails                Simulate and list all available thumbnail
                                  formats
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="verbosity--simulation-options">Verbosity / Simulation Options:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>-q, --quiet                      Activate quiet mode
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-q, --quiet                      Activate quiet mode
 --no-warnings                    Ignore warnings
 -s, --simulate                   Do not download the video and do not write
                                  anything to disk
@@ -576,11 +555,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 -C, --call-home                  Contact the youtube-dl server for debugging
 --no-call-home                   Do NOT contact the youtube-dl server for
                                  debugging
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="workarounds">Workarounds:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>--encoding ENCODING              Force the specified encoding (experimental)
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>--encoding ENCODING              Force the specified encoding (experimental)
 --no-check-certificate           Suppress HTTPS certificate validation
 --prefer-insecure                Use an unencrypted connection to retrieve
                                  information about the video. (Currently
@@ -604,11 +582,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
                                  before each download (maximum possible
                                  number of seconds to sleep). Must only be
                                  used along with --min-sleep-interval.
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="video-format-options">Video Format Options:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>-f, --format FORMAT              Video format code, see the "FORMAT
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-f, --format FORMAT              Video format code, see the "FORMAT
                                  SELECTION" for all the info
 --all-formats                    Download all available video formats
 --prefer-free-formats            Prefer free video formats unless a specific
@@ -621,11 +598,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
                                  bestvideo+bestaudio), output to given
                                  container format. One of mkv, mp4, ogg,
                                  webm, flv. Ignored if no merge is required
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="subtitle-options">Subtitle Options:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>--write-sub                      Write subtitle file
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>--write-sub                      Write subtitle file
 --write-auto-sub                 Write automatically generated subtitle file
                                  (YouTube only)
 --all-subs                       Download all the available subtitles of the
@@ -637,21 +613,19 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 --sub-lang LANGS                 Languages of the subtitles to download
                                  (optional) separated by commas, use --list-
                                  subs for available language tags
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="authentication-options">Authentication Options:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>-u, --username USERNAME          Login with this account ID
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-u, --username USERNAME          Login with this account ID
 -p, --password PASSWORD          Account password. If this option is left
                                  out, youtube-dl will ask interactively.
 -2, --twofactor TWOFACTOR        Two-factor authentication code
 -n, --netrc                      Use .netrc authentication data
 --video-password PASSWORD        Video password (vimeo, smotri, youku)
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="adobe-pass-options">Adobe Pass Options:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>--ap-mso MSO                     Adobe Pass multiple-system operator (TV
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>--ap-mso MSO                     Adobe Pass multiple-system operator (TV
                                  provider) identifier, use --ap-list-mso for
                                  a list of available MSOs
 --ap-username USERNAME           Multiple-system operator account login
@@ -660,11 +634,10 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
                                  ask interactively.
 --ap-list-mso                    List all supported multiple-system
                                  operators
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h2 id="post-processing-options">Post-processing Options:</h2>
-<div class="highlighter-rouge"><pre class="highlight"><code>-x, --extract-audio              Convert video files to audio-only files
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-x, --extract-audio              Convert video files to audio-only files
                                  (requires ffmpeg or avconv and ffprobe or
                                  avprobe)
 --audio-format FORMAT            Specify audio format: "best", "aac",
@@ -718,15 +691,14 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
                                  /sdcard/Music/ &amp;&amp; rm {}'
 --convert-subs FORMAT            Convert the subtitles to other format
                                  (currently supported: srt|ass|vtt|lrc)
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h1 id="configuration">CONFIGURATION</h1>
 
 <p>You can configure youtube-dl by placing any supported command line option to a configuration file. On Linux and OS X, the system wide configuration file is located at <code class="highlighter-rouge">/etc/youtube-dl.conf</code> and the user wide configuration file at <code class="highlighter-rouge">~/.config/youtube-dl/config</code>. On Windows, the user wide configuration file locations are <code class="highlighter-rouge">%APPDATA%\youtube-dl\config.txt</code> or <code class="highlighter-rouge">C:\Users\&lt;user name&gt;\youtube-dl.conf</code>. Note that by default configuration file may not exist so you may need to create it yourself.</p>
 
 <p>For example, with the following configuration file youtube-dl will always extract the audio, not copy the mtime, use a proxy and save all videos under <code class="highlighter-rouge">Movies</code> directory in your home directory:</p>
-<div class="highlighter-rouge"><pre class="highlight"><code># Lines starting with # are comments
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Lines starting with # are comments
 
 # Always extract audio
 -x
@@ -739,8 +711,7 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 
 # Save all videos under Movies directory in your home directory
 -o ~/Movies/%(title)s.%(ext)s
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Note that options in configuration file are just the same options aka switches used in regular command line calls thus there <strong>must be no whitespace</strong> after <code class="highlighter-rouge">-</code> or <code class="highlighter-rouge">--</code>, e.g. <code class="highlighter-rouge">-o</code> or <code class="highlighter-rouge">--proxy</code> but not <code class="highlighter-rouge">- o</code> or <code class="highlighter-rouge">-- proxy</code>.</p>
 
@@ -751,25 +722,21 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 <h3 id="authentication-with-netrc-file">Authentication with <code class="highlighter-rouge">.netrc</code> file</h3>
 
 <p>You may also want to configure automatic credentials storage for extractors that support authentication (by providing login and password with <code class="highlighter-rouge">--username</code> and <code class="highlighter-rouge">--password</code>) in order not to pass credentials as command line arguments on every youtube-dl execution and prevent tracking plain text passwords in the shell command history. You can achieve this using a <a href="https://stackoverflow.com/tags/.netrc/info"><code class="highlighter-rouge">.netrc</code> file</a> on a per extractor basis. For that you will need to create a <code class="highlighter-rouge">.netrc</code> file in your <code class="highlighter-rouge">$HOME</code> and restrict permissions to read/write by only you:</p>
-<div class="highlighter-rouge"><pre class="highlight"><code>touch $HOME/.netrc
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>touch $HOME/.netrc
 chmod a-rwx,u+rw $HOME/.netrc
-</code></pre>
-</div>
+</code></pre></div></div>
 <p>After that you can add credentials for an extractor in the following format, where <em>extractor</em> is the name of the extractor in lowercase:</p>
-<div class="highlighter-rouge"><pre class="highlight"><code>machine &lt;extractor&gt; login &lt;login&gt; password &lt;password&gt;
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>machine &lt;extractor&gt; login &lt;login&gt; password &lt;password&gt;
+</code></pre></div></div>
 <p>For example:</p>
-<div class="highlighter-rouge"><pre class="highlight"><code>machine youtube login myaccount@gmail.com password my_youtube_password
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>machine youtube login myaccount@gmail.com password my_youtube_password
 machine twitch login my_twitch_account_name password my_twitch_password
-</code></pre>
-</div>
+</code></pre></div></div>
 <p>To activate authentication with the <code class="highlighter-rouge">.netrc</code> file you should pass <code class="highlighter-rouge">--netrc</code> to youtube-dl or place it in the <a href="#configuration">configuration file</a>.</p>
 
 <p>On Windows you may also need to setup the <code class="highlighter-rouge">%HOME%</code> environment variable manually. For example:</p>
-<div class="highlighter-rouge"><pre class="highlight"><code>set HOME=%USERPROFILE%
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>set HOME=%USERPROFILE%
+</code></pre></div></div>
 
 <h1 id="output-template">OUTPUT TEMPLATE</h1>
 
@@ -886,28 +853,27 @@ machine twitch login my_twitch_account_name password my_twitch_password
 
 <p>Note that on Windows you may need to use double quotes instead of single.</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>youtube-dl --get-filename -o <span class="s1">'%(title)s.%(ext)s'</span> BaW_jenozKc
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>youtube-dl <span class="nt">--get-filename</span> <span class="nt">-o</span> <span class="s1">'%(title)s.%(ext)s'</span> BaW_jenozKc
 youtube-dl <span class="nb">test </span>video <span class="s1">''</span>_ä↭𝕐.mp4    <span class="c"># All kinds of weird characters</span>
 
-<span class="gp">$ </span>youtube-dl --get-filename -o <span class="s1">'%(title)s.%(ext)s'</span> BaW_jenozKc --restrict-filenames
+<span class="nv">$ </span>youtube-dl <span class="nt">--get-filename</span> <span class="nt">-o</span> <span class="s1">'%(title)s.%(ext)s'</span> BaW_jenozKc <span class="nt">--restrict-filenames</span>
 youtube-dl_test_video_.mp4          <span class="c"># A simple file name</span>
 
 <span class="c"># Download YouTube playlist videos in separate directory indexed by video order in a playlist</span>
-<span class="gp">$ </span>youtube-dl -o <span class="s1">'%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s'</span> https://www.youtube.com/playlist?list<span class="o">=</span>PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re
+<span class="nv">$ </span>youtube-dl <span class="nt">-o</span> <span class="s1">'%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s'</span> https://www.youtube.com/playlist?list<span class="o">=</span>PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re
 
 <span class="c"># Download all playlists of YouTube channel/user keeping each playlist in separate directory:</span>
-<span class="gp">$ </span>youtube-dl -o <span class="s1">'%(uploader)s/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s'</span> https://www.youtube.com/user/TheLinuxFoundation/playlists
+<span class="nv">$ </span>youtube-dl <span class="nt">-o</span> <span class="s1">'%(uploader)s/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s'</span> https://www.youtube.com/user/TheLinuxFoundation/playlists
 
 <span class="c"># Download Udemy course keeping each chapter in separate directory under MyVideos directory in your home</span>
-<span class="gp">$ </span>youtube-dl -u user -p password -o <span class="s1">'~/MyVideos/%(playlist)s/%(chapter_number)s - %(chapter)s/%(title)s.%(ext)s'</span> https://www.udemy.com/java-tutorial/
+<span class="nv">$ </span>youtube-dl <span class="nt">-u</span> user <span class="nt">-p</span> password <span class="nt">-o</span> <span class="s1">'~/MyVideos/%(playlist)s/%(chapter_number)s - %(chapter)s/%(title)s.%(ext)s'</span> https://www.udemy.com/java-tutorial/
 
 <span class="c"># Download entire series season keeping each series and each season in separate directory under C:/MyVideos</span>
-<span class="gp">$ </span>youtube-dl -o <span class="s2">"C:/MyVideos/%(series)s/%(season_number)s - %(season)s/%(episode_number)s - %(episode)s.%(ext)s"</span> https://videomore.ru/kino_v_detalayah/5_sezon/367617
+<span class="nv">$ </span>youtube-dl <span class="nt">-o</span> <span class="s2">"C:/MyVideos/%(series)s/%(season_number)s - %(season)s/%(episode_number)s - %(episode)s.%(ext)s"</span> https://videomore.ru/kino_v_detalayah/5_sezon/367617
 
 <span class="c"># Stream the video being downloaded to stdout</span>
-<span class="gp">$ </span>youtube-dl -o - BaW_jenozKc
-</code></pre>
-</div>
+<span class="nv">$ </span>youtube-dl <span class="nt">-o</span> - BaW_jenozKc
+</code></pre></div></div>
 
 <h1 id="format-selection">FORMAT SELECTION</h1>
 
@@ -979,22 +945,21 @@ youtube-dl_test_video_.mp4          <span class="c"># A simple file name</span>
 
 <p>Note that on Windows you may need to use double quotes instead of single.</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c"># Download best mp4 format available or any other best if no mp4 available</span>
-<span class="gp">$ </span>youtube-dl -f <span class="s1">'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Download best mp4 format available or any other best if no mp4 available</span>
+<span class="nv">$ </span>youtube-dl <span class="nt">-f</span> <span class="s1">'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'</span>
 
 <span class="c"># Download best format available but not better that 480p</span>
-<span class="gp">$ </span>youtube-dl -f <span class="s1">'bestvideo[height&lt;=480]+bestaudio/best[height&lt;=480]'</span>
+<span class="nv">$ </span>youtube-dl <span class="nt">-f</span> <span class="s1">'bestvideo[height&lt;=480]+bestaudio/best[height&lt;=480]'</span>
 
 <span class="c"># Download best video only format but no bigger than 50 MB</span>
-<span class="gp">$ </span>youtube-dl -f <span class="s1">'best[filesize&lt;50M]'</span>
+<span class="nv">$ </span>youtube-dl <span class="nt">-f</span> <span class="s1">'best[filesize&lt;50M]'</span>
 
 <span class="c"># Download best format available via direct link over HTTP/HTTPS protocol</span>
-<span class="gp">$ </span>youtube-dl -f <span class="s1">'(bestvideo+bestaudio/best)[protocol^=http]'</span>
+<span class="nv">$ </span>youtube-dl <span class="nt">-f</span> <span class="s1">'(bestvideo+bestaudio/best)[protocol^=http]'</span>
 
 <span class="c"># Download the best video format and the best audio format without merging them</span>
-<span class="gp">$ </span>youtube-dl -f <span class="s1">'bestvideo,bestaudio'</span> -o <span class="s1">'%(title)s.f%(format_id)s.%(ext)s'</span>
-</code></pre>
-</div>
+<span class="nv">$ </span>youtube-dl <span class="nt">-f</span> <span class="s1">'bestvideo,bestaudio'</span> <span class="nt">-o</span> <span class="s1">'%(title)s.f%(format_id)s.%(ext)s'</span>
+</code></pre></div></div>
 <p>Note that in the last example, an output template is recommended as bestvideo and bestaudio may have the same file name.</p>
 
 <h1 id="video-selection-1">VIDEO SELECTION</h1>
@@ -1008,16 +973,15 @@ youtube-dl_test_video_.mp4          <span class="c"># A simple file name</span>
 
 <p>Examples:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c"># Download only the videos uploaded in the last 6 months</span>
-<span class="gp">$ </span>youtube-dl --dateafter now-6months
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Download only the videos uploaded in the last 6 months</span>
+<span class="nv">$ </span>youtube-dl <span class="nt">--dateafter</span> now-6months
 
 <span class="c"># Download only the videos uploaded on January 1, 1970</span>
-<span class="gp">$ </span>youtube-dl --date 19700101
+<span class="nv">$ </span>youtube-dl <span class="nt">--date</span> 19700101
 
-<span class="gp">$ </span><span class="c"># Download only the videos uploaded in the 200x decade</span>
-<span class="gp">$ </span>youtube-dl --dateafter 20000101 --datebefore 20091231
-</code></pre>
-</div>
+<span class="nv">$ </span><span class="c"># Download only the videos uploaded in the 200x decade</span>
+<span class="nv">$ </span>youtube-dl <span class="nt">--dateafter</span> 20000101 <span class="nt">--datebefore</span> 20091231
+</code></pre></div></div>
 
 <h1 id="faq">FAQ</h1>
 
@@ -1031,17 +995,15 @@ youtube-dl_test_video_.mp4          <span class="c"># A simple file name</span>
 
 <p>As a last resort, you can also uninstall the version installed by your package manager and follow our manual installation instructions. For that, remove the distribution’s package, with a line like</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt-get remove -y youtube-dl
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get remove -y youtube-dl
+</code></pre></div></div>
 
 <p>Afterwards, simply follow <a href="https://rg3.github.io/youtube-dl/download.html">our manual installation instructions</a>:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl
 sudo chmod a+x /usr/local/bin/youtube-dl
 hash -r
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Again, from then on you’ll be able to update with <code class="highlighter-rouge">sudo youtube-dl -U</code>.</p>
 
@@ -1127,10 +1089,9 @@ hash -r
 
 <p>The error</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>File "youtube-dl", line 2
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>File "youtube-dl", line 2
 SyntaxError: Non-ASCII character '\x93' ...
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>means you’re using an outdated version of Python. Please update to Python 2.6 or 2.7.</p>
 
@@ -1158,10 +1119,9 @@ SyntaxError: Non-ASCII character '\x93' ...
 
 <p>Either prepend <code class="highlighter-rouge">https://www.youtube.com/watch?v=</code> or separate the ID from the options with <code class="highlighter-rouge">--</code>:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>youtube-dl -- -wNyEUrxzFU
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>youtube-dl -- -wNyEUrxzFU
 youtube-dl "https://www.youtube.com/watch?v=-wNyEUrxzFU"
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h3 id="how-do-i-pass-cookies-to-youtube-dl">How do I pass cookies to youtube-dl?</h3>
 
@@ -1177,9 +1137,8 @@ youtube-dl "https://www.youtube.com/watch?v=-wNyEUrxzFU"
 
 <p>You will first need to tell youtube-dl to stream media to stdout with <code class="highlighter-rouge">-o -</code>, and also tell your media player to read from stdin (it must be capable of this for streaming) and then pipe former to latter. For example, streaming to <a href="https://www.videolan.org/">vlc</a> can be achieved with:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>youtube-dl -o - "https://www.youtube.com/watch?v=BaW_jenozKcj" | vlc -
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>youtube-dl -o - "https://www.youtube.com/watch?v=BaW_jenozKcj" | vlc -
+</code></pre></div></div>
 
 <h3 id="how-do-i-download-only-new-videos-from-a-playlist">How do I download only new videos from a playlist?</h3>
 
@@ -1187,15 +1146,13 @@ youtube-dl "https://www.youtube.com/watch?v=-wNyEUrxzFU"
 
 <p>For example, at first,</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>youtube-dl --download-archive archive.txt "https://www.youtube.com/playlist?list=PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re"
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>youtube-dl --download-archive archive.txt "https://www.youtube.com/playlist?list=PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re"
+</code></pre></div></div>
 
 <p>will download the complete <code class="highlighter-rouge">PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re</code> playlist and create a file <code class="highlighter-rouge">archive.txt</code>. Each subsequent run will only download new videos if any:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>youtube-dl --download-archive archive.txt "https://www.youtube.com/playlist?list=PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re"
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>youtube-dl --download-archive archive.txt "https://www.youtube.com/playlist?list=PLwiyx1dc3P2JR9N8gQaQN_BCvlSlap7re"
+</code></pre></div></div>
 
 <h3 id="should-i-add---hls-prefer-native-into-my-config">Should I add <code class="highlighter-rouge">--hls-prefer-native</code> into my config?</h3>
 
@@ -1247,17 +1204,15 @@ youtube-dl "https://www.youtube.com/watch?v=-wNyEUrxzFU"
 
 <p>To run youtube-dl as a developer, you don’t need to build anything either. Simply execute</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>python -m youtube_dl
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python -m youtube_dl
+</code></pre></div></div>
 
 <p>To run the test, simply invoke your favorite test runner, or execute a test file directly; any of the following work:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>python -m unittest discover
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python -m unittest discover
 python test/test_download.py
 nosetests
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>See item 6 of <a href="#adding-support-for-a-new-site">new extractor tutorial</a> for how to run extractor specific test cases.</p>
 
@@ -1282,29 +1237,27 @@ nosetests
   <li>
     <p>Check out the source code with:</p>
 
-    <div class="highlighter-rouge"><pre class="highlight"><code> git clone git@github.com:YOUR_GITHUB_USERNAME/youtube-dl.git
-</code></pre>
-    </div>
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> git clone git@github.com:YOUR_GITHUB_USERNAME/youtube-dl.git
+</code></pre></div>    </div>
   </li>
   <li>
     <p>Start a new git branch with</p>
 
-    <div class="highlighter-rouge"><pre class="highlight"><code> cd youtube-dl
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> cd youtube-dl
  git checkout -b yourextractor
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
   <li>
     <p>Start with this simple template and save it to <code class="highlighter-rouge">youtube_dl/extractor/yourextractor.py</code>:</p>
 
-    <div class="language-python highlighter-rouge"><pre class="highlight"><code> <span class="c"># coding: utf-8</span>
+    <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="c"># coding: utf-8</span>
  <span class="kn">from</span> <span class="nn">__future__</span> <span class="kn">import</span> <span class="n">unicode_literals</span>
 
  <span class="kn">from</span> <span class="nn">.common</span> <span class="kn">import</span> <span class="n">InfoExtractor</span>
 
 
  <span class="k">class</span> <span class="nc">YourExtractorIE</span><span class="p">(</span><span class="n">InfoExtractor</span><span class="p">):</span>
-     <span class="n">_VALID_URL</span> <span class="o">=</span> <span class="s">r'https?://(?:www</span><span class="err">\</span><span class="s">.)?yourextractor</span><span class="err">\</span><span class="s">.com/watch/(?P&lt;id&gt;[0-9]+)'</span>
+     <span class="n">_VALID_URL</span> <span class="o">=</span> <span class="s">r'https?://(?:www\.)?yourextractor\.com/watch/(?P&lt;id&gt;[0-9]+)'</span>
      <span class="n">_TEST</span> <span class="o">=</span> <span class="p">{</span>
          <span class="s">'url'</span><span class="p">:</span> <span class="s">'https://yourextractor.com/watch/42'</span><span class="p">,</span>
          <span class="s">'md5'</span><span class="p">:</span> <span class="s">'TODO: md5 sum of the first 10241 bytes of the video file (use --test)'</span><span class="p">,</span>
@@ -1312,7 +1265,7 @@ nosetests
              <span class="s">'id'</span><span class="p">:</span> <span class="s">'42'</span><span class="p">,</span>
              <span class="s">'ext'</span><span class="p">:</span> <span class="s">'mp4'</span><span class="p">,</span>
              <span class="s">'title'</span><span class="p">:</span> <span class="s">'Video title goes here'</span><span class="p">,</span>
-             <span class="s">'thumbnail'</span><span class="p">:</span> <span class="s">r're:^https?://.*</span><span class="err">\</span><span class="s">.jpg$'</span><span class="p">,</span>
+             <span class="s">'thumbnail'</span><span class="p">:</span> <span class="s">r're:^https?://.*\.jpg$'</span><span class="p">,</span>
              <span class="c"># TODO more properties, either as:</span>
              <span class="c"># * A value</span>
              <span class="c"># * MD5 checksum; start the string with md5:</span>
@@ -1335,8 +1288,7 @@ nosetests
              <span class="s">'uploader'</span><span class="p">:</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span><span class="s">r'&lt;div[^&gt;]+id="uploader"[^&gt;]*&gt;([^&lt;]+)&lt;'</span><span class="p">,</span> <span class="n">webpage</span><span class="p">,</span> <span class="s">'uploader'</span><span class="p">,</span> <span class="n">fatal</span><span class="o">=</span><span class="bp">False</span><span class="p">),</span>
              <span class="c"># TODO more properties (see youtube_dl/extractor/common.py)</span>
          <span class="p">}</span>
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
   <li>Add an import in <a href="https://github.com/rg3/youtube-dl/blob/master/youtube_dl/extractor/extractors.py"><code class="highlighter-rouge">youtube_dl/extractor/extractors.py</code></a>.</li>
   <li>Run <code class="highlighter-rouge">python test/test_download.py TestDownload.test_YourExtractor</code>. This <em>should fail</em> at first, but you can continually re-run it until you’re done. If you decide to add more than one test, then rename <code class="highlighter-rouge">_TEST</code> to <code class="highlighter-rouge">_TESTS</code> and make it into a list of dictionaries. The tests will then be named <code class="highlighter-rouge">TestDownload.test_YourExtractor</code>, <code class="highlighter-rouge">TestDownload.test_YourExtractor_1</code>, <code class="highlighter-rouge">TestDownload.test_YourExtractor_2</code>, etc. Note that tests with <code class="highlighter-rouge">only_matching</code> key in test’s dict are not counted in.</li>
@@ -1345,12 +1297,11 @@ nosetests
   <li>
     <p>When the tests pass, <a href="https://git-scm.com/docs/git-add">add</a> the new files and <a href="https://git-scm.com/docs/git-commit">commit</a> them and <a href="https://git-scm.com/docs/git-push">push</a> the result, like this:</p>
 
-    <div class="highlighter-rouge"><pre class="highlight"><code> $ git add youtube_dl/extractor/extractors.py
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> $ git add youtube_dl/extractor/extractors.py
  $ git add youtube_dl/extractor/yourextractor.py
  $ git commit -m '[yourextractor] Add new extractor'
  $ git push origin yourextractor
-</code></pre>
-    </div>
+</code></pre></div>    </div>
   </li>
   <li>Finally, <a href="https://help.github.com/articles/creating-a-pull-request">create a pull request</a>. We’ll then review and merge it.</li>
 </ol>
@@ -1381,51 +1332,45 @@ nosetests
 
 <p>Say you have some source dictionary <code class="highlighter-rouge">meta</code> that you’ve fetched as JSON with HTTP request and it has a key <code class="highlighter-rouge">summary</code>:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">meta</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_download_json</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">video_id</span><span class="p">)</span>
-</code></pre>
-</div>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">meta</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_download_json</span><span class="p">(</span><span class="n">url</span><span class="p">,</span> <span class="n">video_id</span><span class="p">)</span>
+</code></pre></div></div>
 
 <p>Assume at this point <code class="highlighter-rouge">meta</code>’s layout is:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="p">{</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span>
     <span class="o">...</span>
     <span class="s">"summary"</span><span class="p">:</span> <span class="s">"some fancy summary text"</span><span class="p">,</span>
     <span class="o">...</span>
 <span class="p">}</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Assume you want to extract <code class="highlighter-rouge">summary</code> and put it into the resulting info dict as <code class="highlighter-rouge">description</code>. Since <code class="highlighter-rouge">description</code> is an optional meta field you should be ready that this key may be missing from the <code class="highlighter-rouge">meta</code> dict, so that you should extract it like:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">description</span> <span class="o">=</span> <span class="n">meta</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">'summary'</span><span class="p">)</span>  <span class="c"># correct</span>
-</code></pre>
-</div>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">description</span> <span class="o">=</span> <span class="n">meta</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">'summary'</span><span class="p">)</span>  <span class="c"># correct</span>
+</code></pre></div></div>
 
 <p>and not like:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">description</span> <span class="o">=</span> <span class="n">meta</span><span class="p">[</span><span class="s">'summary'</span><span class="p">]</span>  <span class="c"># incorrect</span>
-</code></pre>
-</div>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">description</span> <span class="o">=</span> <span class="n">meta</span><span class="p">[</span><span class="s">'summary'</span><span class="p">]</span>  <span class="c"># incorrect</span>
+</code></pre></div></div>
 
 <p>The latter will break extraction process with <code class="highlighter-rouge">KeyError</code> if <code class="highlighter-rouge">summary</code> disappears from <code class="highlighter-rouge">meta</code> at some later time but with the former approach extraction will just go ahead with <code class="highlighter-rouge">description</code> set to <code class="highlighter-rouge">None</code> which is perfectly fine (remember <code class="highlighter-rouge">None</code> is equivalent to the absence of data).</p>
 
 <p>Similarly, you should pass <code class="highlighter-rouge">fatal=False</code> when extracting optional data from a webpage with <code class="highlighter-rouge">_search_regex</code>, <code class="highlighter-rouge">_html_search_regex</code> or similar methods, for instance:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">description</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">description</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
     <span class="s">r'&lt;span[^&gt;]+id="title"[^&gt;]*&gt;([^&lt;]+)&lt;'</span><span class="p">,</span>
     <span class="n">webpage</span><span class="p">,</span> <span class="s">'description'</span><span class="p">,</span> <span class="n">fatal</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>With <code class="highlighter-rouge">fatal</code> set to <code class="highlighter-rouge">False</code> if <code class="highlighter-rouge">_search_regex</code> fails to extract <code class="highlighter-rouge">description</code> it will emit a warning and continue extraction.</p>
 
 <p>You can also pass <code class="highlighter-rouge">default=&lt;some fallback value&gt;</code>, for example:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">description</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">description</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
     <span class="s">r'&lt;span[^&gt;]+id="title"[^&gt;]*&gt;([^&lt;]+)&lt;'</span><span class="p">,</span>
     <span class="n">webpage</span><span class="p">,</span> <span class="s">'description'</span><span class="p">,</span> <span class="n">default</span><span class="o">=</span><span class="bp">None</span><span class="p">)</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>On failure this code will silently continue the extraction with <code class="highlighter-rouge">description</code> set to <code class="highlighter-rouge">None</code>. That is useful for metafields that may or may not be present.</p>
 
@@ -1437,17 +1382,15 @@ nosetests
 
 <p>Say <code class="highlighter-rouge">meta</code> from the previous example has a <code class="highlighter-rouge">title</code> and you are about to extract it. Since <code class="highlighter-rouge">title</code> is a mandatory meta field you should end up with something like:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="n">meta</span><span class="p">[</span><span class="s">'title'</span><span class="p">]</span>
-</code></pre>
-</div>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="n">meta</span><span class="p">[</span><span class="s">'title'</span><span class="p">]</span>
+</code></pre></div></div>
 
 <p>If <code class="highlighter-rouge">title</code> disappears from <code class="highlighter-rouge">meta</code> in future due to some changes on the hoster’s side the extraction would fail since <code class="highlighter-rouge">title</code> is mandatory. That’s expected.</p>
 
 <p>Assume that you have some another source you can extract <code class="highlighter-rouge">title</code> from, for example <code class="highlighter-rouge">og:title</code> HTML meta of a <code class="highlighter-rouge">webpage</code>. In this case you can provide a fallback scenario:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="n">meta</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">'title'</span><span class="p">)</span> <span class="ow">or</span> <span class="bp">self</span><span class="o">.</span><span class="n">_og_search_title</span><span class="p">(</span><span class="n">webpage</span><span class="p">)</span>
-</code></pre>
-</div>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="n">meta</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s">'title'</span><span class="p">)</span> <span class="ow">or</span> <span class="bp">self</span><span class="o">.</span><span class="n">_og_search_title</span><span class="p">(</span><span class="n">webpage</span><span class="p">)</span>
+</code></pre></div></div>
 
 <p>This code will try to extract from <code class="highlighter-rouge">meta</code> first and if it fails it will try extracting <code class="highlighter-rouge">og:title</code> from a <code class="highlighter-rouge">webpage</code>.</p>
 
@@ -1459,34 +1402,30 @@ nosetests
 
 <p>Say you need to extract <code class="highlighter-rouge">title</code> from the following HTML code:</p>
 
-<div class="language-html highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;span</span> <span class="na">style=</span><span class="s">"position: absolute; left: 910px; width: 90px; float: right; z-index: 9999;"</span> <span class="na">class=</span><span class="s">"title"</span><span class="nt">&gt;</span>some fancy title<span class="nt">&lt;/span&gt;</span>
-</code></pre>
-</div>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;span</span> <span class="na">style=</span><span class="s">"position: absolute; left: 910px; width: 90px; float: right; z-index: 9999;"</span> <span class="na">class=</span><span class="s">"title"</span><span class="nt">&gt;</span>some fancy title<span class="nt">&lt;/span&gt;</span>
+</code></pre></div></div>
 
 <p>The code for that task should look similar to:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
     <span class="s">r'&lt;span[^&gt;]+class="title"[^&gt;]*&gt;([^&lt;]+)'</span><span class="p">,</span> <span class="n">webpage</span><span class="p">,</span> <span class="s">'title'</span><span class="p">)</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Or even better:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
-    <span class="s">r'&lt;span[^&gt;]+class=(["</span><span class="se">\'</span><span class="s">])title</span><span class="err">\</span><span class="s">1[^&gt;]*&gt;(?P&lt;title&gt;[^&lt;]+)'</span><span class="p">,</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
+    <span class="s">r'&lt;span[^&gt;]+class=(["\'])title\1[^&gt;]*&gt;(?P&lt;title&gt;[^&lt;]+)'</span><span class="p">,</span>
     <span class="n">webpage</span><span class="p">,</span> <span class="s">'title'</span><span class="p">,</span> <span class="n">group</span><span class="o">=</span><span class="s">'title'</span><span class="p">)</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Note how you tolerate potential changes in the <code class="highlighter-rouge">style</code> attribute’s value or switch from using double quotes to single for <code class="highlighter-rouge">class</code> attribute:</p>
 
 <p>The code definitely should not look like:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">title</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_search_regex</span><span class="p">(</span>
     <span class="s">r'&lt;span style="position: absolute; left: 910px; width: 90px; float: right; z-index: 9999;" class="title"&gt;(.*?)&lt;/span&gt;'</span><span class="p">,</span>
     <span class="n">webpage</span><span class="p">,</span> <span class="s">'title'</span><span class="p">,</span> <span class="n">group</span><span class="o">=</span><span class="s">'title'</span><span class="p">)</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h3 id="use-safe-conversion-functions">Use safe conversion functions</h3>
 
@@ -1498,20 +1437,19 @@ nosetests
 
 <p>From a Python program, you can embed youtube-dl in a more powerful fashion, like this:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">__future__</span> <span class="kn">import</span> <span class="n">unicode_literals</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">__future__</span> <span class="kn">import</span> <span class="n">unicode_literals</span>
 <span class="kn">import</span> <span class="nn">youtube_dl</span>
 
 <span class="n">ydl_opts</span> <span class="o">=</span> <span class="p">{}</span>
 <span class="k">with</span> <span class="n">youtube_dl</span><span class="o">.</span><span class="n">YoutubeDL</span><span class="p">(</span><span class="n">ydl_opts</span><span class="p">)</span> <span class="k">as</span> <span class="n">ydl</span><span class="p">:</span>
     <span class="n">ydl</span><span class="o">.</span><span class="n">download</span><span class="p">([</span><span class="s">'https://www.youtube.com/watch?v=BaW_jenozKc'</span><span class="p">])</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Most likely, you’ll want to use various options. For a list of options available, have a look at <a href="https://github.com/rg3/youtube-dl/blob/3e4cedf9e8cd3157df2457df7274d0c842421945/youtube_dl/YoutubeDL.py#L137-L312"><code class="highlighter-rouge">youtube_dl/YoutubeDL.py</code></a>. For a start, if you want to intercept youtube-dl’s output, set a <code class="highlighter-rouge">logger</code> object.</p>
 
 <p>Here’s a more complete example of a program that outputs only errors (and a short message after the download is finished), and downloads/converts the video to an mp3 file:</p>
 
-<div class="language-python highlighter-rouge"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">__future__</span> <span class="kn">import</span> <span class="n">unicode_literals</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">__future__</span> <span class="kn">import</span> <span class="n">unicode_literals</span>
 <span class="kn">import</span> <span class="nn">youtube_dl</span>
 
 
@@ -1543,15 +1481,14 @@ nosetests
 <span class="p">}</span>
 <span class="k">with</span> <span class="n">youtube_dl</span><span class="o">.</span><span class="n">YoutubeDL</span><span class="p">(</span><span class="n">ydl_opts</span><span class="p">)</span> <span class="k">as</span> <span class="n">ydl</span><span class="p">:</span>
     <span class="n">ydl</span><span class="o">.</span><span class="n">download</span><span class="p">([</span><span class="s">'https://www.youtube.com/watch?v=BaW_jenozKc'</span><span class="p">])</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <h1 id="bugs">BUGS</h1>
 
 <p>Bugs and suggestions should be reported at: <a href="https://github.com/rg3/youtube-dl/issues">https://github.com/rg3/youtube-dl/issues</a>. Unless you were prompted to or there is another pertinent reason (e.g. GitHub fails to accept the bug report), please do not send bug reports via personal email. For discussions, join us in the IRC channel <a href="irc://chat.freenode.net/#youtube-dl">#youtube-dl</a> on freenode (<a href="https://webchat.freenode.net/?randomnick=1&amp;channels=youtube-dl">webchat</a>).</p>
 
 <p><strong>Please include the full output of youtube-dl when run with <code class="highlighter-rouge">-v</code></strong>, i.e. <strong>add</strong> <code class="highlighter-rouge">-v</code> flag to <strong>your command line</strong>, copy the <strong>whole</strong> output and post it in the issue body wrapped in ``` for better formatting. It should look similar to this:</p>
-<div class="highlighter-rouge"><pre class="highlight"><code>$ youtube-dl -v &lt;your command line&gt;
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ youtube-dl -v &lt;your command line&gt;
 [debug] System config: []
 [debug] User config: []
 [debug] Command-line args: [u'-v', u'https://www.youtube.com/watch?v=BaW_jenozKcj']
@@ -1562,8 +1499,7 @@ nosetests
 [debug] exe versions: ffmpeg N-75573-g1d0487f, ffprobe N-75573-g1d0487f, rtmpdump 2.4
 [debug] Proxy map: {}
 ...
-</code></pre>
-</div>
+</code></pre></div></div>
 <p><strong>Do not post screenshots of verbose logs; only plain text is acceptable.</strong></p>
 
 <p>The output (including the first lines) contains important debugging information. Issues without the full output are often not reproducible and therefore do not get solved in short order, if ever.</p>
@@ -1668,12 +1604,11 @@ nosetests
 
 <p><b>Command : $</b> <code class="highlighter-rouge">youtube-dl -wc -o '%(title)s.%(ext)s' -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' https://www.youtube.com/watch?v=BlLFswfu9CY</code></p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>-w, --no-overwrites              Do not overwrite files
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-w, --no-overwrites              Do not overwrite files
 -c, --continue                   Force resume of partially downloaded files.
                                  By default, youtube-dl will resume
                                  downloads if possible.
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <hr />
 
@@ -1699,7 +1634,7 @@ nosetests
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 

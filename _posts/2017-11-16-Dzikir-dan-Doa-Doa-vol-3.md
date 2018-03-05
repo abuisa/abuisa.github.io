@@ -16,7 +16,7 @@ categories: Agama
 - <a href="#doa6">Doa 6 : ...اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا</a>
 - <a href="#doa7">Doa 7 : ...اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ </a>
 - <a href="#doa8">Doa 8 : ...اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى </a>
-
+- <a href="#doa9">Doa 9 : ...يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ</a>
 
 
 <!--
@@ -471,6 +471,83 @@ Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rizki yang baik dan amal y
 <b>Ahmad - No.4012 :</b> Telah menceritakan kepada kami Waki' dari ayahnya dan Isra`il dari Abu Ishaq dari Abu Al Ahwash dari Abdullah ia berkata; Nabi shallallahu 'alaihi wasallam biasa berdoa dengan mengucapkan: "Ya Allah, aku memohon kepadaMu petunjuk, ketakwaan, terpeliharanya harga diri dan rasa kecukupan."
 </div>
 </div>
+
+<a name="doa9"></a>
+### Doa 9 :
+<div class="gdiv">
+<div class="arx">
+📌  اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ.<br />
+📌  اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ اصْرِفْ قُلُوبَنَا إِلَى طَاعَتِكَ.<br />
+📌  يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ
+</div>
+<div class="idx">
+1. Ya Allah, Dzat yang memalingkan hati, palingkanlah hati kami kepada ketaatan beribadah kepada-Mu! <br />
+2. Wahai DZAT yang membolak balikkan hati, teguhkanlah hatiku di atas agama-Mu!<br />
+</div>
+<div class="ar">
+حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ وَابْنُ نُمَيْرٍ كِلَاهُمَا عَنْ الْمُقْرِئِ قَالَ زُهَيْرٌ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ قَالَ حَدَّثَنَا حَيْوَةُ أَخْبَرَنِي أَبُو هَانِئٍ أَنَّهُ سَمِعَ أَبَا عَبْدِ الرَّحْمَنِ الْحُبُلِيَّ أَنَّهُ سَمِعَ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ يَقُولُاأَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ قُلُوبَ بَنِي آدَمَ كُلَّهَا بَيْنَ إِصْبَعَيْنِ مِنْ أَصَابِعِ الرَّحْمَنِ كَقَلْبٍ وَاحِدٍ يُصَرِّفُهُ حَيْثُ يَشَاءُ ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ.
+</div>
+<div class="id">
+<b>Muslim - No.4798 :</b> Telah menceritakan kepadaku Zuhair bin Harb dan Ibnu Numair keduanya dari Al Muqri. Zuhair berkata; Telah menceritakan kepada kami 'Abdullah bin Yazid Al Muqri dia berkata; Telah menceritakan kepada kami Haiwah; Telah mengabarkan kepadaku Abu Hani bahwa dia mendengar Abu 'Abdur Rahman Al Hubuli dia mendengar 'Abdullah bin 'Amru bin Al 'Ash berkata; bahwasanya ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya hati semua manusia itu berada di antara dua jari dari sekian jari Allah Yang Maha Pemurah. Allah Subhanahhu wa Ta'ala akan memalingkan hati manusia menurut kehendak-Nya." Setelah itu, Rasulullah shallallahu 'alaihi wasallam berdoa; 'Ya Allah, Dzat yang memalingkan hati, palingkanlah hati kami kepada ketaatan beribadah kepada-Mu! '
+</div>
+
+<div class="ar">
+
+</div>
+<div class="id">
+
+</div>
+<div class="ar">
+
+</div>
+<div class="id">
+
+</div>
+<div class="ar">
+
+</div>
+<div class="id">
+
+</div>
+<div class="ar">
+
+</div>
+<div class="id">
+
+</div>
+</div>
+
+<!--
+	<a name="doa9"></a>
+	### Doa 9 :
+	<div class="gdiv">
+	<div class="arx">
+
+	</div>
+	<div class="idx">
+
+	</div>
+	<div class="ar">
+
+	</div>
+	<div class="id">
+
+	</div>
+	<div class="ar">
+
+	</div>
+	<div class="id">
+
+	</div>
+	<div class="ar">
+
+	</div>
+	<div class="id">
+
+	</div>
+	</div>
+
+-->
 
 
 

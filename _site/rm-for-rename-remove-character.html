@@ -31,29 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
+	<!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>RM for Remove, Replace Multiple File_Name | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="RM for Remove, Replace Multiple File_Name" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="RM for Remove, Replace Multiple File_Name" />
 <meta property="og:description" content="RM for Remove, Replace Multiple File_Name" />
-<link rel="canonical" href="https://abuisa.github.io//rm-for-rename-remove-character" />
-<meta property="og:url" content="https://abuisa.github.io//rm-for-rename-remove-character" />
+<link rel="canonical" href="http://localhost:4000/rm-for-rename-remove-character" />
+<meta property="og:url" content="http://localhost:4000/rm-for-rename-remove-character" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-12-07T00:00:00+07:00" />
 <script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "RM for Remove, Replace Multiple File_Name",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-12-07T00:00:00+07:00",
-"description": "RM for Remove, Replace Multiple File_Name",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "https://abuisa.github.io//rm-for-rename-remove-character"},
-"url": "https://abuisa.github.io//rm-for-rename-remove-character"}</script>
+{"description":"RM for Remove, Replace Multiple File_Name","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/rm-for-rename-remove-character","headline":"RM for Remove, Replace Multiple File_Name","dateModified":"2017-12-07T00:00:00+07:00","datePublished":"2017-12-07T00:00:00+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/rm-for-rename-remove-character"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -66,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="https://abuisa.github.io/">Home</a>
+		<a href="http://localhost:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -159,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -249,23 +241,23 @@
 
 <h3 id="1-command-line--replace-_-with--">1. Command Line : Replace “_” with “-“</h3>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/_/-</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done</span> <span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/_/-</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span> </pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="2-command-line--replace---with--id">2. Command Line : Replace “-“ with “-ID”</h3>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/-/-ID</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/-/-ID</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="3-command-line--remove--id">3. Command Line : Remove “-ID”</h3>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/-ID/</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/-ID/</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="4-command-line--append--img">4. Command Line : Append “-img”</h3>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/.jpg/-img.jpg</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/.jpg/-img.jpg</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="5-command-line--replace-full-file_name-with-number">5. Command Line : Replace Full “File_Name” with “Number”</h3>
 <ul>
@@ -274,51 +266,51 @@
   <li>Jika terdapat lebih dari 1 file maka akan menjadi –&gt; <code class="highlighter-rouge">1-img.jpg</code>  ,  <code class="highlighter-rouge">2-img.jpg</code>  ,  <code class="highlighter-rouge">3-img.jpg</code> dst…</li>
 </ul>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre><span class="nv">i</span><span class="o">=</span>0;for file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span>;<span class="nb">echo</span> <span class="s2">"</span><span class="nv">$i</span><span class="s2">"</span>; mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="nv">$file</span><span class="p">/</span><span class="nv">$i</span><span class="p">-img.jpg</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre><span class="nv">i</span><span class="o">=</span>0<span class="p">;</span><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span><span class="p">;</span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$i</span><span class="s2">"</span><span class="p">;</span> <span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="nv">$file</span><span class="p">/</span><span class="nv">$i</span><span class="p">-img.jpg</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <ul>
   <li><b>ANOTHER EXAMPLE </b> - Full Replace and Replace + Append to file name</li>
 </ul>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
 2
 3
-4</pre></td><td class="code"><pre><span class="nv">i</span><span class="o">=</span>0;for file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span>;<span class="nb">echo</span> <span class="s2">"</span><span class="nv">$i</span><span class="s2">"</span>; <span class="k">done</span> <span class="c"># only show Number from 1 to n file</span>
-<span class="nv">i</span><span class="o">=</span>0;for file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span>;<span class="nb">echo</span> <span class="s2">"</span><span class="nv">$i</span><span class="s2">"</span>; mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="nv">$file</span><span class="p">/</span><span class="nv">$i</span><span class="p">-img.jpg</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done
-</span><span class="nv">i</span><span class="o">=</span>0;for file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span>;<span class="nb">echo</span> <span class="s2">"</span><span class="nv">$i</span><span class="s2">"</span>; mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="nv">$file</span><span class="p">/</span><span class="nv">$i</span><span class="p">.jpg</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done
-</span><span class="nv">i</span><span class="o">=</span>0;for file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span>;<span class="nb">echo</span> <span class="s2">"Ke </span><span class="nv">$i</span><span class="s2"> : </span><span class="nv">$file</span><span class="s2">"</span>; <span class="k">done</span> <span class="c"># only show file</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+4
+</pre></td><td class="code"><pre><span class="nv">i</span><span class="o">=</span>0<span class="p">;</span><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span><span class="p">;</span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$i</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span> <span class="c"># only show Number from 1 to n file</span>
+<span class="nv">i</span><span class="o">=</span>0<span class="p">;</span><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span><span class="p">;</span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$i</span><span class="s2">"</span><span class="p">;</span> <span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="nv">$file</span><span class="p">/</span><span class="nv">$i</span><span class="p">-img.jpg</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done
+</span><span class="nv">i</span><span class="o">=</span>0<span class="p">;</span><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span><span class="p">;</span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$i</span><span class="s2">"</span><span class="p">;</span> <span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="nv">$file</span><span class="p">/</span><span class="nv">$i</span><span class="p">.jpg</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done
+</span><span class="nv">i</span><span class="o">=</span>0<span class="p">;</span><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span><span class="p">;</span><span class="nb">echo</span> <span class="s2">"Ke </span><span class="nv">$i</span><span class="s2"> : </span><span class="nv">$file</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span> <span class="c"># only show file</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="6-command-line--example-from-cool-guy-a2zrg-42jpg-to-coolguya2zrg42jpg">6. Command Line : example FROM “[CooL GuY] [[a2zRG]] (42).jpg” TO “CooLGuYa2zRG42.jpg”</h3>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
 2
 3
 4
 5
 6
-7</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/[/</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done
-for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/]/</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done
-for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="s1">'[['</span><span class="p">/</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done</span> <span class="c"># [[ --&gt; maksudnya double '{'</span>
-<span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="s1">']]'</span><span class="p">/</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done</span> <span class="c"># ]] --&gt; maksudnya double '}'</span>
-<span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="s1">'('</span><span class="p">/</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done
-for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="s1">')'</span><span class="p">/</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done
-for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do </span>mv <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/ /</span><span class="k">}</span><span class="s2">"</span>; <span class="k">done</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+7
+</pre></td><td class="code"><pre><span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/[/</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done
+for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/]/</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done
+for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="s1">'[['</span><span class="p">/</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span> <span class="c"># [[ --&gt; maksudnya double '{'</span>
+<span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="s1">']]'</span><span class="p">/</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span> <span class="c"># ]] --&gt; maksudnya double '}'</span>
+<span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="s1">'('</span><span class="p">/</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done
+for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/</span><span class="s1">')'</span><span class="p">/</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done
+for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do </span><span class="nb">mv</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="k">}</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/ /</span><span class="k">}</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="7-dalam-bash-script">7. Dalam bash script</h3>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
 2
 3
 4
-5</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
-<span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span class="k">do
-	</span>mv <span class="s2">"</span><span class="nv">$file</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/(/</span><span class="k">}</span><span class="s2">"</span> <span class="c"># remove character "("</span>
-	mv <span class="s2">"</span><span class="nv">$file</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/)/_</span><span class="k">}</span><span class="s2">"</span> <span class="c"># replace character "(" with "_"</span>
-<span class="k">done</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+5
+</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+<span class="k">for </span>file <span class="k">in</span> <span class="k">*</span>.jpg<span class="p">;</span> <span class="k">do
+	</span><span class="nb">mv</span> <span class="s2">"</span><span class="nv">$file</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/(/</span><span class="k">}</span><span class="s2">"</span> <span class="c"># remove character "("</span>
+	<span class="nb">mv</span> <span class="s2">"</span><span class="nv">$file</span><span class="s2">"</span> <span class="s2">"</span><span class="k">${</span><span class="nv">file</span><span class="p">/)/_</span><span class="k">}</span><span class="s2">"</span> <span class="c"># replace character "(" with "_"</span>
+<span class="k">done</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h2 id="menggunakan-mmv--multiple-files-mv-">Menggunakan MMV [ Multiple Files MV ]</h2>
 <h3 id="how-do-i-use-mmv-command">How do I use mmv command</h3>
@@ -327,15 +319,15 @@ for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span cl
   <li>To convert all filenames to lowercase, enter</li>
 </ul>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre>mmv <span class="s2">"*"</span> <span class="s2">"#l1"</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre>mmv <span class="s2">"*"</span> <span class="s2">"#l1"</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <ul>
   <li>To rename all *.bakz files in the current directory to *.bak</li>
 </ul>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre>mmv <span class="s1">'*.bakz'</span> <span class="s1">'#1.bak'</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+</pre></td><td class="code"><pre>mmv <span class="s1">'*.bakz'</span> <span class="s1">'#1.bak'</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="sumber-">Sumber :</h3>
 <ul>
@@ -360,7 +352,7 @@ for </span>file <span class="k">in</span> <span class="k">*</span>.jpg; <span cl
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 

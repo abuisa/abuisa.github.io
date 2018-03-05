@@ -31,29 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
+	<!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>Python - Get md5 &amp; sha256 Hash | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="Python - Get md5 &amp; sha256 Hash" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Python - Get md5 &amp; sha256 Hash" />
 <meta property="og:description" content="Python - Get md5 &amp; sha256 Hash" />
-<link rel="canonical" href="https://abuisa.github.io//python-get-md5-and-hsa256-hash" />
-<meta property="og:url" content="https://abuisa.github.io//python-get-md5-and-hsa256-hash" />
+<link rel="canonical" href="http://localhost:4000/python-get-md5-and-hsa256-hash" />
+<meta property="og:url" content="http://localhost:4000/python-get-md5-and-hsa256-hash" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-12-18T00:00:00+07:00" />
 <script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "Python - Get md5 &amp; sha256 Hash",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-12-18T00:00:00+07:00",
-"description": "Python - Get md5 &amp; sha256 Hash",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "https://abuisa.github.io//python-get-md5-and-hsa256-hash"},
-"url": "https://abuisa.github.io//python-get-md5-and-hsa256-hash"}</script>
+{"description":"Python - Get md5 &amp; sha256 Hash","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/python-get-md5-and-hsa256-hash","headline":"Python - Get md5 &amp; sha256 Hash","dateModified":"2017-12-18T00:00:00+07:00","datePublished":"2017-12-18T00:00:00+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/python-get-md5-and-hsa256-hash"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -66,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="https://abuisa.github.io/">Home</a>
+		<a href="http://localhost:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -159,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -251,7 +243,7 @@
 
 <h3 id="python-script-">Python Script :</h3>
 
-<figure class="highlight"><pre><code class="language-python" data-lang="python"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
 2
 3
 4
@@ -269,7 +261,8 @@
 16
 17
 18
-19</pre></td><td class="code"><pre><span class="kn">from</span> <span class="nn">hashlib</span> <span class="kn">import</span> <span class="n">sha256</span><span class="p">,</span><span class="n">md5</span>
+19
+</pre></td><td class="code"><pre><span class="kn">from</span> <span class="nn">hashlib</span> <span class="kn">import</span> <span class="n">sha256</span><span class="p">,</span><span class="n">md5</span>
 <span class="kn">import</span> <span class="nn">hashlib</span>
 <span class="kn">from</span> <span class="nn">sys</span> <span class="kn">import</span> <span class="n">argv</span>
 
@@ -287,8 +280,7 @@
 		<span class="n">f</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">fn</span><span class="p">,</span> <span class="s">'rb'</span><span class="p">)</span>
 	<span class="k">with</span> <span class="n">f</span><span class="p">:</span>
 		<span class="k">print</span> <span class="p">(</span><span class="s">'SHA256 Hash </span><span class="se">\t</span><span class="s">: </span><span class="si">%</span><span class="s">s </span><span class="se">\t</span><span class="si">%</span><span class="s">s'</span> <span class="o">%</span> <span class="p">(</span><span class="n">sha256</span><span class="p">(</span><span class="n">f</span><span class="o">.</span><span class="n">read</span><span class="p">())</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">(),</span> <span class="n">fn</span><span class="p">))</span>
-		<span class="k">print</span> <span class="p">(</span><span class="s">'MD5 Hash </span><span class="se">\t</span><span class="s">: '</span><span class="o">+</span> <span class="n">md5</span><span class="p">(</span><span class="n">fn</span><span class="p">)</span><span class="o">+</span><span class="s">' </span><span class="se">\t\t\t\t\t</span><span class="s">'</span> <span class="o">+</span><span class="n">fn</span> <span class="p">)</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+		<span class="k">print</span> <span class="p">(</span><span class="s">'MD5 Hash </span><span class="se">\t</span><span class="s">: '</span><span class="o">+</span> <span class="n">md5</span><span class="p">(</span><span class="n">fn</span><span class="p">)</span><span class="o">+</span><span class="s">' </span><span class="se">\t\t\t\t\t</span><span class="s">'</span> <span class="o">+</span><span class="n">fn</span> <span class="p">)</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="example--">Example  :</h3>
 <ul>
@@ -314,7 +306,7 @@
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 

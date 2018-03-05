@@ -31,29 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
+	<!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>Linux Command Line Shell | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="Linux Command Line Shell" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Linux Command Line Shell" />
 <meta property="og:description" content="Linux Command Line Shell" />
-<link rel="canonical" href="https://abuisa.github.io//linux-command-line-shell" />
-<meta property="og:url" content="https://abuisa.github.io//linux-command-line-shell" />
+<link rel="canonical" href="http://localhost:4000/linux-command-line-shell" />
+<meta property="og:url" content="http://localhost:4000/linux-command-line-shell" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-12-02T00:00:00+07:00" />
 <script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "Linux Command Line Shell",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-12-02T00:00:00+07:00",
-"description": "Linux Command Line Shell",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "https://abuisa.github.io//linux-command-line-shell"},
-"url": "https://abuisa.github.io//linux-command-line-shell"}</script>
+{"description":"Linux Command Line Shell","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/linux-command-line-shell","headline":"Linux Command Line Shell","dateModified":"2017-12-02T00:00:00+07:00","datePublished":"2017-12-02T00:00:00+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/linux-command-line-shell"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -66,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="https://abuisa.github.io/">Home</a>
+		<a href="http://localhost:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -159,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -336,7 +328,7 @@
   <li><code class="highlighter-rouge">[!0-9]</code> match any character except digits</li>
   <li><code class="highlighter-rouge">[a-z]</code> match any lower case alphabets</li>
   <li><code class="highlighter-rouge">[0-9a-fA-F]</code> match any hexademical character</li>
-  <li><code class="highlighter-rouge"><span class="p">{</span><span class="err">word1,word2</span><span class="p">}</span></code> match either of the specified words
+  <li><code class="highlighter-rouge">{word1,word2}</code> match either of the specified words
     <ul>
       <li>words can themselves be made of wildcards</li>
     </ul>
@@ -384,53 +376,50 @@
 
 <p>To check if <code class="highlighter-rouge">extglob</code> is enabled or to enable/disable:</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span><span class="nb">shopt </span>extglob 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">shopt </span>extglob 
 extglob        	on
 
-<span class="gp">$ </span><span class="c"># unset extglob</span>
-<span class="gp">$ </span><span class="nb">shopt</span> -u extglob 
-<span class="gp">$ </span><span class="nb">shopt </span>extglob 
+<span class="nv">$ </span><span class="c"># unset extglob</span>
+<span class="nv">$ </span><span class="nb">shopt</span> <span class="nt">-u</span> extglob 
+<span class="nv">$ </span><span class="nb">shopt </span>extglob 
 extglob        	off
 
-<span class="gp">$ </span><span class="c"># set extglob</span>
-<span class="gp">$ </span><span class="nb">shopt</span> -s extglob 
-<span class="gp">$ </span><span class="nb">shopt </span>extglob 
+<span class="nv">$ </span><span class="c"># set extglob</span>
+<span class="nv">$ </span><span class="nb">shopt</span> <span class="nt">-s</span> extglob 
+<span class="nv">$ </span><span class="nb">shopt </span>extglob 
 extglob        	on
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>Examples</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>ls
-123.txt  main.c  math.h  power.log
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">ls
+</span>123.txt  main.c  math.h  power.log
 
-<span class="gp">$ </span><span class="nb">echo</span> +<span class="o">([</span>0-9]<span class="o">)</span>.txt
+<span class="nv">$ </span><span class="nb">echo</span> +<span class="o">([</span>0-9]<span class="o">)</span>.txt
 123.txt
 
-<span class="gp">$ </span>ls @<span class="o">(</span><span class="k">*</span>.c|<span class="k">*</span>.h<span class="o">)</span>
+<span class="nv">$ </span><span class="nb">ls</span> @<span class="o">(</span><span class="k">*</span>.c|<span class="k">*</span>.h<span class="o">)</span>
 main.c  math.h
 
-<span class="gp">$ </span>ls !<span class="o">(</span><span class="k">*</span>.txt<span class="o">)</span>
+<span class="nv">$ </span><span class="nb">ls</span> <span class="o">!(</span><span class="k">*</span>.txt<span class="o">)</span>
 main.c  math.h  power.log
-<span class="gp">$ </span>ls !<span class="o">(</span><span class="k">*</span>.c|<span class="k">*</span>.h<span class="o">)</span>
+<span class="nv">$ </span><span class="nb">ls</span> <span class="o">!(</span><span class="k">*</span>.c|<span class="k">*</span>.h<span class="o">)</span>
 123.txt  power.log
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><strong>Recursively search current directory and its sub-folders</strong></p>
 
 <p>Set <code class="highlighter-rouge">globstar</code> and prefix pattern with <code class="highlighter-rouge">**/</code> to search recursively</p>
 
-<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>find -name <span class="s1">'*.txt'</span>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>find <span class="nt">-name</span> <span class="s1">'*.txt'</span>
 ./song_list.txt
 ./bar/f1.txt
 ./bar/baz/f2.txt
 
-<span class="gp">$ </span><span class="nb">shopt</span> -s globstar
-<span class="gp">$ </span>ls <span class="k">**</span>/<span class="k">*</span>.txt
+<span class="nv">$ </span><span class="nb">shopt</span> <span class="nt">-s</span> globstar
+<span class="nv">$ </span><span class="nb">ls</span> <span class="k">**</span>/<span class="k">*</span>.txt
 bar/baz/f2.txt  bar/f1.txt  song_list.txt
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p><strong>Further Reading</strong></p>
 
@@ -487,7 +476,7 @@ bar/baz/f2.txt  bar/f1.txt  song_list.txt
       <li>commands grouped in <code class="highlighter-rouge">()</code> gets executed in a subshell environment</li>
     </ul>
   </li>
-  <li><code class="highlighter-rouge"><span class="p">{</span><span class="w"> </span><span class="err">head</span><span class="w"> </span><span class="err">-5</span><span class="w"> </span><span class="err">~/.vimrc</span><span class="w"> </span><span class="err">;</span><span class="w"> </span><span class="err">tail</span><span class="w"> </span><span class="err">-5</span><span class="w"> </span><span class="err">~/.vimrc</span><span class="w"> </span><span class="err">;</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="err">&gt;</span><span class="w"> </span><span class="err">vimrc_snippet.txt</span></code> gets executed in current shell context</li>
+  <li><code class="highlighter-rouge">{ head -5 ~/.vimrc ; tail -5 ~/.vimrc ; } &gt; vimrc_snippet.txt</code> gets executed in current shell context</li>
   <li><a href="http://www.gnu.org/software/bash/manual/bashref.html#Command-Grouping">Command grouping</a></li>
 </ul>
 
@@ -714,7 +703,7 @@ bar/baz/f2.txt  bar/f1.txt  song_list.txt
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 

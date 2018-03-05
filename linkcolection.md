@@ -280,6 +280,14 @@ header: Links
 			<li><a href="http://www.secmaniac.com" target="_blank">www.secmaniac.com</a></li>
 			<li><a href="http://www.irongeek.com" target="_blank">www.irongeek.com</a></li>
 		</ul>
+
+	<h3> Hacking Search Engine </h3>
+		<ul>
+			<li><a href="https://www.shodan.io/" target="_blank">www.shodan.io </a></li>
+			<li><a href="https://punk.sh/#/" target="_blank">punk.sh </a></li>
+			<li><a href=" " target="_blank">punk.sh </a></li>
+		</ul>
+
 	<h3> Private Search Engine </h3>
 		<ul>
 			<li><a href="https://duckduckgo.com/" target="_blank">duckduckgo.com</a></li>
@@ -288,6 +296,15 @@ header: Links
 			<li><a href="https://hulbee.com/" target="_blank">hulbee.com</a></li>
 			<li><a href="https://oscobo.co.uk/search.php" target="_blank">oscobo.co.uk</a></li>
 			<li><a href="http://gibiru.com/" target="_blank">gibiru.com</a></li>
+		</ul>
+	<h3> Anonymous on the internet</h3>
+		<ul>
+			<li><a href="https://freenetproject.org/" target="_blank">freenetproject.org</a></li>
+			<li><a href="https://geti2p.net/en/" target="_blank">geti2p.net</a></li>
+			<li><a href="https://torproject.org" target="_blank">torproject.org </a></li>
+<!--			
+			<li><a href=" " target="_blank"> </a></li>
+-->
 		</ul>
 	</div>
 </div>

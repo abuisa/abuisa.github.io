@@ -31,29 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.2.0 -->
+	<!-- Begin Jekyll SEO tag v2.4.0 -->
 <title>BackUp Web ini ke Offline dengan FIND dan SED | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.7.3" />
 <meta property="og:title" content="BackUp Web ini ke Offline dengan FIND dan SED" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="BackUp Web ini ke Offline dengan FIND dan SED" />
 <meta property="og:description" content="BackUp Web ini ke Offline dengan FIND dan SED" />
-<link rel="canonical" href="https://abuisa.github.io//menggunakan-grep-dan-sed" />
-<meta property="og:url" content="https://abuisa.github.io//menggunakan-grep-dan-sed" />
+<link rel="canonical" href="http://localhost:4000/menggunakan-grep-dan-sed" />
+<meta property="og:url" content="http://localhost:4000/menggunakan-grep-dan-sed" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-11-24T00:00:00+07:00" />
 <script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": "BlogPosting",
-"headline": "BackUp Web ini ke Offline dengan FIND dan SED",
-"author": {"@type": "Person",
-"name": {"name":"Ikhwan Elyas","email":"elyas.uii14@gmail.com","url":"https://abuisa.github.io"}},
-"datePublished": "2017-11-24T00:00:00+07:00",
-"description": "BackUp Web ini ke Offline dengan FIND dan SED",
-"mainEntityOfPage": {"@type": "WebPage",
-"@id": "https://abuisa.github.io//menggunakan-grep-dan-sed"},
-"url": "https://abuisa.github.io//menggunakan-grep-dan-sed"}</script>
+{"description":"BackUp Web ini ke Offline dengan FIND dan SED","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/menggunakan-grep-dan-sed","headline":"BackUp Web ini ke Offline dengan FIND dan SED","dateModified":"2017-11-24T00:00:00+07:00","datePublished":"2017-11-24T00:00:00+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/menggunakan-grep-dan-sed"},"@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -66,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="https://abuisa.github.io/">Home</a>
+		<a href="http://localhost:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -159,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -261,7 +253,7 @@
   <li>Berikut contoh bash script untuk mencari beberap string yang akan di-replace dengan string lainnya :</li>
 </ul>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
 2
 3
 4
@@ -284,31 +276,31 @@
 21
 22
 23
-24</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
-<span class="nb">echo</span> -e <span class="s2">"Start to Copy......"</span>
-cp -r ../abuisa.github.io/_site/ ./
-<span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: Copy Success......"</span>
-<span class="nb">echo</span> -e <span class="s2">"Start to Clear......"</span>
-find _site/ -type f -exec sed -i <span class="s1">'s/\/css/css/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="nb">echo</span> -e <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: Clear....."</span>
-find _site/ -type f -exec sed -i <span class="s1">'s/https:\/\/abuisa.github.io\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="nb">echo</span> -e <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: Clear....."</span>
-find _site/ -type f -exec sed -i <span class="s1">'s/http:\/\/0.0.0.0:4000\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="nb">echo</span> -e <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: Clear....."</span>
-find _site/ -type f -exec sed -i <span class="s1">'s/"\/categories"/"categories.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="nb">echo</span> -e <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
-find _site/ -type f -exec sed -i <span class="s1">'s/"\/linkcolection"/"linkcolection.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="nb">echo</span> -e <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
-find _site/ -type f -exec sed -i <span class="s1">'s/"\/penelitian"/"penelitian.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="nb">echo</span> -e <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
-find _site/ -type f -exec sed -i <span class="s1">'s/"\/me"/"me.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="nb">echo</span> -e <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: Clear....."</span>
-find _site/ -type f -exec sed -i <span class="s1">'s/src="\/js/src="js/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="nb">echo</span> -e <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: Clear....."</span>
-rm .fuse_hidden00<span class="k">*</span>
-<span class="nb">echo</span> -e <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: Clear....."</span>
-<span class="nb">echo</span> -e <span class="s2">"Clear Finished !..."</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+24
+</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Start to Copy......"</span>
+<span class="nb">cp</span> <span class="nt">-r</span> ../abuisa.github.io/_site/ ./
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: Copy Success......"</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Start to Clear......"</span>
+find _site/ <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/\/css/css/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: Clear....."</span>
+find _site/ <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/https:\/\/abuisa.github.io\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: Clear....."</span>
+find _site/ <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/http:\/\/0.0.0.0:4000\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: Clear....."</span>
+find _site/ <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/categories"/"categories.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
+find _site/ <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/linkcolection"/"linkcolection.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
+find _site/ <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/penelitian"/"penelitian.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: Clear....."</span>
+find _site/ <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/me"/"me.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: Clear....."</span>
+find _site/ <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/src="\/js/src="js/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: Clear....."</span>
+<span class="nb">rm</span> .fuse_hidden00<span class="k">*</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: Clear....."</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Clear Finished !..."</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="buat-setiap-halaman-web-ini-dapat-di-akses-offline">Buat setiap halaman web ini dapat di akses OFFLINE</h3>
 
@@ -324,7 +316,7 @@ rm .fuse_hidden00<span class="k">*</span>
   <li>Versi 1.1 dibawah diupload pada 22,12,2017.</li>
 </ul>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
 2
 3
 4
@@ -416,107 +408,107 @@ rm .fuse_hidden00<span class="k">*</span>
 90
 91
 92
-93</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
-<span class="nb">echo</span> -e <span class="s2">"Start to Copy......"</span>
-<span class="k">if </span>cp -ru ../abuisa.github.io/_site/ ./ 
+93
+</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Start to Copy......"</span>
+<span class="k">if </span><span class="nb">cp</span> <span class="nt">-ru</span> ../abuisa.github.io/_site/ ./ 
 <span class="k">then</span> 
 	<span class="c">#notify-send "Copy Data Suksess" -i info</span>
-	<span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: OK, Copy Success......"</span>
+	<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: OK, Copy Success......"</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Copy  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Copy  !"</span>
 <span class="k">fi
 
-</span><span class="nb">echo</span> -e <span class="s2">"Start to Clear......"</span>
-<span class="k">if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/\/css/css/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Start to Clear......"</span>
+<span class="k">if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/\/css/css/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
 <span class="k">then 
-	</span><span class="nb">echo</span> -e <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/https:\/\/abuisa.github.io\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/https:\/\/abuisa.github.io\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
 <span class="k">then 
-	</span><span class="nb">echo</span> -e <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: GAGAL Clear  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/http:\/\/0.0.0.0:4000\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/http:\/\/0.0.0.0:4000\///g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
 <span class="k">then 
-	</span><span class="nb">echo</span> -e <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: GAGAL Clear  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/"\/categories"/"categories.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/categories"/"categories.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
 <span class="k">then 
-	</span><span class="nb">echo</span> -e <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi 
 	
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/"\/linkcolection"/"linkcolection.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/linkcolection"/"linkcolection.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
 <span class="k">then 
-	</span><span class="nb">echo</span> -e <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/"\/penelitian"/"penelitian.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/penelitian"/"penelitian.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
 <span class="k">then
-	</span><span class="nb">echo</span> -e <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/"\/me"/"me.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/me"/"me.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
 <span class="k">then
-	</span><span class="nb">echo</span> -e <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/src="\/js/src="js/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/src="\/js/src="js/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
 <span class="k">then
-	</span><span class="nb">echo</span> -e <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-</span><span class="nv">ix</span><span class="o">=</span><span class="k">$(</span>find . -name <span class="s2">".fuse_hidden00*"</span>|wc -l<span class="k">)</span>;
+</span><span class="nv">ix</span><span class="o">=</span><span class="k">$(</span>find <span class="nb">.</span> <span class="nt">-name</span> <span class="s2">".fuse_hidden00*"</span>|wc <span class="nt">-l</span><span class="k">)</span><span class="p">;</span>
 <span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$ix</span><span class="s2">"</span> <span class="o">==</span> <span class="s2">"0"</span> <span class="o">]</span>
 <span class="k">then 
-	</span><span class="nb">echo</span> -e <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: GAGAL, File Not Found !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: GAGAL, File Not Found !"</span>
 <span class="k">else
 	</span><span class="nb">echo</span> <span class="s2">"Aada "</span>
-	<span class="k">if </span>rm .fuse_hidden00<span class="k">*</span>
+	<span class="k">if </span><span class="nb">rm</span> .fuse_hidden00<span class="k">*</span>
 	<span class="k">then
-		</span><span class="nb">echo</span> -e <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
+		</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
 	<span class="k">fi
 fi
 
 if</span> <span class="o">[</span> <span class="nv">$1</span>
-<span class="nv">pt</span><span class="o">=</span><span class="k">$(</span>zenity --entry --title<span class="o">=</span><span class="s2">"Copyt File"</span> --text<span class="o">=</span><span class="s2">"Input Destination Path : "</span><span class="k">)</span>;
-<span class="k">if </span>sudo cp -rfu _site/ <span class="s2">"</span><span class="nv">$pt</span><span class="s2">"</span>
+<span class="nv">pt</span><span class="o">=</span><span class="k">$(</span>zenity <span class="nt">--entry</span> <span class="nt">--title</span><span class="o">=</span><span class="s2">"Copyt File"</span> <span class="nt">--text</span><span class="o">=</span><span class="s2">"Input Destination Path : "</span><span class="k">)</span><span class="p">;</span>
+<span class="k">if </span><span class="nb">sudo cp</span> <span class="nt">-rfu</span> _site/ <span class="s2">"</span><span class="nv">$pt</span><span class="s2">"</span>
 <span class="k">then 
-	</span><span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: OK, Copy to '</span><span class="nv">$pt</span><span class="s2">' Success......"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: OK, Copy to '</span><span class="nv">$pt</span><span class="s2">' Success......"</span>
 <span class="k">else
-	</span><span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Copy to '</span><span class="nv">$pt</span><span class="s2">'  !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Copy to '</span><span class="nv">$pt</span><span class="s2">'  !"</span>
 <span class="k">fi
 
-</span><span class="nb">echo</span> -e <span class="s2">"Clear Finished !..."</span>
+</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Clear Finished !..."</span>
 <span class="c">##--- Dengan menampilkan Notifikasi di layar desktop ---</span>
-notify-send <span class="s2">"Selesai On_Web to Off_Web !"</span> -i text-x-script
-zenity --display :0 --info --width<span class="o">=</span>150 --height<span class="o">=</span>100 --title <span class="s2">"BackUp Finished !"</span> --text <span class="s2">"Selesai Menyalin Web_on To Web_Off"</span> <span class="c"># OK,</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+notify-send <span class="s2">"Selesai On_Web to Off_Web !"</span> <span class="nt">-i</span> text-x-script
+zenity <span class="nt">--display</span> :0 <span class="nt">--info</span> <span class="nt">--width</span><span class="o">=</span>150 <span class="nt">--height</span><span class="o">=</span>100 <span class="nt">--title</span> <span class="s2">"BackUp Finished !"</span> <span class="nt">--text</span> <span class="s2">"Selesai Menyalin Web_on To Web_Off"</span> <span class="c"># OK,</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <h3 id="script-versi-12-">Script Versi 1.2 :</h3>
 <ul>
   <li>Versi 1.2 dibawah diupload pada 25,12,2017.</li>
 </ul>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
 2
 3
 4
@@ -632,124 +624,124 @@ zenity --display :0 --info --width<span class="o">=</span>150 --height<span clas
 114
 115
 116
-117</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
-<span class="nb">echo</span> -e <span class="s2">"Start to Copy......"</span>
-<span class="k">if </span>cp -rf ../abuisa.github.io/_site/ ./ 
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: OK, Copy Success......"</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Copy  !"</span>
+117
+</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Start to Copy......"</span>
+<span class="k">if </span><span class="nb">cp</span> <span class="nt">-rf</span> ../abuisa.github.io/_site/ ./ 
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: OK, Copy Success......"</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Copy  !"</span>
 <span class="k">fi
 
-</span><span class="nb">echo</span> -e <span class="s2">"Start to Clear......"</span>
-<span class="k">if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/\/css/css/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Start to Clear......"</span>
+<span class="k">if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/\/css/css/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"css </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
 
-if </span>sed -i <span class="s1">'s/&lt;li&gt;&lt;a href="https:\/\/abuisa.github.io\//&lt;li&gt;&lt;a href="/g'</span> _site/categories.html
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"categories 1</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"categories 1</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span><span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/&lt;li&gt;&lt;a href="https:\/\/abuisa.github.io\//&lt;li&gt;&lt;a href="/g'</span> _site/categories.html
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"categories 1</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"categories 1</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>sed -i <span class="s1">'s/&lt;li&gt;&lt;a href="http:\/\/0.0.0.0:4000\//&lt;li&gt;&lt;a href="/g'</span> _site/categories.html
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"categories 2</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"categories 2</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span><span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/&lt;li&gt;&lt;a href="http:\/\/0.0.0.0:4000\//&lt;li&gt;&lt;a href="/g'</span> _site/categories.html
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"categories 2</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"categories 2</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/https:\/\/abuisa.github.io\//index.html/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/https:\/\/abuisa.github.io\//index.html/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 1</span><span class="se">\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/http:\/\/0.0.0.0:4000\//index.html/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/http:\/\/0.0.0.0:4000\//index.html/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"remove hostname 2</span><span class="se">\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/"\/categories"/"categories.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/categories"/"categories.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"categories </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi 
 	
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/"\/linkcolection"/"linkcolection.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/linkcolection"/"linkcolection.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"linkcolection </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/"\/penelitian"/"penelitian.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/penelitian"/"penelitian.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"penelitian </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/"\/me"/"me.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/"\/me"/"me.html"/g'</span> <span class="o">{}</span> + <span class="c"># Replace string </span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"me </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
 
-if </span>find _site/<span class="k">*</span>.html -type f -exec sed -i <span class="s1">'s/src="\/js/src="js/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/<span class="k">*</span>.html <span class="nt">-type</span> f <span class="nt">-exec</span> <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/src="\/js/src="js/g'</span> <span class="o">{}</span> + <span class="c"># Replace string</span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Js </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span> -type f -name <span class="s1">'index.html'</span>|xargs sed -i <span class="s1">'s/&lt;h2&gt;&lt;a href="\//&lt;h2&gt;&lt;a href="/g'</span> 
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"Index.html </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"Index.html </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/<span class="k">*</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s1">'index.html'</span>|xargs <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/&lt;h2&gt;&lt;a href="\//&lt;h2&gt;&lt;a href="/g'</span> 
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Index.html </span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Index.html </span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/<span class="k">*</span> -type f -name <span class="s1">'index.html'</span>|xargs sed -i <span class="s1">'s/&lt;a href="\/page/&lt;a href="page/g'</span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"Page </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"Page </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/<span class="k">*</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s1">'index.html'</span>|xargs <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/&lt;a href="\/page/&lt;a href="page/g'</span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page </span><span class="se">\t\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/page<span class="k">*</span> -type f -name <span class="s1">'index.html'</span>|xargs sed -i <span class="s1">'s/src="\/js\/main.js"/src="..\/js\/main.js"/g'</span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"Page header 1</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"Page header 1</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/page<span class="k">*</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s1">'index.html'</span>|xargs <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/src="\/js\/main.js"/src="..\/js\/main.js"/g'</span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page header 1</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page header 1</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/page<span class="k">*</span> -type f -name <span class="s1">'index.html'</span>|xargs sed -i <span class="s1">'s/src="js\/jquery.min.js/src="..\/js\/jquery.min.js/g'</span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"Page header 2</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"Page header 2</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/page<span class="k">*</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s1">'index.html'</span>|xargs <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/src="js\/jquery.min.js/src="..\/js\/jquery.min.js/g'</span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page header 2</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page header 2</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/page<span class="k">*</span> -type f -name <span class="s1">'index.html'</span>|xargs sed -i <span class="s1">'s/src="js\/hijricalendar-kuwaiti.js/src="..\/js\/hijricalendar-kuwaiti.js/g'</span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"Page header 3</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"Page header 3</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/page<span class="k">*</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s1">'index.html'</span>|xargs <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/src="js\/hijricalendar-kuwaiti.js/src="..\/js\/hijricalendar-kuwaiti.js/g'</span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page header 3</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page header 3</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-if </span>find _site/page<span class="k">*</span> -type f -name <span class="s1">'index.html'</span>|xargs sed -i <span class="s1">'s/src="js\/modulku.js/src="..\/js\/modulku.js/g'</span>
-<span class="k">then </span><span class="nb">echo</span> -e <span class="s2">"Page header 4</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
-<span class="k">else </span><span class="nb">echo</span> -e <span class="s2">"Page header 4</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
+if </span>find _site/page<span class="k">*</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s1">'index.html'</span>|xargs <span class="nb">sed</span> <span class="nt">-i</span> <span class="s1">'s/src="js\/modulku.js/src="..\/js\/modulku.js/g'</span>
+<span class="k">then </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page header 4</span><span class="se">\t\t</span><span class="s2">: OK, Clear....."</span>
+<span class="k">else </span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Page header 4</span><span class="se">\t\t</span><span class="s2">: GAGAL Clear  !"</span>
 <span class="k">fi
 
-</span><span class="nv">ix</span><span class="o">=</span><span class="k">$(</span>find . -name <span class="s2">".fuse_hidden00*"</span>|wc -l<span class="k">)</span>;
+</span><span class="nv">ix</span><span class="o">=</span><span class="k">$(</span>find <span class="nb">.</span> <span class="nt">-name</span> <span class="s2">".fuse_hidden00*"</span>|wc <span class="nt">-l</span><span class="k">)</span><span class="p">;</span>
 <span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$ix</span><span class="s2">"</span> <span class="o">==</span> <span class="s2">"0"</span> <span class="o">]</span>
 <span class="k">then 
-	</span><span class="nb">echo</span> -e <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: GAGAL, File Not Found !"</span>
+	</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: GAGAL, File Not Found !"</span>
 <span class="k">else
 	</span><span class="nb">echo</span> <span class="s2">"Aada "</span>
-	<span class="k">if </span>rm .fuse_hidden00<span class="k">*</span>
+	<span class="k">if </span><span class="nb">rm</span> .fuse_hidden00<span class="k">*</span>
 	<span class="k">then
-		</span><span class="nb">echo</span> -e <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
+		</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Remove .fuse_hidden00* </span><span class="se">\t</span><span class="s2">: OK, Clear....."</span>
 	<span class="k">fi
 fi
 
 if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span> <span class="o">==</span> <span class="s2">"-"</span> <span class="o">]</span>
 <span class="k">then
-	</span><span class="nv">pt</span><span class="o">=</span><span class="k">$(</span>zenity --entry --title<span class="o">=</span><span class="s2">"Copyt File"</span> --text<span class="o">=</span><span class="s2">"Input Destination Path : "</span><span class="k">)</span>;
-	<span class="k">if </span>sudo cp -rfu _site/ <span class="s2">"</span><span class="nv">$pt</span><span class="s2">"</span>
+	</span><span class="nv">pt</span><span class="o">=</span><span class="k">$(</span>zenity <span class="nt">--entry</span> <span class="nt">--title</span><span class="o">=</span><span class="s2">"Copyt File"</span> <span class="nt">--text</span><span class="o">=</span><span class="s2">"Input Destination Path : "</span><span class="k">)</span><span class="p">;</span>
+	<span class="k">if </span><span class="nb">sudo cp</span> <span class="nt">-rfu</span> _site/ <span class="s2">"</span><span class="nv">$pt</span><span class="s2">"</span>
 	<span class="k">then 
-		</span><span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: OK, Copy to '</span><span class="nv">$pt</span><span class="s2">' Success......"</span>
+		</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: OK, Copy to '</span><span class="nv">$pt</span><span class="s2">' Success......"</span>
 	<span class="k">else
-		</span><span class="nb">echo</span> -e <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Copy to '</span><span class="nv">$pt</span><span class="s2">'  !"</span>
+		</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"Copy </span><span class="se">\t\t\t</span><span class="s2">: GAGAL Copy to '</span><span class="nv">$pt</span><span class="s2">'  !"</span>
 	<span class="k">fi
 fi
 
-</span><span class="nb">echo</span> -e <span class="s2">"BackUp Finished !..."</span>
+</span><span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"BackUp Finished !..."</span>
 <span class="c">##--- Dengan menampilkan Notifikasi di layar desktop ---</span>
-notify-send <span class="s2">"Selesai On_Web to Off_Web !"</span> -i text-x-script
-zenity --display :0 --info --width<span class="o">=</span>150 --height<span class="o">=</span>100 --title <span class="s2">"BackUp Finished !"</span> --text <span class="s2">"Selesai Menyalin Web_on To Web_Off"</span> <span class="c"># OK,</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
+notify-send <span class="s2">"Selesai On_Web to Off_Web !"</span> <span class="nt">-i</span> text-x-script
+zenity <span class="nt">--display</span> :0 <span class="nt">--info</span> <span class="nt">--width</span><span class="o">=</span>150 <span class="nt">--height</span><span class="o">=</span>100 <span class="nt">--title</span> <span class="s2">"BackUp Finished !"</span> <span class="nt">--text</span> <span class="s2">"Selesai Menyalin Web_on To Web_Off"</span> <span class="c"># OK,</span></pre></td></tr></tbody></table></code></pre></figure>
 
 <hr />
 
@@ -769,7 +761,7 @@ zenity --display :0 --info --width<span class="o">=</span>150 --height<span clas
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2017 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 
