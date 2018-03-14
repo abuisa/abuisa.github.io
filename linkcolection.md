@@ -306,6 +306,17 @@ header: Links
 			<li><a href=" " target="_blank"> </a></li>
 -->
 		</ul>
+	<h3> OS for Privacy & Security </h3>
+		<ul>
+			<li><a href="https://www.qubes-os.org/" target="_blank">www.qubes-os.org </a></li>
+			<li><a href="https://tails.boum.org/" target="_blank">www.tails.boum.org </a></li>
+			<li><a href="https://subgraph.com/sgos/" target="_blank">www.subgraph-os.com </a></li>
+			<li><a href="https://www.spi.dod.mil/" target="_blank">www.tens.org </a></li>
+			<li><a href="https://blackarch.org/" target="_blank">www.blackarch.org </a></li>
+			<li><a href="https://www.digi77.com/linux-kodachi/" target="_blank">hwww.linux-kodachi.com </a></li>
+			<li><a href="https://www.whonix.org/" target="_blank">www.whonix.org </a></li>
+
+		</ul>
 	</div>
 </div>
 
