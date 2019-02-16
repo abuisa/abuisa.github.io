@@ -31,21 +31,21 @@
  -->
 	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
 
-	<!-- Begin Jekyll SEO tag v2.4.0 -->
+	<!-- Begin Jekyll SEO tag v2.5.0 -->
 <title>Python - Akses MySql dan Operasi menggunakan Python | IkhwanElyas Page</title>
-<meta name="generator" content="Jekyll v3.7.3" />
+<meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Python - Akses MySql dan Operasi menggunakan Python" />
 <meta name="author" content="Ikhwan Elyas" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Python - Akses MySql dan Operasi menggunakan Python" />
 <meta property="og:description" content="Python - Akses MySql dan Operasi menggunakan Python" />
-<link rel="canonical" href="http://localhost:4000/mysql-menggunakan-python" />
-<meta property="og:url" content="http://localhost:4000/mysql-menggunakan-python" />
+<link rel="canonical" href="http://0.0.0.0:4000/mysql-menggunakan-python" />
+<meta property="og:url" content="http://0.0.0.0:4000/mysql-menggunakan-python" />
 <meta property="og:site_name" content="IkhwanElyas Page" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2017-05-25T10:20:01+09:00" />
+<meta property="article:published_time" content="2017-05-25T01:20:01+00:00" />
 <script type="application/ld+json">
-{"description":"Python - Akses MySql dan Operasi menggunakan Python","author":{"@type":"Person","name":"Ikhwan Elyas"},"@type":"BlogPosting","url":"http://localhost:4000/mysql-menggunakan-python","headline":"Python - Akses MySql dan Operasi menggunakan Python","dateModified":"2017-05-25T10:20:01+09:00","datePublished":"2017-05-25T10:20:01+09:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/mysql-menggunakan-python"},"@context":"http://schema.org"}</script>
+{"headline":"Python - Akses MySql dan Operasi menggunakan Python","dateModified":"2017-05-25T01:20:01+00:00","datePublished":"2017-05-25T01:20:01+00:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://0.0.0.0:4000/mysql-menggunakan-python"},"url":"http://0.0.0.0:4000/mysql-menggunakan-python","author":{"@type":"Person","name":"Ikhwan Elyas"},"description":"Python - Akses MySql dan Operasi menggunakan Python","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -58,7 +58,7 @@
 	  	<!-- Navigation -->
 	  	<nav id="nav">
 	<div id="nav-list">
-		<a href="http://localhost:4000/">Home</a>
+		<a href="http://0.0.0.0:4000/">Home</a>
 
     <!-- Nav links -->
 	  <!--
@@ -151,7 +151,7 @@
     </span>
 -->
     <span class="f-left">  
-      <a href="http://localhost:4000/"> <!-- |site.baseurl : / | site.url : http://localhost:4000 -->
+      <a href="http://0.0.0.0:4000/"> <!-- |site.baseurl : / | site.url : http://0.0.0.0:4000 -->
         <h1>
           Ikhwan<span>Elyas</span> 
         </h1>
@@ -234,7 +234,7 @@
 
 			<article id="post-page">
 	<h2>Python - Akses MySql dan Operasi menggunakan Python</h2>		
-	<time datetime="2017-05-25T10:20:01+09:00" class="by-line">25 May 2017 | Programming</time>
+	<time datetime="2017-05-25T01:20:01+00:00" class="by-line">25 May 2017 | Programming</time>
 	<div class="content">
 
 		<p>Berikut merupakan scrip Python untuk melakukan konneksi ke database mysql, melakukan operasi SELEC, dan INPUT data ke database mysql. Script lengkap dan terbaru dapat dilihat di <a href="https://github.com/abuisa/python-mysql/blob/master/mysql-python.py" target="_blank">github</a></p>
@@ -514,14 +514,14 @@ $ masukkan password (password mysql anda):</p>
 103
 104
 105
-</pre></td><td class="code"><pre><span class="c">#!/usr/bin/python</span>
-<span class="kn">import</span> <span class="nn">os</span>
+</pre></td><td class="code"><pre><span class="c1">#!/usr/bin/python
+</span><span class="kn">import</span> <span class="nn">os</span>
 <span class="kn">import</span> <span class="nn">hashlib</span>
 <span class="kn">import</span> <span class="nn">MySQLdb</span>
 <span class="kn">from</span> <span class="nn">time</span> <span class="kn">import</span> <span class="n">gmtime</span><span class="p">,</span> <span class="n">strftime</span>
 
-<span class="c">#--- -----------------------------</span>
-<span class="s">""" 
+<span class="c1">#--- -----------------------------
+</span><span class="s">""" 
 1.SCRIPT UNTUK AMBIL DATA DARI MYSQL DATABASE DAN BENTUK MENJADI FILE A
 CONTOH FILE A : 
 -----------------------------
@@ -531,73 +531,73 @@ CONTOH FILE A :
 2.SCRIPT UNTUK INPUT DATA KE TABEL MYSQL 
 CONTOH DIBAWAH : masukkandata() dan masukkandata1().
 """</span>
-<span class="c">#--- -----------------------------</span>
-<span class="k">def</span> <span class="nf">fwrite</span><span class="p">(</span><span class="n">fl</span><span class="p">,</span><span class="n">s</span><span class="p">):</span>
+<span class="c1">#--- -----------------------------
+</span><span class="k">def</span> <span class="nf">fwrite</span><span class="p">(</span><span class="n">fl</span><span class="p">,</span><span class="n">s</span><span class="p">):</span>
 	<span class="n">f</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">fl</span><span class="p">,</span> <span class="s">"a+"</span><span class="p">)</span>
 	<span class="n">f</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
 	<span class="n">f</span><span class="o">.</span><span class="n">close</span>
-<span class="c">#--- -------------------------------</span>
-
-<span class="n">db</span> <span class="o">=</span> <span class="n">MySQLdb</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">host</span><span class="o">=</span><span class="s">"localhost"</span><span class="p">,</span>    <span class="c"># your host, usually localhost</span>
-                     <span class="n">user</span><span class="o">=</span><span class="s">"root"</span><span class="p">,</span>         <span class="c"># your username</span>
-                     <span class="n">passwd</span><span class="o">=</span><span class="s">"pass"</span><span class="p">,</span>  	  <span class="c"># your password</span>
-                     <span class="n">db</span><span class="o">=</span><span class="s">"dbfilelist"</span><span class="p">)</span>     <span class="c"># name of the data base</span>
-
-<span class="c"># you must create a Cursor object. It will let</span>
-<span class="c">#  you execute all the queries you need</span>
-<span class="n">cur</span> <span class="o">=</span> <span class="n">db</span><span class="o">.</span><span class="n">cursor</span><span class="p">()</span>
-<span class="c"># --- ----FOR QUERY DATA -----</span>
-<span class="k">def</span> <span class="nf">strquery</span><span class="p">(</span><span class="n">sql</span><span class="p">):</span>
+<span class="c1">#--- -------------------------------
+</span>
+<span class="n">db</span> <span class="o">=</span> <span class="n">MySQLdb</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">host</span><span class="o">=</span><span class="s">"localhost"</span><span class="p">,</span>    <span class="c1"># your host, usually localhost
+</span>                     <span class="n">user</span><span class="o">=</span><span class="s">"root"</span><span class="p">,</span>         <span class="c1"># your username
+</span>                     <span class="n">passwd</span><span class="o">=</span><span class="s">"pass"</span><span class="p">,</span>  	  <span class="c1"># your password
+</span>                     <span class="n">db</span><span class="o">=</span><span class="s">"dbfilelist"</span><span class="p">)</span>     <span class="c1"># name of the data base
+</span>
+<span class="c1"># you must create a Cursor object. It will let
+#  you execute all the queries you need
+</span><span class="n">cur</span> <span class="o">=</span> <span class="n">db</span><span class="o">.</span><span class="n">cursor</span><span class="p">()</span>
+<span class="c1"># --- ----FOR QUERY DATA -----
+</span><span class="k">def</span> <span class="nf">strquery</span><span class="p">(</span><span class="n">sql</span><span class="p">):</span>
 	<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="n">sql</span><span class="p">)</span>
 	<span class="n">cur</span><span class="o">.</span><span class="n">fetchall</span><span class="p">()</span>
 	<span class="n">db</span><span class="o">.</span><span class="n">commit</span><span class="p">()</span>
 	<span class="k">print</span> <span class="s">" Suksesss Process Data..."</span>
-<span class="c"># --- ----END FOR QUERY DATA -----</span>
-<span class="c"># --- -------SHOW DATA ----- OK</span>
-<span class="k">def</span> <span class="nf">showdata</span><span class="p">():</span>
-	<span class="c">#cur.execute("SELECT * FROM tflist1 WHERE flist like '%TESSS%'")</span>
-	<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s">"SELECT * FROM tflist1"</span><span class="p">)</span>
+<span class="c1"># --- ----END FOR QUERY DATA -----
+# --- -------SHOW DATA ----- OK
+</span><span class="k">def</span> <span class="nf">showdata</span><span class="p">():</span>
+	<span class="c1">#cur.execute("SELECT * FROM tflist1 WHERE flist like '%TESSS%'")
+</span>	<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s">"SELECT * FROM tflist1"</span><span class="p">)</span>
 	<span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">cur</span><span class="o">.</span><span class="n">fetchall</span><span class="p">():</span>
 		<span class="k">print</span> <span class="n">row</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span> <span class="o">+</span><span class="s">"  "</span> <span class="o">+</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
 	<span class="k">print</span> <span class="s">"--------END---DATA-----------"</span>
-<span class="c"># --- ------END SHOW DATA -----</span>
-
-<span class="c"># --- ----- INSERT DATA TEST---------- OK</span>
-<span class="k">def</span> <span class="nf">tesmasukkandata</span><span class="p">():</span>
+<span class="c1"># --- ------END SHOW DATA -----
+</span>
+<span class="c1"># --- ----- INSERT DATA TEST---------- OK
+</span><span class="k">def</span> <span class="nf">tesmasukkandata</span><span class="p">():</span>
 	<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s">"INSERT INTO `tflist1` (id, `flist`, `hash`,`addt`) VALUES (1111111, 'tes-TESSSSS.conf', 'TESSSSa5221', '2017-03-28 17:39')"</span><span class="p">)</span>
 	<span class="n">cur</span><span class="o">.</span><span class="n">fetchall</span><span class="p">()</span>
 	<span class="n">db</span><span class="o">.</span><span class="n">commit</span><span class="p">()</span>
 	<span class="k">print</span> <span class="s">" Suksesss Tes Input Data..."</span>
-<span class="c"># --- ------- END INSERT DATA ---------</span>
-
-<span class="c"># --- ------TES Input Data From Another Process -----</span>
-<span class="k">def</span> <span class="nf">masukkandata</span><span class="p">(</span><span class="n">d1</span><span class="p">,</span><span class="n">d2</span><span class="p">):</span>
+<span class="c1"># --- ------- END INSERT DATA ---------
+</span>
+<span class="c1"># --- ------TES Input Data From Another Process -----
+</span><span class="k">def</span> <span class="nf">masukkandata</span><span class="p">(</span><span class="n">d1</span><span class="p">,</span><span class="n">d2</span><span class="p">):</span>
 	<span class="n">d3</span> <span class="o">=</span> <span class="n">strftime</span><span class="p">(</span><span class="s">"</span><span class="si">%</span><span class="s">Y-</span><span class="si">%</span><span class="s">m-</span><span class="si">%</span><span class="s">d </span><span class="si">%</span><span class="s">H:</span><span class="si">%</span><span class="s">M"</span><span class="p">,</span> <span class="n">gmtime</span><span class="p">())</span>
 	<span class="n">cur</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s">"INSERT INTO `tflist1` (id, `flist`, `hash`,`addt`) VALUES (null, '"</span><span class="o">+</span><span class="n">d1</span><span class="o">+</span><span class="s">"','"</span><span class="o">+</span><span class="n">d2</span><span class="o">+</span><span class="s">"','"</span><span class="o">+</span><span class="n">d3</span><span class="o">+</span><span class="s">"')"</span><span class="p">)</span>
 	<span class="n">cur</span><span class="o">.</span><span class="n">fetchall</span><span class="p">()</span>
 	<span class="n">db</span><span class="o">.</span><span class="n">commit</span><span class="p">()</span>
-	<span class="c">#print " Suksesss Input Data..."</span>
-<span class="c"># --- ------END Input Data ----------</span>
+	<span class="c1">#print " Suksesss Input Data..."
+# --- ------END Input Data ----------
+</span>
 
-
-<span class="c"># --- -------FUNCTION VERSION LIST-DIR--------</span>
-<span class="c"># --- -----Fungsi untuk meng-LIST File dalam Direktori-------</span>
-<span class="k">def</span> <span class="nf">processDirectory</span> <span class="p">(</span> <span class="n">args</span><span class="p">,</span> <span class="n">dirname</span><span class="p">,</span> <span class="n">filenames</span> <span class="p">):</span>
+<span class="c1"># --- -------FUNCTION VERSION LIST-DIR--------
+# --- -----Fungsi untuk meng-LIST File dalam Direktori-------
+</span><span class="k">def</span> <span class="nf">processDirectory</span> <span class="p">(</span> <span class="n">args</span><span class="p">,</span> <span class="n">dirname</span><span class="p">,</span> <span class="n">filenames</span> <span class="p">):</span>
     <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">filenames</span><span class="p">:</span>
 		<span class="n">dirfile</span> <span class="o">=</span> <span class="n">dirname</span><span class="o">+</span><span class="s">"/"</span><span class="o">+</span><span class="n">filename</span>
 		<span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">isfile</span><span class="p">(</span><span class="n">dirfile</span><span class="p">):</span>
 			<span class="n">md</span> <span class="o">=</span> <span class="n">hashlib</span><span class="o">.</span><span class="n">md5</span><span class="p">(</span><span class="nb">open</span><span class="p">(</span><span class="n">dirfile</span><span class="p">,</span><span class="s">'rb'</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">())</span><span class="o">.</span><span class="n">hexdigest</span><span class="p">()</span>
-			<span class="c">#print md+" : "+dirfile</span>
-			<span class="n">masukkandata</span><span class="p">(</span><span class="n">dirfile</span><span class="p">,</span><span class="n">md</span><span class="p">)</span>
+			<span class="c1">#print md+" : "+dirfile
+</span>			<span class="n">masukkandata</span><span class="p">(</span><span class="n">dirfile</span><span class="p">,</span><span class="n">md</span><span class="p">)</span>
 
 <span class="k">def</span> <span class="nf">listDir</span><span class="p">(</span><span class="n">direktori</span><span class="p">):</span>
 	<span class="n">base_dir</span> <span class="o">=</span> <span class="n">direktori</span>
 	<span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">walk</span><span class="p">(</span> <span class="n">base_dir</span><span class="p">,</span> <span class="n">processDirectory</span><span class="p">,</span> <span class="bp">None</span> <span class="p">)</span>
 
-<span class="c">#s = raw_input("Pilih Direktori : ")</span>
-<span class="c">#listDir(s)</span>
-<span class="c"># --- ------END FUNCTION LIST DIR-------------</span>
-
+<span class="c1">#s = raw_input("Pilih Direktori : ")
+#listDir(s)
+# --- ------END FUNCTION LIST DIR-------------
+</span>
 <span class="k">print</span> <span class="s">"</span><span class="se">\t</span><span class="s"> 1.Tampilkan Data</span><span class="se">\n\t</span><span class="s"> 2.Tes Input Data</span><span class="se">\n\t</span><span class="s"> 3.Input Data Manual TES</span><span class="se">\n\t</span><span class="s"> 4.Delete All Data From tflist1"</span>
 <span class="n">s</span> <span class="o">=</span> <span class="nb">raw_input</span><span class="p">(</span><span class="s">"Pilih No ? "</span><span class="p">)</span>
 <span class="k">if</span> <span class="n">s</span> <span class="o">==</span> <span class="s">"1"</span><span class="p">:</span>
@@ -639,7 +639,7 @@ CONTOH DIBAWAH : masukkandata() dan masukkandata1().
 	  </div>
 	    
 	    <!-- Footer -->
-	    <footer><span>@2018 -  <a href="http://localhost:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	    <footer><span>@2018 -  <a href="http://0.0.0.0:4000/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
 </footer>
 
 
