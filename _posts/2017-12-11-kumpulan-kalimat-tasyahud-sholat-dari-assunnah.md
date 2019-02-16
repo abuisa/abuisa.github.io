@@ -5,13 +5,6 @@ header: Kumpulan Kalimat Tasyahud Sholat dari As-Sunnah
 categories: Agama
 ---
 
-### Daftar Isi : 
-<div >
-<ul>
-
-</ul>
-</div>
-
 
 ### Kumpulan Tasyahud dari As-Sunnah
 <a name="bab21"></a>
@@ -148,19 +141,7 @@ Catatan
 </div>
 </div>
 
-<a name="bab22"></a>
-### Tasyahud ke 2 :
-<div class="gdiv">
-<div class="arx">
 
-</div>
-<div class="ar">
-
-</div>
-<div class="id">
-<b> :</b> 
-</div>
-</div>
 
 
 
