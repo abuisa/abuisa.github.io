@@ -33,7 +33,6 @@ header: Links
 			<li><a href="https://www.voa-islam.com/" target="_blank"> www.voa-islam.com</a></li>
 			<li><a href="https://www.arrahmah.com/" target="_blank"> www.arrahmah.com</a></li>
 			<li><a href="https://www.kiblat.net/" target="_blank"> www.kiblat.net</a></li>
-			<li><a href="http://www.muqawamah.net/" target="_blank">www.muqawamah.net</a></li>
 		</ul>
 
 	<h3> Materi Agama</h3>
