@@ -10,7 +10,7 @@ Assalamualaikum...
 
 Bagi anda yang hoby atau suka dengan web script, berikut saya sharing sebuah script yang bagus jika digunakan untuk meng-enkripsi teks-teks atau catatan penting yang sifatnya rahasia dan tidak ingin dibaca oleh orang lain, jika anda punya komputer dan sering digunakan bersama mungkin script ini dapat membantu anda untuk sedikit lebih aman menyembunyikan catatan-catatan penting anda, script ini merupakan hasil nemu di internet tapi lupa dari mana nemunya...
 
-Script atau code untuk enkripsi teksnya ini merupakan perpaduan antara HTML dan JavaScript sehingga bagi yang berminat tinggal mengcopy dan paste kemudian tinggal jalankan di browser atau bisa juga di download filenya, jika anda ingin mencoba-coba bisa langsung kunjungi link berikut: [Enkripsiteks](https://abuisa.github.io/ikhwanelyas/), berikut tampilannya :
+Script atau code untuk enkripsi teksnya ini merupakan perpaduan antara HTML dan JavaScript sehingga bagi yang berminat tinggal mengcopy dan paste kemudian tinggal jalankan di browser atau bisa juga di download filenya, jika anda ingin mencoba-coba bisa langsung kunjungi link berikut: [Enkripsiteks](https://abuisa.github.io/JsEnkripsiText/), berikut tampilannya :
 
 ![Enkripsi Dekripsi](img/e-d-preview.png "Teeeeest")
 
