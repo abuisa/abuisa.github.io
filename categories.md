@@ -57,7 +57,11 @@ header: All Post
 			<li><a href="{{site.url}}{{post.url}}.html">{{ post.title }}</a></li>
 		{% endfor %}
 		</ul>
-
+	<h3>Ext : </h3>
+		<ul>
+			<li><a href="reff/linux/A-Z-Linux-Commands-Overview-with-Examples.html">A-Z Linux Commands</a></li>
+			<li><a href="reff/linux/Tcpdump-Examples-22-Tactical-Commands _ HackerTarget.com.html">Tcpdump Examples 22 Tactical Commands </a></li>			
+		</ul>
 	</div>
 </div>
 

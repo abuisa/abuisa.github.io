@@ -140,9 +140,13 @@
 }
 .ar{
 	font-weight: 570;
+	
+}
+ul {
+margin-right: 16px;
 }
 .arxx, .arx, .ar{
-	border-top:0.5px solid #C0C0C0;
+	//border-top:0.5px solid #C0C0C0;
 	direction:RTL;
 	unicode-bidi:embed;
 	//====================
