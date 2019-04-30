@@ -1,4 +1,13 @@
 /* W3.JS 1.02 May 2017 by w3schools.com */
+
+//--- Fungsi ini belum digunakan 
+//--- Fungsi w3 mengambil dari js/w3.js 
+//--- Fungsi w3 dapat melakukan show-hide element berdasar pada ID, CLASS dan TAG name
+//--- EXP : ID --> w3.hide('#id_name')
+//--- EXP : CLASS --> w3.hide('.CLASS_name')
+//--- EXP : TAG --> w3.hide('h3')
+//--- EXP USE : <div onclick="w3.hide('.class_name')"></div>
+
 "use strict";
 var w3 = {};
 w3.hide = function (sel) {

@@ -15,7 +15,7 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 8
+paginate: 12
 paginate_path: /page:num/
 #port: 9005
 # Default values

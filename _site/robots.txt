@@ -1,1 +1,1 @@
-Sitemap: https://abuisa.github.io/sitemap.xml
+Sitemap: http://10.188.21.122:4000/sitemap.xml

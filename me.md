@@ -13,14 +13,9 @@ description: This page describes IkhwanELyas.
 ____
 -->
 
-## Tentang Web page ini
+## Tentang Web ini
 
-Web page ini isinya tulisan-tulisan serta artikel-artikel yang didapatkan dari internet dan dirasa penting maka disimpan artikel tersebut dengan cara diposting ke sini untuk bacaan sendiri dan juga untuk bacaan bagi siapa saja yang mau baca...
-
-## Web page Theme 
-
-
-Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi [dyutibarma-monochrome](https://github.com/dyutibarma/monochrome) atau [thereviewindex-blog](https://github.com/thereviewindex/blog).
+Web ini isinya tulisan-tulisan serta artikel-artikel yang didapatkan dan dikumpulkan dari internet  maka disimpan artikel tersebut dengan cara diposting ke sini untuk bacaan sendiri dan juga untuk bacaan bagi siapa saja yang mau baca...
 
 
 ## Tentang Saya
@@ -63,8 +58,12 @@ Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi [dyutibarma-monoc
 
 
 
-
 </pre>
+
+### Tema Web 
+
+Theme ini menggunakan Monochrome, lengkapnya silahkan kunjungi [dyutibarma-monochrome](https://github.com/dyutibarma/monochrome) atau [thereviewindex-blog](https://github.com/thereviewindex/blog).
+
 
 <p>
 Info lain, segera....

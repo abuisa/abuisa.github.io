@@ -225,9 +225,12 @@ function showhide(id) {
 	window.onscroll = function() {scrollFunction()};
 	
 	function scrollFunction() {
-		if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+//		if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		if (document.body.scrollTop > 90 || document.documentElement.scrollTop > 90) {
+		    document.getElementById("myBtnEx").style.display = "block";
 		    document.getElementById("myBtn").style.display = "block";
 		} else {
+		    document.getElementById("myBtnEx").style.display = "none";
 		    document.getElementById("myBtn").style.display = "none";
 		}
 	}
@@ -238,6 +241,7 @@ function showhide(id) {
 		document.documentElement.scrollTop = 0;
 	}
 //======End Fungsi go-to-top===========
+
 //--- Fungsi ini belum digunakan 
 //--- Fungsi w3 mengambil dari js/w3.js 
 //--- Fungsi w3 dapat melakukan show-hide element berdasar pada ID, CLASS dan TAG name

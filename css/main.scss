@@ -181,7 +181,10 @@ th, td {
 		border-bottom: 1px solid #ddd;
 }
 a {
-	cursor: pointer; cursor: hand;
+	cursor: pointer; cursor: hand; 
+}
+a:hover{
+color:#6699ff;
 }
 .divtable {
 	padding-top: 1cm;
@@ -216,6 +219,36 @@ a {
 	margin-bottom: auto;
 
 }
+
+//--- Untuk link tambahan di bawah
+
+#myBtnEx {
+  display: none;
+  position: fixed;
+  bottom: 66px;
+  right: 12px;
+  border: none;
+  outline: none;
+  //background-color: gray;
+  //opacity:0.2;
+  color: black;
+  cursor: pointer;  
+  //border-radius: 7px;
+  text-align: right;
+}
+#btxx:hover{
+	font-weight: bold;
+	//color:blue;
+	color:#6699ff;
+	}
+#myBtnEx:hover {
+	//font-weight: bold;
+	//color:blue;
+  	//background-color: darkgray;
+	//opacity:0.4;
+
+}
+//--- END - Untuk link tambahan di bawah
 
 //--- UNTUK BOX DIV --------
 .gdiv{
