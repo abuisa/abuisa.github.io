@@ -821,6 +821,10 @@ footer {
   font-size: 18px;
   border-top: 1px solid grey; }
 
+.rr {
+  direction: RTL;
+  margin-bottom: 10px; }
+
 .ar {
   font-size: 22px; }
 

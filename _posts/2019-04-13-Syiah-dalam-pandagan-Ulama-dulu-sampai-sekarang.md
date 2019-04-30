@@ -130,26 +130,31 @@ categories: Agama
 - Syeikhul Islam Ibnu Taimiyah telah berkata : <b>Dan sungguh telah sepakat ahli ilmu dalam bidang naqal, riwayat dan sanad, bahwasanya Rafidhah adalah yang paling pendusta dari kalangan kelompok-kelompok (yang sesat), berbohong terdapat dalam diri mereka sudah sejak lama, oleh karena inilah para imam-imam Islam metitelkan keistimewaan mereka dengan sering (banyak) berdusta</b>.[(almanhaj.or.id)](https://almanhaj.or.id/641-syiah-apakah-perkataan-para-imam-terdahulu-dan-belakangan-tentang-rafidhah-syiah.html){:target="_blank"}
 
 ### Imam Bukhari 
+<div class="gdiv">
 <div class="ar">
 ما أبالي صليتُ خلف الجهمي والرافضي أم صليت خلف اليهود والنصارى؛ ولا يسلَّم عليهم ولا يعادون ولا يناكحون ولا يشهدون ولا تؤكل ذبائحهم.
 </div>
-- <b>“Aku tidak membedakan apakah aku shalat bermakmum di belakang seorang penganut Jahmiyah atau Rafidhah, ataukah bermakmum di belakang Yahudi dan Nasrani (semuanya tidak sah). Mereka tidak boleh disalami, tidak boleh dibesuk ketika sakit, tidak boleh dinikahi (wanitanya), tidak dilayat jenazahnya, dan tidak boleh dimakan sembelihannya.”</b>
+
+<div class="id"><b>“Aku tidak membedakan apakah aku shalat bermakmum di belakang seorang penganut Jahmiyah atau Rafidhah, ataukah bermakmum di belakang Yahudi dan Nasrani (semuanya tidak sah). Mereka tidak boleh disalami, tidak boleh dibesuk ketika sakit, tidak boleh dinikahi (wanitanya), tidak dilayat jenazahnya, dan tidak boleh dimakan sembelihannya.”</b> <a href="https://www.kiblat.net/2015/02/25/wow-imam-bukhari-menyamakan-syiah-dengan-yahudi" target="_blank" class="ll">(kiblat.net)</a>
+</div>
+
+</div>
 
 ### Imam Ibnu Hajar
 
- 
+<div class="gdiv">
 <div class="ar">
 التشيع في عرف المتقدمين هو اعتقاد تفضيل علي على عثمان ، وأن عليا كان مصيبا في حروبه ، وأن مخالفه مخطئ ، مع تقديم الشيخين وتفضيلهما ، وربما اعتقد بعضهم أن عليا أفضل الخلق بعد رسول الله صلى الله عليه وسلم ، وإذا كان معتقد ذلك ورعا دينا صادقا مجتهدا فلا ترد روايته بهذا ، لا سيما إن كان غير داعية  
 
 وأما التشيع في عرف المتأخرين فهو الرفض المحض ، فلا تقبل رواية الرافضي الغالي ولا كرامة
 </div>
 
-- <b>‘Tasyayyu’ dalam definisi para ulama masa lalu (salaf), ialah meyakini bahwa Ali lebih utama daripada Utsman, atau bahwa Ali di pihak yang benar dalam semua peperangannya, dan bahwasanya pihak yang menyelisihinya adalah keliru, dengan tetap meyakini Syaikhain (Abu Bakar dan Umar) lebih utama dan mulia daripada Ali. Sebagian dari kaum Syiah (masa lalu) mungkin saja menganggap Ali sebagai manusia paling mulia setelah Rasulullah shallallaahu ‘alaihi wa sallam.</b>
-
+<div class="id"><b>‘Tasyayyu’ dalam definisi para ulama masa lalu (salaf), ialah meyakini bahwa Ali lebih utama daripada Utsman, atau bahwa Ali di pihak yang benar dalam semua peperangannya, dan bahwasanya pihak yang menyelisihinya adalah keliru, dengan tetap meyakini Syaikhain (Abu Bakar dan Umar) lebih utama dan mulia daripada Ali. Sebagian dari kaum Syiah (masa lalu) mungkin saja menganggap Ali sebagai manusia paling mulia setelah Rasulullah shallallaahu ‘alaihi wa sallam.</b>
+</div>
 <div class="ar">
 والتشيع محبة على وتقديمه على الصحابة فمن قدمه على أبي بكر وعمر فهو غال في تشيعه ويطلق عليه رافضي وإلا فشيعي فإن انضاف إلى ذلك السب أو التصريح بالبغض فغال في الرفض وإن اعتقد الرجعة إلى الدنيا فأشد في الغلو
 </div>
-- <b>“Tasyayyu’ adalah mencintai Ali dan mengutamakannya dibanding semua sahabat lain, dan jika mengutamakannya diatas Abu Bakar dan Umar maka dia tasyayyu’ ekstrem yang disebut Rafidhah dan jika tidak maka disebut Syiah, Jika diringi dengan mencela dan membenci keduanya maka disebut Rafidhah ekstrem. Jka mempercayai Raj’ah bahwa Ali kembali ke dunia maka disebut Rafidhah yang sangat ekstrem.</b>
+<div class="id"><b>“Tasyayyu’ adalah mencintai Ali dan mengutamakannya dibanding semua sahabat lain, dan jika mengutamakannya diatas Abu Bakar dan Umar maka dia tasyayyu’ ekstrem yang disebut Rafidhah dan jika tidak maka disebut Syiah, Jika diringi dengan mencela dan membenci keduanya maka disebut Rafidhah ekstrem. Jka mempercayai Raj’ah bahwa Ali kembali ke dunia maka disebut Rafidhah yang sangat ekstrem.</b></div></div>
 
 Definisi Ibnu Hajar dalam dua kitab tersebut menunjukkan bahwa ada beberapa karakter dalam aliran Syiah:
 
@@ -158,12 +163,16 @@ Definisi Ibnu Hajar dalam dua kitab tersebut menunjukkan bahwa ada beberapa kara
 - Rafidhah ekstrem: Mencela Abu Bakar dan Umar
 - Rafidhah sangat ekstrem: meyakini Raj’ah (hidupnya kembali imam-imam Syiah di akhir zaman).[(kiblat.net)](https://www.kiblat.net/2015/02/25/wow-imam-bukhari-menyamakan-syiah-dengan-yahudi){:target="_blank"}
 
+
 ### Imam Adz-Dzahabi
 
+<div class="gdiv">
 <div class="ar">
 فالشيعي الغالي في زمان السلف وعرفهم هو من تكلم في عثمان والزبير وطلحة ومعاوية وطائفة ممن حارب عليا – رضي الله عنه وتعرض لسبهم والغالي في زماننا وعرفنا هو الذى يكفر هؤلاء السادة ويتبرأ من الشيخين ايضا فهذا ضال معثر ولم يكن ابان بن تغلب يعرض للشيخين اصلا بل قد يعتقد بأن عليا أفضل منهما (ميزان الاعتدال 1/118).
 </div>
-- <b>“Penganut Syiah ekstrem pada zaman para salaf dan menurut definisi mereka, ialah orang yang mengritik dan mencela Utsman, Zubair, Thalhah, Muawiyah dan sejumlah kalangan yang memerangi Ali. Sedangkan penganut Syiah Ekstrem pada zaman kita dan yang kita definisikan ialah mereka yang mengkafirkan para tokoh itu (para sahabat) dan memusuhi Abu Bakar dan Umar. Orang seperti ini jelas sesat dan tergelincir.”</b> (Mizanul I’tidal, I/118).[(kiblat.net)](https://www.kiblat.net/2015/02/25/wow-imam-bukhari-menyamakan-syiah-dengan-yahudi){:target="_blank"}
+<div class="id"><b>“Penganut Syiah ekstrem pada zaman para salaf dan menurut definisi mereka, ialah orang yang mengritik dan mencela Utsman, Zubair, Thalhah, Muawiyah dan sejumlah kalangan yang memerangi Ali. Sedangkan penganut Syiah Ekstrem pada zaman kita dan yang kita definisikan ialah mereka yang mengkafirkan para tokoh itu (para sahabat) dan memusuhi Abu Bakar dan Umar. Orang seperti ini jelas sesat dan tergelincir.”</b> (Mizanul I’tidal, I/118).
+<a href="https://www.kiblat.net/2015/02/25/wow-imam-bukhari-menyamakan-syiah-dengan-yahudi" target="_blank" class="ll">(kiblat.net) </a>
+</div></div>
 
 ### Imam ibnu Hazam 
 
@@ -225,6 +234,8 @@ Post by : Admin, @ Yogyakarta.
 - [](){:target="_blank"}
 - [](){:target="_blank"}
 
+<a href="" target="_blank" class="ll"> </a>
+<a href="" target="_blank" class="ll"> </a>
 
 <div class="ar">
 <ul>

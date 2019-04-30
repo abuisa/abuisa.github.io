@@ -207,7 +207,6 @@ header: Links
 	<h3> Programming Reference</h3>
 		<ul>
 			<li><a href="https://www.w3schools.com/" target="_blank">www.w3schools.com</a></li>
-			<li><a href="http://www.w3ii.com/ar/" target="_blank">www.w3ii.com</a></li>
 			<li><a href="https://www.tutorialspoint.com/" target="_blank">www.tutorialspoint.com</a></li>
 			<li><a href="https://www.learnpython.org/" target="_blank">www.learnpython.org</a></li>
 			<li><a href="https://www.learn-html.org/" target="_blank">www.learn-html.org</a></li>
@@ -284,7 +283,6 @@ header: Links
 		<ul>
 			<li><a href="https://www.shodan.io/" target="_blank">www.shodan.io </a></li>
 			<li><a href="https://punk.sh/#/" target="_blank">punk.sh </a></li>
-			<li><a href=" " target="_blank">punk.sh </a></li>
 		</ul>
 
 	<h3> Private Search Engine </h3>

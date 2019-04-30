@@ -62,7 +62,9 @@ Tobroni mengatakan, kami diberitahu oleh Fadhl bin Habbab berkata, saya mendenga
 <br />
 Syeikhul Islam Ibnu Taimiyah rahimahullah mengatakan, “Perintah dengan bertasbih kepada-Nya mengandung (makna) juga membersihkan dari semua aib dan kejelekan. Dan menetapkan sifat kesempurnaan untuk-Nya. Karena tasbih mengandung pensucian, pengagungan. Dan pengagungan melazimkan penetapan pujian yang dipuji untuknya. Dan hal itu mengandung pensucian, pujian, takbir dan tauhid kepada-Nya.’ Selesai ‘Majmu Fatawa, (16/125).
 </div>
-## سبحان_الله_وبحمده
+<div class="rr">
+<h2> سبحان_الله_وبحمده </h2>
+</div>
 <div class="ar">
 #التَّوحيد أولاً ودائماً | الرّسمية الأساسية, [27.03.19 10:55]
 <br />
@@ -88,7 +90,10 @@ Syeikhul Islam Ibnu Taimiyah rahimahullah mengatakan, “Perintah dengan bertasb
 <br />
 شيخ الإسلام إبن تيمية _"مجموع الفتاوى" (16/125)
 </div>
-## سبحان الله وبحمده مائة مرة
+<div class="rr">
+<h2> سبحان الله وبحمده مائة مرة </h2>
+</div>
+
 <div class="ar">
 <div class="arx">
 السؤال
