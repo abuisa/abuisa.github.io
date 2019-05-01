@@ -212,5 +212,20 @@ function gos(){
 			'Full User Agent: ' + navigator.userAgent
 		);
 	}
-
+function cekos() {
+  var str = jscd.os;
+//  var n1 = str.toLowerCase().includes("android");
+//  var n2 = str.toLowerCase().includes("ios");
+	var n1 = str.toLowerCase().includes("android");
+	var n2 = str.toLowerCase().includes("ios");
+  if (n1 == true || n2 == true) {
+  		//alert(str+", --> Its True");
+  		return true;
+    }
+    else{
+		//alert(str+", --> NOT");
+		return false;
+    }
+  document.getElementById("demo").innerHTML = n;
+}
 

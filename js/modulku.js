@@ -226,8 +226,10 @@ function showhide(id) {
 	
 	function scrollFunction() {
 //		if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-		if (document.body.scrollTop > 90 || document.documentElement.scrollTop > 90) {
-		    document.getElementById("myBtnEx").style.display = "block";
+		if (document.body.scrollTop > 190 || document.documentElement.scrollTop > 190) {
+			if (cekos() == false){
+			// Cek, jika os adalah SELAIN android atau ios maka tampilkan menu myBtnEx
+		    document.getElementById("myBtnEx").style.display = "block";}
 		    document.getElementById("myBtn").style.display = "block";
 		} else {
 		    document.getElementById("myBtnEx").style.display = "none";
@@ -255,4 +257,14 @@ function w3showhide(a){
 	alert('Hasil : '+a);
 	w3.show(a)
 	
+}
+
+
+// Fungsi ini hanya untuk test fungsi -cekos 
+// Digunakan pada Exp link pada categories.md
+function cekosE(){
+	if (cekos() == true){
+		alert("It's True, You are phone -Android- or -iOS-");}
+	if (cekos() == false){
+		alert("It's False, You aren't phone -Android- or -iOS-");}
 }
