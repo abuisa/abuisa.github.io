@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>Bash - Linat Ukuran File dari URL menggunakan bash programming</title>
+  <meta name="description" content="Bash - Linat Ukuran File dari URL menggunakan bash programming">
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="/css/main.css">
+
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="img/cantik-icon.png">
+
+
+ <!-- Tambahan include JQuery -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/hijricalendar-kuwaiti.js"></script>
+	<script src="js/modulku.js"></script>
+
+ <!-- Tambahan baru 27-04-2019 getos.js -->
+	<script src="js/getos.js"></script>
+
+ <!-- Tambahan Untuk PAGE*/index.html
+
+ -->
+	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
+
+	<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Bash - Linat Ukuran File dari URL menggunakan bash programming | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Bash - Linat Ukuran File dari URL menggunakan bash programming" />
+<meta name="author" content="Ikhwan Elyas" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Bash - Linat Ukuran File dari URL menggunakan bash programming" />
+<meta property="og:description" content="Bash - Linat Ukuran File dari URL menggunakan bash programming" />
+<link rel="canonical" href="https://abuisa.github.io/Bash-file-size-from-url-use-bash-programming" />
+<meta property="og:url" content="https://abuisa.github.io/Bash-file-size-from-url-use-bash-programming" />
+<meta property="og:site_name" content="IkhwanElyas Page" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-05-01T18:30:01+00:00" />
+<script type="application/ld+json">
+{"headline":"Bash - Linat Ukuran File dari URL menggunakan bash programming","dateModified":"2019-05-01T18:30:01+00:00","datePublished":"2019-05-01T18:30:01+00:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://abuisa.github.io/Bash-file-size-from-url-use-bash-programming"},"url":"https://abuisa.github.io/Bash-file-size-from-url-use-bash-programming","author":{"@type":"Person","name":"Ikhwan Elyas"},"description":"Bash - Linat Ukuran File dari URL menggunakan bash programming","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+
+<body>
+	<div id="wrap">
+	  	
+	  	<!-- Navigation -->
+	  	<nav id="nav">
+	<div id="nav-list">
+		<a href="https://abuisa.github.io/">Home</a>
+
+    <!-- Nav links -->
+	  <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+	<!-- Nav pages -->
+	  
+	    
+	  
+	    
+	  
+	    
+	      <a href="/categories" title="All Post">All Post</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/linkcolection" title="Links">Links</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/me" title="About">About</a> 
+	    
+	  
+	    
+	      <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+    
+
+	</div>
+  
+  <!-- Nav footer -->
+	
+	  <footer>
+	
+	<span>version 1.0.0</span>
+
+</footer>
+	
+
+</nav>
+
+    
+    <!-- Icon menu -->
+	  <a id="nav-menu">
+	  	<div id="menu"></div>
+	  </a>
+
+      <!-- Header -->
+      
+        <header id="header" class="parent justify-spaceBetween">
+  <div class="inner w100 relative">
+<!--
+    <span class="f-left">  
+      <a href="//">
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+-->
+    <span class="f-left">  
+      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+    <span id="nav-links" class="absolute right bottom">
+      <!-- Nav links -->
+	    <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+      <!-- Nav pages -->
+	    
+	      
+	    
+	      
+	    
+	      
+	        <a href="/categories" title="All Post">All Post</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/linkcolection" title="Links">Links</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/me" title="About">About</a> 
+	      
+	    
+	      
+	        <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+      
+    </span>
+  </div>
+</header>
+<div onclick="topFunction()" id="myBtn" title="Go to top" >
+	<img id="imgMyBtn" src="img/top-icon-25-512.png" height="36px" width="36px">
+</div>
+
+<div id="myBtnEx" >
+	<a href="/" title="Home" id="btxx">Home</a><br />
+	<a href="/categories" title="All Post" id="btxx">All Post</a><br />
+	<a href="/linkcolection" title="Links" id="btxx">Links</a><br />
+	<a href="/me" title="About" id="btxx">About</a><br />
+	<a href="/penelitian" title="Penelitian" id="btxx">Penelitian</a><br />
+</div>
+
+
+      
+
+    <!-- Main content -->
+	  <div id="container">
+		  
+		<main>
+
+			<article id="post-page">
+	<h2>Bash - Linat Ukuran File dari URL menggunakan bash programming</h2>		
+	<time datetime="2019-05-01T18:30:01+00:00" class="by-line">01 May 2019 | Programming</time>
+	<div class="content">
+
+		<p>Terkadang kita ingin memastikan ukuran sebuah file sebelum mendownload, jika situs yang menyediakan file tidak menampilkan informasi ukuran file maka perlu tool tertentu untuk melihat ukuran filenya, script dibawah merupakan bash script untuk melihat informasi ukuran file dari url,</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+
+
+<span class="k">function </span>bytes_for_humans<span class="o">()</span> <span class="o">{</span>
+    <span class="nb">local</span> <span class="nt">-i</span> <span class="nv">bytes</span><span class="o">=</span><span class="nv">$1</span><span class="p">;</span>
+    <span class="k">if</span> <span class="o">[[</span> <span class="nv">$bytes</span> <span class="nt">-lt</span> 1024 <span class="o">]]</span><span class="p">;</span> <span class="k">then
+        </span><span class="nb">echo</span> <span class="s2">"</span><span class="k">${</span><span class="nv">bytes</span><span class="k">}</span><span class="s2"> B"</span>
+    <span class="k">elif</span> <span class="o">[[</span> <span class="nv">$bytes</span> <span class="nt">-lt</span> 1048576 <span class="o">]]</span><span class="p">;</span> <span class="k">then
+        </span><span class="nb">echo</span> <span class="s2">"</span><span class="k">$((</span> <span class="o">(</span>bytes <span class="o">+</span> <span class="m">1023</span><span class="o">)/</span><span class="m">1024</span> <span class="k">))</span><span class="s2"> KB"</span>
+    <span class="k">else</span>
+<span class="c">#    elif [[ $bytes -lt 1073741823 ]]; then</span>
+    	<span class="nb">echo</span> <span class="s2">"</span><span class="k">$((</span> <span class="o">(</span>bytes <span class="o">+</span> <span class="m">1048575</span><span class="o">)/</span><span class="m">1048576</span> <span class="k">))</span><span class="s2"> MB"</span>
+<span class="c">#    else</span>
+<span class="c">#        echo "$(( (bytes + 1073741823)/1073741824 )) GB"</span>
+    <span class="k">fi</span>
+<span class="o">}</span>
+
+
+
+<span class="nv">url</span><span class="o">=</span><span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span>
+
+<span class="nv">size</span><span class="o">=</span><span class="k">$(</span>HEAD <span class="nt">-u</span> <span class="s2">"</span><span class="k">${</span><span class="nv">url</span><span class="k">}</span><span class="s2">"</span><span class="k">)</span>
+<span class="nv">size</span><span class="o">=</span><span class="k">${</span><span class="nv">size</span><span class="p">##*Content-Length</span>:<span class="p"> </span><span class="k">}</span>
+<span class="nv">size</span><span class="o">=</span><span class="k">${</span><span class="nv">size</span><span class="p">%%[[</span>:space:]]<span class="p">*</span><span class="k">}</span>
+
+<span class="nv">sizeh</span><span class="o">=</span><span class="k">$(</span> bytes_for_humans <span class="nv">$size</span><span class="k">)</span>
+<span class="nb">echo</span> <span class="s2">" SIZE : </span><span class="nv">$sizeh</span><span class="s2"> :: </span><span class="nv">$url</span><span class="s2"> "</span>
+<span class="c">#echo "-----------------------------------------------"</span></pre></td></tr></tbody></table></code></pre></figure>
+
+<p>Beberapa hal yang harus dilakukan untuk implementasi</p>
+<ol>
+  <li>buat file script dengan nama contohnya <code class="highlighter-rouge">geturlfilesize.sh</code></li>
+  <li>copy script diatas dan paste ke file yang baru dibuat <code class="highlighter-rouge">geturlfilesize.sh</code></li>
+  <li>ubah file permision agar bisa dieksekusi menggunakan perintah <code class="highlighter-rouge">chmod +x geturlfilesize.sh</code></li>
+  <li>sekarang cari conto url untuk uji coba script dengan perintah <code class="highlighter-rouge">./geturlfilesize.sh "URL"</code></li>
+</ol>
+
+<h3 id="update-script">Update Script</h3>
+<p>Update dengan menambahkan tool zenity untuk tampilan lebih menarik dan memudahkan</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+
+<span class="k">function </span>bytes_for_humans<span class="o">()</span> <span class="o">{</span>
+    <span class="nb">local</span> <span class="nt">-i</span> <span class="nv">bytes</span><span class="o">=</span><span class="nv">$1</span><span class="p">;</span>
+    <span class="k">if</span> <span class="o">[[</span> <span class="nv">$bytes</span> <span class="nt">-lt</span> 1024 <span class="o">]]</span><span class="p">;</span> <span class="k">then
+        </span><span class="nb">echo</span> <span class="s2">"</span><span class="k">${</span><span class="nv">bytes</span><span class="k">}</span><span class="s2"> B"</span>
+    <span class="k">elif</span> <span class="o">[[</span> <span class="nv">$bytes</span> <span class="nt">-lt</span> 1048576 <span class="o">]]</span><span class="p">;</span> <span class="k">then
+        </span><span class="nb">echo</span> <span class="s2">"</span><span class="k">$((</span> <span class="o">(</span>bytes <span class="o">+</span> <span class="m">1023</span><span class="o">)/</span><span class="m">1024</span> <span class="k">))</span><span class="s2"> KB"</span>
+    <span class="k">else
+    	</span><span class="nb">echo</span> <span class="s2">"</span><span class="k">$((</span> <span class="o">(</span>bytes <span class="o">+</span> <span class="m">1048575</span><span class="o">)/</span><span class="m">1048576</span> <span class="k">))</span><span class="s2"> MB"</span>
+    <span class="k">fi</span>
+<span class="o">}</span>
+
+<span class="k">while </span><span class="nb">true
+</span><span class="k">do
+	</span><span class="nv">url</span><span class="o">=</span><span class="k">$(</span><span class="nv">DISPLAY</span><span class="o">=</span>:0 zenity <span class="nt">--entry</span> <span class="nt">--entry-text</span><span class="o">=</span><span class="s2">"</span><span class="nv">$rx</span><span class="s2">"</span> <span class="nt">--title</span><span class="o">=</span><span class="s2">"--- Get Url Size ---"</span> <span class="nt">--width</span><span class="o">=</span>450 <span class="nt">--text</span><span class="o">=</span><span class="s2">"</span><span class="nv">$msg</span><span class="se">\n</span><span class="s2">URL [q:exit] :"</span><span class="k">)</span>
+	
+	<span class="nv">prts</span><span class="o">=(</span><span class="s2">"http"</span> <span class="s2">"https"</span> <span class="s2">"ftp"</span><span class="o">)</span>
+	<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$url</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"q"</span> <span class="o">]</span> <span class="o">||</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$url</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"Q"</span> <span class="o">]</span> <span class="o">||</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$url</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">""</span> <span class="o">]</span><span class="p">;</span>
+	<span class="k">then 
+		</span><span class="nb">break</span><span class="p">;</span>
+		<span class="nb">exit </span>0<span class="p">;</span>
+	<span class="k">else
+		for </span>prt <span class="k">in</span> <span class="s2">"</span><span class="k">${</span><span class="nv">prts</span><span class="p">[@]</span><span class="k">}</span><span class="s2">"</span>
+		<span class="k">do			
+			if</span> <span class="o">[[</span> <span class="s2">"</span><span class="nv">$url</span><span class="s2">"</span> <span class="o">==</span> <span class="k">*</span><span class="s2">"</span><span class="nv">$prt</span><span class="s2">"</span><span class="k">*</span> <span class="o">]]</span>
+			<span class="k">then	
+				function </span>gurl<span class="o">(){</span>					
+					<span class="nv">size</span><span class="o">=</span><span class="k">$(</span>HEAD <span class="nt">-u</span> <span class="s2">"</span><span class="k">${</span><span class="nv">url</span><span class="k">}</span><span class="s2">"</span><span class="k">)</span>
+					<span class="nv">size</span><span class="o">=</span><span class="k">${</span><span class="nv">size</span><span class="p">##*Content-Length</span>:<span class="p"> </span><span class="k">}</span>
+					<span class="nv">size</span><span class="o">=</span><span class="k">${</span><span class="nv">size</span><span class="p">%%[[</span>:space:]]<span class="p">*</span><span class="k">}</span>
+					<span class="nv">sizeh</span><span class="o">=</span><span class="k">$(</span>bytes_for_humans <span class="nv">$size</span><span class="k">)</span>	
+					<span class="nb">echo</span> <span class="s2">"</span><span class="nv">$sizeh</span><span class="s2">"</span> <span class="o">&gt;</span> /tmp/sizeh.tmp			
+				<span class="o">}</span>
+				gurl |zenity <span class="nt">--progress</span> <span class="nt">--pulsate</span> <span class="nt">--auto-close</span> <span class="nt">--text</span><span class="o">=</span><span class="s2">"Get URL Size : </span><span class="nv">$url</span><span class="s2">"</span> <span class="nt">--title</span><span class="o">=</span><span class="s2">"--- Get Url Size ---"</span> <span class="p">;</span>
+				<span class="c">#===================================</span>
+				<span class="nv">szz</span><span class="o">=</span><span class="k">$(</span><span class="nb">cat</span> /tmp/sizeh.tmp<span class="k">)</span>	
+				<span class="o">(</span><span class="nv">DISPLAY</span><span class="o">=</span>:0 zenity <span class="nt">--info</span> <span class="nt">--title</span><span class="o">=</span><span class="s2">"--- Get Url Size ---"</span>  <span class="nt">--text</span><span class="o">=</span><span class="s2">"Hasil </span><span class="se">\n</span><span class="s2">URL: </span><span class="nv">$url</span><span class="se">\n</span><span class="s2">SIZE: </span><span class="nv">$szz</span><span class="s2">"</span> <span class="nt">--width</span><span class="o">=</span>450 <span class="p">;</span><span class="o">)</span>							
+			<span class="k">else
+				</span><span class="nb">break</span><span class="p">;</span>
+				<span class="nb">exit </span>0<span class="p">;</span>
+			<span class="k">fi
+		done
+	fi
+done</span></pre></td></tr></tbody></table></code></pre></figure>
+
+<p>sekian, selamat mencoba.</p>
+
+<hr />
+<p>Post by : admin @ kost Yogyakarta.</p>
+
+
+		
+	</div>
+</article>
+
+
+
+	  </main>
+		
+		  <!-- Pagination links -->
+      
+
+	  </div>
+	    
+	    <!-- Footer -->
+	    <footer><span>@2019 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+</footer>
+
+
+<!-- original script :
+| <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+<footer><span>@2017 -  <a href="//">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+</footer>
+-->
+
+
+	    <!-- Script -->
+      <script src="/js/main.js"></script>	
+
+
+	</div>
+</body>
+</html>

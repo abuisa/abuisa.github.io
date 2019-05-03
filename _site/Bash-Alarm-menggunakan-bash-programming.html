@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>Bash - Alarm menggunakan bash programming</title>
+  <meta name="description" content="Bash - Alarm menggunakan bash programming">
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="/css/main.css">
+
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="img/cantik-icon.png">
+
+
+ <!-- Tambahan include JQuery -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/hijricalendar-kuwaiti.js"></script>
+	<script src="js/modulku.js"></script>
+
+ <!-- Tambahan baru 27-04-2019 getos.js -->
+	<script src="js/getos.js"></script>
+
+ <!-- Tambahan Untuk PAGE*/index.html
+
+ -->
+	<link rel="shortcut icon" type="image/png" href="../img/cantik-icon.png">
+
+	<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Bash - Alarm menggunakan bash programming | IkhwanElyas Page</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Bash - Alarm menggunakan bash programming" />
+<meta name="author" content="Ikhwan Elyas" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Bash - Alarm menggunakan bash programming" />
+<meta property="og:description" content="Bash - Alarm menggunakan bash programming" />
+<link rel="canonical" href="https://abuisa.github.io/Bash-Alarm-menggunakan-bash-programming" />
+<meta property="og:url" content="https://abuisa.github.io/Bash-Alarm-menggunakan-bash-programming" />
+<meta property="og:site_name" content="IkhwanElyas Page" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-05-01T15:30:01+00:00" />
+<script type="application/ld+json">
+{"headline":"Bash - Alarm menggunakan bash programming","dateModified":"2019-05-01T15:30:01+00:00","datePublished":"2019-05-01T15:30:01+00:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://abuisa.github.io/Bash-Alarm-menggunakan-bash-programming"},"url":"https://abuisa.github.io/Bash-Alarm-menggunakan-bash-programming","author":{"@type":"Person","name":"Ikhwan Elyas"},"description":"Bash - Alarm menggunakan bash programming","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+
+<body>
+	<div id="wrap">
+	  	
+	  	<!-- Navigation -->
+	  	<nav id="nav">
+	<div id="nav-list">
+		<a href="https://abuisa.github.io/">Home</a>
+
+    <!-- Nav links -->
+	  <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+	<!-- Nav pages -->
+	  
+	    
+	  
+	    
+	  
+	    
+	      <a href="/categories" title="All Post">All Post</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/linkcolection" title="Links">Links</a> 
+	    
+	  
+	    
+	  
+	    
+	      <a href="/me" title="About">About</a> 
+	    
+	  
+	    
+	      <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+    
+
+	</div>
+  
+  <!-- Nav footer -->
+	
+	  <footer>
+	
+	<span>version 1.0.0</span>
+
+</footer>
+	
+
+</nav>
+
+    
+    <!-- Icon menu -->
+	  <a id="nav-menu">
+	  	<div id="menu"></div>
+	  </a>
+
+      <!-- Header -->
+      
+        <header id="header" class="parent justify-spaceBetween">
+  <div class="inner w100 relative">
+<!--
+    <span class="f-left">  
+      <a href="//">
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+-->
+    <span class="f-left">  
+      <a href="https://abuisa.github.io/"> <!-- |site.baseurl : / | site.url : https://abuisa.github.io -->
+        <h1>
+          Ikhwan<span>Elyas</span> 
+        </h1>
+      </a>
+    </span>
+    <span id="nav-links" class="absolute right bottom">
+      <!-- Nav links -->
+	    <!--
+<a href="https://github.com/abuisa/web">Github</a> 
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+
+<a href="https://ikhwanelyas.blogspot.co.id/">Blog</a>
+<a href="/home.md">Home</a>
+-->
+ 
+
+      <!-- Nav pages -->
+	    
+	      
+	    
+	      
+	    
+	      
+	        <a href="/categories" title="All Post">All Post</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/linkcolection" title="Links">Links</a> 
+	      
+	    
+	      
+	    
+	      
+	        <a href="/me" title="About">About</a> 
+	      
+	    
+	      
+	        <a href="/penelitian" title="Penelitian">Penelitian</a> 
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+	      
+	    
+      
+    </span>
+  </div>
+</header>
+<div onclick="topFunction()" id="myBtn" title="Go to top" >
+	<img id="imgMyBtn" src="img/top-icon-25-512.png" height="36px" width="36px">
+</div>
+
+<div id="myBtnEx" >
+	<a href="/" title="Home" id="btxx">Home</a><br />
+	<a href="/categories" title="All Post" id="btxx">All Post</a><br />
+	<a href="/linkcolection" title="Links" id="btxx">Links</a><br />
+	<a href="/me" title="About" id="btxx">About</a><br />
+	<a href="/penelitian" title="Penelitian" id="btxx">Penelitian</a><br />
+</div>
+
+
+      
+
+    <!-- Main content -->
+	  <div id="container">
+		  
+		<main>
+
+			<article id="post-page">
+	<h2>Bash - Alarm menggunakan bash programming</h2>		
+	<time datetime="2019-05-01T15:30:01+00:00" class="by-line">01 May 2019 | Programming</time>
+	<div class="content">
+
+		<p>Linux mempunyai banyak cara untuk melakukan suatu perintah secara terjadwal, tersedia tool ataupun bash script yang dapat ditulis sendiri, contoh adalah ketika suatu perintah perlu untuk dijalankan pada waktu tertentu, bash script dapat digunakan  untuk menjadwalkan suatu perintah, berikut contoh bash script untuk menjadwalkan perintah yang akan dieksekusi pada waktu tertentu, fungsinya kurang lebih seperti alarm, script berikut merupakan contoh untuk menjalankan aplikasi <code class="highlighter-rouge">audacious</code> yang akan menjalankan file <code class="highlighter-rouge">TvQuran_athan.mp3</code> dengan volume yang diatur sesuai dengan jadwal yang ada pada file <code class="highlighter-rouge">~/.bdir/.alarm.scdl</code>.</p>
+
+<p>Dalam script ini ada beberapa file dan applikasi yang digunakan yaitu :</p>
+<ol>
+  <li>File <code class="highlighter-rouge">~/.bdir/.alarm.scdl</code>, yang berisi daftar Jadwal dalam Format waktu dan keterangan</li>
+  <li>Aplikasi <code class="highlighter-rouge">leafpad</code> untuk membuka file <code class="highlighter-rouge">~/.bdir/.alarm.scdl</code> jika ingin mengedit jadwal</li>
+  <li>Aplikasi <code class="highlighter-rouge">audacious</code>, adalah aplikasi yang akan dieksekusi sesuai jadwal</li>
+  <li>File <code class="highlighter-rouge">TvQuran_athan.mp3</code> yang akan dijalankan menggunakan aplikasi <code class="highlighter-rouge">audacious</code>.</li>
+</ol>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+</pre></td><td class="code"><pre><span class="c">#!/bin/bash</span>
+
+fload<span class="o">(){</span>
+	<span class="nv">cek</span><span class="o">=</span><span class="k">$(</span><span class="nb">cat</span> ~/.bdir/.alarm.scdl |wc <span class="nt">-w</span><span class="k">)</span>
+	<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$cek</span><span class="s2">"</span> <span class="o">==</span> <span class="s2">"0"</span> <span class="o">]</span>
+	<span class="k">then 
+		</span><span class="nb">echo</span> <span class="s2">" No Schedule Found !"</span>
+	<span class="k">else
+		</span><span class="nv">IFS</span><span class="o">=</span><span class="s1">$'</span><span class="se">\n</span><span class="s1">'</span><span class="p">;</span><span class="nv">i</span><span class="o">=</span>0<span class="p">;</span><span class="k">for </span>fl <span class="k">in</span> <span class="k">$(</span><span class="nb">cat</span> ~/.bdir/.alarm.scdl|sort<span class="k">)</span><span class="p">;</span><span class="k">do </span><span class="nv">i</span><span class="o">=</span><span class="k">$((</span>i+1<span class="k">))</span><span class="p">;</span> <span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"  </span><span class="nv">$i</span><span class="s2">.</span><span class="se">\t</span><span class="s2"> </span><span class="nv">$fl</span><span class="s2">"</span><span class="p">;</span> <span class="k">done</span> <span class="p">;</span>
+		<span class="nb">echo</span> <span class="s2">"-------------------------------------------------"</span>
+	<span class="k">fi</span>	
+<span class="o">}</span>
+
+fopen<span class="o">(){</span>
+	leafpad ~/.bdir/.alarm.scdl &amp;
+<span class="o">}</span>
+
+fclear<span class="o">(){</span>
+	<span class="nb">read</span> <span class="nt">-p</span> <span class="s2">" Clear All Schedule ? [y/Y] [q:exit] : "</span> clall
+	<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$clall</span><span class="s2">"</span> <span class="o">==</span> <span class="s2">"y"</span> <span class="o">]</span> <span class="o">||</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$clall</span><span class="s2">"</span> <span class="o">==</span> <span class="s2">"Y"</span> <span class="o">]</span>
+	<span class="k">then
+		if </span><span class="nb">echo</span> <span class="s2">""</span> <span class="o">&gt;</span> ~/.bdir/.alarm.scdl<span class="p">;</span><span class="k">then </span><span class="nb">echo</span> <span class="s2">" Suksess Clear All Schedule in .alarm.scdl file "</span><span class="p">;</span><span class="k">fi
+	else
+		</span><span class="nb">echo</span> <span class="s1">' CANCEL Clear All Schedule...'</span>
+	<span class="k">fi</span>
+<span class="o">}</span>
+fadd<span class="o">(){</span>
+	<span class="k">while</span> : 
+	<span class="k">do
+		</span><span class="nb">echo</span> <span class="s2">" Time Now : "</span><span class="k">$(</span><span class="nb">date</span> +%H:%M<span class="k">)</span>
+		<span class="nb">read</span> <span class="nt">-p</span> <span class="s2">" Add Time, exp: 05:00 msg [q:exit] : "</span> tm
+		<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$tm</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"q"</span> <span class="o">]</span> <span class="o">||</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$tm</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"Q"</span> <span class="o">]</span>
+		<span class="k">then
+			</span><span class="nb">break
+		</span><span class="k">else
+			if </span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$tm</span><span class="s2">"</span> <span class="o">&gt;&gt;</span> ~/.bdir/.alarm.scdl<span class="p">;</span><span class="k">then </span><span class="nb">echo</span> <span class="s2">" Suksess Addd </span><span class="nv">$tm</span><span class="s2"> to .alarm.scdl file "</span><span class="p">;</span><span class="k">fi
+		fi</span>
+	<span class="c">#	echo "$tm"</span>
+	<span class="k">done</span>
+<span class="o">}</span>
+falarm<span class="o">(){</span>
+    <span class="k">while</span> : 
+	<span class="k">do
+		</span>clear<span class="p">;</span>
+		<span class="nv">IFS</span><span class="o">=</span><span class="s1">$'</span><span class="se">\n</span><span class="s1">'</span><span class="p">;</span>
+		<span class="nv">i</span><span class="o">=</span>0<span class="p">;</span>
+		<span class="k">for </span>fl <span class="k">in</span> <span class="k">$(</span><span class="nb">cat</span> ~/.bdir/.alarm.scdl<span class="k">)</span>
+		<span class="k">do
+			</span><span class="nv">stime</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'{print $1}'</span> <span class="o">&lt;&lt;&lt;</span> <span class="nv">$fl</span><span class="k">)</span><span class="p">;</span>
+			<span class="nv">smesg</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'{print $2}'</span> <span class="o">&lt;&lt;&lt;</span> <span class="nv">$fl</span><span class="k">)</span><span class="p">;</span>
+<span class="c">#			echo -e " Time : $stime, Message : $smesg"</span>
+<span class="c">#			echo -e " $i.\t $fl"; </span>
+			<span class="nv">jam</span><span class="o">=</span><span class="k">$(</span><span class="nb">date</span> +%H:%M<span class="k">)</span>
+			<span class="nv">sjam</span><span class="o">=</span><span class="k">$(</span><span class="nb">date</span> +%H:%M:%S<span class="k">)</span>
+			<span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$stime</span><span class="s2">"</span> <span class="o">==</span> <span class="nv">$jam</span> <span class="o">]</span>
+			<span class="k">then 
+				</span>clear
+				pactl set-sink-volume 0 150% <span class="c"># tambah volume sound maksimal 150%</span>
+<span class="c">#				audacious ~/Music/adzan.mp3&amp; </span>
+				audacious ~/Music/TvQuran_athan.mp3&amp;
+				<span class="nb">echo</span> <span class="s2">"--------------------------------------"</span>
+				fload
+				<span class="nb">echo</span> <span class="s2">"--------------------------------------"</span>
+				<span class="nb">sleep </span>25
+				killall audacious
+				<span class="nb">sleep </span>55
+			<span class="k">else			
+				</span>clear
+				<span class="nb">echo</span> <span class="s2">"--------------------------------------"</span>
+				fload
+				<span class="nb">echo</span> <span class="s2">"--------------------------------------"</span>
+				<span class="nb">echo</span> <span class="s2">"Sekarang Menunjukan Jam : </span><span class="nv">$sjam</span><span class="s2">"</span>
+				<span class="nb">sleep </span>3
+
+			<span class="k">fi
+		done
+	done</span>
+
+<span class="o">}</span>
+fhlp<span class="o">(){</span>
+	<span class="nb">echo</span> <span class="s2">"-------------------------------------------------"</span>
+	<span class="nb">echo</span> <span class="s2">" Time Now : "</span><span class="k">$(</span><span class="nb">date</span> +%H:%M<span class="k">)</span>
+    <span class="nb">echo</span> <span class="s2">"-------------------------------------------------"</span>
+
+    <span class="nb">echo</span> <span class="s2">" Command : a  --&gt; Add time to Schedules"</span>
+	<span class="nb">echo</span> <span class="s2">"              --&gt; Format   Exp   : [time] [message]"</span>
+	<span class="nb">echo</span> <span class="s2">"              --&gt; Add Time Exp 1 : 05:00 Bangun_Sholat_Subuh"</span>
+    <span class="nb">echo</span> <span class="s2">"           c  --&gt; Clear All Schedule"</span>
+    <span class="nb">echo</span> <span class="s2">"           h  --&gt; Help "</span>
+    <span class="nb">echo</span> <span class="s2">"           l  --&gt; List times Schedules"</span>
+    <span class="nb">echo</span> <span class="s2">"           o  --&gt; Open file .alarm.scdl in leafpad app"</span>
+    <span class="nb">echo</span> <span class="s2">"           s  --&gt; Start Alarm If Schedules Exists"</span>
+    <span class="nb">echo</span> <span class="s2">"           q  --&gt; EXIT"</span>
+    <span class="nb">echo</span> <span class="s2">"-------------------------------------------------"</span>
+<span class="o">}</span>
+
+tes<span class="o">(){</span>
+	<span class="nv">IFS</span><span class="o">=</span><span class="s1">$'</span><span class="se">\n</span><span class="s1">'</span><span class="p">;</span>
+	<span class="k">for </span>fl <span class="k">in</span> <span class="k">$(</span><span class="nb">cat</span> ~/.bdir/.alarm.scdl<span class="k">)</span>
+	<span class="k">do
+		</span><span class="nv">stime</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'{print $1}'</span> <span class="o">&lt;&lt;&lt;</span> <span class="nv">$fl</span><span class="k">)</span><span class="p">;</span>
+		<span class="nv">smesg</span><span class="o">=</span><span class="k">$(</span><span class="nb">awk</span> <span class="s1">'{$1="";print}'</span> <span class="o">&lt;&lt;&lt;</span> <span class="nv">$fl</span><span class="k">)</span><span class="p">;</span>
+<span class="c">#		stris="$stime --&gt; $smesg"</span>
+		<span class="nb">echo</span> <span class="s2">"Hasil : </span><span class="nv">$stime</span><span class="s2"> --&gt; </span><span class="nv">$smesg</span><span class="s2">"</span>
+	<span class="k">done</span>
+<span class="o">}</span>
+
+fhlp<span class="p">;</span>
+<span class="k">while</span> : 
+<span class="k">do</span>
+<span class="c">#	fhlp;</span>
+	<span class="nb">read</span> <span class="nt">-n1</span> <span class="nt">-r</span> <span class="nt">-p</span> <span class="s2">" Command ? [q/Q to exit] : "</span> cmd
+	<span class="nb">echo</span> <span class="nt">-e</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">-------------------------------------------------"</span>
+    <span class="k">if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$cmd</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"q"</span> <span class="o">]</span> <span class="o">||</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$cmd</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">"Q"</span> <span class="o">]</span> 
+    <span class="k">then
+        </span>fhlp<span class="p">;</span><span class="nb">break                
+    </span><span class="k">fi
+	if</span> <span class="o">[</span> <span class="s2">"</span><span class="nv">$cmd</span><span class="s2">"</span> <span class="o">=</span> <span class="s2">""</span> <span class="o">]</span>
+	<span class="k">then
+		</span>fhlp
+	<span class="k">fi
+    case</span> <span class="s2">"</span><span class="nv">$cmd</span><span class="s2">"</span> <span class="k">in
+		</span>o|O<span class="p">)</span> fopen<span class="p">;;</span>
+		l|L<span class="p">)</span> fload<span class="p">;;</span>
+		a|A<span class="p">)</span> fadd <span class="p">;;</span> 
+		c|C<span class="p">)</span> fclear<span class="p">;;</span>
+		s|S<span class="p">)</span> falarm<span class="p">;;</span>
+		h|H<span class="p">)</span> fhlp<span class="p">;;</span>
+		t|T<span class="p">)</span> tes<span class="p">;;</span>
+	<span class="k">esac</span>
+<span class="k">done</span></pre></td></tr></tbody></table></code></pre></figure>
+
+<hr />
+<p>Post by : admin @ kost Yogyakarta.</p>
+
+		
+	</div>
+</article>
+
+
+
+	  </main>
+		
+		  <!-- Pagination links -->
+      
+
+	  </div>
+	    
+	    <!-- Footer -->
+	    <footer><span>@2019 -  <a href="https://abuisa.github.io/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+</footer>
+
+
+<!-- original script :
+| <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+<footer><span>@2017 -  <a href="//">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://ikhwanelyas.blogspot.co.id/" target="_blank">Blog</a>
+</footer>
+-->
+
+
+	    <!-- Script -->
+      <script src="/js/main.js"></script>	
+
+
+	</div>
+</body>
+</html>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Python - Akses MySql dan Operasi menggunakan Python
 description: Python - Akses MySql dan Operasi menggunakan Python
 header: Python - Akses MySql dan Operasi menggunakan Python
