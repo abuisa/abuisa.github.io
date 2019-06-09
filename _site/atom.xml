@@ -4,12 +4,22 @@
  <title>IkhwanElyas Page</title>
  <link href="https://abuisa.github.io/atom.xml" rel="self"/>
  <id>https://abuisa.github.io</id>
- <updated>2019-05-21T14:29:48+00:00</updated>
+ <updated>2019-06-09T03:19:58+00:00</updated>
  <author>
    <name>Ikhwan Elyas</name>
    <uri>https://abuisa.github.io</uri>
    <email>elyas.uii14@gmail.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Hadits-Hadits Pilihan</title>
+   <link href="https://abuisa.github.io/Hadits-Hadits-Pilihan"/>
+   <id>https://abuisa.github.io/Hadits-Hadits-Pilihan</id>
+   <updated>2019-05-29T00:00:00+00:00</updated>
+   <content type="html">&lt;h2 id=&quot;1-perkara-seorang-mukmin-semuanya-baik&quot;&gt;1. &lt;a onclick=&quot;sdiv('d1');&quot;&gt;Perkara seorang mukmin semuanya baik&lt;/a&gt;&lt;/h2&gt; &lt;div id=&quot;d1&quot; style=&quot;display:none&quot;&gt; &lt;h3&gt; Hadits Imam Muslim No.5318, Imam Ahmad No.18171,18175,22798 :&lt;/h3&gt; &lt;div class=&quot;ar&quot;&gt; عَنْ صُهَيْبٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ وَلَيْسَ ذَاكَ لِأَحَدٍ إِلَّا لِلْمُؤْمِنِ إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ &lt;/div&gt; &lt;div class=&quot;id&quot;&gt; Telah menceritakan kepada kami Haddab bin Khalid Al Azdi dan Syaiban bin Farrukh semuanya dari Sulaiman bin Al Mughirah dan teksnya meriwayatkan milik Syaiban, telah menceritakan kepada kami Sulaiman...</content>
+ </entry>
 
  
 
@@ -327,16 +337,6 @@
    <id>https://abuisa.github.io/the-art-of-command-line</id>
    <updated>2017-12-02T00:00:00+00:00</updated>
    <content type="html">&lt;h1 id=&quot;the-art-of-command-line&quot;&gt;The Art of Command Line&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#meta&quot;&gt;Meta&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#basics&quot;&gt;Basics&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#everyday-use&quot;&gt;Everyday use&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#processing-files-and-data&quot;&gt;Processing files and data&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#system-debugging&quot;&gt;System debugging&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#one-liners&quot;&gt;One-liners&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#obscure-but-useful&quot;&gt;Obscure but useful&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#os-x-only&quot;&gt;OS X only&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#windows-only&quot;&gt;Windows only&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#more-resources&quot;&gt;More resources&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#disclaimer&quot;&gt;Disclaimer&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Fluency on the command line is a skill often neglected or considered arcane, but it improves your flexibility and productivity as an engineer in both obvious and subtle ways. This is a selection of notes and tips on using the command-line that we’ve found useful when working on Linux....</content>
- </entry>
-
- 
-
- <entry>
-   <title>Linux Command Line Text Processing</title>
-   <link href="https://abuisa.github.io/linux-command-line-text-processing"/>
-   <id>https://abuisa.github.io/linux-command-line-text-processing</id>
-   <updated>2017-12-02T00:00:00+00:00</updated>
-   <content type="html">&lt;h1 id=&quot;text-processing&quot;&gt;&lt;a name=&quot;text-processing&quot;&gt;&lt;/a&gt;Text Processing&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#sort&quot;&gt;sort&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#uniq&quot;&gt;uniq&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#comm&quot;&gt;comm&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cmp&quot;&gt;cmp&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#diff&quot;&gt;diff&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#tr&quot;&gt;tr&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#sed&quot;&gt;sed&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#awk&quot;&gt;awk&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#perl&quot;&gt;perl&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cut&quot;&gt;cut&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#paste&quot;&gt;paste&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#column&quot;&gt;column&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#pr&quot;&gt;pr&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The rich set of text processing commands is comprehensive and time saving. Knowing even their existence is enough to avoid the need of writing yet another script (which takes time and effort plus debugging) – a trap which many beginners fall into. An extensive list of text processing commands and examples can be found &lt;a href=&quot;http://tldp.org/LDP/abs/html/textproc.html&quot;&gt;here&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt;...</content>
  </entry>
 
  

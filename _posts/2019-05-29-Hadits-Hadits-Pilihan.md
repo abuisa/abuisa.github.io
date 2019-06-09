@@ -1,0 +1,42 @@
+---
+title: Hadits-Hadits Pilihan 
+description: Hadits-Hadits Pilihan 
+header: Hadits-Hadits Pilihan 
+categories: Agama
+---
+## 1. <a onclick="sdiv('d1');">Perkara seorang mukmin semuanya baik</a>
+<div id="d1" style="display:none">
+<h3> Hadits Imam	Muslim	No.5318, Imam Ahmad	No.18171,18175,22798	:</h3>
+<div class="ar">
+عَنْ صُهَيْبٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَجَبًا لِأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ وَلَيْسَ ذَاكَ لِأَحَدٍ إِلَّا لِلْمُؤْمِنِ إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ
+</div>
+<div class="id">
+Telah menceritakan kepada kami Haddab bin Khalid Al Azdi dan Syaiban bin Farrukh semuanya dari Sulaiman bin Al Mughirah dan teksnya meriwayatkan milik Syaiban, telah menceritakan kepada kami Sulaiman telah menceritakan kepada kami Tsabit dari Abdurrahman bin Abu Laila dari Shuhaib berkata: Rasulullah Shallallahu 'alaihi wa Salam bersabda: "perkara orang mu`min mengagumkan, sesungguhnya semua perihalnya baik dan itu tidak dimiliki seorang pun selain orang mu`min, bila tertimpa kesenangan, ia bersyukur dan syukur itu baik baginya dan bila tertimpa musibah, ia bersabar dan sabar itu baik baginya."
+</div>
+</div>
+<hr />
+## 2. <a onclick="sdiv('d2');">Tingkatan Pahala Sholat</a>
+<div id="d2" style="display:none">
+<h3> Hadits Imam	Ahmad	No.14974 </h3>
+<div class="ar"> 
+عَنْ أَبِي الْيَسَرِ صَاحِبِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مِنْكُمْ مَنْ يُصَلِّي الصَّلَاةَ كَامِلَةً وَمِنْكُمْ مَنْ يُصَلِّي النِّصْفَ وَالثُّلُثَ وَالرُّبُعَ حَتَّى بَلَغَ الْعُشْرَ قَالَ سُرَيْجٌ فِي حَدِيثِهِ حَتَّى بَلَغَ الْعُشْرَ
+
+</div>
+<div class="id"> 
+Telah menceritakan kepada kami Harun bin Ma'ruf dan Suroij dan Mu'awiyah bin 'Amr mereka berkata; telah menceritakan kepada kami Abdullah bin Wahb dari 'Amr bin Al Harits dari Said bin Abu Hilal dari 'Umar bin Al Hakam Al Anshor dari Abu Al Yasar salah seorang sahabat Rasulullah Shallallahu'alaihiwasallam Rasulullah bersabda: "Di antara kalian ada yang mengerjakan shalat dengan mendapatkan (pahala shalat) secara lengkap, ada yang setengahnya, ada pula yang sepertiganya, seperempatnya hingga ada yang sepersepuluhnya." Suraij berkata dalam haditsnya, sampai ada yang mendapat sepersepuluhnya. 
+</div>
+</div>
+<hr />
+## 3. <a onclick="sdiv('d3');">Amalan Yang Pertama Dihisab di Hari Kiamat</a>
+<div id="d3" style="display:none">
+<h3> Hadits Imam Tirmidzi	No.378 : </h3>
+<div class="ar"> 
+عَنْ حُرَيْثِ بْنِ قَبِيصَةَ قَالَ قَدِمْتُ الْمَدِينَةَ فَقُلْتُ اللَّهُمَّ يَسِّرْ لِي جَلِيسًا صَالِحًا قَالَ فَجَلَسْتُ إِلَى أَبِي هُرَيْرَةَ فَقُلْتُ إِنِّي سَأَلْتُ اللَّهَ أَنْ يَرْزُقَنِي جَلِيسًا صَالِحًا فَحَدِّثْنِي بِحَدِيثٍ سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَعَلَّ اللَّهَ أَنْ يَنْفَعَنِي بِهِ فَقَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ الْعَبْدُ يَوْمَ الْقِيَامَةِ مِنْ عَمَلِهِ صَلَاتُهُ فَإِنْ صَلُحَتْ فَقَدْ أَفْلَحَ وَأَنْجَحَ وَإِنْ فَسَدَتْ فَقَدْ خَابَ وَخَسِرَ فَإِنْ انْتَقَصَ مِنْ فَرِيضَتِهِ شَيْءٌ قَالَ الرَّبُّ عَزَّ وَجَلَّ انْظُرُوا هَلْ لِعَبْدِي مِنْ تَطَوُّعٍ فَيُكَمَّلَ بِهَا مَا انْتَقَصَ مِنْ الْفَرِيضَةِ ثُمَّ يَكُونُ سَائِرُ عَمَلِهِ عَلَى ذَلِكَ
+</div>
+<div class="id">
+dari Huraits bin Qabishah ia berkata; "Aku datang ke Madinah, lalu aku berdo`a, "Ya Allah, mudahkanlah aku untuk mendapat teman shalih." Huraits bin Qabishah berkata; "Lalu aku berteman dengan Abu Hurairah, aku kemudian berkata kepadanya, "Sesungguhnya aku telah memintah kepada Allah agar memberiku rizki seorang teman yang shalih, maka bacakanlah kepadaku hadits yang pernah engkau dengar dari Rasulullah shallallahu 'alaihi wasallam, semoga dengannya Allah memberiku manfaat." Maka Abu Hurairah pun berkata; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada hari kiamat pertama kali yang akan Allah hisab atas amalan seorang hamba adalah shalatnya, jika shalatnya baik maka ia akan beruntung dan selamat, jika shalatnya rusak maka ia akan rugi dan tidak beruntung. Jika pada amalan fardlunya ada yang kurang maka Rabb 'azza wajalla berfirman: "Periksalah, apakah hamba-Ku mempunyai ibadah sunnah yang bisa menyempurnakan ibadah wajibnya yang kurang?" lalu setiap amal akan diperlakukan seperti itu.
+</div>
+</div>
+<hr />
+
+
