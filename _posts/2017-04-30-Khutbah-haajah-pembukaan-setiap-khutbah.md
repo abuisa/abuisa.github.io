@@ -5,6 +5,7 @@ header: Khutbah Haajah - Pembukaan Setiap Khutbah
 categories: Agama
 ---
 
+<!--Original Date is : 2019-04-30-->
 <div class="rr">
 <h2>
 خطبة الحاجة

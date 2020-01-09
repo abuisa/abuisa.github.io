@@ -4,7 +4,7 @@ description: Hadits-Hadits Pilihan
 header: Hadits-Hadits Pilihan 
 categories: Agama
 ---
-## 1. <a onclick="sdiv('d1');">Perkara seorang mukmin semuanya baik</a>
+### 1. <a onclick="sdiv('d1');">Perkara seorang mukmin semuanya baik</a>
 <div id="d1" style="display:none">
 <h3> Hadits Imam	Muslim	No.5318, Imam Ahmad	No.18171,18175,22798	:</h3>
 <div class="ar">
@@ -15,7 +15,7 @@ Telah menceritakan kepada kami Haddab bin Khalid Al Azdi dan Syaiban bin Farrukh
 </div>
 </div>
 <hr />
-## 2. <a onclick="sdiv('d2');">Tingkatan Pahala Sholat</a>
+### 2. <a onclick="sdiv('d2');">Tingkatan Pahala Sholat</a>
 <div id="d2" style="display:none">
 <h3> Hadits Imam	Ahmad	No.14974 </h3>
 <div class="ar"> 
@@ -27,7 +27,7 @@ Telah menceritakan kepada kami Harun bin Ma'ruf dan Suroij dan Mu'awiyah bin 'Am
 </div>
 </div>
 <hr />
-## 3. <a onclick="sdiv('d3');">Amalan Yang Pertama Dihisab di Hari Kiamat</a>
+### 3. <a onclick="sdiv('d3');">Amalan Yang Pertama Dihisab di Hari Kiamat</a>
 <div id="d3" style="display:none">
 <h3> Hadits Imam Tirmidzi	No.378 : </h3>
 <div class="ar"> 
@@ -38,5 +38,31 @@ dari Huraits bin Qabishah ia berkata; "Aku datang ke Madinah, lalu aku berdo`a, 
 </div>
 </div>
 <hr />
+
+### 4. <a onclick="sdiv('d4');">Menghormati yang Tua Mengasihi yang Muda</a>
+<div id="d4" style="display:none">
+<h3> Hadits Imam Tirmidzi No.1842, 1843, 1844 : </h3>
+<div class="ar"> 
+
+عَنْ عَمْرِو بْنِ شُعَيْبٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ شَرَفَ كَبِيرِنَاحَدَّثَنَا هَنَّادٌ حَدَّثَنَا عَبْدَةُ عَنْ مُحَمَّدِ بْنِ إِسْحَقَ نَحْوَهُ إِلَّا أَنَّهُ قَالَ وَيَعْرِفْ حَقَّ كَبِيرِنَا
+</div>
+<div class="id">
+Dari Amr bin Syu'aib dari bapaknya dari kakeknya, ia berkata; bersabda: "Tidak termasuk golongan kami, orang yang tidak mengasihi anak-anak kecil dan tidak pula menghormati para orang tua kami." Telah menceritakan kepada kami Hannad, telah menceritakan kepada kami Abdah dari Muhammad bin Ishaq semisalnya. Hanya saja, ia menyebutkan; "Dan (tidak pula) mengetahui hak para orang tua kami."
+</div>
+</div>
+<hr />
+
+<!--### 5. <a onclick="sdiv('d?');"> ... judul ... </a>-->
+<!--<div id="d?" style="display:none">-->
+<!--<h3> Hadits Imam  : </h3>-->
+<!--<div class="ar"> -->
+<!--.....-->
+<!--</div>-->
+<!--<div class="id">-->
+<!--...-->
+<!--</div>-->
+<!--</div>-->
+<!--<hr />-->
+
 
 

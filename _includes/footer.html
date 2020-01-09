@@ -1,4 +1,11 @@
-<footer><span>@2019 -  <a href="{{ site.url }}/">IkhwanElyas</a> | <a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> </span> | <a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+<footer>
+{% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+	<span>© {{ currentyear }}</span> 
+	<span>
+		<a href="{{ site.url }}/">IkhwanElyas</a> | 
+		<a href="https://github.com/abuisa/abuisa.github.io" target="_blank">github</a> | 
+		<a href="https://abuisa.github.io/qweb/" target="_blank">AyatPilihan</a>
+	</span> 
 </footer>
 
 
