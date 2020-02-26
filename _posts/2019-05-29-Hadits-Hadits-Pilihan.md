@@ -114,6 +114,22 @@ Dari Abu Hurairah dari Nabi Shallallahu'alaihiwasallam, beliau bersabda, "Barang
 </div>
 <hr />
 
+### 8. <a onclick="sdiv('d?');"> Sebaik2nya Orang Salah adalah yang Bertaubat </a>
+<div id="d?" style="display:none">
+<h4> Hadits Imam  : Tirmidzi No.2423</h4>
+<div class="ar"> 
+			
+حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ حَدَّثَنَا عَلِيُّ بْنُ مَسْعَدَةَ الْبَاهِلِيُّ حَدَّثَنَا قَتَادَةُ عَنْ أَنَسٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ كُلُّ ابْنِ آدَمَ خَطَّاءٌ وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَقَالَ أَبُو عِيسَى هَذَا حَدِيثٌ غَرِيبٌ لَا نَعْرِفُهُ إِلَّا مِنْ حَدِيثِ عَلِيِّ بْنِ مَسْعَدَةَ عَنْ قَتَادَةَ
+
+</div>
+<div class="id">
+Telah menceritakan kepada kami Ahmad bin Mani' telah menceritakan kepada kami Zaid bin Hubab telah menceritakan kepada kami Ali bin Mas'adah Al Bahili telah menceritakan kepada kami Qatadah dari Anas nabi Shallallahu 'alaihi wa Salam bersabda: "Semua anak cucu Adam banyak salah dan sebaik-baik orang yang bersalah adalah mereka yang bertaubat." Berkata Abu Isa: Hadits ini gharib, kami hanya mengetahuinya dari hadits Ali bin Mas'adah dari Qatadah.
+
+</div>
+</div>
+<hr />
+
+
 <!--### 5. <a onclick="sdiv('d?');"> ... judul ... </a>-->
 <!--<div id="d?" style="display:none">-->
 <!--<h4> Hadits Imam  : </h4>-->
