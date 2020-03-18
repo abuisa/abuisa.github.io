@@ -31,7 +31,7 @@ layout: default
 
     {% endfor %} 
 -->
-	{% for post in site.posts limit:12 %}
+	{% for post in site.posts limit:8 %}
 
 	  <li class="post">
 	  	<h3><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}.html">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h3>
@@ -45,3 +45,6 @@ layout: default
 
 </ul>
 
+<br />
+Other Post --> <a href="categories.html" title="tes....">Archive All Posts</a> ...
+<br />

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Links
-description: Links
-header: Links
+description: Links Collections
+header: Links Collections
 ---
 
 ## Link Collections 

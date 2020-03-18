@@ -114,8 +114,8 @@ Dari Abu Hurairah dari Nabi Shallallahu'alaihiwasallam, beliau bersabda, "Barang
 </div>
 <hr />
 
-### 8. <a onclick="sdiv('d?');"> Sebaik2nya Orang Salah adalah yang Bertaubat </a>
-<div id="d?" style="display:none">
+### 8. <a onclick="sdiv('d8');"> Sebaik2nya Orang Salah adalah yang Bertaubat </a>
+<div id="d8" style="display:none">
 <h4> Hadits Imam  : Tirmidzi No.2423</h4>
 <div class="ar"> 
 			

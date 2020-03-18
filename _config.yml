@@ -15,8 +15,8 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 12
-paginate_path: /page:num/
+#paginate: 12
+#paginate_path: /page:num/
 #port: 9005
 # Default values
 defaults:
@@ -30,7 +30,7 @@ defaults:
 # Plugins
 #gems:
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
 
